@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:52:13.669Z",
+  "lastUpdated": "2026-09-19T11:52:36.220Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -63,65 +63,6 @@
           "tactical": 8,
           "discipline": 9,
           "coachNotes": "เซฟจังหวะ 1 ต่อ 1 ได้ดี การเปิดบอลจากหน้าประตูยังต้องพัฒนาระยะทาง"
-        }
-      ]
-    },
-    {
-      "id": "tr-02",
-      "date": "2026-09-06",
-      "time": "16:30 - 18:30",
-      "ageGroup": "U-12",
-      "theme": "Build-up from the Back & Breaking the Line (การเซ็ตบอลจากแดนหลัง)",
-      "drills": [
-        "Dynamic Warm-up & Ball Mastery (15 นาที)",
-        "Passing Pattern: Y-Shape and Triangle 1-2 Combination (20 นาที)",
-        "GK + Back 4 vs Front 3 High Press Solution (25 นาที)",
-        "Conditioned Game: 6v6 with End Zones passing target (30 นาที)",
-        "Stretching & Coach Summary (10 นาที)"
-      ],
-      "pitch": "สนามหญ้าเทียม",
-      "weather": "แดดจัด",
-      "intensity": "Moderate",
-      "headCoach": "โค้ชกฤษณะ ธนะโสภณ",
-      "assistantCoaches": [
-        "โค้ชเอกพล ศรีสวัสดิ์"
-      ],
-      "playerScores": [
-        {
-          "playerId": "p1",
-          "attendance": "มาซ้อม",
-          "effort": 9,
-          "technical": 9,
-          "tactical": 8,
-          "discipline": 10,
-          "coachNotes": "ลงมาเชื่อมบอลกับเซนเตอร์แบ็กได้ฉลาดมาก ช่วยคลายเพรสซิ่งได้ดี"
-        },
-        {
-          "playerId": "p2",
-          "attendance": "มาสาย",
-          "effort": 7,
-          "technical": 8,
-          "tactical": 7,
-          "discipline": 7,
-          "coachNotes": "มาสาย 15 นาทีเนื่องจากการจราจร เมื่อลงซ้อมมีความกระตือรือร้นดี"
-        },
-        {
-          "playerId": "p3",
-          "attendance": "มาซ้อม",
-          "effort": 10,
-          "technical": 8,
-          "tactical": 9,
-          "discipline": 10,
-          "coachNotes": "จ่ายบอลทะลุไลน์แรกได้อย่างแม่นยำ ใจเย็นแม้โดนคู่ต่อสู้บีบสูง"
-        },
-        {
-          "playerId": "p4",
-          "attendance": "มาซ้อม",
-          "effort": 8,
-          "technical": 8,
-          "tactical": 8,
-          "discipline": 9,
-          "coachNotes": "ใช้เท้าเล่นบอลสอดประสานกับแผงหลังได้มั่นใจขึ้นมาก"
         }
       ]
     }

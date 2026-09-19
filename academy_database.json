@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:54:21.566Z",
+  "lastUpdated": "2026-09-19T11:54:24.264Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -668,26 +668,7 @@
         "notes": "ได้รับทุนการศึกษานักกีฬาฟุตบอลตัวแทนมหาวิทยาลัย พร้อมเข้าแข่งขันกีฬามหาวิทยาลัยแห่งประเทศไทย"
       }
     ],
-    "networks": [
-      {
-        "id": "net-7",
-        "name": "สโมสรฟุตบอล บ้านบึง เอฟซี (Banbueng FC)",
-        "shortName": "Banbueng FC",
-        "type": "Pro Club",
-        "categoryThai": "สโมสรฟุตบอลอาชีพ",
-        "logoUrl": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=200&auto=format&fit=crop&q=80",
-        "location": "อำเภอบ้านบึง จังหวัดชลบุรี",
-        "contactPerson": "ผู้อำนวยการสโมสรบ้านบึง เอฟซี",
-        "contactPhone": "089-771-2345",
-        "collaborationSummary": "เวทีส่งนักเตะ U-18 และ U-20 ลงสัมผัสเกมฟุตบอลลีกอาชีพ ไทยลีก 3 โซนภาคตะวันออก เพื่อเก็บเกี่ยวประสบการณ์ก่อนก้าวสู่ลีกระดับสูง",
-        "quotaOrBenefits": "สิทธิ์ลงทะเบียนนักเตะเยาวชนในไทยลีก 3 โควตานักเตะท้องถิ่น",
-        "sentPlayersCount": 7,
-        "featuredAlumni": [
-          "นาย ภานุมาศ บุญส่ง (นักเตะเยาวชนตัวจริง T3)"
-        ],
-        "status": "Active Partnership"
-      }
-    ]
+    "networks": []
   },
   "commercial": {
     "branding": {

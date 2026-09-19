@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:53:33.137Z",
+  "lastUpdated": "2026-09-19T11:53:37.766Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -101,25 +101,6 @@
   ],
   "consultations": [],
   "calendarEvents": [
-    {
-      "id": "ev-01",
-      "title": "การฝึกซ้อมประจำวัน U-10 & U-12 (Theme: Attacking Play)",
-      "eventType": "วันซ้อม",
-      "ageGroups": [
-        "U-10",
-        "U-12"
-      ],
-      "targetAgeGroups": [
-        "U-10",
-        "U-12"
-      ],
-      "startDate": "2026-09-10",
-      "startTime": "16:30",
-      "endTime": "18:30",
-      "locationPitch": "สนามหญ้าจริง 1",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "เน้นการจบสกอร์และเกมจำลอง 7v7"
-    },
     {
       "id": "ev-02",
       "title": "การฝึกซ้อมประจำวัน U-14, U-16, U-18 (Tactical Shape)",

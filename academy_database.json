@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:54:24.264Z",
+  "lastUpdated": "2026-09-19T11:54:39.933Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -623,39 +623,6 @@
       }
     ],
     "playerPathwayTrackings": [
-      {
-        "id": "ppt-1",
-        "playerId": "p1",
-        "playerName": "ด.ช. ภัทรพล เจริญสุข (น้องเบส)",
-        "currentStage": "Stage 3: Tactical Development (U-14)",
-        "targetDestination": "โรงเรียนอัสสัมชัญธนบุรี / ชลบุรี เอฟซี อคาเดมี",
-        "destinationType": "High School",
-        "status": "Sent for Trial",
-        "year": "2026",
-        "notes": "เข้ารับการทดสอบฝีเท้าเมื่อเดือนสิงหาคม 2026 ผ่านการตัดตัวรอบที่สอง ตำแหน่งมิดฟิลด์ตัวรุก"
-      },
-      {
-        "id": "ppt-2",
-        "playerId": "p3",
-        "playerName": "ด.ช. ธีรภัทร กุลทรัพย์ไพศาล (น้องกัปตัน)",
-        "currentStage": "Stage 3: Tactical Development (U-14)",
-        "targetDestination": "พัทยา ดอลฟินส์ ยูไนเต็ด / ท่าเรือ เอฟซี อคาเดมี",
-        "destinationType": "Pro Club",
-        "status": "In Development",
-        "year": "2026",
-        "notes": "โค้ชทีมพันธมิตรติดตามดูฟอร์มในรายการแข่งขันฟุตบอลเยาวชนภาคตะวันออก เน้นเพิ่มสปีดต้น"
-      },
-      {
-        "id": "ppt-3",
-        "playerId": "p5",
-        "playerName": "นาย ภานุพงศ์ ทิพย์สวัสดิ์ (น้องฟลุ๊ค)",
-        "currentStage": "Stage 4: High Performance (U-16)",
-        "targetDestination": "โรงเรียนโพธินิมิตวิทยาคม (เมืองทอง ยูไนเต็ด)",
-        "destinationType": "Partner Academy",
-        "status": "Signed Contract",
-        "year": "2025",
-        "notes": "เซ็นสัญญาร่วมโครงการพัฒนาเยาวชน รับทุนการศึกษาและที่พักเต็มรูปแบบ"
-      },
       {
         "id": "ppt-4",
         "playerId": "p7",

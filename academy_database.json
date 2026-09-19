@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:43:39.580Z",
+  "lastUpdated": "2026-09-19T11:44:00.917Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
@@ -2946,7 +2946,7 @@
           "postingFrequency": "2 คลิปต่อสัปดาห์",
           "primaryFormat": "Short Video (Reels/TikTok)",
           "colorTag": "bg-emerald-500/20 text-emerald-800 border-emerald-500/30",
-          "targetCount": 5,
+          "targetCount": 0,
           "actualCount": 4,
           "isCompleted": false,
           "checklists": [
@@ -2998,7 +2998,7 @@
           "postingFrequency": "1-2 คอนเทนต์ต่อสัปดาห์",
           "primaryFormat": "Short Video (Reels/TikTok)",
           "colorTag": "bg-blue-500/20 text-blue-800 border-blue-500/30",
-          "targetCount": 5,
+          "targetCount": 0,
           "actualCount": 3,
           "isCompleted": false,
           "checklists": [
@@ -3050,7 +3050,7 @@
           "postingFrequency": "ทุกสัปดาห์หลังแข่งขัน (วันจันทร์-อังคาร)",
           "primaryFormat": "Short Video (Reels/TikTok)",
           "colorTag": "bg-amber-500/20 text-amber-800 border-amber-500/30",
-          "targetCount": 6,
+          "targetCount": 0,
           "actualCount": 5,
           "isCompleted": false,
           "checklists": [
@@ -3103,7 +3103,7 @@
           "postingFrequency": "สัปดาห์ละ 1 ครั้ง (วันพุธ)",
           "primaryFormat": "Infographic / Article",
           "colorTag": "bg-purple-500/20 text-purple-800 border-purple-500/30",
-          "targetCount": 4,
+          "targetCount": 0,
           "actualCount": 4,
           "isCompleted": true,
           "checklists": [
@@ -3150,7 +3150,7 @@
           "postingFrequency": "2 ครั้งต่อเดือน",
           "primaryFormat": "Photo Album",
           "colorTag": "bg-rose-500/20 text-rose-800 border-rose-500/30",
-          "targetCount": 4,
+          "targetCount": 0,
           "actualCount": 2,
           "isCompleted": false,
           "checklists": [

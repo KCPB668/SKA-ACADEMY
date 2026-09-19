@@ -1,72 +1,11 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:52:36.220Z",
+  "lastUpdated": "2026-09-19T11:52:38.154Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
   "idpProfiles": {},
-  "trainingLogs": [
-    {
-      "id": "tr-01",
-      "date": "2026-09-08",
-      "time": "16:30 - 18:30",
-      "ageGroup": "U-12",
-      "theme": "Attacking Transition & Finishing in Final Third (การเปลี่ยนจากรับเป็นรุกและจบสกอร์)",
-      "drills": [
-        "Warm-up: Dynamic Mobility & SAQ Cones Drill (15 นาที)",
-        "Rondo: 5v2 Positional Keep-Away with High Press (20 นาที)",
-        "Wave Attacking 3v2 Overload with Overlapping Run (25 นาที)",
-        "Finishing Circuit: Cut-back crossing & Near-post runs (20 นาที)",
-        "Small Sided Game: 7v7 + 2 Free Players on Half Pitch (30 นาที)",
-        "Cool-down & Stretching debrief (10 นาที)"
-      ],
-      "pitch": "สนามหญ้าจริง 1",
-      "weather": "ร่มครึ้ม",
-      "intensity": "High",
-      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "assistantCoaches": [
-        "โค้ชกฤษณะ ธนะโสภณ"
-      ],
-      "playerScores": [
-        {
-          "playerId": "p1",
-          "attendance": "มาซ้อม",
-          "effort": 9,
-          "technical": 9,
-          "tactical": 9,
-          "discipline": 10,
-          "coachNotes": "จ่ายบอลจังหวะทรานซิชั่นได้เฉียบคมมาก คุมเกมแดนกลางได้อย่างมั่นใจ"
-        },
-        {
-          "playerId": "p2",
-          "attendance": "มาซ้อม",
-          "effort": 8,
-          "technical": 8,
-          "tactical": 8,
-          "discipline": 9,
-          "coachNotes": "สปีดหนีตัวประกบยอดเยี่ยม ทำประตูจากจังหวะคัตแบ็กได้ 2 ลูก"
-        },
-        {
-          "playerId": "p3",
-          "attendance": "มาซ้อม",
-          "effort": 9,
-          "technical": 8,
-          "tactical": 9,
-          "discipline": 10,
-          "coachNotes": "สั่งการแนวรับยอดเยี่ยม ตัดบอลจังหวะสวนกลับได้ 4 ครั้ง"
-        },
-        {
-          "playerId": "p4",
-          "attendance": "มาซ้อม",
-          "effort": 8,
-          "technical": 8,
-          "tactical": 8,
-          "discipline": 9,
-          "coachNotes": "เซฟจังหวะ 1 ต่อ 1 ได้ดี การเปิดบอลจากหน้าประตูยังต้องพัฒนาระยะทาง"
-        }
-      ]
-    }
-  ],
+  "trainingLogs": [],
   "monthlyFees": [],
   "transactions": [],
   "sponsors": [],

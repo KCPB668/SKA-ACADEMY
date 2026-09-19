@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:54:39.933Z",
+  "lastUpdated": "2026-09-19T11:54:40.612Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -622,19 +622,7 @@
         "color": "from-amber-400/20 to-emerald-400/10 text-amber-200 border-amber-400/40"
       }
     ],
-    "playerPathwayTrackings": [
-      {
-        "id": "ppt-4",
-        "playerId": "p7",
-        "playerName": "นาย รัชชานนท์ ชัยวัฒน์ (น้องบอมบ์)",
-        "currentStage": "Stage 4: High Performance (U-18)",
-        "targetDestination": "มหาวิทยาลัยเกษตรศาสตร์ (โควตานักกีฬา วท.บ. กีฬา)",
-        "destinationType": "University",
-        "status": "Scholarship Awarded",
-        "year": "2026",
-        "notes": "ได้รับทุนการศึกษานักกีฬาฟุตบอลตัวแทนมหาวิทยาลัย พร้อมเข้าแข่งขันกีฬามหาวิทยาลัยแห่งประเทศไทย"
-      }
-    ],
+    "playerPathwayTrackings": [],
     "networks": []
   },
   "commercial": {

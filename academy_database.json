@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:52:38.154Z",
+  "lastUpdated": "2026-09-19T11:52:48.669Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -566,123 +566,6 @@
     }
   ],
   "matchReports": [
-    {
-      "id": "match-01",
-      "date": "2026-09-06",
-      "time": "09:30",
-      "competition": "Chonburi FA Youth League 2026 (นัดที่ 8)",
-      "matchType": "League",
-      "ageGroup": "U-12",
-      "venue": "สนามเทศบาลเมืองพนัสนิคม (สนามหญ้าจริง 1)",
-      "isHome": true,
-      "opponentName": "ชลบุรี เอฟซี อคาเดมี่ (รุ่นจิ๋ว)",
-      "skaScore": 3,
-      "opponentScore": 1,
-      "result": "ชนะ",
-      "formation": "7v7 (1-2-3-1)",
-      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "manOfTheMatch": "ด.ช. ภูผา สุวรรณรัตน์ (#10)",
-      "goals": [
-        {
-          "minute": 14,
-          "scorerPlayerId": "p1",
-          "scorerName": "น้องภูผา",
-          "assistPlayerId": "p3",
-          "assistName": "น้องมาร์คัส",
-          "type": "Open Play"
-        },
-        {
-          "minute": 28,
-          "scorerPlayerId": "p3",
-          "scorerName": "น้องมาร์คัส",
-          "assistPlayerId": "p1",
-          "assistName": "น้องภูผา",
-          "type": "Counter Attack"
-        },
-        {
-          "minute": 42,
-          "scorerPlayerId": "p1",
-          "scorerName": "น้องภูผา",
-          "assistPlayerId": "p2",
-          "assistName": "น้องภัทร",
-          "type": "Penalty"
-        }
-      ],
-      "playerStats": [
-        {
-          "playerId": "p1",
-          "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
-          "jerseyNumber": 10,
-          "position": "กองหน้าตัวเป้า (ST)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 2,
-          "assists": 1,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 9.5,
-          "coachNotes": "จบสกอร์เฉียบคม มีภาวะผู้นำ กระชากหนีกองหลังได้ยอดเยี่ยม"
-        },
-        {
-          "playerId": "p2",
-          "playerName": "ด.ช. วรภัทร โชควิจิตร",
-          "jerseyNumber": 7,
-          "position": "ปีกขวา (RW)",
-          "isStarter": true,
-          "minutesPlayed": 45,
-          "goals": 0,
-          "assists": 1,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 8.5,
-          "coachNotes": "พาบอลขึ้นริมเส้นเร็ว สร้างโอกาสและได้จุดโทษ"
-        },
-        {
-          "playerId": "p3",
-          "playerName": "ด.ช. ธีรเดช เมธากุล",
-          "jerseyNumber": 8,
-          "position": "กองกลางตัวรุก (CAM)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 1,
-          "assists": 1,
-          "yellowCards": 1,
-          "redCards": 0,
-          "rating": 8.8,
-          "coachNotes": "คุมจังหวะเกมรุกได้ดี จ่ายบอลตัดหลังแนวรับแม่นยำ"
-        },
-        {
-          "playerId": "p4",
-          "playerName": "ด.ช. กิตติพงษ์ สัจจะ",
-          "jerseyNumber": 4,
-          "position": "เซ็นเตอร์แบ็ก (CB)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 8.2,
-          "coachNotes": "สกัดบอลจังหวะสำคัญได้ดี บัญชาการแนวรับมั่นคง"
-        },
-        {
-          "playerId": "p5",
-          "playerName": "ด.ช. ธนกร พลอยเจริญ",
-          "jerseyNumber": 1,
-          "position": "ผู้รักษาประตู (GK)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 8,
-          "coachNotes": "เซฟจังหวะ 1v1 ในครึ่งแรกได้อย่างยอดเยี่ยม ออกบอลไว"
-        }
-      ],
-      "matchSummary": "เกมเปิดได้อย่างดุดัน ทีมครองบอลแดนกลางได้ 62% การเคาน์เตอร์เพรสซิ่งทำได้ตามแผนที่ฝึกซ้อม ชนะคู่ปรับสำคัญอย่างสมศักดิ์ศรี",
-      "tacticalNotes": "จุดที่ต้องเสริม: การป้องกันลูกเตะมุมเสาแรก และการไม่ประมาทช่วง 5 นาทีสุดท้ายหลังนำห่าง"
-    },
     {
       "id": "match-02",
       "date": "2026-08-30",

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:52:51.544Z",
+  "lastUpdated": "2026-09-19T11:52:55.266Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -568,72 +568,6 @@
   "matchReports": [],
   "injuries": [],
   "drills": [
-    {
-      "id": "drill-01",
-      "title": "4v2 Rondo Quick Transition (ลิงชิงบอลสปีดสูง)",
-      "category": "Tactical & Rondo",
-      "ageGroups": [
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 15,
-      "intensity": "High",
-      "pitchArea": "10x10 หลา (กรอบสี่เหลี่ยม)",
-      "minPlayers": 6,
-      "equipment": [
-        "กรวยมาร์กเกอร์ 4 อัน",
-        "ลูกฟุตบอล 6 ลูก",
-        "เอี๊ยม 2 สี"
-      ],
-      "objective": "ฝึกการจ่ายบอลเร็ว 1-2 จังหวะ, การเปิดมุมรับบอล (Body Shape) และการเพรสซิ่งแย่งบอลเป็นคู่",
-      "instructions": [
-        "ผู้เล่นรอบนอก 4 คนครองบอล ผู้เล่นตรงกลาง 2 คนไล่บีบแย่งบอล",
-        "ผู้เล่นรอบนอกห้ามแตะบอลเกิน 2 จังหวะ (Condition 2-touch limit)",
-        "หากผู้เล่นตรงกลางตัดบอลได้ ให้สลับตัวกับผู้เล่นที่ทำบอลเสียทันที",
-        "หากจ่ายบอลทะลุช่องกลางระหว่างผู้ไล่บอล 2 คนได้สำเร็จ นับเป็น 1 แต้มพิเศษ (Split Pass)"
-      ],
-      "coachingPoints": [
-        "เปิดร่างกายรับบอลให้เห็นทั้งสนาม (Open body orientation)",
-        "ความแม่นยำและน้ำหนักของบอล (Weight of pass) ต้องพอดีเท้าเพื่อน",
-        "ผู้เล่นตรงกลางต้องสื่อสารและบีบพร้อมกัน (Compact pressing)"
-      ],
-      "variations": [
-        "บังคับเล่นจังหวะเดียว (1-Touch) เมื่อชำนาญขึ้น",
-        "ขยายขนาดกรอบเป็น 12x12 หลาสำหรับรุ่นเด็ก U-10"
-      ],
-      "diagramType": "rondo",
-      "attachments": [
-        {
-          "id": "att-drill-01-png",
-          "name": "แผนภาพตำแหน่งยืน 4v2 Rondo Tactical Board.png",
-          "type": "image",
-          "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 560\" width=\"800\" height=\"560\">\n  <defs>\n    <radialGradient id=\"turfGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\">\n      <stop offset=\"0%\" stop-color=\"%231b4332\"/>\n      <stop offset=\"100%\" stop-color=\"%23081c15\"/>\n    </radialGradient>\n    <pattern id=\"turfStripe\" width=\"80\" height=\"80\" patternUnits=\"userSpaceOnUse\">\n      <rect width=\"80\" height=\"40\" fill=\"%232d6a4f\" opacity=\"0.15\"/>\n      <rect y=\"40\" width=\"80\" height=\"40\" fill=\"%231b4332\" opacity=\"0.15\"/>\n    </pattern>\n  </defs>\n  <!-- Background Grass Pitch -->\n  <rect width=\"800\" height=\"560\" rx=\"16\" fill=\"url(%23turfGrad)\"/>\n  <rect width=\"800\" height=\"560\" rx=\"16\" fill=\"url(%23turfStripe)\"/>\n  \n  <!-- Outer Grid -->\n  <rect x=\"140\" y=\"70\" width=\"520\" height=\"420\" rx=\"12\" fill=\"%232d6a4f\" fill-opacity=\"0.35\" stroke=\"%2352b788\" stroke-width=\"3\" stroke-dasharray=\"6,6\"/>\n  \n  <!-- Cones at 4 corners -->\n  <polygon points=\"140,70 132,85 148,85\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n  <polygon points=\"660,70 652,85 668,85\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n  <polygon points=\"140,490 132,505 148,505\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n  <polygon points=\"660,490 652,505 668,505\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n\n  <!-- Center dashed line -->\n  <circle cx=\"400\" cy=\"280\" r=\"90\" fill=\"none\" stroke=\"%2352b788\" stroke-width=\"2\" stroke-opacity=\"0.5\" stroke-dasharray=\"4,4\"/>\n\n  <!-- Passing Pathways (Arrows) -->\n  <path d=\"M 400 115 L 620 280\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n  <path d=\"M 620 280 L 400 445\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n  <path d=\"M 400 445 L 180 280\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n  <path d=\"M 180 280 L 400 115\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n\n  <!-- Split Pass Option (Direct Through Center) -->\n  <path d=\"M 180 280 L 620 280\" stroke=\"%2306d6a0\" stroke-width=\"4\" stroke-dasharray=\"4,4\" fill=\"none\"/>\n\n  <!-- Outside Attacking Players (4 Blue) -->\n  <!-- Top player with ball -->\n  <circle cx=\"400\" cy=\"115\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"400\" y=\"122\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P1</text>\n  <!-- Ball near P1 -->\n  <circle cx=\"430\" cy=\"115\" r=\"10\" fill=\"%23ffffff\" stroke=\"%231e293b\" stroke-width=\"2\"/>\n  <circle cx=\"430\" cy=\"115\" r=\"4\" fill=\"%23000000\"/>\n\n  <!-- Right player -->\n  <circle cx=\"620\" cy=\"280\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"620\" y=\"287\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P2</text>\n\n  <!-- Bottom player -->\n  <circle cx=\"400\" cy=\"445\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"400\" y=\"452\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P3</text>\n\n  <!-- Left player -->\n  <circle cx=\"180\" cy=\"280\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"180\" y=\"287\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P4</text>\n\n  <!-- Inside Pressing Defenders (2 Red) -->\n  <circle cx=\"350\" cy=\"265\" r=\"22\" fill=\"%23dc2626\" stroke=\"%23fca5a5\" stroke-width=\"3\"/>\n  <text x=\"350\" y=\"272\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">D1</text>\n\n  <circle cx=\"440\" cy=\"295\" r=\"22\" fill=\"%23dc2626\" stroke=\"%23fca5a5\" stroke-width=\"3\"/>\n  <text x=\"440\" y=\"302\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">D2</text>\n\n  <!-- Labels & Pitch Annotation -->\n  <rect x=\"20\" y=\"20\" width=\"340\" height=\"36\" rx=\"8\" fill=\"%230f172a\" fill-opacity=\"0.85\"/>\n  <text x=\"35\" y=\"43\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%2338bdf8\">แผนภาพแท็กติก 4v2 Rondo Transition Drill</text>\n\n  <rect x=\"490\" y=\"505\" width=\"290\" height=\"35\" rx=\"8\" fill=\"%230f172a\" fill-opacity=\"0.85\"/>\n  <text x=\"505\" y=\"527\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%2394a3b8\">เส้นประสีเขียว = ช่อง Split Pass (+1 แต้ม)</text>\n</svg>",
-          "size": 45200,
-          "uploadedAt": "2026-09-10T10:30:00.000Z",
-          "caption": "แผนภาพแสดงตำแหน่ง P1-P4 รอบนอก และช่องจ่ายบอล Split Pass ทะลุคู่ไล่บอล D1-D2"
-        },
-        {
-          "id": "att-drill-01-video",
-          "name": "คลิปสาธิตแท็กติก Rondo Speed & Transition.mp4",
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "uploadedAt": "2026-09-11T14:15:00.000Z",
-          "caption": "ตัวอย่างการเคลื่อนที่ของลูกฟุตบอลและการบีบพื้นที่แบบ Compact Pressing"
-        },
-        {
-          "id": "att-drill-01-pdf",
-          "name": "คู่มือหลักสูตร AFC Rondo Coaching Guide.pdf",
-          "type": "pdf",
-          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-          "size": 215400,
-          "uploadedAt": "2026-09-12T09:00:00.000Z",
-          "caption": "เอกสารหลักสูตรสมาคมฯ รายละเอียดเกณฑ์การประเมิน 2-Touch Limit และ Key Factors"
-        }
-      ]
-    },
     {
       "id": "drill-02",
       "title": "1v1 Corridor Attacking & Finishing under Pressure",

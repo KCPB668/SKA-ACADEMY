@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:53:24.262Z",
+  "lastUpdated": "2026-09-19T11:53:26.900Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -273,7 +273,7 @@
       "assignee": "โค้ชชัยวัฒน์ นาคพงษ์",
       "urgency": "ด่วนมาก",
       "dueDate": "2026-09-11",
-      "completed": true
+      "completed": false
     }
   ],
   "notes": [

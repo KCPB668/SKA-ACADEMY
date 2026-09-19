@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:51:45.303Z",
+  "lastUpdated": "2026-09-19T11:51:48.435Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
@@ -558,51 +558,6 @@
   "transactions": [],
   "sponsors": [],
   "equipment": [
-    {
-      "id": "eq-02",
-      "name": "ลูกฟุตบอลฝึกซ้อม Molten F5A3400 เบอร์ 5 (U-14 ถึง U-18)",
-      "category": "ลูกฟุตบอล",
-      "quantity": 18,
-      "minThreshold": 20,
-      "unit": "ลูก",
-      "condition": "พอใช้",
-      "unitPrice": 750,
-      "location": "ห้องเก็บบอล คลับเฮาส์ 1 (ชั้นวาง A2)",
-      "responsibleCoach": "โค้ชกฤษณะ ธนะโสภณ",
-      "lastChecked": "2026-09-08",
-      "lastInspected": "2026-09-08",
-      "notes": "เหลือ 18 ลูก (ต่ำกว่าเกณฑ์ 20 ลูก) อยู่ระหว่างเสนอจัดซื้อเพิ่ม 10 ลูก"
-    },
-    {
-      "id": "eq-03",
-      "name": "กรวยฝึกซ้อม มาร์กเกอร์จานรอง (Marker Cones หลากสี 5 สี)",
-      "category": "มาร์กเกอร์และกรวย",
-      "quantity": 80,
-      "minThreshold": 50,
-      "unit": "อัน",
-      "condition": "ดีเยี่ยม",
-      "unitPrice": 25,
-      "location": "กล่องอุปกรณ์พลาสติก คลับเฮาส์ 1",
-      "responsibleCoach": "โค้ชศุภณัฐ เวชศาสตร์",
-      "lastChecked": "2026-09-05",
-      "lastInspected": "2026-09-05",
-      "notes": "ครบสี (แดง, เหลือง, น้ำเงิน, ขาว, ส้ม) สำหรับแบ่งสถานีฝึก"
-    },
-    {
-      "id": "eq-04",
-      "name": "เสื้อเอี๊ยมแบ่งทีมฝึกซ้อม ผ้าระบายอากาศ (ส้ม/เขียวนีออน/ฟ้า)",
-      "category": "เสื้อเอี๊ยม",
-      "quantity": 36,
-      "minThreshold": 30,
-      "unit": "ตัว",
-      "condition": "ดีเยี่ยม",
-      "unitPrice": 120,
-      "location": "ตู้แขวนเสื้อซ้อม คลับเฮาส์ 1",
-      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "lastChecked": "2026-09-07",
-      "lastInspected": "2026-09-07",
-      "notes": "ซักตากและพับเรียบร้อย สีละ 12 ตัว"
-    },
     {
       "id": "eq-05",
       "name": "บันไดลิงฝึกความคล่องตัว (Agility Ladder 6m / 8m)",

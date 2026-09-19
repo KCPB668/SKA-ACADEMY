@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:54:18.649Z",
+  "lastUpdated": "2026-09-19T11:54:21.566Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -669,24 +669,6 @@
       }
     ],
     "networks": [
-      {
-        "id": "net-6",
-        "name": "มหาวิทยาลัยบูรพา (Burapha University - BUU)",
-        "shortName": "Burapha Univ",
-        "type": "University",
-        "categoryThai": "มหาวิทยาลัยทุนนักกีฬา",
-        "logoUrl": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&auto=format&fit=crop&q=80",
-        "location": "อำเภอเมืองชลบุรี จังหวัดชลบุรี",
-        "contactPerson": "สำนักพัฒนานิสิตและส่งเสริมกีฬา มหาวิทยาลัยบูรพา",
-        "contactPhone": "038-102-222",
-        "collaborationSummary": "โควตานักกีฬาฟุตบอลช้างเผือก ตัวแทนทีมมหาวิทยาลัยบูรพาลงแข่งขันกีฬามหาวิทยาลัยแห่งประเทศไทยและยูลีก (University League)",
-        "quotaOrBenefits": "ยกเว้นค่าธรรมเนียมการศึกษา, เบี้ยเลี้ยงฝึกซ้อม และสิทธิ์พักหอพักนิสิต",
-        "sentPlayersCount": 4,
-        "featuredAlumni": [
-          "นาย ปริญญา สุวรรณโชติ (นิสิตคณะศึกษาศาสตร์ เอกพลศึกษา)"
-        ],
-        "status": "Active Partnership"
-      },
       {
         "id": "net-7",
         "name": "สโมสรฟุตบอล บ้านบึง เอฟซี (Banbueng FC)",

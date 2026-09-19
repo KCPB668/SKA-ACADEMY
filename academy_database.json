@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:47:49.779Z",
+  "lastUpdated": "2026-09-19T11:47:58.964Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
@@ -3355,5 +3355,6 @@
   "defaultMonthlyFee": 1000,
   "clubLogoUrl": "",
   "clubShortName": "SKA FC",
-  "academyTagline": "ศูนย์ฝึกฟุตบอลเยาวชนพนัสนิคม"
+  "academyTagline": "ศูนย์ฝึกฟุตบอลเยาวชนพนัสนิคม",
+  "note": "Rapid 1"
 }

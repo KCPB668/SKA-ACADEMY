@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:53:22.183Z",
+  "lastUpdated": "2026-09-19T11:53:24.262Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -274,22 +274,6 @@
       "urgency": "ด่วนมาก",
       "dueDate": "2026-09-11",
       "completed": true
-    },
-    {
-      "id": "td-03",
-      "task": "ส่งรายงานสรุปประเมิน IDP ของนักเตะ U-12 ให้ผู้ปกครองก่อนวันประชุม",
-      "assignee": "โค้ชกฤษณะ ธนะโสภณ",
-      "urgency": "ปานกลาง",
-      "dueDate": "2026-09-14",
-      "completed": false
-    },
-    {
-      "id": "td-04",
-      "task": "ประสานงานช่างบำรุงระบบไฟส่องสว่างสนามหญ้าเทียมเสาที่ 3",
-      "assignee": "ผู้จัดการสนาม",
-      "urgency": "ปกติ",
-      "dueDate": "2026-09-16",
-      "completed": false
     }
   ],
   "notes": [

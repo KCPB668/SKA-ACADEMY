@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:53:37.766Z",
+  "lastUpdated": "2026-09-19T11:53:41.546Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -101,44 +101,6 @@
   ],
   "consultations": [],
   "calendarEvents": [
-    {
-      "id": "ev-02",
-      "title": "การฝึกซ้อมประจำวัน U-14, U-16, U-18 (Tactical Shape)",
-      "eventType": "วันซ้อม",
-      "ageGroups": [
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "targetAgeGroups": [
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "startDate": "2026-09-11",
-      "startTime": "17:00",
-      "endTime": "19:00",
-      "locationPitch": "สนามหญ้าเทียม",
-      "coachInCharge": "โค้ชกฤษณะ ธนะโสภณ",
-      "notes": "เตรียมแท็กติกป้องกันลูกตั้งเตะ"
-    },
-    {
-      "id": "ev-03",
-      "title": "แมตช์กระชับมิตร: SKA United U-12 vs ศรีราชา ยูไนเต็ด",
-      "eventType": "แมตช์กระชับมิตร",
-      "ageGroups": [
-        "U-12"
-      ],
-      "targetAgeGroups": [
-        "U-12"
-      ],
-      "startDate": "2026-09-13",
-      "startTime": "09:00",
-      "endTime": "11:00",
-      "locationPitch": "สนามฟุตบอลเทศบาลพนัสนิคม",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "ทดสอบระบบการเล่น 9v9 ก่อนแข่งทัวร์นาเมนต์"
-    },
     {
       "id": "ev-04",
       "title": "การประชุมผู้ปกครองและสตาฟฟ์โค้ช ประจำไตรมาส 3",

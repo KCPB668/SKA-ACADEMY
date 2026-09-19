@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:54:13.952Z",
+  "lastUpdated": "2026-09-19T11:54:18.649Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -669,43 +669,6 @@
       }
     ],
     "networks": [
-      {
-        "id": "net-4",
-        "name": "โรงเรียนกีฬาจังหวัดชลบุรี (Chonburi Sports School)",
-        "shortName": "CSS Chonburi",
-        "type": "School",
-        "categoryThai": "โรงเรียนมัธยมโควตากีฬา",
-        "logoUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=200&auto=format&fit=crop&q=80",
-        "location": "อำเภอเมืองชลบุรี จังหวัดชลบุรี",
-        "contactPerson": "โค้ชผู้ฝึกสอนประจำโรงเรียนกีฬา",
-        "contactPhone": "038-278-900",
-        "collaborationSummary": "ความร่วมมือส่งนักเรียนระดับ ม.1 - ม.6 เข้าศึกษาตามหลักสูตรนักกีฬาอาชีพ อาหาร ที่พัก และการแข่งขันฟุตบอลนักเรียนกรมพลศึกษา",
-        "quotaOrBenefits": "สนับสนุนอุปกรณ์การฝึกซ้อมและเข้าร่วมการแข่งขันระดับชาติ",
-        "sentPlayersCount": 9,
-        "featuredAlumni": [
-          "ด.ช. ธีรภัทร กุลทรัพย์ไพศาล (ผ่านคัดตัวรอบแรก)"
-        ],
-        "status": "Active Partnership"
-      },
-      {
-        "id": "net-5",
-        "name": "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)",
-        "shortName": "Kasetsart Univ",
-        "type": "University",
-        "categoryThai": "มหาวิทยาลัยทุนนักกีฬา",
-        "logoUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=200&auto=format&fit=crop&q=80",
-        "location": "คณะวิทยาศาสตร์การกีฬา มหาวิทยาลัยเกษตรศาสตร์",
-        "contactPerson": "อาจารย์ผู้ประสานงานโครงการทุนผู้มีความสามารถพิเศษทางกีฬา",
-        "contactPhone": "034-351-890",
-        "collaborationSummary": "ความร่วมมือด้านวิทยาศาสตร์การกีฬา และโควตารับตรงนักเรียน ม.6 ของอคาเดมี่เข้าศึกษาต่อระดับปริญญาตรี พร้อมทุนนักกีฬาตัวแทนมหาวิทยาลัย",
-        "quotaOrBenefits": "ทุนการศึกษาปริญญาตรี 4 ปี, สิทธิ์เข้าศึกษาคณะวิทยาศาสตร์การกีฬา / บริหารธุรกิจ",
-        "sentPlayersCount": 6,
-        "featuredAlumni": [
-          "นาย รัชชานนท์ ชัยวัฒน์ (ปี 1 วท.บ. กีฬา)",
-          "นาย ศักดา พรหมมา (ศิษย์เก่ารุ่น 2)"
-        ],
-        "status": "Active Partnership"
-      },
       {
         "id": "net-6",
         "name": "มหาวิทยาลัยบูรพา (Burapha University - BUU)",

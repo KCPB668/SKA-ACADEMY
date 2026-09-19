@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:54:08.736Z",
+  "lastUpdated": "2026-09-19T11:54:10.921Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -669,24 +669,6 @@
       }
     ],
     "networks": [
-      {
-        "id": "net-2",
-        "name": "สโมสรฟุตบอล พัทยา ยูไนเต็ด (Pattaya United FC)",
-        "shortName": "Pattaya Utd",
-        "type": "Pro Club",
-        "categoryThai": "สโมสรฟุตบอลอาชีพ",
-        "logoUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=200&auto=format&fit=crop&q=80",
-        "location": "สนามกีฬาเทศบาลเมืองหนองปรือ พัทยา ชลบุรี",
-        "contactPerson": "ผู้จัดการฝ่ายกีฬาและอะคาเดมี่เยาวชน",
-        "contactPhone": "081-456-7890",
-        "collaborationSummary": "ส่งเสริมโอกาสนักเตะ U-16 - U-18 ขึ้นร่วมซ้อมกับทีมสำรอง (B-Team) และเปิดโอกาสเซ็นสัญญาอาชีพระดับไทยลีก 2",
-        "quotaOrBenefits": "โอกาสฝึกซ้อมร่วมกับทีมชุดใหญ่ช่วงปรีซีซั่น, สนับสนุนตั๋วชมการแข่งขันของนักเตะเยาวชนทั้งสโมสร",
-        "sentPlayersCount": 5,
-        "featuredAlumni": [
-          "นาย ธีรเทพ พานิชย์ (ทีมเยาวชนพัทยา U-18)"
-        ],
-        "status": "Active Partnership"
-      },
       {
         "id": "net-3",
         "name": "โรงเรียนอัสสัมชัญศรีราชา (Assumption College Sriracha)",

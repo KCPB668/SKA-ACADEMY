@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:54:10.921Z",
+  "lastUpdated": "2026-09-19T11:54:13.952Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -669,25 +669,6 @@
       }
     ],
     "networks": [
-      {
-        "id": "net-3",
-        "name": "โรงเรียนอัสสัมชัญศรีราชา (Assumption College Sriracha)",
-        "shortName": "ACS Sriracha",
-        "type": "School",
-        "categoryThai": "โรงเรียนมัธยมโควตากีฬา",
-        "logoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&auto=format&fit=crop&q=80",
-        "location": "อำเภอศรีราชา จังหวัดชลบุรี",
-        "contactPerson": "มาสเตอร์หัวหน้าแผนกส่งเสริมกีฬาและฟุตบอล",
-        "contactPhone": "038-311-055",
-        "collaborationSummary": "โควตาทุนการศึกษาระดับมัธยมศึกษา (ม.1 และ ม.4) สำหรับนักเตะเยาวชนที่มีผลการเรียนผ่านเกณฑ์และมีทักษะฟุตบอลระดับแข่งขัน",
-        "quotaOrBenefits": "ทุนเรียนฟรี 100% พร้อมหอพักนักกีฬาประจำปีละ 2-3 ทุน",
-        "sentPlayersCount": 11,
-        "featuredAlumni": [
-          "นาย ภานุพงศ์ ทิพย์สวัสดิ์ (นักเรียนทุน ม.4)",
-          "ด.ช. อานนท์ โชคดี (นักเรียน ม.1)"
-        ],
-        "status": "Active Partnership"
-      },
       {
         "id": "net-4",
         "name": "โรงเรียนกีฬาจังหวัดชลบุรี (Chonburi Sports School)",

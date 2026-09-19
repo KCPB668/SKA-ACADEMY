@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:53:44.958Z",
+  "lastUpdated": "2026-09-19T11:53:50.571Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -100,69 +100,7 @@
     }
   ],
   "consultations": [],
-  "calendarEvents": [
-    {
-      "id": "ev-06",
-      "title": "ทดสอบสมรรถภาพร่างกายประจำไตรมาส (Quarterly Fitness Test)",
-      "eventType": "ทดสอบสมรรถภาพ",
-      "ageGroups": [
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "targetAgeGroups": [
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "startDate": "2026-09-26",
-      "startTime": "08:30",
-      "endTime": "11:30",
-      "locationPitch": "สนามหญ้าจริง 1 & ลู่วิ่ง",
-      "coachInCharge": "โค้ชศุภณัฐ เวชศาสตร์",
-      "notes": "ทดสอบ Beep Test, สปรินต์ 30 เมตร, Vertical Jump และคล่องตัว T-Test"
-    },
-    {
-      "id": "ev-07",
-      "title": "กิจกรรมคัดตัวนักเตะเยาวชนช้างเผือก 2026/27 (Open Trial Day)",
-      "eventType": "กิจกรรมคัดตัว",
-      "ageGroups": [
-        "U-10",
-        "U-12",
-        "U-14"
-      ],
-      "targetAgeGroups": [
-        "U-10",
-        "U-12",
-        "U-14"
-      ],
-      "startDate": "2026-09-27",
-      "startTime": "08:30",
-      "endTime": "16:00",
-      "locationPitch": "สนามหญ้าจริง 1 และ สนามหญ้าเทียม",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "เปิดรับสมัครเยาวชนในอำเภอพนัสนิคมและใกล้เคียง ชิงทุนฝึกซ้อมฟรีตลอดปี"
-    },
-    {
-      "id": "ev-08",
-      "title": "แมตช์อุ่นเครื่อง: SKA United U-14 vs ชลบุรี เอฟซี อะคาเดมี",
-      "eventType": "แมตช์กระชับมิตร",
-      "ageGroups": [
-        "U-14"
-      ],
-      "targetAgeGroups": [
-        "U-14"
-      ],
-      "startDate": "2026-10-03",
-      "startTime": "15:30",
-      "endTime": "17:30",
-      "locationPitch": "สนามหญ้าจริง 1 สโมสร SKA FC",
-      "coachInCharge": "โค้ชกฤษณะ ธนะโสภณ",
-      "notes": "จำลองการแข่งขัน 11 คนเต็มสนาม ควบคุมการเล่นแบบ Positional Play"
-    }
-  ],
+  "calendarEvents": [],
   "todos": [],
   "notes": [],
   "driveFiles": [

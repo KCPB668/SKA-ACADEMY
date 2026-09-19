@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-19T11:42:56.037Z",
+  "lastUpdated": "2026-09-19T11:43:25.323Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
@@ -555,155 +555,8 @@
     }
   ],
   "monthlyFees": [],
-  "transactions": [
-    {
-      "id": "tx-01",
-      "date": "2026-09-01",
-      "time": "09:42",
-      "type": "income",
-      "category": "สปอนเซอร์",
-      "amount": 35000,
-      "title": "งวดเงินสนับสนุนไตรมาส 3 - SKA Logistics Group",
-      "description": "เงินสนับสนุนไตรมาส 3 - SKA Logistics Co., Ltd.",
-      "note": "เข้าบัญชีหลักสโมสร อ้างอิงสัญญาเลขที่ SKA-SP2026/01",
-      "receiptRef": "RC-202609-001",
-      "recordedBy": "ฝ่ายการเงินสโมสร",
-      "attachmentUrl": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"540\" viewBox=\"0 0 400 540\" fill=\"%23ffffff\"><rect width=\"400\" height=\"540\" fill=\"%23faf8f2\" rx=\"16\"/><rect x=\"20\" y=\"20\" width=\"360\" height=\"500\" fill=\"%23ffffff\" stroke=\"%23dbcfb1\" stroke-width=\"2\" rx=\"12\"/><circle cx=\"200\" cy=\"65\" r=\"24\" fill=\"%2310b981\"/><path d=\"M192 65l6 6 12-12\" stroke=\"%23ffffff\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"200\" y=\"115\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"%232D322B\" text-anchor=\"middle\">สลิปโอนเงินเข้าสโมสร</text><text x=\"200\" y=\"135\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%235D6456\" text-anchor=\"middle\">01 ก.ย. 2569 • 09:42 น.</text><line x1=\"40\" y1=\"155\" x2=\"360\" y2=\"155\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"185\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">ผู้โอน:</text><text x=\"50\" y=\"205\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%23111827\">SKA Logistics Co., Ltd.</text><text x=\"50\" y=\"240\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">ผู้รับโอน:</text><text x=\"50\" y=\"260\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%23111827\">SKA PHANAT NIKHOM FC</text><line x1=\"40\" y1=\"290\" x2=\"360\" y2=\"290\" stroke=\"%23e5e7eb\"/><text x=\"50\" y=\"325\" font-family=\"sans-serif\" font-size=\"13\" fill=\"%236b7280\">จำนวนเงิน</text><text x=\"350\" y=\"325\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"bold\" fill=\"%23059669\" text-anchor=\"end\">฿35,000.00</text><line x1=\"40\" y1=\"355\" x2=\"360\" y2=\"355\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"390\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">เลขอ้างอิง: RC-202609-001</text><text x=\"50\" y=\"415\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">หมวดหมู่: สปอนเซอร์และพันธมิตร</text><rect x=\"140\" y=\"445\" width=\"120\" height=\"40\" fill=\"%23f3f4f6\" rx=\"6\"/><text x=\"200\" y=\"470\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%236b7280\" text-anchor=\"middle\">VERIFIED SLIP</text></svg>",
-      "attachmentName": "slip_sponsor_q3_ska.png"
-    },
-    {
-      "id": "tx-02",
-      "date": "2026-09-05",
-      "time": "11:15",
-      "type": "income",
-      "category": "ค่าบำรุงสมาชิก",
-      "amount": 8700,
-      "title": "รวมยอดชำระค่าบำรุงสมาชิกรายเดือน ก.ย. 2026 (รอบที่ 1)",
-      "description": "ชำระค่าบำรุงสมาชิกรายเดือน ก.ย. 2026 (รอบที่ 1)",
-      "note": "นักเตะ 6 คนแรก",
-      "receiptRef": "RC-202609-002",
-      "recordedBy": "ผู้จัดการฝ่ายการเงิน SKA FC"
-    },
-    {
-      "id": "tx-03",
-      "date": "2026-09-03",
-      "time": "14:15",
-      "type": "expense",
-      "category": "จัดซื้ออุปกรณ์",
-      "amount": 7800,
-      "title": "สั่งซื้อลูกฟุตบอลแข่งขัน Molten เบอร์ 4 และ 5 เพิ่มเติม 12 ลูก",
-      "description": "สั่งซื้อลูกฟุตบอลแข่งขัน Molten เบอร์ 4 และ 5 เพิ่มเติม 12 ลูก",
-      "note": "สั่งซื้อจาก บจก. แกรนด์สปอร์ต กรุ๊ป",
-      "receiptRef": "INV-GS-88219",
-      "recordedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "attachmentUrl": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"540\" viewBox=\"0 0 400 540\" fill=\"%23ffffff\"><rect width=\"400\" height=\"540\" fill=\"%23faf8f2\" rx=\"16\"/><rect x=\"20\" y=\"20\" width=\"360\" height=\"500\" fill=\"%23ffffff\" stroke=\"%23dbcfb1\" stroke-width=\"2\" rx=\"12\"/><circle cx=\"200\" cy=\"65\" r=\"24\" fill=\"%23e11d48\"/><path d=\"M192 65l6 6 12-12\" stroke=\"%23ffffff\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"200\" y=\"115\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"%232D322B\" text-anchor=\"middle\">หลักฐานการจ่ายเงิน (Receipt)</text><text x=\"200\" y=\"135\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%235D6456\" text-anchor=\"middle\">03 ก.ย. 2569 • 14:15 น.</text><line x1=\"40\" y1=\"155\" x2=\"360\" y2=\"155\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"185\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">ร้านค้า/ผู้รับ:</text><text x=\"50\" y=\"205\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%23111827\">บจก. แกรนด์สปอร์ต กรุ๊ป</text><text x=\"50\" y=\"240\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">รายการสั่งซื้อ:</text><text x=\"50\" y=\"260\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"%23111827\">ลูกฟุตบอล Molten 12 ลูก</text><line x1=\"40\" y1=\"290\" x2=\"360\" y2=\"290\" stroke=\"%23e5e7eb\"/><text x=\"50\" y=\"325\" font-family=\"sans-serif\" font-size=\"13\" fill=\"%236b7280\">ยอดจ่ายสุทธิ</text><text x=\"350\" y=\"325\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"bold\" fill=\"%23e11d48\" text-anchor=\"end\">฿7,800.00</text><line x1=\"40\" y1=\"355\" x2=\"360\" y2=\"355\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"390\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">เลขที่ใบเสร็จ: INV-GS-88219</text><text x=\"50\" y=\"415\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">ผู้จัดซื้อ: โค้ชชัยวัฒน์ นาคพงษ์</text><rect x=\"140\" y=\"445\" width=\"120\" height=\"40\" fill=\"%23f3f4f6\" rx=\"6\"/><text x=\"200\" y=\"470\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%236b7280\" text-anchor=\"middle\">OFFICIAL RECEIPT</text></svg>",
-      "attachmentName": "receipt_molten_balls.png"
-    },
-    {
-      "id": "tx-04",
-      "date": "2026-09-04",
-      "time": "16:30",
-      "type": "expense",
-      "category": "บำรุงสนาม",
-      "amount": 4500,
-      "title": "ค่าตัดหญ้า โรยปุ๋ยบำรุง และตีเส้นสนามหญ้าจริง 1 ประจำสัปดาห์",
-      "description": "ค่าตัดหญ้า โรยปุ๋ยบำรุง และตีเส้นสนามหญ้าจริง 1 ประจำสัปดาห์",
-      "note": "ช่างวิรัช ดูแลสนาม",
-      "receiptRef": "VR-202609-04",
-      "recordedBy": "ผู้จัดการฝ่ายการเงิน SKA FC"
-    },
-    {
-      "id": "tx-05",
-      "date": "2026-09-05",
-      "time": "18:00",
-      "type": "expense",
-      "category": "เบี้ยเลี้ยงโค้ช",
-      "amount": 12000,
-      "title": "เบี้ยเลี้ยงผู้ฝึกสอนและสตาฟฟ์ ประจำสัปดาห์ที่ 1",
-      "description": "เบี้ยเลี้ยงผู้ฝึกสอนและสตาฟฟ์ ประจำสัปดาห์ที่ 1",
-      "note": "โค้ช 4 ท่าน",
-      "receiptRef": "PAY-ST-0901",
-      "recordedBy": "ฝ่ายการเงินสโมสร"
-    },
-    {
-      "id": "tx-06",
-      "date": "2026-09-07",
-      "time": "10:20",
-      "type": "income",
-      "category": "จำหน่ายชุดแข่ง/ของที่ระลึก",
-      "amount": 6400,
-      "title": "จำหน่ายชุดฝึกซ้อมและเสื้อแข่งขันใหม่ให้ผู้ปกครองนักเตะ",
-      "description": "จำหน่ายชุดฝึกซ้อมและเสื้อแข่งขันใหม่ให้ผู้ปกครองนักเตะ",
-      "note": "เสื้อ 8 ชุด + ถุงเท้า",
-      "receiptRef": "RC-202609-003",
-      "recordedBy": "สตาฟฟ์ประจำช็อปสโมสร"
-    },
-    {
-      "id": "tx-07",
-      "date": "2026-09-08",
-      "time": "13:45",
-      "type": "expense",
-      "category": "ค่าสมัครแข่งขัน",
-      "amount": 3000,
-      "title": "ค่าธรรมเนียมสมัครการแข่งขันชลบุรี จูเนียร์ แชมเปียนชิพ 2026 (รุ่น U-12)",
-      "description": "ค่าธรรมเนียมสมัครการแข่งขันชลบุรี จูเนียร์ แชมเปียนชิพ 2026 (รุ่น U-12)",
-      "note": "ทีม U-12 เข้าร่วมแข่งขัน 20 ก.ย.",
-      "receiptRef": "CB-JUN-2026",
-      "recordedBy": "โค้ชพงษ์ศักดิ์ มูลสาร"
-    }
-  ],
+  "transactions": [],
   "sponsors": [
-    {
-      "id": "sp-01",
-      "name": "SKA Logistics Co., Ltd.",
-      "tier": "Title Sponsor",
-      "logoPosition": "อกเสื้อด้านหน้า",
-      "contractValue": 240000,
-      "paidAmount": 180000,
-      "paymentTerms": "แบ่งชำระ 4 งวด (รายไตรมาส)",
-      "contractPeriod": "ม.ค. 2026 - ธ.ค. 2026",
-      "startDate": "2026-01-01",
-      "endDate": "2026-12-31",
-      "contactPerson": "คุณอรรถพล กุลวราภรณ์ (กรรมการผู้จัดการ)",
-      "phone": "038-461-299",
-      "email": "contact@skalogistics.co.th",
-      "website": "https://skalogistics.co.th",
-      "status": "Active",
-      "notes": "ผู้สนับสนุนหลักสโมสรต่อเนื่องปีที่ 3 สนับสนุนกิจกรรมพาเยาวชนทัวร์นาเมนต์ต่างจังหวัด",
-      "benefits": [
-        "โลโก้ขนาดใหญ่โดดเด่นกลางอกเสื้อแข่งขันทุกชุด (เหย้า-เยือน)",
-        "ป้ายไวนิลบิลบอร์ดขนาดยาว 12 เมตร ข้างสนามหลัก 1",
-        "โพสต์ขอบคุณและแท็กเพจสโมสรประจำทุกสัปดาห์",
-        "สิทธิ์ตั้งบูธโปรโมตสินค้าในวันเปิดสนามและแมตช์เหย้าทุกนัด",
-        "โลโก้บนแบ็กดรอปแถลงข่าวและสัมภาษณ์โค้ชหลังเกม"
-      ],
-      "deliverables": [
-        {
-          "id": "del-01",
-          "title": "สกรีนโลโก้บนอกเสื้อแข่งชุดใหม่ฤดูกาล 2026",
-          "completed": true,
-          "targetDate": "2026-01-15"
-        },
-        {
-          "id": "del-02",
-          "title": "ติดตั้งป้ายแบนเนอร์ขอบสนามหญ้าจริง 1",
-          "completed": true,
-          "targetDate": "2026-01-20"
-        },
-        {
-          "id": "del-03",
-          "title": "โพสต์คลิปไฮไลต์การฝึกซ้อมพร้อมโลโก้สปอนเซอร์ (ก.ย.)",
-          "completed": true,
-          "targetDate": "2026-09-05"
-        },
-        {
-          "id": "del-04",
-          "title": "จัดซุ้มแสดงความยินดีในงานแข่งกระชับมิตรปลายปี",
-          "completed": false,
-          "targetDate": "2026-11-25"
-        }
-      ]
-    },
     {
       "id": "sp-02",
       "name": "พนัสนิคม ออโต้คาร์ แอนด์ เซอร์วิส",
@@ -3013,10 +2866,10 @@
       ]
     },
     "revenue": {
-      "monthlyTotalTarget": 195000,
-      "monthlyActual": 181500,
+      "monthlyTotalTarget": 0,
+      "monthlyActual": 0,
       "targetMonth": "กันยายน 2569",
-      "annualTotalTarget": 2340000,
+      "annualTotalTarget": 0,
       "currencyUnit": "บาท (THB)",
       "financialSustainabilityPlan": "กระจายแหล่งรายได้ไม่ให้พึ่งพาเฉพาะค่าบำรุงรายเดือน โดยตั้งเป้าให้สัดส่วนสปอนเซอร์และสินค้า/กิจกรรมอยู่ที่ 45% ของรายได้รวมทั้งหมด เพื่อสร้างความยั่งยืนเมื่อเกิดการเปลี่ยนแปลงจำนวนผู้เรียน",
       "costControlGuidelines": [
@@ -3625,7 +3478,116 @@
     }
   },
   "feeHistoricalOverrides": {},
-  "financialHistoricalOverrides": {},
+  "financialHistoricalOverrides": {
+    "2025-10": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2025-11": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2025-12": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-01": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-02": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-03": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-04": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-05": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-06": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-07": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-08": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    },
+    "2026-09": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-09-19T11:38:24.885Z"
+    }
+  },
   "defaultMonthlyFee": 1000,
   "clubLogoUrl": "",
   "clubShortName": "SKA FC",

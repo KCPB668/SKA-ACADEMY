@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:02:21.753Z",
+  "lastUpdated": "2026-09-20T11:02:28.804Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1405,110 +1405,6 @@
     }
   ],
   "drills": [
-    {
-      "id": "drill-04",
-      "title": "Small Sided Game: 6v6 2-Touch Conditioned Match",
-      "category": "Small Sided Games (SSG)",
-      "ageGroups": [
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 30,
-      "intensity": "Maximum",
-      "pitchArea": "สนามหญ้าเทียม 35x45 หลา",
-      "minPlayers": 12,
-      "equipment": [
-        "ลูกบอล 8 ลูก",
-        "ประตูมินิ 2 หลัง หรือ ประตู 7 คน",
-        "เอี๊ยม 2 สี"
-      ],
-      "objective": "จำลองสถานการณ์แข่งขันจริงภายใต้พื้นที่จำกัด เพิ่มความเร็วในการตัดสินใจและการเคลื่อนที่แบบไร้บอล (Off-the-ball movements)",
-      "instructions": [
-        "แบ่งผู้เล่น 6v6 รวมผู้รักษาประตู",
-        "แดนกลางเล่นได้ไม่เกิน 2 จังหวะ เพื่อบังคับให้บอลเคลื่อนที่ตลอดเวลา",
-        "ในกรอบเขตโทษ อนุญาตให้เล่นได้อิสระไม่จำกัดจังหวะเพื่อจบสกอร์",
-        "ทุกครั้งที่ทำประตูได้หลังจากการต่อบอลเกิน 5 ครั้ง จะได้รับแต้มคูณสอง"
-      ],
-      "coachingPoints": [
-        "สแกนพื้นที่รอบตัวล่วงหน้าก่อนที่บอลจะมาถึงเท้า (Pre-orientation / Scanning)",
-        "สื่อสารด้วยเสียงเรียกเพื่อนอย่างต่อเนื่อง (Clear vocal communication)",
-        "เมื่อเสียบอล ทุกคนต้องปรับทรงกลับมารับทันทีภายใน 3 วินาที (3-second counter-press)"
-      ],
-      "variations": [
-        "เพิ่มผู้เล่นเป็นตัวฟรี (Joker/Neutral player) สวมเสื้อสีที่ 3 เพื่อช่วยทีมที่ครองบอล"
-      ],
-      "diagramType": "ssg-pitch"
-    },
-    {
-      "id": "drill-05",
-      "title": "SAQ Speed, Agility & Quickness with Reaction Finish",
-      "category": "Warm-up & SAQ",
-      "ageGroups": [
-        "U-8",
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 15,
-      "intensity": "High",
-      "pitchArea": "ริมเส้นหรือพื้นที่หลังประตู 15x20 หลา",
-      "minPlayers": 6,
-      "equipment": [
-        "บันไดลิง Agility Ladder 2 ชุด",
-        "กรวยเตี้ย 12 อัน",
-        "ห่วงกระโดด Speed Rings 6 วง"
-      ],
-      "objective": "เสริมสร้างความคล่องตัว การประสานงานของประสาทกล้ามเนื้อ (Neuromuscular coordination) และปฏิกิริยาตอบสนองฉับไว",
-      "instructions": [
-        "ผู้เล่นเข้าสถานีบันไดลิง: วิ่งก้าวสลับ Icky Shuffle หรือ Two-in-Two-out",
-        "กระโดดข้ามห่วงด้วยขาคู่และขาเดี่ยวรักษาความสมดุลลำตัว",
-        "สปรินต์ซิกแซกผ่านกรวยเตี้ย 5 เมตร",
-        "โค้ชตะโกนเรียกสีหรือชูมือ เพื่อให้นักเตะกลับตัวสปรินต์แตะกรวยเป้าหมายให้เร็วที่สุด"
-      ],
-      "coachingPoints": [
-        "ปลายเท้ายกสูง ไม่ลงน้ำหนักที่ส้นเท้า (Stay on balls of feet)",
-        "แกว่งแขนให้สัมพันธ์กับจังหวะก้าวขา ลำตัวโน้มไปข้างหน้าเล็กน้อย",
-        "สายตามองตรงข้างหน้า ไม่งอคอก้มมองแต่เท้า"
-      ],
-      "diagramType": "passing-diamond"
-    },
-    {
-      "id": "drill-06",
-      "title": "Passing Diamond: Combination Play & Third-Man Run",
-      "category": "Technical Passing & Receiving",
-      "ageGroups": [
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 20,
-      "intensity": "Moderate",
-      "pitchArea": "รูปเพชร 18x18 หลา",
-      "minPlayers": 8,
-      "equipment": [
-        "กรวยรูปเพชร 4 ตำแหน่ง + กรวยกลาง 1 อัน",
-        "ลูกบอล 6 ลูก"
-      ],
-      "objective": "การต่อบอลทำทางแบบ Third Man Run (ผู้เล่นคนที่สามวิ่งสอดรับบอล) และการส่งบอลทะลุช่องแบบอัตโนมัติ",
-      "instructions": [
-        "ผู้เล่นยืนประจำ 4 จุดมุมเพชรและ 1 จุดตรงกลาง",
-        "A ส่งบอลให้ B (จุดกลาง) -> B แปะบอลคืนให้ A -> A แทงบอลทะลุช่องให้ C ที่วิ่งสอดขึ้นมา (Third Man)",
-        "C รับบอลแล้วทำซ้ำกระบวนการต่อไปยังจุด D รอบรูปเพชร",
-        "ผู้เล่นวิ่งสลับตำแหน่งตามทิศทางที่ส่งบอลไป"
-      ],
-      "coachingPoints": [
-        "จังหวะวิ่งสอดต้องสัมพันธ์กับเวลาที่เพื่อนเงยหน้าพร้อมจ่ายบอล (Timing of the run)",
-        "การแปะบอลคืนต้องนิ่มนวลและวางบนเท้าข้างถนัดของเพื่อน (Soft cushion set-up pass)",
-        "เล่นด้วยความเร็วและจังหวะที่เป็นธรรมชาติเหมือนแข่งจริง"
-      ],
-      "diagramType": "passing-diamond"
-    },
     {
       "id": "drill-07",
       "title": "Rapid Shooting from Box Edges with Rebound Hunters",

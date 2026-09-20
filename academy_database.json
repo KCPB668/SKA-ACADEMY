@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:03:19.409Z",
+  "lastUpdated": "2026-09-20T11:03:21.912Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -465,121 +465,6 @@
   ],
   "transactions": [],
   "sponsors": [
-    {
-      "id": "sp-04",
-      "name": "Grand Sport Group Thailand",
-      "tier": "Equipment Partner",
-      "logoPosition": "กางเกง",
-      "contractValue": 50000,
-      "paidAmount": 50000,
-      "paymentTerms": "สนับสนุนเป็นอุปกรณ์/บริการ",
-      "contractPeriod": "ม.ค. 2026 - ธ.ค. 2026",
-      "startDate": "2026-01-01",
-      "endDate": "2026-12-31",
-      "contactPerson": "คุณวราภรณ์ สุขสมบูรณ์",
-      "phone": "02-318-3000",
-      "email": "partner@grandsport.com",
-      "website": "https://grandsport1961.com",
-      "status": "Active",
-      "notes": "ให้ส่วนลดพิเศษ 40% สำหรับการสั่งซื้อลูกบอล อุปกรณ์ซ้อม และเสื้อผ้าทีม",
-      "benefits": [
-        "โลโก้บนกางเกงแข่งขันและกระเป๋าอุปกรณ์สโมสร",
-        "สิทธิ์เป็น Official Technical Equipment Supplier",
-        "โปรโมตการใช้อุปกรณ์แบรนด์ Grand Sport ในคลิปฝึกซ้อม"
-      ],
-      "deliverables": [
-        {
-          "id": "del-11",
-          "title": "ส่งมอบชุดแข่งและเอี๊ยมซ้อมรอบเปิดเทอม",
-          "completed": true,
-          "targetDate": "2026-01-10"
-        },
-        {
-          "id": "del-12",
-          "title": "ส่งมอบลูกฟุตบอลรุ่นพิเศษ 20 ลูก",
-          "completed": true,
-          "targetDate": "2026-05-15"
-        }
-      ]
-    },
-    {
-      "id": "sp-05",
-      "name": "สยามเพียว วอเตอร์ (น้ำดื่มสะอาดชลบุรี)",
-      "tier": "Silver",
-      "logoPosition": "ป้ายไวนิลข้างสนาม",
-      "contractValue": 35000,
-      "paidAmount": 35000,
-      "paymentTerms": "สนับสนุนเป็นอุปกรณ์/บริการ",
-      "contractPeriod": "ม.ค. 2026 - ธ.ค. 2026",
-      "startDate": "2026-01-01",
-      "endDate": "2026-12-31",
-      "contactPerson": "คุณนพดล เกษมสุข",
-      "phone": "082-990-1234",
-      "status": "Active",
-      "notes": "สนับสนุนน้ำดื่มขนาด 600ml จำนวน 100 แพ็ก/เดือน ตลอดทั้งปี",
-      "benefits": [
-        "ป้ายไวนิลข้างซุ้มม้านั่งสำรองสนาม 1",
-        "สิทธิ์จำหน่ายเครื่องดื่มและน้ำแร่ในวันแข่งขัน"
-      ],
-      "deliverables": [
-        {
-          "id": "del-13",
-          "title": "ติดตั้งป้ายสปอนเซอร์น้ำดื่มข้างม้านั่งสำรอง",
-          "completed": true,
-          "targetDate": "2026-01-25"
-        },
-        {
-          "id": "del-14",
-          "title": "ส่งมอบน้ำดื่มประจำเดือน ก.ย.",
-          "completed": true,
-          "targetDate": "2026-09-01"
-        }
-      ]
-    },
-    {
-      "id": "sp-06",
-      "name": "บจก. พนัสนิคม สปอร์ตสคลินิก (Panat Sports Clinic)",
-      "tier": "Gold",
-      "logoPosition": "แขนเสื้อขวา",
-      "contractValue": 85000,
-      "paidAmount": 85000,
-      "paymentTerms": "ชำระงวดเดียวต้นปี",
-      "contractPeriod": "ต.ค. 2025 - ต.ค. 2026",
-      "startDate": "2025-10-06",
-      "endDate": "2026-10-05",
-      "contactPerson": "นพ. วรปรัชญ์ ศิริวัฒน์ภักดี",
-      "phone": "038-462-881",
-      "email": "dr.woraprach@panatclinic.com",
-      "website": "https://panatsportsclinic.com",
-      "status": "Active",
-      "notes": "ดูแลฟื้นฟูและกายภาพบำบัดนักเตะบาดเจ็บฟรี 30 เคส/ปี สัญญาเหลืออีก 17 วัน ต้องเร่งเสนอต่อสัญญา",
-      "benefits": [
-        "โลโก้บนแขนเสื้อด้านขวาของชุดแข่งทุกรุ่นอายุ",
-        "ป้ายประชาสัมพันธ์คลินิกกายภาพบริเวณห้องปฐมพยาบาล",
-        "สิทธิ์การเป็น Official Medical & Rehab Partner"
-      ],
-      "deliverables": [
-        {
-          "id": "del-15",
-          "title": "สกรีนโลโก้อาร์มแขนขวาชุดแข่งขันฤดูกาล 2025-2026",
-          "completed": true,
-          "targetDate": "2025-10-15"
-        },
-        {
-          "id": "del-16",
-          "title": "จัดอบรมการปฐมพยาบาล RICE Protocol ให้สตาฟฟ์โค้ช",
-          "completed": true,
-          "targetDate": "2026-02-10"
-        },
-        {
-          "id": "del-17",
-          "title": "สรุปรายงานสถิติการรักษาและดูแลสุขภาพนักเตะประจำปี",
-          "completed": true,
-          "targetDate": "2026-09-10"
-        }
-      ],
-      "renewalDecision": "กำลังพิจารณา"
-    },
     {
       "id": "sp-07",
       "name": "ชลบุรี ดิจิทัล มีเดีย พลัส (Chonburi Media Plus)",

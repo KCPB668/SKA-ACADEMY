@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:03:49.583Z",
+  "lastUpdated": "2026-09-20T11:03:58.840Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1645,58 +1645,6 @@
         }
       ],
       "pipeline": [
-        {
-          "id": "lead-1",
-          "companyName": "บจก. ซีพี แอ็กซ์ตร้า (สาขาชลบุรี-พนัสนิคม)",
-          "businessType": "ค้าปลีกและกระจายสินค้า",
-          "contactPerson": "คุณวิชัย สุวรรณโชติ (ผู้จัดการฝ่ายการตลาด)",
-          "contactPhone": "038-456-789",
-          "contactEmail": "wichai.s@cpextra.co.th",
-          "proposedTier": "Title Sponsor (สปอนเซอร์หลักอกเสื้อ)",
-          "offeredValue": 300000,
-          "stage": "Signed Contract",
-          "lastFollowUp": "10 มี.ค. 2026",
-          "notes": "เซ็นสัญญาสปอนเซอร์หลักอกเสื้อเรียบร้อย ฤดูกาล 2026 พร้อมโควตาน้ำดื่มและนมสำหรับนักเตะทุกสัปดาห์"
-        },
-        {
-          "id": "lead-2",
-          "companyName": "โรงพยาบาลวิภาราม อมตะนคร",
-          "businessType": "การแพทย์และสุขภาพ",
-          "contactPerson": "พญ. พิมพ์ใจ ธนกุล (ผอ. แผนกเวชศาสตร์การกีฬา)",
-          "contactPhone": "038-765-432",
-          "contactEmail": "sportsmed@vibhachon.com",
-          "proposedTier": "Official Gear & Nutrition Partner",
-          "offeredValue": 80000,
-          "stage": "Signed Contract",
-          "lastFollowUp": "12 ก.พ. 2026",
-          "notes": "สนับสนุนแพทย์ตรวจร่างกายและส่วนลดค่ารักษาพยาบาลแก่นักเตะอคาเดมี่"
-        },
-        {
-          "id": "lead-3",
-          "companyName": "ร้านพนัสนิคมสปอร์ต & กราฟิก",
-          "businessType": "เสื้อผ้ากีฬาและสกรีนเสื้อ",
-          "contactPerson": "คุณสมชาย ธนทรัพย์",
-          "contactPhone": "081-888-9999",
-          "contactEmail": "phanat.sports@gmail.com",
-          "proposedTier": "Gold Partner (สปอนเซอร์แถบเสื้อ/กางเกง)",
-          "offeredValue": 150000,
-          "stage": "Signed Contract",
-          "lastFollowUp": "15 ม.ค. 2026",
-          "notes": "ผู้สนับสนุนผลิตชุดแข่งและเสื้อซ้อมในราคาทุน พร้อมส่วนลด 30% ให้ผู้ปกครอง"
-        },
-        {
-          "id": "lead-4",
-          "companyName": "บมจ. อมตะ คอร์ปอเรชัน (CSR ชุมชน)",
-          "businessType": "นิคมอุตสาหกรรมและอสังหาริมทรัพย์",
-          "contactPerson": "คุณกิตติภพ เกษมสุข (ฝ่ายชุมชนสัมพันธ์)",
-          "contactPhone": "038-999-111",
-          "contactEmail": "csr@amata.com",
-          "proposedTier": "Gold Partner (สปอนเซอร์แถบเสื้อ/กางเกง)",
-          "offeredValue": 150000,
-          "stage": "Negotiating",
-          "lastFollowUp": "2 มี.ค. 2026",
-          "notes": "กำลังพิจารณาข้อเสนอ มอบทุนนักเตะช้างเผือก 10 ทุน และป้ายประชาสัมพันธ์ข้างสนาม"
-        },
         {
           "id": "lead-5",
           "companyName": "สยามคูโบต้า ตัวแทนพนัสนิคม",

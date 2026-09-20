@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T18:14:57.767Z",
+  "lastUpdated": "2026-09-20T18:15:05.617Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -772,7 +772,17 @@
       "linkedTrainingLogId": "tr-U-12-2026-09-20"
     }
   ],
-  "todos": [],
+  "todos": [
+    {
+      "id": "td-1789928059525",
+      "task": "แก้ไขระบบแดชบอร์ดทุก Tab",
+      "assignee": "กรรชัย ภูบังไม้",
+      "dueDate": "2026-09-20",
+      "priority": "High",
+      "completed": false,
+      "category": "Training"
+    }
+  ],
   "notes": [],
   "driveFiles": [
     {

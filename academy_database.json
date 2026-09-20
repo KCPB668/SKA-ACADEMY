@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:05:27.153Z",
+  "lastUpdated": "2026-09-20T11:05:34.364Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -473,7 +473,7 @@
       "quantity": 10,
       "estimatedCost": 6500,
       "urgency": "ด่วนมาก",
-      "status": "อนุมัติแล้ว",
+      "status": "ได้รับของแล้ว",
       "requestedDate": "2026-09-05",
       "requestedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
       "note": "สต็อกลูกเบอร์ 5 ปัจจุบันเหลือเพียง 18 ลูก ไม่เพียงพอต่อการซ้อม U-14/16/18"
@@ -484,7 +484,7 @@
       "quantity": 2,
       "estimatedCost": 1400,
       "urgency": "ปานกลาง",
-      "status": "รออนุมัติ",
+      "status": "อนุมัติแล้ว",
       "requestedDate": "2026-09-07",
       "requestedBy": "โค้ชศุภณัฐ เวชศาสตร์",
       "note": "ใช้เพิ่มสถานีฝึกสมรรถภาพทางกายสำหรับรุ่นเล็ก U-8/U-10"
@@ -495,7 +495,7 @@
       "quantity": 12,
       "estimatedCost": 2800,
       "urgency": "ด่วนมาก",
-      "status": "สั่งซื้อแล้ว",
+      "status": "ได้รับของแล้ว",
       "requestedDate": "2026-09-04",
       "requestedBy": "ฝ่ายเวชภัณฑ์สโมสร",
       "note": "เตรียมพร้อมสำหรับการแข่งขันสุดสัปดาห์"

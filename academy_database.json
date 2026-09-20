@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T10:58:08.798Z",
+  "lastUpdated": "2026-09-20T10:58:12.569Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -221,65 +221,6 @@
       "status": "รอชำระ",
       "paymentMethod": "-",
       "isCustomAmount": true
-    },
-    {
-      "id": "fee-08-02",
-      "playerId": "p2",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-04",
-      "receiptNumber": "RCP-202608-002"
-    },
-    {
-      "id": "fee-08-03",
-      "playerId": "p3",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-10",
-      "receiptNumber": "RCP-202608-003"
-    },
-    {
-      "id": "fee-08-04",
-      "playerId": "p4",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-08-05",
-      "receiptNumber": "RCP-202608-004"
-    },
-    {
-      "id": "fee-08-05",
-      "playerId": "p5",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-08",
-      "receiptNumber": "RCP-202608-005"
-    },
-    {
-      "id": "fee-08-06",
-      "playerId": "p6",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-03",
-      "receiptNumber": "RCP-202608-006"
     },
     {
       "id": "fee-08-07",

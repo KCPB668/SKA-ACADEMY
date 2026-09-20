@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:02:28.804Z",
+  "lastUpdated": "2026-09-20T11:02:31.144Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1404,74 +1404,7 @@
       }
     }
   ],
-  "drills": [
-    {
-      "id": "drill-07",
-      "title": "Rapid Shooting from Box Edges with Rebound Hunters",
-      "category": "Finishing & Shooting",
-      "ageGroups": [
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 20,
-      "intensity": "High",
-      "pitchArea": "หน้ากรอบเขตโทษ 18 หลา",
-      "minPlayers": 8,
-      "equipment": [
-        "ประตูมาตรฐานพร้อมตาข่าย",
-        "ลูกบอล 16 ลูก",
-        "มาร์กเกอร์จุดยิง 4 จุด"
-      ],
-      "objective": "ฝึกยิงประตูจังหวะเดียวจากระยะ 16-20 หลา และการวิ่งซ้ำจังหวะสอง (Rebound pursuit)",
-      "instructions": [
-        "โค้ชหรือเพื่อนจ่ายบอลเรียดมาจากด้านข้าง เข้าหาหัวกะโหลกกรอบเขตโทษ",
-        "ผู้เล่นสปีดเข้ามายิงด้วยข้างเท้าด้านในหรือหลังเท้าแบบ First-time finish",
-        "ผู้เล่นคนที่สองที่อยู่มุมตรงข้ามต้องสปรินต์เข้าซ้ำทันทีหากผู้รักษาประตูปัดบอล",
-        "สลับจุดยิงจากฝั่งซ้ายและฝั่งขวา"
-      ],
-      "coachingPoints": [
-        "หัวเข่าและลำตัวต้องคร่อมทับลูกบอลเวลาสัมผัส เพื่อไม่ให้บอลลอยเหินข้ามคาน",
-        "เล็งมุมเสาไกลหรือมุมล่างที่ผู้รักษาประตูล้มตัวรับยากที่สุด",
-        "ตามซ้ำทุกจังหวะอย่างไม่ลังเล (Never assume the keeper will catch cleanly)"
-      ],
-      "diagramType": "shooting-box"
-    },
-    {
-      "id": "drill-08",
-      "title": "Defending Compact Shape: Low Block & Counter Pressing",
-      "category": "Defending & Pressing",
-      "ageGroups": [
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 25,
-      "intensity": "High",
-      "pitchArea": "ครึ่งสนาม 30x40 หลา",
-      "minPlayers": 10,
-      "equipment": [
-        "กรวยบอกแนวระนาบ 8 อัน",
-        "ลูกบอล 8 ลูก",
-        "เอี๊ยม 2 สี"
-      ],
-      "objective": "การรักษาความกระชับของแนวรับ (Horizontal & Vertical Compactness) และการบีบดักบอลในพื้นที่อันตราย",
-      "instructions": [
-        "ทีมรับ 4 คน (กองหลัง 3 + กองกลางรับ 1) ป้องกันพื้นที่หน้ากรอบ",
-        "ทีมรุก 5 คนพยายามต่อบอลเจาะเข้าพื้นที่อันตราย",
-        "ทีมรับต้องขยับตามทิศทางบอลเป็นแผงพร้อมกัน (Shift as a unit)",
-        "เมื่อตัดบอลได้ ให้เวลา 8 วินาทีในการส่งบอลทะลุไปถึงกรวยเป้าหมายแดนหน้า"
-      ],
-      "coachingPoints": [
-        "ระยะห่างระหว่างผู้เล่นในแนวรับต้องไม่เกิน 8-10 หลา",
-        "คนใกล้บอลบีบเข้าหา (Press) คนข้างๆ ซ้อนตำแหน่ง (Cover & Balance)",
-        "อย่ารีบพุ่งเสียบ ให้ชะลอและบีบคู่แข่งออกไปทางริมเส้น"
-      ],
-      "diagramType": "ssg-pitch"
-    }
-  ],
+  "drills": [],
   "reportCards": [],
   "structure": {
     "philosophy": {

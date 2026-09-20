@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:02:31.144Z",
+  "lastUpdated": "2026-09-20T11:02:48.832Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1291,34 +1291,6 @@
   ],
   "matchReports": [],
   "injuries": [
-    {
-      "id": "inj-01",
-      "playerId": "p2",
-      "playerName": "ด.ช. วรภัทร โชควิจิตร",
-      "ageGroup": "U-12",
-      "jerseyNumber": 7,
-      "injuryDate": "2026-09-08",
-      "expectedReturnDate": "2026-09-18",
-      "bodyPart": "ข้อเท้า (Ankle)",
-      "diagnosis": "ข้อเท้าขวาพลิก เกรด 1 (Lateral Ankle Sprain Grade 1) เอ็นยึดเล็กน้อย ไม่มีกระดูกร้าว",
-      "cause": "การฝึกซ้อม (Training)",
-      "severity": "ระดับ 1 (เล็กน้อย)",
-      "status": "แยกซ้อมเบาๆ (Light Solo)",
-      "treatedBy": "นักกายภาพ ประจำ รพ.พนัสนิคม & โค้ชกฤษณะ",
-      "treatmentPlan": "ประคบเย็นตามหลัก RICE Protocol 48 ชม. แรก ทำกายภาพยืดเหยียดเอ็นร้อยหวาย และฝึกความมั่นคงบน Balance Board",
-      "rehabNotes": [
-        "08 ก.ย. 2026: บาดเจ็บจากการลงน้ำหนักผิดจังหวะระหว่างซ้อม 1v1 ปฐมพยาบาลทันที",
-        "09 ก.ย. 2026: อาการบวมลดลง 80% เดินลงน้ำหนักได้เกือบปกติ",
-        "10 ก.ย. 2026: เริ่มลงสนามแยกวิ่งจ็อกกิ้งเบาๆ และฝึก Balance Pad ไม่พบอาการเจ็บแปลบ"
-      ],
-      "rtpChecklist": {
-        "noPainAtRest": true,
-        "fullRangeOfMotion": true,
-        "strengthRestored": false,
-        "canSprintAndCut": false,
-        "ballDrillsTolerated": false
-      }
-    },
     {
       "id": "inj-02",
       "playerId": "p4",

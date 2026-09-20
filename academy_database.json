@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:00:50.245Z",
+  "lastUpdated": "2026-09-20T11:00:54.859Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2677,43 +2677,6 @@
       }
     ],
     "networks": [
-      {
-        "id": "net-5",
-        "name": "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)",
-        "shortName": "Kasetsart Univ",
-        "type": "University",
-        "categoryThai": "มหาวิทยาลัยทุนนักกีฬา",
-        "logoUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=200&auto=format&fit=crop&q=80",
-        "location": "คณะวิทยาศาสตร์การกีฬา มหาวิทยาลัยเกษตรศาสตร์",
-        "contactPerson": "อาจารย์ผู้ประสานงานโครงการทุนผู้มีความสามารถพิเศษทางกีฬา",
-        "contactPhone": "034-351-890",
-        "collaborationSummary": "ความร่วมมือด้านวิทยาศาสตร์การกีฬา และโควตารับตรงนักเรียน ม.6 ของอคาเดมี่เข้าศึกษาต่อระดับปริญญาตรี พร้อมทุนนักกีฬาตัวแทนมหาวิทยาลัย",
-        "quotaOrBenefits": "ทุนการศึกษาปริญญาตรี 4 ปี, สิทธิ์เข้าศึกษาคณะวิทยาศาสตร์การกีฬา / บริหารธุรกิจ",
-        "sentPlayersCount": 6,
-        "featuredAlumni": [
-          "นาย รัชชานนท์ ชัยวัฒน์ (ปี 1 วท.บ. กีฬา)",
-          "นาย ศักดา พรหมมา (ศิษย์เก่ารุ่น 2)"
-        ],
-        "status": "Active Partnership"
-      },
-      {
-        "id": "net-6",
-        "name": "มหาวิทยาลัยบูรพา (Burapha University - BUU)",
-        "shortName": "Burapha Univ",
-        "type": "University",
-        "categoryThai": "มหาวิทยาลัยทุนนักกีฬา",
-        "logoUrl": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&auto=format&fit=crop&q=80",
-        "location": "อำเภอเมืองชลบุรี จังหวัดชลบุรี",
-        "contactPerson": "สำนักพัฒนานิสิตและส่งเสริมกีฬา มหาวิทยาลัยบูรพา",
-        "contactPhone": "038-102-222",
-        "collaborationSummary": "โควตานักกีฬาฟุตบอลช้างเผือก ตัวแทนทีมมหาวิทยาลัยบูรพาลงแข่งขันกีฬามหาวิทยาลัยแห่งประเทศไทยและยูลีก (University League)",
-        "quotaOrBenefits": "ยกเว้นค่าธรรมเนียมการศึกษา, เบี้ยเลี้ยงฝึกซ้อม และสิทธิ์พักหอพักนิสิต",
-        "sentPlayersCount": 4,
-        "featuredAlumni": [
-          "นาย ปริญญา สุวรรณโชติ (นิสิตคณะศึกษาศาสตร์ เอกพลศึกษา)"
-        ],
-        "status": "Active Partnership"
-      },
       {
         "id": "net-7",
         "name": "สโมสรฟุตบอล บ้านบึง เอฟซี (Banbueng FC)",

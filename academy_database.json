@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:02:48.832Z",
+  "lastUpdated": "2026-09-20T11:02:51.742Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1291,63 +1291,6 @@
   ],
   "matchReports": [],
   "injuries": [
-    {
-      "id": "inj-02",
-      "playerId": "p4",
-      "playerName": "ด.ช. กิตติพงษ์ สัจจะ",
-      "ageGroup": "U-12",
-      "jerseyNumber": 4,
-      "injuryDate": "2026-08-20",
-      "expectedReturnDate": "2026-09-05",
-      "actualReturnDate": "2026-09-05",
-      "bodyPart": "แฮมสตริง (Hamstring)",
-      "diagnosis": "กล้ามเนื้อต้นขาด้านหลังตึงระดับ 1 จากการสปรินต์ไล่กวดบอล",
-      "cause": "การแข่งขัน (Match)",
-      "severity": "ระดับ 1 (เล็กน้อย)",
-      "status": "หายเป็นปกติพร้อมแข่ง 100% (Cleared)",
-      "treatedBy": "คลินิกกายภาพบำบัดพนัสนิคม",
-      "treatmentPlan": "หยุดพัก 5 วัน นวดคลายกล้ามเนื้อ ฟื้นฟูด้วยวิธี Eccentric Hamstring Strengthening (Nordic curls)",
-      "rehabNotes": [
-        "20 ส.ค. 2026: ตึงแฮมสตริงช่วงท้ายเกมอุ่นเครื่อง ถอดเปลี่ยนตัวทันที",
-        "28 ส.ค. 2026: ผ่านเกณฑ์การสปรินต์ 70% ไม่รู้สึกเจ็บ",
-        "05 ก.ย. 2026: ผ่านการทดสอบ Return to Play 100% กลับมาลงซ้อมเต็มระบบและแข่งนัดล่าสุดได้"
-      ],
-      "rtpChecklist": {
-        "noPainAtRest": true,
-        "fullRangeOfMotion": true,
-        "strengthRestored": true,
-        "canSprintAndCut": true,
-        "ballDrillsTolerated": true
-      }
-    },
-    {
-      "id": "inj-03",
-      "playerId": "p9",
-      "playerName": "ด.ช. ณภัทร ธรรมรักษ์",
-      "ageGroup": "U-14",
-      "jerseyNumber": 9,
-      "injuryDate": "2026-09-04",
-      "expectedReturnDate": "2026-09-25",
-      "bodyPart": "หัวเข่า (Knee)",
-      "diagnosis": "เข่าซ้ายฟกช้ำจากการปะทะ (Knee Contusion) มีอาการบวมด้านหน้ากระดูกสะบ้า",
-      "cause": "การแข่งขัน (Match)",
-      "severity": "ระดับ 2 (ปานกลาง)",
-      "status": "รักษาตัว (Under Treatment)",
-      "treatedBy": "แพทย์เวชศาสตร์การกีฬา รพ.ชลบุรี",
-      "treatmentPlan": "สวมสนับเข่าพยุง ทำ Ultrasound บำบัด งดการกระแทก 10 วัน ปั่นจักรยานเบาๆ เสริมกล้ามเนื้อ Quadriceps",
-      "rehabNotes": [
-        "04 ก.ย. 2026: ปะทะกับกองหลังฝั่งตรงข้าม ปฐมพยาบาลด้วย Cold pack ทันที",
-        "07 ก.ย. 2026: พบแพทย์ เอ็กซเรย์ไม่พบกระดูกหัก อาการบวมลดลง",
-        "10 ก.ย. 2026: ทำกายภาพเสริมความแข็งแรงกล้ามเนื้อรอบข้อต่อ"
-      ],
-      "rtpChecklist": {
-        "noPainAtRest": true,
-        "fullRangeOfMotion": false,
-        "strengthRestored": false,
-        "canSprintAndCut": false,
-        "ballDrillsTolerated": false
-      }
-    },
     {
       "id": "inj-04",
       "playerId": "p6",

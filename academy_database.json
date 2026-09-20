@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:03:58.840Z",
+  "lastUpdated": "2026-09-20T11:04:01.850Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1644,34 +1644,7 @@
           ]
         }
       ],
-      "pipeline": [
-        {
-          "id": "lead-5",
-          "companyName": "สยามคูโบต้า ตัวแทนพนัสนิคม",
-          "businessType": "เครื่องจักรกลการเกษตร",
-          "contactPerson": "คุณอรรถพล เจริญพาณิชย์",
-          "contactPhone": "089-123-4567",
-          "contactEmail": "kubota_phanat@hotmail.com",
-          "proposedTier": "Silver Partner (ป้ายสนาม & สื่อดิจิทัล)",
-          "offeredValue": 50000,
-          "stage": "Pitch Deck Sent",
-          "lastFollowUp": "28 ก.พ. 2026",
-          "notes": "ส่งข้อเสนอและแพ็กเกจป้ายสนามเรียบร้อย รอนัดประชุมรอบสองสัปดาห์หน้า"
-        },
-        {
-          "id": "lead-6",
-          "companyName": "คาเฟ่ อเมซอน สาขาปั๊ม ปตท. พนัสนิคม",
-          "businessType": "เครื่องดื่มและเบเกอรี่",
-          "contactPerson": "คุณลลิตา มุ่งเจริญ",
-          "contactPhone": "086-555-4321",
-          "contactEmail": "amazon.phanat@gmail.com",
-          "proposedTier": "Grassroots Community Supporter",
-          "offeredValue": 20000,
-          "stage": "Signed Contract",
-          "lastFollowUp": "20 ม.ค. 2026",
-          "notes": "สนับสนุนป้ายหน้าคลับเฮาส์ และมอบคูปองส่วนลดเครื่องดื่มให้ผู้ปกครองในวันซ้อม"
-        }
-      ]
+      "pipeline": []
     },
     "contentMarketing": {
       "brandVoiceGuideline": "เน้นพลังบวก มิตรภาพ ความทุ่มเท และการพัฒนาที่ไม่หยุดยั้ง ใช้ภาษาที่เข้าใจง่าย ให้เกียรติคู่แข่ง และโฟกัสที่การสร้างความภาคภูมิใจในตัวเด็กๆ",

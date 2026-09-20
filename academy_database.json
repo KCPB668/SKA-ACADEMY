@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:37:25.730Z",
+  "lastUpdated": "2026-09-20T11:37:31.600Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -206,7 +206,7 @@
       ],
       "pitch": "สนามหญ้าเทียม",
       "weather": "ร่มครึ้ม",
-      "intensity": "High",
+      "intensity": "Moderate",
       "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
       "assistantCoaches": [
         "โค้ชภานุพงศ์ ทิพย์มงคล"

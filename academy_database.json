@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:03:21.912Z",
+  "lastUpdated": "2026-09-20T11:03:23.463Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -464,44 +464,7 @@
     }
   ],
   "transactions": [],
-  "sponsors": [
-    {
-      "id": "sp-07",
-      "name": "ชลบุรี ดิจิทัล มีเดีย พลัส (Chonburi Media Plus)",
-      "tier": "Silver",
-      "logoPosition": "ป้ายไวนิลข้างสนาม",
-      "contractValue": 40000,
-      "paidAmount": 40000,
-      "paymentTerms": "แบ่งชำระ 2 งวด",
-      "contractPeriod": "ก.ย. 2025 - ส.ค. 2026",
-      "startDate": "2025-09-01",
-      "endDate": "2026-08-31",
-      "contactPerson": "คุณเกรียงไกร เอกเจริญชัย",
-      "phone": "081-344-9021",
-      "email": "contact@chonburimediaplus.com",
-      "status": "Pending Renewal",
-      "notes": "ช่วยถ่ายทอดสด Live สตรีมมิ่งเกมอุ่นเครื่อง 5 นัด สัญญาครบกำหนดเมื่อ 31 ส.ค. 2026 อยู่ระหว่างรอตัดสินใจต่อสัญญาใหม่",
-      "benefits": [
-        "โลโก้ในกราฟิกถ่ายทอดสด Facebook Live ทุกแมตช์เหย้า",
-        "ป้ายไวนิลข้างสนามซ้อม 1 ขนาด 4 เมตร"
-      ],
-      "deliverables": [
-        {
-          "id": "del-18",
-          "title": "ติดตั้งแบนเนอร์ข้างสนาม",
-          "completed": true,
-          "targetDate": "2025-09-10"
-        },
-        {
-          "id": "del-19",
-          "title": "ถ่ายทอดสด Live Streaming แมตช์กระชับมิตรครบ 5 นัด",
-          "completed": true,
-          "targetDate": "2026-08-20"
-        }
-      ],
-      "renewalDecision": "รอเจรจาปรับเงื่อนไข"
-    }
-  ],
+  "sponsors": [],
   "equipment": [
     {
       "id": "eq-01",

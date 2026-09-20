@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:02:59.520Z",
+  "lastUpdated": "2026-09-20T11:03:10.928Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1750,10 +1750,10 @@
       ]
     },
     "revenue": {
-      "monthlyTotalTarget": 195000,
-      "monthlyActual": 181500,
+      "monthlyTotalTarget": 0,
+      "monthlyActual": 0,
       "targetMonth": "กันยายน 2569",
-      "annualTotalTarget": 2340000,
+      "annualTotalTarget": 0,
       "currencyUnit": "บาท (THB)",
       "financialSustainabilityPlan": "กระจายแหล่งรายได้ไม่ให้พึ่งพาเฉพาะค่าบำรุงรายเดือน โดยตั้งเป้าให้สัดส่วนสปอนเซอร์และสินค้า/กิจกรรมอยู่ที่ 45% ของรายได้รวมทั้งหมด เพื่อสร้างความยั่งยืนเมื่อเกิดการเปลี่ยนแปลงจำนวนผู้เรียน",
       "costControlGuidelines": [

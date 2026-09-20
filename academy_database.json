@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:04:26.217Z",
+  "lastUpdated": "2026-09-20T11:04:29.118Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1753,7 +1753,7 @@
           "primaryFormat": "Short Video (Reels/TikTok)",
           "colorTag": "bg-blue-500/20 text-blue-800 border-blue-500/30",
           "targetCount": 0,
-          "actualCount": 3,
+          "actualCount": 0,
           "isCompleted": false,
           "checklists": [
             {

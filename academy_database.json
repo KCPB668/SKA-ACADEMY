@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:01:33.179Z",
+  "lastUpdated": "2026-09-20T11:01:35.497Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1051,16 +1051,7 @@
       "notes": "เตรียมแท็กติกป้องกันลูกตั้งเตะ"
     }
   ],
-  "todos": [
-    {
-      "id": "td-02",
-      "task": "ตรวจนับและจัดซื้อลูกบอลเบอร์ 5 เพิ่ม 10 ลูก ให้ทันสัปดาห์หน้า",
-      "assignee": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "urgency": "ด่วนมาก",
-      "dueDate": "2026-09-11",
-      "completed": true
-    }
-  ],
+  "todos": [],
   "notes": [
     {
       "id": "nt-01",

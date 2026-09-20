@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:37:34.215Z",
+  "lastUpdated": "2026-09-20T11:39:05.340Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -67,7 +67,38 @@
       "feeCondition": "กำหนดพิเศษ"
     }
   ],
-  "staff": [],
+  "staff": [
+    {
+      "id": "staff-1789904345151",
+      "name": "กรรชัย ภูบังไม้",
+      "nickname": "โค้ชอาม",
+      "category": "management",
+      "role": "หัวหน้าผู้ฝึกสอน และ ผู้อำนวยการอคาเดมี่",
+      "license": "AFC C License CHONBURI 2025",
+      "licenseLevel": "AFC C",
+      "licenseIssuingBody": "สมาคมกีฬาฟุตบอลแห่งประเทศไทยฯ / AFC",
+      "licenseExpiry": "",
+      "education": "",
+      "educationDetails": [],
+      "experienceSummary": "",
+      "workHistory": [],
+      "assignedAgeGroups": [
+        "U-12"
+      ],
+      "phone": "064-436-4181",
+      "email": "kanchai.kcpb@gmail.com",
+      "lineId": "",
+      "image": "",
+      "joinedDate": "2026-09-20",
+      "specialties": [
+        "การวางระบบทีม",
+        "การจับบอลแรก"
+      ],
+      "status": "ปฏิบัติงานเต็มเวลา (Full-time)",
+      "salaryOrStipend": 0,
+      "emergencyContact": ""
+    }
+  ],
   "idpProfiles": {
     "p-1789898922205": {
       "playerId": "p-1789898922205",

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:35:32.219Z",
+  "lastUpdated": "2026-09-20T11:36:23.087Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2194,7 +2194,25 @@
         "notes": "มีประเมินทักษะและลงทีมจำลองการแข่งขัน"
       }
     ],
-    "registrations": [],
-    "lastUpdated": "2026-09-20T10:54:35.657Z"
+    "registrations": [
+      {
+        "id": "reg-1789904182929",
+        "playerId": "p-1789899479141",
+        "playerName": "ดรูฟ จูปิเตอร์",
+        "playerNickname": "ดรูฟ",
+        "jerseyNumber": 10,
+        "ageGroup": "U-10",
+        "daysAttending": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "registeredAt": "2026-09-20T11:36:22.929Z",
+        "reasonOrNote": "โค้ชมารับ-ส่ง ที่บ้าน",
+        "transportType": "รถรับส่งสโมสร"
+      }
+    ],
+    "lastUpdated": "2026-09-20T11:36:22.929Z"
   }
 }

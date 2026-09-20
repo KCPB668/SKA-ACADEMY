@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:05:10.728Z",
+  "lastUpdated": "2026-09-20T11:05:14.596Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -466,79 +466,6 @@
   "transactions": [],
   "sponsors": [],
   "equipment": [
-    {
-      "id": "eq-05",
-      "name": "บันไดลิงฝึกความคล่องตัว (Agility Ladder 6m / 8m)",
-      "category": "อุปกรณ์ SAQ",
-      "quantity": 3,
-      "minThreshold": 4,
-      "unit": "ชุด",
-      "condition": "พอใช้",
-      "unitPrice": 690,
-      "location": "ถุงผ้าอุปกรณ์ SAQ สนาม 1",
-      "responsibleCoach": "โค้ชศุภณัฐ เวชศาสตร์",
-      "lastChecked": "2026-09-01",
-      "lastInspected": "2026-09-01",
-      "notes": "สายรัดขั้นหนึ่งมีรอยฉีกขาดเล็กน้อย แต่ยังใช้งานได้"
-    },
-    {
-      "id": "eq-06",
-      "name": "รั้วสปีดฝึกกระโดด Speed Hurdles (6 นิ้ว / 9 นิ้ว)",
-      "category": "อุปกรณ์ SAQ",
-      "quantity": 12,
-      "minThreshold": 10,
-      "unit": "อัน",
-      "condition": "ดีเยี่ยม",
-      "unitPrice": 280,
-      "location": "ถุงตาข่าย SAQ สนาม 1",
-      "responsibleCoach": "โค้ชศุภณัฐ เวชศาสตร์",
-      "lastChecked": "2026-09-02",
-      "lastInspected": "2026-09-02"
-    },
-    {
-      "id": "eq-07",
-      "name": "เสาซิกแซกฝึกความคล่องตัวพร้อมฐานสปริง (Agility Poles)",
-      "category": "อุปกรณ์ SAQ",
-      "quantity": 10,
-      "minThreshold": 12,
-      "unit": "ต้น",
-      "condition": "ชำรุดต้องเปลี่ยน",
-      "unitPrice": 350,
-      "location": "มุมเก็บเสา สนามหญ้าจริง 1",
-      "responsibleCoach": "โค้ชกฤษณะ ธนะโสภณ",
-      "lastChecked": "2026-09-06",
-      "lastInspected": "2026-09-06",
-      "notes": "ฐานสปริงหัก 2 ต้น ต้องเปลี่ยนหัวปักใหม่"
-    },
-    {
-      "id": "eq-08",
-      "name": "กระเป๋าเวชภัณฑ์ปฐมพยาบาล & สเปรย์เย็น (First-Aid Kit)",
-      "category": "ปฐมพยาบาล",
-      "quantity": 2,
-      "minThreshold": 2,
-      "unit": "ชุด",
-      "condition": "ดีเยี่ยม",
-      "unitPrice": 2200,
-      "location": "ตู้ยาปฐมพยาบาล ห้องโค้ช คลับเฮาส์ 1",
-      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "lastChecked": "2026-09-08",
-      "lastInspected": "2026-09-08",
-      "notes": "ยาและน้ำยาทำความสะอาดแผลตรวจสอบวันหมดอายุครบถ้วน สเปรย์เย็นมี 3 กระป๋อง"
-    },
-    {
-      "id": "eq-09",
-      "name": "ถุงมือผู้รักษาประตูฝึกซ้อม Reusch & Grand Sport (เบอร์ 7, 8)",
-      "category": "อุปกรณ์ประตู",
-      "quantity": 6,
-      "minThreshold": 4,
-      "unit": "คู่",
-      "condition": "ดีเยี่ยม",
-      "unitPrice": 890,
-      "location": "ตู้เก็บอุปกรณ์ผู้รักษาประตู",
-      "responsibleCoach": "โค้ชพิทักษ์ สุขเจริญ (โค้ช GK)",
-      "lastChecked": "2026-09-05",
-      "lastInspected": "2026-09-05"
-    },
     {
       "id": "eq-10",
       "name": "กระดานแท็กติกโค้ชแม่เหล็กพร้อมเบี้ย (Magnetic Tactical Board)",

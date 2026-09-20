@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:40:28.877Z",
+  "lastUpdated": "2026-09-20T11:40:33.154Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -231,7 +231,7 @@
     {
       "id": "tr-ทุกรุ่นอายุ-2026-09-21",
       "date": "2026-09-21",
-      "time": "18:0 - 19:30",
+      "time": "18:00 - 19:30",
       "ageGroup": "ทุกรุ่นอายุ",
       "theme": "All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)",
       "drills": [
@@ -240,9 +240,9 @@
         "Mixed Age Groups 5v5 World Cup Fun Tournament (45 นาที)",
         "Club Cool-down, Hydration & Team Talk (20 นาที)"
       ],
-      "pitch": "สนามหญ้าจริง 1",
+      "pitch": "สนามหญ้าเทียม",
       "weather": "เย็นสบาย",
-      "intensity": "High",
+      "intensity": "Moderate",
       "headCoach": "กรรชัย ภูบังไม้",
       "assistantCoaches": [
         "โค้ชกฤษณะ ธนะโสภณ"
@@ -731,9 +731,9 @@
         "U-18"
       ],
       "startDate": "2026-09-21",
-      "startTime": "18:0",
+      "startTime": "18:00",
       "endTime": "19:30",
-      "locationPitch": "สนามหญ้าจริง 1",
+      "locationPitch": "สนามหญ้าเทียม",
       "coachInCharge": "กรรชัย ภูบังไม้",
       "notes": "หัวข้อ: All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)\nผู้เข้าร่วม: 3/3 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-09-21"

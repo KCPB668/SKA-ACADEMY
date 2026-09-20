@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:02:51.742Z",
+  "lastUpdated": "2026-09-20T11:02:56.393Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -992,18 +992,6 @@
   ],
   "consultations": [
     {
-      "id": "cs-01",
-      "playerId": "p1",
-      "date": "2026-09-04",
-      "type": "Player & Parent",
-      "coachName": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "footballProgress": "ทักษะการเล่นเป็นผู้นำแดนกลางก้าวหน้ามาก จ่ายบอลได้เปรียบสม่ำเสมอ แนะนำให้กล้าสับไกยิงแถวสองเพิ่มขึ้น",
-      "academicAndLifestyle": "เกรดเฉลี่ย 3.65 แบ่งเวลาทำการบ้านก่อนมาซ้อมได้ดี คุณพ่อให้การสนับสนุนสม่ำเสมอ",
-      "mentalAndMindset": "มุ่งมั่นสูงมาก แต่อาจกดดันตัวเองเมื่อทีมเสียประตู แนะนำการผ่อนคลายและสร้างพลังบวกให้เพื่อนร่วมทีม",
-      "mutualAgreements": "ตกลงฝึกซ้อมพิเศษยิงเท้าซ้ายสัปดาห์ละ 2 ครั้ง และปรับเวลานอนไม่เกิน 21:30 น.",
-      "nextFollowUpDate": "2026-10-05"
-    },
-    {
       "id": "cs-02",
       "playerId": "p2",
       "date": "2026-09-02",
@@ -1290,35 +1278,7 @@
     }
   ],
   "matchReports": [],
-  "injuries": [
-    {
-      "id": "inj-04",
-      "playerId": "p6",
-      "playerName": "ด.ช. รชต วงศ์สวรรค์",
-      "ageGroup": "U-10",
-      "jerseyNumber": 11,
-      "injuryDate": "2026-09-02",
-      "expectedReturnDate": "2026-09-14",
-      "bodyPart": "กล้ามเนื้อน่อง (Calf)",
-      "diagnosis": "ตะคริวรุนแรงและกล้ามเนื้อน่องล้าสะสม (Calf Strain)",
-      "cause": "การฝึกซ้อม (Training)",
-      "severity": "ระดับ 1 (เล็กน้อย)",
-      "status": "ซ้อมร่วมทีมบางส่วน (Partial Team)",
-      "treatedBy": "โค้ชกฤษณะ ธนะโสภณ",
-      "treatmentPlan": "ดื่มน้ำเกลือแร่สม่ำเสมอ ประคบอุ่นและโฟมโรลเลอร์ (Foam Rolling) วันละ 15 นาที",
-      "rehabNotes": [
-        "02 ก.ย. 2026: ตะคริวขึ้นช่วงท้ายซ้อม ให้พักฟื้นและปรับตารางน้ำดื่ม",
-        "08 ก.ย. 2026: ร่วมซ้อมฝึกส่งบอลเบาๆ ได้ แต่ยังงดซ้อมแข่งความเร็วสูง"
-      ],
-      "rtpChecklist": {
-        "noPainAtRest": true,
-        "fullRangeOfMotion": true,
-        "strengthRestored": true,
-        "canSprintAndCut": false,
-        "ballDrillsTolerated": true
-      }
-    }
-  ],
+  "injuries": [],
   "drills": [],
   "reportCards": [],
   "structure": {

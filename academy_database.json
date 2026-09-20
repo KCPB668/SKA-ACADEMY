@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T10:43:13.504Z",
+  "lastUpdated": "2026-09-20T10:43:19.212Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4392,7 +4392,7 @@
         "dayKey": "friday",
         "dayNameThai": "วันศุกร์",
         "date": "2026-09-18",
-        "isTrainingDay": true,
+        "isTrainingDay": false,
         "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
         "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
@@ -4450,6 +4450,6 @@
       }
     ],
     "registrations": [],
-    "lastUpdated": "2026-09-20T10:43:10.997Z"
+    "lastUpdated": "2026-09-20T10:43:18.031Z"
   }
 }

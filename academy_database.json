@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:00:47.989Z",
+  "lastUpdated": "2026-09-20T11:00:50.245Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2677,24 +2677,6 @@
       }
     ],
     "networks": [
-      {
-        "id": "net-4",
-        "name": "โรงเรียนกีฬาจังหวัดชลบุรี (Chonburi Sports School)",
-        "shortName": "CSS Chonburi",
-        "type": "School",
-        "categoryThai": "โรงเรียนมัธยมโควตากีฬา",
-        "logoUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=200&auto=format&fit=crop&q=80",
-        "location": "อำเภอเมืองชลบุรี จังหวัดชลบุรี",
-        "contactPerson": "โค้ชผู้ฝึกสอนประจำโรงเรียนกีฬา",
-        "contactPhone": "038-278-900",
-        "collaborationSummary": "ความร่วมมือส่งนักเรียนระดับ ม.1 - ม.6 เข้าศึกษาตามหลักสูตรนักกีฬาอาชีพ อาหาร ที่พัก และการแข่งขันฟุตบอลนักเรียนกรมพลศึกษา",
-        "quotaOrBenefits": "สนับสนุนอุปกรณ์การฝึกซ้อมและเข้าร่วมการแข่งขันระดับชาติ",
-        "sentPlayersCount": 9,
-        "featuredAlumni": [
-          "ด.ช. ธีรภัทร กุลทรัพย์ไพศาล (ผ่านคัดตัวรอบแรก)"
-        ],
-        "status": "Active Partnership"
-      },
       {
         "id": "net-5",
         "name": "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)",

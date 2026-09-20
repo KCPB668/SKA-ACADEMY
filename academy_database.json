@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:04:42.202Z",
+  "lastUpdated": "2026-09-20T11:04:50.897Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1931,68 +1931,7 @@
           ]
         }
       ],
-      "ideas": [
-        {
-          "id": "idea-1",
-          "title": "คลิปสั้น: โค้ชท้าดวลยิงชนคานกับกัปตันทีม U-12 ใครแพ้วิดพื้น 50 ที",
-          "pillarId": "cp-1",
-          "platform": "TikTok",
-          "format": "Short Video (Reels/TikTok)",
-          "hookHeadline": "เมื่อโค้ชท้าเด็กยิงชนคาน... ผลลัพธ์หักมุมท้ายคลิป!",
-          "callToAction": "คอมเมนต์ทายซิว่ากัปตันหรือโค้ชจะแพ้?",
-          "scheduledDate": "2026-09-15",
-          "status": "Ready to Post",
-          "targetAudience": "เด็กเยาวชนและแฟนคลับทั่วไป"
-        },
-        {
-          "id": "idea-2",
-          "title": "รวม 10 เซฟมหัศจรรย์ของ \"น้องต้า\" ผู้รักษาประตู U-14 พร้อมคลิปวิเคราะห์",
-          "pillarId": "cp-2",
-          "platform": "Facebook",
-          "format": "Short Video (Reels/TikTok)",
-          "hookHeadline": "กำแพงเหล็กแห่งพนัสนิคม! ไม่ผ่านมือหนุ่มน้อยคนนี้แน่นอน",
-          "callToAction": "กดแชร์เป็นกำลังใจให้น้องต้า สู่แคมป์ทีมชาติ",
-          "scheduledDate": "2026-09-18",
-          "status": "Shooting",
-          "targetAudience": "ผู้ปกครองและแฟนบอลท้องถิ่น"
-        },
-        {
-          "id": "idea-3",
-          "title": "บทความการ์ด Infographic: 5 สิ่งที่ผู้ปกครองห้ามตะโกนบอกลูกข้างสนาม",
-          "pillarId": "cp-4",
-          "platform": "Facebook",
-          "format": "Infographic / Article",
-          "hookHeadline": "คำพูดข้างสนามของคุณ กำลังทำร้ายความมั่นใจของลูกหรือไม่?",
-          "callToAction": "บันทึกโพสต์นี้ไว้ และแชร์ให้ผู้ปกครองนักกีฬาอ่านกันครับ",
-          "scheduledDate": "2026-09-22",
-          "status": "Scripting",
-          "targetAudience": "ผู้ปกครองเด็ก 6-15 ปี"
-        },
-        {
-          "id": "idea-4",
-          "title": "วิดีโอสัมภาษณ์ผู้ปกครองน้องนนท์: จากเด็กขี้อาย สู่ผู้นำทีม U-10",
-          "pillarId": "cp-5",
-          "platform": "YouTube",
-          "format": "Photo Album",
-          "hookHeadline": "ฟุตบอลเปลี่ยนชีวิตลูกชายของผมได้อย่างไร",
-          "callToAction": "สนใจลงทะเบียนทดลองเรียนฟรี ทัก LINE: @skasports ได้เลย",
-          "scheduledDate": "2026-09-27",
-          "status": "Idea",
-          "targetAudience": "พ่อแม่ผู้ปกครองที่กำลังมองหาที่เรียนกีฬา"
-        },
-        {
-          "id": "idea-5",
-          "title": "แมตช์เดย์ไฮไลท์ดาร์บี้แมตช์: SKA FC vs ชลบุรี อคาเดมี U-12",
-          "pillarId": "cp-3",
-          "platform": "TikTok",
-          "format": "Short Video (Reels/TikTok)",
-          "hookHeadline": "เกมเดือดระดับ 5 ดาว! ซัดกัน 5 ประตูใน 20 นาทีสุดท้าย",
-          "callToAction": "ติดตามชมฟูลแมตช์ได้ทาง YouTube ช่อง SKA FC TV",
-          "scheduledDate": "2026-10-02",
-          "status": "Idea",
-          "targetAudience": "แฟนบอลเยาวชนทั่วประเทศ"
-        }
-      ]
+      "ideas": []
     }
   },
   "feeHistoricalOverrides": {

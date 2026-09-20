@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T10:58:14.663Z",
+  "lastUpdated": "2026-09-20T10:58:15.241Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -221,19 +221,6 @@
       "status": "รอชำระ",
       "paymentMethod": "-",
       "isCustomAmount": true
-    },
-    {
-      "id": "fee-08-10",
-      "playerId": "p10",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 600,
-      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-05",
-      "receiptNumber": "RCP-202608-009"
     },
     {
       "id": "fee-04-01",

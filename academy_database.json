@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T10:56:40.879Z",
+  "lastUpdated": "2026-09-20T10:56:43.134Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -212,20 +212,6 @@
       "amount": 1500,
       "status": "รอชำระ",
       "paymentMethod": "-"
-    },
-    {
-      "id": "fee-09-09",
-      "playerId": "p9",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 0,
-      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "-",
-      "paymentDate": "2026-09-01",
-      "receiptNumber": "SCHOLAR-202609",
-      "note": "ได้รับทุนยกเว้นค่าบำรุง 100% จากสโมสร"
     },
     {
       "id": "fee-09-10",

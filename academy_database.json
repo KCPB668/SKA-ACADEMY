@@ -1,9 +1,4078 @@
 {
   "version": "1.0.0",
+  "lastUpdated": "2026-09-20T09:37:35.320Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
   "idpProfiles": {},
   "trainingLogs": [],
-  "lastUpdated": "2026-09-20T09:37:19.225Z"
+  "monthlyFees": [
+    {
+      "id": "fee-09-01",
+      "playerId": "p1",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-09-02",
+      "receiptNumber": "RCP-202609-001",
+      "note": "ชำระค่าบำรุงตามอัตรามาตรฐาน 1,000 บาท"
+    },
+    {
+      "id": "fee-09-02",
+      "playerId": "p2",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-09-05",
+      "receiptNumber": "RCP-202609-002",
+      "note": "สลิป SCB Easy เข้าบัญชีสโมสร"
+    },
+    {
+      "id": "fee-09-03",
+      "playerId": "p3",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง 20%",
+      "isCustomAmount": true,
+      "status": "รอชำระ",
+      "paymentMethod": "-",
+      "note": "ได้รับเงื่อนไขพิเศษส่วนลดพี่น้อง 20% (เดิม 1,000 เหลือ 800 บาท)"
+    },
+    {
+      "id": "fee-09-04",
+      "playerId": "p4",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-09-06",
+      "receiptNumber": "RCP-202609-003",
+      "note": "ชำระเงินสดที่ฝ่ายธุรการสนาม"
+    },
+    {
+      "id": "fee-09-05",
+      "playerId": "p5",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 1000,
+      "status": "รอชำระ",
+      "paymentMethod": "-",
+      "note": "แจ้งเตือนผ่าน Line ผู้ปกครองแล้ว กำหนดจ่าย 10 ก.ย."
+    },
+    {
+      "id": "fee-09-06",
+      "playerId": "p6",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 500,
+      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-09-03",
+      "receiptNumber": "RCP-202609-004",
+      "note": "ได้รับทุนเยาวชนพรสวรรค์ 50% ชำระยอด 500 บาท"
+    },
+    {
+      "id": "fee-09-07",
+      "playerId": "p7",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
+      "isCustomAmount": true,
+      "status": "ค้างชำระ",
+      "paymentMethod": "-",
+      "note": "ผู้ปกครองขอผัดผ่อนถึงวันที่ 15 ก.ย."
+    },
+    {
+      "id": "fee-09-08",
+      "playerId": "p8",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-09-01",
+      "receiptNumber": "RCP-202609-005",
+      "note": "ชำระตามอัตรามาตรฐานเรียบร้อย"
+    },
+    {
+      "id": "fee-09-09",
+      "playerId": "p9",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 0,
+      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "-",
+      "paymentDate": "2026-09-01",
+      "receiptNumber": "SCHOLAR-202609",
+      "note": "ได้รับทุนยกเว้นค่าบำรุง 100% จากสโมสร"
+    },
+    {
+      "id": "fee-09-10",
+      "playerId": "p10",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 600,
+      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
+      "isCustomAmount": true,
+      "status": "รอชำระ",
+      "paymentMethod": "-",
+      "note": "โควตาตัวแทนจังหวัด ชำระในอัตราสนับสนุน 600 บาท"
+    },
+    {
+      "id": "fee-08-01",
+      "playerId": "p1",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-08-02",
+      "receiptNumber": "RCP-202608-001"
+    },
+    {
+      "id": "fee-08-02",
+      "playerId": "p2",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-08-04",
+      "receiptNumber": "RCP-202608-002"
+    },
+    {
+      "id": "fee-08-03",
+      "playerId": "p3",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง 20%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-08-10",
+      "receiptNumber": "RCP-202608-003"
+    },
+    {
+      "id": "fee-08-04",
+      "playerId": "p4",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-08-05",
+      "receiptNumber": "RCP-202608-004"
+    },
+    {
+      "id": "fee-08-05",
+      "playerId": "p5",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-08-08",
+      "receiptNumber": "RCP-202608-005"
+    },
+    {
+      "id": "fee-08-06",
+      "playerId": "p6",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 500,
+      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-08-03",
+      "receiptNumber": "RCP-202608-006"
+    },
+    {
+      "id": "fee-08-07",
+      "playerId": "p7",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-08-15",
+      "receiptNumber": "RCP-202608-007"
+    },
+    {
+      "id": "fee-08-08",
+      "playerId": "p8",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-08-01",
+      "receiptNumber": "RCP-202608-008"
+    },
+    {
+      "id": "fee-08-09",
+      "playerId": "p9",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 0,
+      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "-",
+      "paymentDate": "2026-08-01",
+      "receiptNumber": "SCHOLAR-202608"
+    },
+    {
+      "id": "fee-08-10",
+      "playerId": "p10",
+      "monthYear": "2026-08",
+      "month": "2026-08",
+      "amount": 600,
+      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-08-05",
+      "receiptNumber": "RCP-202608-009"
+    },
+    {
+      "id": "fee-07-01",
+      "playerId": "p1",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-03",
+      "receiptNumber": "RCP-202607-001"
+    },
+    {
+      "id": "fee-07-02",
+      "playerId": "p2",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-04",
+      "receiptNumber": "RCP-202607-002"
+    },
+    {
+      "id": "fee-07-03",
+      "playerId": "p3",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง 20%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-07",
+      "receiptNumber": "RCP-202607-003"
+    },
+    {
+      "id": "fee-07-04",
+      "playerId": "p4",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-07-05",
+      "receiptNumber": "RCP-202607-004"
+    },
+    {
+      "id": "fee-07-05",
+      "playerId": "p5",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-09",
+      "receiptNumber": "RCP-202607-005"
+    },
+    {
+      "id": "fee-07-06",
+      "playerId": "p6",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 500,
+      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-02",
+      "receiptNumber": "RCP-202607-006"
+    },
+    {
+      "id": "fee-07-07",
+      "playerId": "p7",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-12",
+      "receiptNumber": "RCP-202607-007"
+    },
+    {
+      "id": "fee-07-08",
+      "playerId": "p8",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-01",
+      "receiptNumber": "RCP-202607-008"
+    },
+    {
+      "id": "fee-07-09",
+      "playerId": "p9",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 0,
+      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "-",
+      "paymentDate": "2026-07-01",
+      "receiptNumber": "SCHOLAR-202607"
+    },
+    {
+      "id": "fee-07-10",
+      "playerId": "p10",
+      "monthYear": "2026-07",
+      "month": "2026-07",
+      "amount": 600,
+      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-07-06",
+      "receiptNumber": "RCP-202607-009"
+    },
+    {
+      "id": "fee-06-01",
+      "playerId": "p1",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-06-02",
+      "receiptNumber": "RCP-202606-001"
+    },
+    {
+      "id": "fee-06-02",
+      "playerId": "p2",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-06-03",
+      "receiptNumber": "RCP-202606-002"
+    },
+    {
+      "id": "fee-06-03",
+      "playerId": "p3",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง 20%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-06-05",
+      "receiptNumber": "RCP-202606-003"
+    },
+    {
+      "id": "fee-06-04",
+      "playerId": "p4",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-06-05",
+      "receiptNumber": "RCP-202606-004"
+    },
+    {
+      "id": "fee-06-05",
+      "playerId": "p5",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-06-07",
+      "receiptNumber": "RCP-202606-005"
+    },
+    {
+      "id": "fee-06-06",
+      "playerId": "p6",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 500,
+      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-06-04",
+      "receiptNumber": "RCP-202606-006"
+    },
+    {
+      "id": "fee-06-07",
+      "playerId": "p7",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-06-11",
+      "receiptNumber": "RCP-202606-007"
+    },
+    {
+      "id": "fee-06-08",
+      "playerId": "p8",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-06-02",
+      "receiptNumber": "RCP-202606-008"
+    },
+    {
+      "id": "fee-06-09",
+      "playerId": "p9",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 0,
+      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "-",
+      "paymentDate": "2026-06-01",
+      "receiptNumber": "SCHOLAR-202606"
+    },
+    {
+      "id": "fee-06-10",
+      "playerId": "p10",
+      "monthYear": "2026-06",
+      "month": "2026-06",
+      "amount": 600,
+      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-06-05",
+      "receiptNumber": "RCP-202606-009"
+    },
+    {
+      "id": "fee-05-01",
+      "playerId": "p1",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-05-02",
+      "receiptNumber": "RCP-202605-001"
+    },
+    {
+      "id": "fee-05-02",
+      "playerId": "p2",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-05-03",
+      "receiptNumber": "RCP-202605-002"
+    },
+    {
+      "id": "fee-05-03",
+      "playerId": "p3",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง 20%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-05-08",
+      "receiptNumber": "RCP-202605-003"
+    },
+    {
+      "id": "fee-05-04",
+      "playerId": "p4",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-05-05",
+      "receiptNumber": "RCP-202605-004"
+    },
+    {
+      "id": "fee-05-05",
+      "playerId": "p5",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-05-06",
+      "receiptNumber": "RCP-202605-005"
+    },
+    {
+      "id": "fee-05-06",
+      "playerId": "p6",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 500,
+      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-05-02",
+      "receiptNumber": "RCP-202605-006"
+    },
+    {
+      "id": "fee-05-07",
+      "playerId": "p7",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-05-10",
+      "receiptNumber": "RCP-202605-007"
+    },
+    {
+      "id": "fee-05-08",
+      "playerId": "p8",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-05-04",
+      "receiptNumber": "RCP-202605-008"
+    },
+    {
+      "id": "fee-05-09",
+      "playerId": "p9",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 0,
+      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "-",
+      "paymentDate": "2026-05-01",
+      "receiptNumber": "SCHOLAR-202605"
+    },
+    {
+      "id": "fee-05-10",
+      "playerId": "p10",
+      "monthYear": "2026-05",
+      "month": "2026-05",
+      "amount": 600,
+      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-05-06",
+      "receiptNumber": "RCP-202605-009"
+    },
+    {
+      "id": "fee-04-01",
+      "playerId": "p1",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-04-02",
+      "receiptNumber": "RCP-202604-001"
+    },
+    {
+      "id": "fee-04-02",
+      "playerId": "p2",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-04-04",
+      "receiptNumber": "RCP-202604-002"
+    },
+    {
+      "id": "fee-04-03",
+      "playerId": "p3",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง 20%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-04-05",
+      "receiptNumber": "RCP-202604-003"
+    },
+    {
+      "id": "fee-04-04",
+      "playerId": "p4",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-04-06",
+      "receiptNumber": "RCP-202604-004"
+    },
+    {
+      "id": "fee-04-05",
+      "playerId": "p5",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-04-08",
+      "receiptNumber": "RCP-202604-005"
+    },
+    {
+      "id": "fee-04-06",
+      "playerId": "p6",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 500,
+      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-04-03",
+      "receiptNumber": "RCP-202604-006"
+    },
+    {
+      "id": "fee-04-07",
+      "playerId": "p7",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-04-12",
+      "receiptNumber": "RCP-202604-007"
+    },
+    {
+      "id": "fee-04-08",
+      "playerId": "p8",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-04-01",
+      "receiptNumber": "RCP-202604-008"
+    },
+    {
+      "id": "fee-04-09",
+      "playerId": "p9",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 0,
+      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "-",
+      "paymentDate": "2026-04-01",
+      "receiptNumber": "SCHOLAR-202604"
+    },
+    {
+      "id": "fee-04-10",
+      "playerId": "p10",
+      "monthYear": "2026-04",
+      "month": "2026-04",
+      "amount": 600,
+      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-04-05",
+      "receiptNumber": "RCP-202604-009"
+    },
+    {
+      "id": "fee-03-01",
+      "playerId": "p1",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-03-03",
+      "receiptNumber": "RCP-202603-001"
+    },
+    {
+      "id": "fee-03-02",
+      "playerId": "p2",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-03-04",
+      "receiptNumber": "RCP-202603-002"
+    },
+    {
+      "id": "fee-03-03",
+      "playerId": "p3",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง 20%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-03-06",
+      "receiptNumber": "RCP-202603-003"
+    },
+    {
+      "id": "fee-03-04",
+      "playerId": "p4",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-03-05",
+      "receiptNumber": "RCP-202603-004"
+    },
+    {
+      "id": "fee-03-05",
+      "playerId": "p5",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-03-09",
+      "receiptNumber": "RCP-202603-005"
+    },
+    {
+      "id": "fee-03-06",
+      "playerId": "p6",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 500,
+      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-03-02",
+      "receiptNumber": "RCP-202603-006"
+    },
+    {
+      "id": "fee-03-07",
+      "playerId": "p7",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 800,
+      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "เงินสด",
+      "paymentDate": "2026-03-10",
+      "receiptNumber": "RCP-202603-007"
+    },
+    {
+      "id": "fee-03-08",
+      "playerId": "p8",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 1000,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-03-02",
+      "receiptNumber": "RCP-202603-008"
+    },
+    {
+      "id": "fee-03-09",
+      "playerId": "p9",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 0,
+      "specialCondition": "ทุนนักกีฬาช้างเผือก 100% ฟรี",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "-",
+      "paymentDate": "2026-03-01",
+      "receiptNumber": "SCHOLAR-202603"
+    },
+    {
+      "id": "fee-03-10",
+      "playerId": "p10",
+      "monthYear": "2026-03",
+      "month": "2026-03",
+      "amount": 600,
+      "specialCondition": "โควตานักเตะทีมเยาวชนจังหวัด",
+      "isCustomAmount": true,
+      "status": "จ่ายแล้ว",
+      "paymentMethod": "โอนเงิน (PromptPay)",
+      "paymentDate": "2026-03-05",
+      "receiptNumber": "RCP-202603-009"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx-01",
+      "date": "2026-09-01",
+      "time": "09:42",
+      "type": "income",
+      "category": "สปอนเซอร์",
+      "amount": 35000,
+      "title": "งวดเงินสนับสนุนไตรมาส 3 - SKA Logistics Group",
+      "description": "เงินสนับสนุนไตรมาส 3 - SKA Logistics Co., Ltd.",
+      "note": "เข้าบัญชีหลักสโมสร อ้างอิงสัญญาเลขที่ SKA-SP2026/01",
+      "receiptRef": "RC-202609-001",
+      "recordedBy": "ฝ่ายการเงินสโมสร",
+      "attachmentUrl": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"540\" viewBox=\"0 0 400 540\" fill=\"%23ffffff\"><rect width=\"400\" height=\"540\" fill=\"%23faf8f2\" rx=\"16\"/><rect x=\"20\" y=\"20\" width=\"360\" height=\"500\" fill=\"%23ffffff\" stroke=\"%23dbcfb1\" stroke-width=\"2\" rx=\"12\"/><circle cx=\"200\" cy=\"65\" r=\"24\" fill=\"%2310b981\"/><path d=\"M192 65l6 6 12-12\" stroke=\"%23ffffff\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"200\" y=\"115\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"%232D322B\" text-anchor=\"middle\">สลิปโอนเงินเข้าสโมสร</text><text x=\"200\" y=\"135\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%235D6456\" text-anchor=\"middle\">01 ก.ย. 2569 • 09:42 น.</text><line x1=\"40\" y1=\"155\" x2=\"360\" y2=\"155\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"185\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">ผู้โอน:</text><text x=\"50\" y=\"205\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%23111827\">SKA Logistics Co., Ltd.</text><text x=\"50\" y=\"240\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">ผู้รับโอน:</text><text x=\"50\" y=\"260\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%23111827\">SKA PHANAT NIKHOM FC</text><line x1=\"40\" y1=\"290\" x2=\"360\" y2=\"290\" stroke=\"%23e5e7eb\"/><text x=\"50\" y=\"325\" font-family=\"sans-serif\" font-size=\"13\" fill=\"%236b7280\">จำนวนเงิน</text><text x=\"350\" y=\"325\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"bold\" fill=\"%23059669\" text-anchor=\"end\">฿35,000.00</text><line x1=\"40\" y1=\"355\" x2=\"360\" y2=\"355\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"390\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">เลขอ้างอิง: RC-202609-001</text><text x=\"50\" y=\"415\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">หมวดหมู่: สปอนเซอร์และพันธมิตร</text><rect x=\"140\" y=\"445\" width=\"120\" height=\"40\" fill=\"%23f3f4f6\" rx=\"6\"/><text x=\"200\" y=\"470\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%236b7280\" text-anchor=\"middle\">VERIFIED SLIP</text></svg>",
+      "attachmentName": "slip_sponsor_q3_ska.png"
+    },
+    {
+      "id": "tx-02",
+      "date": "2026-09-05",
+      "time": "11:15",
+      "type": "income",
+      "category": "ค่าบำรุงสมาชิก",
+      "amount": 8700,
+      "title": "รวมยอดชำระค่าบำรุงสมาชิกรายเดือน ก.ย. 2026 (รอบที่ 1)",
+      "description": "ชำระค่าบำรุงสมาชิกรายเดือน ก.ย. 2026 (รอบที่ 1)",
+      "note": "นักเตะ 6 คนแรก",
+      "receiptRef": "RC-202609-002",
+      "recordedBy": "ผู้จัดการฝ่ายการเงิน SKA FC"
+    },
+    {
+      "id": "tx-03",
+      "date": "2026-09-03",
+      "time": "14:15",
+      "type": "expense",
+      "category": "จัดซื้ออุปกรณ์",
+      "amount": 7800,
+      "title": "สั่งซื้อลูกฟุตบอลแข่งขัน Molten เบอร์ 4 และ 5 เพิ่มเติม 12 ลูก",
+      "description": "สั่งซื้อลูกฟุตบอลแข่งขัน Molten เบอร์ 4 และ 5 เพิ่มเติม 12 ลูก",
+      "note": "สั่งซื้อจาก บจก. แกรนด์สปอร์ต กรุ๊ป",
+      "receiptRef": "INV-GS-88219",
+      "recordedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "attachmentUrl": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"540\" viewBox=\"0 0 400 540\" fill=\"%23ffffff\"><rect width=\"400\" height=\"540\" fill=\"%23faf8f2\" rx=\"16\"/><rect x=\"20\" y=\"20\" width=\"360\" height=\"500\" fill=\"%23ffffff\" stroke=\"%23dbcfb1\" stroke-width=\"2\" rx=\"12\"/><circle cx=\"200\" cy=\"65\" r=\"24\" fill=\"%23e11d48\"/><path d=\"M192 65l6 6 12-12\" stroke=\"%23ffffff\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"200\" y=\"115\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"%232D322B\" text-anchor=\"middle\">หลักฐานการจ่ายเงิน (Receipt)</text><text x=\"200\" y=\"135\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%235D6456\" text-anchor=\"middle\">03 ก.ย. 2569 • 14:15 น.</text><line x1=\"40\" y1=\"155\" x2=\"360\" y2=\"155\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"185\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">ร้านค้า/ผู้รับ:</text><text x=\"50\" y=\"205\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%23111827\">บจก. แกรนด์สปอร์ต กรุ๊ป</text><text x=\"50\" y=\"240\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%236b7280\">รายการสั่งซื้อ:</text><text x=\"50\" y=\"260\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"%23111827\">ลูกฟุตบอล Molten 12 ลูก</text><line x1=\"40\" y1=\"290\" x2=\"360\" y2=\"290\" stroke=\"%23e5e7eb\"/><text x=\"50\" y=\"325\" font-family=\"sans-serif\" font-size=\"13\" fill=\"%236b7280\">ยอดจ่ายสุทธิ</text><text x=\"350\" y=\"325\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"bold\" fill=\"%23e11d48\" text-anchor=\"end\">฿7,800.00</text><line x1=\"40\" y1=\"355\" x2=\"360\" y2=\"355\" stroke=\"%23e5e7eb\" stroke-dasharray=\"4\"/><text x=\"50\" y=\"390\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">เลขที่ใบเสร็จ: INV-GS-88219</text><text x=\"50\" y=\"415\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%239ca3af\">ผู้จัดซื้อ: โค้ชชัยวัฒน์ นาคพงษ์</text><rect x=\"140\" y=\"445\" width=\"120\" height=\"40\" fill=\"%23f3f4f6\" rx=\"6\"/><text x=\"200\" y=\"470\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%236b7280\" text-anchor=\"middle\">OFFICIAL RECEIPT</text></svg>",
+      "attachmentName": "receipt_molten_balls.png"
+    },
+    {
+      "id": "tx-04",
+      "date": "2026-09-04",
+      "time": "16:30",
+      "type": "expense",
+      "category": "บำรุงสนาม",
+      "amount": 4500,
+      "title": "ค่าตัดหญ้า โรยปุ๋ยบำรุง และตีเส้นสนามหญ้าจริง 1 ประจำสัปดาห์",
+      "description": "ค่าตัดหญ้า โรยปุ๋ยบำรุง และตีเส้นสนามหญ้าจริง 1 ประจำสัปดาห์",
+      "note": "ช่างวิรัช ดูแลสนาม",
+      "receiptRef": "VR-202609-04",
+      "recordedBy": "ผู้จัดการฝ่ายการเงิน SKA FC"
+    },
+    {
+      "id": "tx-05",
+      "date": "2026-09-05",
+      "time": "18:00",
+      "type": "expense",
+      "category": "เบี้ยเลี้ยงโค้ช",
+      "amount": 12000,
+      "title": "เบี้ยเลี้ยงผู้ฝึกสอนและสตาฟฟ์ ประจำสัปดาห์ที่ 1",
+      "description": "เบี้ยเลี้ยงผู้ฝึกสอนและสตาฟฟ์ ประจำสัปดาห์ที่ 1",
+      "note": "โค้ช 4 ท่าน",
+      "receiptRef": "PAY-ST-0901",
+      "recordedBy": "ฝ่ายการเงินสโมสร"
+    },
+    {
+      "id": "tx-06",
+      "date": "2026-09-07",
+      "time": "10:20",
+      "type": "income",
+      "category": "จำหน่ายชุดแข่ง/ของที่ระลึก",
+      "amount": 6400,
+      "title": "จำหน่ายชุดฝึกซ้อมและเสื้อแข่งขันใหม่ให้ผู้ปกครองนักเตะ",
+      "description": "จำหน่ายชุดฝึกซ้อมและเสื้อแข่งขันใหม่ให้ผู้ปกครองนักเตะ",
+      "note": "เสื้อ 8 ชุด + ถุงเท้า",
+      "receiptRef": "RC-202609-003",
+      "recordedBy": "สตาฟฟ์ประจำช็อปสโมสร"
+    },
+    {
+      "id": "tx-07",
+      "date": "2026-09-08",
+      "time": "13:45",
+      "type": "expense",
+      "category": "ค่าสมัครแข่งขัน",
+      "amount": 3000,
+      "title": "ค่าธรรมเนียมสมัครการแข่งขันชลบุรี จูเนียร์ แชมเปียนชิพ 2026 (รุ่น U-12)",
+      "description": "ค่าธรรมเนียมสมัครการแข่งขันชลบุรี จูเนียร์ แชมเปียนชิพ 2026 (รุ่น U-12)",
+      "note": "ทีม U-12 เข้าร่วมแข่งขัน 20 ก.ย.",
+      "receiptRef": "CB-JUN-2026",
+      "recordedBy": "โค้ชพงษ์ศักดิ์ มูลสาร"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "sp-01",
+      "name": "SKA Logistics Co., Ltd.",
+      "tier": "Title Sponsor",
+      "logoPosition": "อกเสื้อด้านหน้า",
+      "contractValue": 240000,
+      "paidAmount": 180000,
+      "paymentTerms": "แบ่งชำระ 4 งวด (รายไตรมาส)",
+      "contractPeriod": "ม.ค. 2026 - ธ.ค. 2026",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "contactPerson": "คุณอรรถพล กุลวราภรณ์ (กรรมการผู้จัดการ)",
+      "phone": "038-461-299",
+      "email": "contact@skalogistics.co.th",
+      "website": "https://skalogistics.co.th",
+      "status": "Active",
+      "notes": "ผู้สนับสนุนหลักสโมสรต่อเนื่องปีที่ 3 สนับสนุนกิจกรรมพาเยาวชนทัวร์นาเมนต์ต่างจังหวัด",
+      "benefits": [
+        "โลโก้ขนาดใหญ่โดดเด่นกลางอกเสื้อแข่งขันทุกชุด (เหย้า-เยือน)",
+        "ป้ายไวนิลบิลบอร์ดขนาดยาว 12 เมตร ข้างสนามหลัก 1",
+        "โพสต์ขอบคุณและแท็กเพจสโมสรประจำทุกสัปดาห์",
+        "สิทธิ์ตั้งบูธโปรโมตสินค้าในวันเปิดสนามและแมตช์เหย้าทุกนัด",
+        "โลโก้บนแบ็กดรอปแถลงข่าวและสัมภาษณ์โค้ชหลังเกม"
+      ],
+      "deliverables": [
+        {
+          "id": "del-01",
+          "title": "สกรีนโลโก้บนอกเสื้อแข่งชุดใหม่ฤดูกาล 2026",
+          "completed": true,
+          "targetDate": "2026-01-15"
+        },
+        {
+          "id": "del-02",
+          "title": "ติดตั้งป้ายแบนเนอร์ขอบสนามหญ้าจริง 1",
+          "completed": true,
+          "targetDate": "2026-01-20"
+        },
+        {
+          "id": "del-03",
+          "title": "โพสต์คลิปไฮไลต์การฝึกซ้อมพร้อมโลโก้สปอนเซอร์ (ก.ย.)",
+          "completed": true,
+          "targetDate": "2026-09-05"
+        },
+        {
+          "id": "del-04",
+          "title": "จัดซุ้มแสดงความยินดีในงานแข่งกระชับมิตรปลายปี",
+          "completed": false,
+          "targetDate": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "sp-02",
+      "name": "พนัสนิคม ออโต้คาร์ แอนด์ เซอร์วิส",
+      "tier": "Gold",
+      "logoPosition": "ด้านหลังเสื้อ",
+      "contractValue": 120000,
+      "paidAmount": 120000,
+      "paymentTerms": "ชำระงวดเดียวต้นปี",
+      "contractPeriod": "มี.ค. 2026 - มี.ค. 2027",
+      "startDate": "2026-03-01",
+      "endDate": "2027-02-28",
+      "contactPerson": "คุณธวัชชัย รุ่งโรจน์พัฒนา",
+      "phone": "081-889-4455",
+      "email": "panat.autocar@gmail.com",
+      "status": "Active",
+      "notes": "ดูแลตรวจเช็กสภาพรถตู้และรถบัสรับส่งนักเตะของสโมสรฟรีตลอดปี",
+      "benefits": [
+        "โลโก้ตำแหน่งด้านหลังเสื้อแข่งขัน เหนือเบอร์นักเตะ",
+        "ป้ายไวนิลข้างสนามซ้อมขนาด 6 เมตร",
+        "โปรโมตส่วนลดศูนย์บริการให้ผู้ปกครองนักเตะ"
+      ],
+      "deliverables": [
+        {
+          "id": "del-05",
+          "title": "สกรีนโลโก้หลังเสื้อแข่งทุกรุ่น",
+          "completed": true,
+          "targetDate": "2026-03-10"
+        },
+        {
+          "id": "del-06",
+          "title": "แจกบัตรคูปองตรวจสภาพรถแก่ผู้ปกครองสโมสร",
+          "completed": true,
+          "targetDate": "2026-04-01"
+        },
+        {
+          "id": "del-07",
+          "title": "ตรวจเช็กสภาพรถตู้ทีมก่อนออกเดินทางแข่งต่างจังหวัด",
+          "completed": false,
+          "targetDate": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "id": "sp-03",
+      "name": "สหการคอนกรีต พนัสนิคม",
+      "tier": "Silver",
+      "logoPosition": "แขนเสื้อซ้าย",
+      "contractValue": 60000,
+      "paidAmount": 30000,
+      "paymentTerms": "แบ่งชำระ 2 งวด",
+      "contractPeriod": "มิ.ย. 2026 - พ.ค. 2027",
+      "startDate": "2026-06-01",
+      "endDate": "2027-05-31",
+      "contactPerson": "คุณสุทิน เตชวานิช",
+      "phone": "089-551-7788",
+      "email": "sutin.concrete@hotmail.com",
+      "status": "Active",
+      "notes": "ช่วยสนับสนุนเทพื้นคอนกรีตบริเวณลานจอดรถและทางเข้าอคาเดมี่",
+      "benefits": [
+        "โลโก้บนแขนเสื้อด้านซ้ายของชุดแข่งขัน",
+        "ป้ายขอบสนามขนาด 4 เมตร",
+        "โลโก้บนสื่อโบรชัวร์ประชาสัมพันธ์อคาเดมี่"
+      ],
+      "deliverables": [
+        {
+          "id": "del-08",
+          "title": "ติดตั้งป้ายข้างสนามซ้อม 2",
+          "completed": true,
+          "targetDate": "2026-06-15"
+        },
+        {
+          "id": "del-09",
+          "title": "สกรีนโลโก้อาร์มแขนเสื้อแข่ง",
+          "completed": true,
+          "targetDate": "2026-06-20"
+        },
+        {
+          "id": "del-10",
+          "title": "วางโบรชัวร์และป้ายตั้งโต๊ะในห้องรับรองผู้ปกครอง",
+          "completed": true,
+          "targetDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "sp-04",
+      "name": "Grand Sport Group Thailand",
+      "tier": "Equipment Partner",
+      "logoPosition": "กางเกง",
+      "contractValue": 50000,
+      "paidAmount": 50000,
+      "paymentTerms": "สนับสนุนเป็นอุปกรณ์/บริการ",
+      "contractPeriod": "ม.ค. 2026 - ธ.ค. 2026",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "contactPerson": "คุณวราภรณ์ สุขสมบูรณ์",
+      "phone": "02-318-3000",
+      "email": "partner@grandsport.com",
+      "website": "https://grandsport1961.com",
+      "status": "Active",
+      "notes": "ให้ส่วนลดพิเศษ 40% สำหรับการสั่งซื้อลูกบอล อุปกรณ์ซ้อม และเสื้อผ้าทีม",
+      "benefits": [
+        "โลโก้บนกางเกงแข่งขันและกระเป๋าอุปกรณ์สโมสร",
+        "สิทธิ์เป็น Official Technical Equipment Supplier",
+        "โปรโมตการใช้อุปกรณ์แบรนด์ Grand Sport ในคลิปฝึกซ้อม"
+      ],
+      "deliverables": [
+        {
+          "id": "del-11",
+          "title": "ส่งมอบชุดแข่งและเอี๊ยมซ้อมรอบเปิดเทอม",
+          "completed": true,
+          "targetDate": "2026-01-10"
+        },
+        {
+          "id": "del-12",
+          "title": "ส่งมอบลูกฟุตบอลรุ่นพิเศษ 20 ลูก",
+          "completed": true,
+          "targetDate": "2026-05-15"
+        }
+      ]
+    },
+    {
+      "id": "sp-05",
+      "name": "สยามเพียว วอเตอร์ (น้ำดื่มสะอาดชลบุรี)",
+      "tier": "Silver",
+      "logoPosition": "ป้ายไวนิลข้างสนาม",
+      "contractValue": 35000,
+      "paidAmount": 35000,
+      "paymentTerms": "สนับสนุนเป็นอุปกรณ์/บริการ",
+      "contractPeriod": "ม.ค. 2026 - ธ.ค. 2026",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "contactPerson": "คุณนพดล เกษมสุข",
+      "phone": "082-990-1234",
+      "status": "Active",
+      "notes": "สนับสนุนน้ำดื่มขนาด 600ml จำนวน 100 แพ็ก/เดือน ตลอดทั้งปี",
+      "benefits": [
+        "ป้ายไวนิลข้างซุ้มม้านั่งสำรองสนาม 1",
+        "สิทธิ์จำหน่ายเครื่องดื่มและน้ำแร่ในวันแข่งขัน"
+      ],
+      "deliverables": [
+        {
+          "id": "del-13",
+          "title": "ติดตั้งป้ายสปอนเซอร์น้ำดื่มข้างม้านั่งสำรอง",
+          "completed": true,
+          "targetDate": "2026-01-25"
+        },
+        {
+          "id": "del-14",
+          "title": "ส่งมอบน้ำดื่มประจำเดือน ก.ย.",
+          "completed": true,
+          "targetDate": "2026-09-01"
+        }
+      ]
+    },
+    {
+      "id": "sp-06",
+      "name": "บจก. พนัสนิคม สปอร์ตสคลินิก (Panat Sports Clinic)",
+      "tier": "Gold",
+      "logoPosition": "แขนเสื้อขวา",
+      "contractValue": 85000,
+      "paidAmount": 85000,
+      "paymentTerms": "ชำระงวดเดียวต้นปี",
+      "contractPeriod": "ต.ค. 2025 - ต.ค. 2026",
+      "startDate": "2025-10-06",
+      "endDate": "2026-10-05",
+      "contactPerson": "นพ. วรปรัชญ์ ศิริวัฒน์ภักดี",
+      "phone": "038-462-881",
+      "email": "dr.woraprach@panatclinic.com",
+      "website": "https://panatsportsclinic.com",
+      "status": "Active",
+      "notes": "ดูแลฟื้นฟูและกายภาพบำบัดนักเตะบาดเจ็บฟรี 30 เคส/ปี สัญญาเหลืออีก 17 วัน ต้องเร่งเสนอต่อสัญญา",
+      "benefits": [
+        "โลโก้บนแขนเสื้อด้านขวาของชุดแข่งทุกรุ่นอายุ",
+        "ป้ายประชาสัมพันธ์คลินิกกายภาพบริเวณห้องปฐมพยาบาล",
+        "สิทธิ์การเป็น Official Medical & Rehab Partner"
+      ],
+      "deliverables": [
+        {
+          "id": "del-15",
+          "title": "สกรีนโลโก้อาร์มแขนขวาชุดแข่งขันฤดูกาล 2025-2026",
+          "completed": true,
+          "targetDate": "2025-10-15"
+        },
+        {
+          "id": "del-16",
+          "title": "จัดอบรมการปฐมพยาบาล RICE Protocol ให้สตาฟฟ์โค้ช",
+          "completed": true,
+          "targetDate": "2026-02-10"
+        },
+        {
+          "id": "del-17",
+          "title": "สรุปรายงานสถิติการรักษาและดูแลสุขภาพนักเตะประจำปี",
+          "completed": true,
+          "targetDate": "2026-09-10"
+        }
+      ],
+      "renewalDecision": "กำลังพิจารณา"
+    },
+    {
+      "id": "sp-07",
+      "name": "ชลบุรี ดิจิทัล มีเดีย พลัส (Chonburi Media Plus)",
+      "tier": "Silver",
+      "logoPosition": "ป้ายไวนิลข้างสนาม",
+      "contractValue": 40000,
+      "paidAmount": 40000,
+      "paymentTerms": "แบ่งชำระ 2 งวด",
+      "contractPeriod": "ก.ย. 2025 - ส.ค. 2026",
+      "startDate": "2025-09-01",
+      "endDate": "2026-08-31",
+      "contactPerson": "คุณเกรียงไกร เอกเจริญชัย",
+      "phone": "081-344-9021",
+      "email": "contact@chonburimediaplus.com",
+      "status": "Pending Renewal",
+      "notes": "ช่วยถ่ายทอดสด Live สตรีมมิ่งเกมอุ่นเครื่อง 5 นัด สัญญาครบกำหนดเมื่อ 31 ส.ค. 2026 อยู่ระหว่างรอตัดสินใจต่อสัญญาใหม่",
+      "benefits": [
+        "โลโก้ในกราฟิกถ่ายทอดสด Facebook Live ทุกแมตช์เหย้า",
+        "ป้ายไวนิลข้างสนามซ้อม 1 ขนาด 4 เมตร"
+      ],
+      "deliverables": [
+        {
+          "id": "del-18",
+          "title": "ติดตั้งแบนเนอร์ข้างสนาม",
+          "completed": true,
+          "targetDate": "2025-09-10"
+        },
+        {
+          "id": "del-19",
+          "title": "ถ่ายทอดสด Live Streaming แมตช์กระชับมิตรครบ 5 นัด",
+          "completed": true,
+          "targetDate": "2026-08-20"
+        }
+      ],
+      "renewalDecision": "รอเจรจาปรับเงื่อนไข"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "eq-01",
+      "name": "ลูกฟุตบอลฝึกซ้อม Molten Vantaggio เบอร์ 4 (U-8 ถึง U-12)",
+      "category": "ลูกฟุตบอล",
+      "quantity": 24,
+      "minThreshold": 20,
+      "unit": "ลูก",
+      "condition": "ดีเยี่ยม",
+      "unitPrice": 650,
+      "location": "ห้องเก็บบอล คลับเฮาส์ 1 (ชั้นวาง A1)",
+      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "lastChecked": "2026-09-08",
+      "lastInspected": "2026-09-08",
+      "notes": "สภาพดี ลมยางสมบูรณ์ เติมลม 0.8 bar ประจำสัปดาห์"
+    },
+    {
+      "id": "eq-02",
+      "name": "ลูกฟุตบอลฝึกซ้อม Molten F5A3400 เบอร์ 5 (U-14 ถึง U-18)",
+      "category": "ลูกฟุตบอล",
+      "quantity": 18,
+      "minThreshold": 20,
+      "unit": "ลูก",
+      "condition": "พอใช้",
+      "unitPrice": 750,
+      "location": "ห้องเก็บบอล คลับเฮาส์ 1 (ชั้นวาง A2)",
+      "responsibleCoach": "โค้ชกฤษณะ ธนะโสภณ",
+      "lastChecked": "2026-09-08",
+      "lastInspected": "2026-09-08",
+      "notes": "เหลือ 18 ลูก (ต่ำกว่าเกณฑ์ 20 ลูก) อยู่ระหว่างเสนอจัดซื้อเพิ่ม 10 ลูก"
+    },
+    {
+      "id": "eq-03",
+      "name": "กรวยฝึกซ้อม มาร์กเกอร์จานรอง (Marker Cones หลากสี 5 สี)",
+      "category": "มาร์กเกอร์และกรวย",
+      "quantity": 80,
+      "minThreshold": 50,
+      "unit": "อัน",
+      "condition": "ดีเยี่ยม",
+      "unitPrice": 25,
+      "location": "กล่องอุปกรณ์พลาสติก คลับเฮาส์ 1",
+      "responsibleCoach": "โค้ชศุภณัฐ เวชศาสตร์",
+      "lastChecked": "2026-09-05",
+      "lastInspected": "2026-09-05",
+      "notes": "ครบสี (แดง, เหลือง, น้ำเงิน, ขาว, ส้ม) สำหรับแบ่งสถานีฝึก"
+    },
+    {
+      "id": "eq-04",
+      "name": "เสื้อเอี๊ยมแบ่งทีมฝึกซ้อม ผ้าระบายอากาศ (ส้ม/เขียวนีออน/ฟ้า)",
+      "category": "เสื้อเอี๊ยม",
+      "quantity": 36,
+      "minThreshold": 30,
+      "unit": "ตัว",
+      "condition": "ดีเยี่ยม",
+      "unitPrice": 120,
+      "location": "ตู้แขวนเสื้อซ้อม คลับเฮาส์ 1",
+      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "lastChecked": "2026-09-07",
+      "lastInspected": "2026-09-07",
+      "notes": "ซักตากและพับเรียบร้อย สีละ 12 ตัว"
+    },
+    {
+      "id": "eq-05",
+      "name": "บันไดลิงฝึกความคล่องตัว (Agility Ladder 6m / 8m)",
+      "category": "อุปกรณ์ SAQ",
+      "quantity": 3,
+      "minThreshold": 4,
+      "unit": "ชุด",
+      "condition": "พอใช้",
+      "unitPrice": 690,
+      "location": "ถุงผ้าอุปกรณ์ SAQ สนาม 1",
+      "responsibleCoach": "โค้ชศุภณัฐ เวชศาสตร์",
+      "lastChecked": "2026-09-01",
+      "lastInspected": "2026-09-01",
+      "notes": "สายรัดขั้นหนึ่งมีรอยฉีกขาดเล็กน้อย แต่ยังใช้งานได้"
+    },
+    {
+      "id": "eq-06",
+      "name": "รั้วสปีดฝึกกระโดด Speed Hurdles (6 นิ้ว / 9 นิ้ว)",
+      "category": "อุปกรณ์ SAQ",
+      "quantity": 12,
+      "minThreshold": 10,
+      "unit": "อัน",
+      "condition": "ดีเยี่ยม",
+      "unitPrice": 280,
+      "location": "ถุงตาข่าย SAQ สนาม 1",
+      "responsibleCoach": "โค้ชศุภณัฐ เวชศาสตร์",
+      "lastChecked": "2026-09-02",
+      "lastInspected": "2026-09-02"
+    },
+    {
+      "id": "eq-07",
+      "name": "เสาซิกแซกฝึกความคล่องตัวพร้อมฐานสปริง (Agility Poles)",
+      "category": "อุปกรณ์ SAQ",
+      "quantity": 10,
+      "minThreshold": 12,
+      "unit": "ต้น",
+      "condition": "ชำรุดต้องเปลี่ยน",
+      "unitPrice": 350,
+      "location": "มุมเก็บเสา สนามหญ้าจริง 1",
+      "responsibleCoach": "โค้ชกฤษณะ ธนะโสภณ",
+      "lastChecked": "2026-09-06",
+      "lastInspected": "2026-09-06",
+      "notes": "ฐานสปริงหัก 2 ต้น ต้องเปลี่ยนหัวปักใหม่"
+    },
+    {
+      "id": "eq-08",
+      "name": "กระเป๋าเวชภัณฑ์ปฐมพยาบาล & สเปรย์เย็น (First-Aid Kit)",
+      "category": "ปฐมพยาบาล",
+      "quantity": 2,
+      "minThreshold": 2,
+      "unit": "ชุด",
+      "condition": "ดีเยี่ยม",
+      "unitPrice": 2200,
+      "location": "ตู้ยาปฐมพยาบาล ห้องโค้ช คลับเฮาส์ 1",
+      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "lastChecked": "2026-09-08",
+      "lastInspected": "2026-09-08",
+      "notes": "ยาและน้ำยาทำความสะอาดแผลตรวจสอบวันหมดอายุครบถ้วน สเปรย์เย็นมี 3 กระป๋อง"
+    },
+    {
+      "id": "eq-09",
+      "name": "ถุงมือผู้รักษาประตูฝึกซ้อม Reusch & Grand Sport (เบอร์ 7, 8)",
+      "category": "อุปกรณ์ประตู",
+      "quantity": 6,
+      "minThreshold": 4,
+      "unit": "คู่",
+      "condition": "ดีเยี่ยม",
+      "unitPrice": 890,
+      "location": "ตู้เก็บอุปกรณ์ผู้รักษาประตู",
+      "responsibleCoach": "โค้ชพิทักษ์ สุขเจริญ (โค้ช GK)",
+      "lastChecked": "2026-09-05",
+      "lastInspected": "2026-09-05"
+    },
+    {
+      "id": "eq-10",
+      "name": "กระดานแท็กติกโค้ชแม่เหล็กพร้อมเบี้ย (Magnetic Tactical Board)",
+      "category": "อุปกรณ์เสริมฟิตเนส",
+      "quantity": 4,
+      "minThreshold": 3,
+      "unit": "แผ่น",
+      "condition": "ดีเยี่ยม",
+      "unitPrice": 950,
+      "location": "ห้องทำงานสตาฟฟ์โค้ช",
+      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "lastChecked": "2026-09-07",
+      "lastInspected": "2026-09-07"
+    }
+  ],
+  "procurementOrders": [
+    {
+      "id": "po-01",
+      "itemName": "ลูกฟุตบอล Molten F5A3400 เบอร์ 5 จำนวน 10 ลูก",
+      "quantity": 10,
+      "estimatedCost": 6500,
+      "urgency": "ด่วนมาก",
+      "status": "อนุมัติแล้ว",
+      "requestedDate": "2026-09-05",
+      "requestedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "note": "สต็อกลูกเบอร์ 5 ปัจจุบันเหลือเพียง 18 ลูก ไม่เพียงพอต่อการซ้อม U-14/16/18"
+    },
+    {
+      "id": "po-02",
+      "itemName": "บันไดลิง Agility Ladder 8 เมตร 2 ชุด",
+      "quantity": 2,
+      "estimatedCost": 1400,
+      "urgency": "ปานกลาง",
+      "status": "รออนุมัติ",
+      "requestedDate": "2026-09-07",
+      "requestedBy": "โค้ชศุภณัฐ เวชศาสตร์",
+      "note": "ใช้เพิ่มสถานีฝึกสมรรถภาพทางกายสำหรับรุ่นเล็ก U-8/U-10"
+    },
+    {
+      "id": "po-03",
+      "itemName": "สเปรย์เย็นแก้ปวดกล้ามเนื้อ (Ethyl Chloride Spray) 1 โหล",
+      "quantity": 12,
+      "estimatedCost": 2800,
+      "urgency": "ด่วนมาก",
+      "status": "สั่งซื้อแล้ว",
+      "requestedDate": "2026-09-04",
+      "requestedBy": "ฝ่ายเวชภัณฑ์สโมสร",
+      "note": "เตรียมพร้อมสำหรับการแข่งขันสุดสัปดาห์"
+    }
+  ],
+  "equipmentCheckouts": [
+    {
+      "id": "chk-01",
+      "equipmentId": "eq-01",
+      "equipmentName": "ลูกฟุตบอลฝึกซ้อม Molten Vantaggio เบอร์ 4",
+      "quantity": 12,
+      "borrowerCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "ageGroup": "U-12",
+      "borrowDate": "2026-09-08 16:15",
+      "expectedReturnDate": "2026-09-08 18:45",
+      "returnedDate": "2026-09-08 18:50",
+      "status": "คืนเรียบร้อยแล้ว",
+      "purpose": "ฝึกซ้อม Attacking Transition & Finishing รุ่น U-12",
+      "note": "นับคืนครบ 12 ลูก สภาพเรียบร้อย"
+    },
+    {
+      "id": "chk-02",
+      "equipmentId": "eq-05",
+      "equipmentName": "บันไดลิงฝึกความคล่องตัว (Agility Ladder 6m / 8m)",
+      "quantity": 2,
+      "borrowerCoach": "โค้ชศุภณัฐ เวชศาสตร์",
+      "ageGroup": "U-10",
+      "borrowDate": "2026-09-09 16:30",
+      "expectedReturnDate": "2026-09-09 18:30",
+      "returnedDate": "2026-09-09 18:35",
+      "status": "คืนเรียบร้อยแล้ว",
+      "purpose": "สถานีฝึก Footwork & Agility"
+    },
+    {
+      "id": "chk-03",
+      "equipmentId": "eq-02",
+      "equipmentName": "ลูกฟุตบอลฝึกซ้อม Molten F5A3400 เบอร์ 5",
+      "quantity": 10,
+      "borrowerCoach": "โค้ชกฤษณะ ธนะโสภณ",
+      "ageGroup": "U-14",
+      "borrowDate": "2026-09-10 16:00",
+      "expectedReturnDate": "2026-09-10 18:30",
+      "status": "กำลังยืมใช้งาน",
+      "purpose": "ซ้อมแท็กติก Small Sided Game 8v8 สนาม 2",
+      "note": "เบิกไปพร้อมเอี๊ยมสีส้ม 10 ตัว"
+    },
+    {
+      "id": "chk-04",
+      "equipmentId": "eq-08",
+      "equipmentName": "กระเป๋าเวชภัณฑ์ปฐมพยาบาล & สเปรย์เย็น",
+      "quantity": 1,
+      "borrowerCoach": "โค้ชพิทักษ์ สุขเจริญ",
+      "ageGroup": "U-16",
+      "borrowDate": "2026-09-10 15:45",
+      "expectedReturnDate": "2026-09-10 18:30",
+      "status": "กำลังยืมใช้งาน",
+      "purpose": "สแตนด์บายข้างสนามซ้อมจำลองแมตช์จริง"
+    }
+  ],
+  "consultations": [
+    {
+      "id": "cs-01",
+      "playerId": "p1",
+      "date": "2026-09-04",
+      "type": "Player & Parent",
+      "coachName": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "footballProgress": "ทักษะการเล่นเป็นผู้นำแดนกลางก้าวหน้ามาก จ่ายบอลได้เปรียบสม่ำเสมอ แนะนำให้กล้าสับไกยิงแถวสองเพิ่มขึ้น",
+      "academicAndLifestyle": "เกรดเฉลี่ย 3.65 แบ่งเวลาทำการบ้านก่อนมาซ้อมได้ดี คุณพ่อให้การสนับสนุนสม่ำเสมอ",
+      "mentalAndMindset": "มุ่งมั่นสูงมาก แต่อาจกดดันตัวเองเมื่อทีมเสียประตู แนะนำการผ่อนคลายและสร้างพลังบวกให้เพื่อนร่วมทีม",
+      "mutualAgreements": "ตกลงฝึกซ้อมพิเศษยิงเท้าซ้ายสัปดาห์ละ 2 ครั้ง และปรับเวลานอนไม่เกิน 21:30 น.",
+      "nextFollowUpDate": "2026-10-05"
+    },
+    {
+      "id": "cs-02",
+      "playerId": "p2",
+      "date": "2026-09-02",
+      "type": "Player Only",
+      "coachName": "โค้ชกฤษณะ ธนะโสภณ",
+      "footballProgress": "สปีดต้นและความกล้ากระชากกินตัวดีมาก แต่ต้องปรับจังหวะการปล่อยบอลให้เร็วขึ้น ไม่หวงบอลเกินไป",
+      "academicAndLifestyle": "ช่วงนี้มีรายงานกลุ่มที่โรงเรียนเยอะ ทำให้มาซ้อมสายไป 1 ครั้ง ได้พูดคุยแนวทางจัดสรรเวลาแล้ว",
+      "mentalAndMindset": "มีความมั่นใจในตัวเองสูง เปิดรับคำแนะนำจากโค้ชได้ดีเยี่ยม",
+      "mutualAgreements": "ฝึกสปีดการจ่ายบอล 2 จังหวะในการซ้อมแบบกลุ่ม และรักษาเวลาเดินทางมาสนาม",
+      "nextFollowUpDate": "2026-10-02"
+    },
+    {
+      "id": "cs-03",
+      "playerId": "p7",
+      "date": "2026-08-28",
+      "type": "Parent Only",
+      "coachName": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "footballProgress": "น้องออกัสต์ (U-8) มีความสุขกับการเล่นบอลมาก สัมผัสบอลเป็นธรรมชาติ เข้ากับเพื่อนได้ไว",
+      "academicAndLifestyle": "คุณแม่ปรึกษาเรื่องอาหารการกิน อยากให้น้องทานผักและดื่มนมมากขึ้น โค้ชได้จัดตารางอาหารเบื้องต้นให้",
+      "mentalAndMindset": "อารมณ์ดี ร่าเริง ชอบการแข่งขันแบบสนุกสนาน (Fun & Enjoyment Focus)",
+      "mutualAgreements": "เน้นความสนุกและการออกกำลังกาย ไม่กดดันเรื่องผลแพ้ชนะ",
+      "nextFollowUpDate": "2026-09-28"
+    }
+  ],
+  "calendarEvents": [
+    {
+      "id": "ev-01",
+      "title": "การฝึกซ้อมประจำวัน U-10 & U-12 (Theme: Attacking Play)",
+      "eventType": "วันซ้อม",
+      "ageGroups": [
+        "U-10",
+        "U-12"
+      ],
+      "targetAgeGroups": [
+        "U-10",
+        "U-12"
+      ],
+      "startDate": "2026-09-10",
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "locationPitch": "สนามหญ้าจริง 1",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "เน้นการจบสกอร์และเกมจำลอง 7v7"
+    },
+    {
+      "id": "ev-02",
+      "title": "การฝึกซ้อมประจำวัน U-14, U-16, U-18 (Tactical Shape)",
+      "eventType": "วันซ้อม",
+      "ageGroups": [
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "targetAgeGroups": [
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "startDate": "2026-09-11",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "locationPitch": "สนามหญ้าเทียม",
+      "coachInCharge": "โค้ชกฤษณะ ธนะโสภณ",
+      "notes": "เตรียมแท็กติกป้องกันลูกตั้งเตะ"
+    },
+    {
+      "id": "ev-03",
+      "title": "แมตช์กระชับมิตร: SKA United U-12 vs ศรีราชา ยูไนเต็ด",
+      "eventType": "แมตช์กระชับมิตร",
+      "ageGroups": [
+        "U-12"
+      ],
+      "targetAgeGroups": [
+        "U-12"
+      ],
+      "startDate": "2026-09-13",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "locationPitch": "สนามฟุตบอลเทศบาลพนัสนิคม",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "ทดสอบระบบการเล่น 9v9 ก่อนแข่งทัวร์นาเมนต์"
+    },
+    {
+      "id": "ev-04",
+      "title": "การประชุมผู้ปกครองและสตาฟฟ์โค้ช ประจำไตรมาส 3",
+      "eventType": "วันประชุม",
+      "ageGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "targetAgeGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "startDate": "2026-09-15",
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "locationPitch": "ห้องประชุมคลับเฮาส์ SKA United",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "ชี้แจงโปรแกรมแข่งปลายปี และสรุปพัฒนาการ IDP รายบุคคล"
+    },
+    {
+      "id": "ev-05",
+      "title": "ทัวร์นาเมนต์ ชลบุรี จูเนียร์ แชมเปียนชิพ 2026",
+      "eventType": "ทัวร์นาเมนต์แข่งขัน",
+      "ageGroups": [
+        "U-12",
+        "U-14"
+      ],
+      "targetAgeGroups": [
+        "U-12",
+        "U-14"
+      ],
+      "startDate": "2026-09-20",
+      "startTime": "08:00",
+      "endTime": "17:00",
+      "locationPitch": "สนามกีฬาเทศบาลเมืองชลบุรี",
+      "coachInCharge": "โค้ชกฤษณะ ธนะโสภณ",
+      "notes": "นำนักเตะเดินทางด้วยรถบัสสโมสร รวมตัว 06:30 น."
+    },
+    {
+      "id": "ev-06",
+      "title": "ทดสอบสมรรถภาพร่างกายประจำไตรมาส (Quarterly Fitness Test)",
+      "eventType": "ทดสอบสมรรถภาพ",
+      "ageGroups": [
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "targetAgeGroups": [
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "startDate": "2026-09-26",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "locationPitch": "สนามหญ้าจริง 1 & ลู่วิ่ง",
+      "coachInCharge": "โค้ชศุภณัฐ เวชศาสตร์",
+      "notes": "ทดสอบ Beep Test, สปรินต์ 30 เมตร, Vertical Jump และคล่องตัว T-Test"
+    },
+    {
+      "id": "ev-07",
+      "title": "กิจกรรมคัดตัวนักเตะเยาวชนช้างเผือก 2026/27 (Open Trial Day)",
+      "eventType": "กิจกรรมคัดตัว",
+      "ageGroups": [
+        "U-10",
+        "U-12",
+        "U-14"
+      ],
+      "targetAgeGroups": [
+        "U-10",
+        "U-12",
+        "U-14"
+      ],
+      "startDate": "2026-09-27",
+      "startTime": "08:30",
+      "endTime": "16:00",
+      "locationPitch": "สนามหญ้าจริง 1 และ สนามหญ้าเทียม",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "เปิดรับสมัครเยาวชนในอำเภอพนัสนิคมและใกล้เคียง ชิงทุนฝึกซ้อมฟรีตลอดปี"
+    },
+    {
+      "id": "ev-08",
+      "title": "แมตช์อุ่นเครื่อง: SKA United U-14 vs ชลบุรี เอฟซี อะคาเดมี",
+      "eventType": "แมตช์กระชับมิตร",
+      "ageGroups": [
+        "U-14"
+      ],
+      "targetAgeGroups": [
+        "U-14"
+      ],
+      "startDate": "2026-10-03",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "locationPitch": "สนามหญ้าจริง 1 สโมสร SKA FC",
+      "coachInCharge": "โค้ชกฤษณะ ธนะโสภณ",
+      "notes": "จำลองการแข่งขัน 11 คนเต็มสนาม ควบคุมการเล่นแบบ Positional Play"
+    }
+  ],
+  "todos": [
+    {
+      "id": "td-01",
+      "task": "จัดเตรียมรายชื่อและบัตรประชาชนนักเตะ U-12 ส่งฝ่ายจัดทัวร์นาเมนต์ชลบุรี",
+      "assignee": "ฝ่ายธุรการสโมสร",
+      "urgency": "ด่วนมาก",
+      "dueDate": "2026-09-12",
+      "completed": false
+    },
+    {
+      "id": "td-02",
+      "task": "ตรวจนับและจัดซื้อลูกบอลเบอร์ 5 เพิ่ม 10 ลูก ให้ทันสัปดาห์หน้า",
+      "assignee": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "urgency": "ด่วนมาก",
+      "dueDate": "2026-09-11",
+      "completed": true
+    },
+    {
+      "id": "td-03",
+      "task": "ส่งรายงานสรุปประเมิน IDP ของนักเตะ U-12 ให้ผู้ปกครองก่อนวันประชุม",
+      "assignee": "โค้ชกฤษณะ ธนะโสภณ",
+      "urgency": "ปานกลาง",
+      "dueDate": "2026-09-14",
+      "completed": false
+    },
+    {
+      "id": "td-04",
+      "task": "ประสานงานช่างบำรุงระบบไฟส่องสว่างสนามหญ้าเทียมเสาที่ 3",
+      "assignee": "ผู้จัดการสนาม",
+      "urgency": "ปกติ",
+      "dueDate": "2026-09-16",
+      "completed": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "nt-01",
+      "title": "โครงสร้างแบบฝึกแท็กติก Defensive Transition ฤดูกาลนี้",
+      "content": "หลักการสำคัญ 3 ประการในการเล่นจังหวะรับทันทีที่เสียบอล:\n1. Immediate 5-second High Press: ผู้เล่นใกล้บอล 2 คนต้องเข้าเพรสทันทีเพื่อตัดทางเลือกแรกของคู่ต่อสู้\n2. Rest Defense (3+1 Shape): ในขณะที่เราบุก ผู้เล่นแดนหลังต้องยืนคุมโซนและประกบตัวสวนกลับ ไม่ดันขึ้นหมด\n3. Tactical Foul หรือ Delay: หากเพรสไม่สำเร็จ ให้ชะลอคู่แข่งไม่ให้แทงบอลไดเรกต์ แล้วถอยตั้งโซน Compact",
+      "category": "แท็กติก",
+      "isPinned": true,
+      "colorTag": "emerald",
+      "updatedAt": "2026-09-08 19:20"
+    },
+    {
+      "id": "nt-02",
+      "title": "แนวทางการสื่อสารและจิตวิทยากับเด็กวัย U-8 ถึง U-12",
+      "content": "• เน้น Positive Reinforcement 80% และคำแนะนำเชิงสร้างสรรค์ 20%\n• หลีกเลี่ยงการตำหนิความผิดพลาดส่วนบุคคลต่อหน้าเพื่อน ให้ชมในที่แจ้งและสอนในที่ลับ\n• สอนให้เด็กกล้าเล่น กล้าตัดสินใจ แม้จะเสียบอล โดยโค้ชต้องให้กำลังใจให้แก้ตัวในจังหวะถัดไป\n• ฝึกคำพูดกระตุ้นเชิงบวก เช่น \"ดีแล้ว ขยับอีกนิด\", \"เปิดมุมมองยอดเยี่ยม ลองอีกครั้ง!\"",
+      "category": "กลยุทธ์",
+      "isPinned": true,
+      "colorTag": "blue",
+      "updatedAt": "2026-09-05 14:00"
+    },
+    {
+      "id": "nt-03",
+      "title": "สรุปมติการประชุมเตรียมจัดฟุตบอลการกุศล SKA Charity Cup",
+      "content": "กำหนดจัดวันเสาร์-อาทิตย์ ปลายเดือนพฤศจิกายน 2026:\n- รายได้หลังหักค่าใช้จ่ายมอบให้โรงเรียนในอำเภอพนัสนิคม\n- สปอนเซอร์ Title Sponsor (SKA Logistics) ยินดีสนับสนุนถ้วยรางวัลและเสื้อสต๊าฟฟ์\n- เปิดรับสมัครทีมเยาวชนรุ่น U-10 และ U-12 รวม 16 ทีม",
+      "category": "การประชุม",
+      "isPinned": false,
+      "colorTag": "purple",
+      "updatedAt": "2026-08-30 17:45"
+    }
+  ],
+  "driveFiles": [
+    {
+      "id": "drv-img-01",
+      "name": "ภาพเปิดตัวชุดแข่งอคาเดมี่ประจำฤดูกาล 2026-2027.jpg",
+      "category": "image",
+      "mimeType": "image/jpeg",
+      "size": 2516582,
+      "createdTime": "2026-08-15T09:30:00Z",
+      "modifiedTime": "2026-08-15T10:00:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=600&auto=format&fit=crop&q=80",
+      "description": "ภาพถ่ายชุดแข่งเหย้า-เยือน และชุดผู้รักษาประตูรุ่นเยาวชน SKA",
+      "ageGroup": "All",
+      "uploadedBy": "ฝ่ายประชาสัมพันธ์สโมสร",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-img-02",
+      "name": "ภาพการฝึกซ้อมเทคนิคเกมรุก U-12 สนามหญ้าจริง 1.jpg",
+      "category": "image",
+      "mimeType": "image/jpeg",
+      "size": 3355443,
+      "createdTime": "2026-09-02T16:45:00Z",
+      "modifiedTime": "2026-09-02T18:30:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&auto=format&fit=crop&q=80",
+      "description": "บันทึกภาพบรรยากาศการฝึกซ้อมเซสชัน Positional Play & Finishing",
+      "ageGroup": "U-12",
+      "uploadedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-img-03",
+      "name": "ทำเนียบภาพถ่ายเดี่ยวนักเตะ U-8 ถึง U-18 ประจำฤดูกาล.png",
+      "category": "image",
+      "mimeType": "image/png",
+      "size": 4194304,
+      "createdTime": "2026-08-20T14:15:00Z",
+      "modifiedTime": "2026-08-22T11:20:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=600&auto=format&fit=crop&q=80",
+      "description": "ภาพโปรไฟล์นักฟุตบอลเยาวชนสำหรับทำบัตรแข่งขันและทำเนียบสโมสร",
+      "ageGroup": "All",
+      "uploadedBy": "ฝ่ายธุรการสโมสร",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-img-04",
+      "name": "ภาพรับถ้วยรางวัลชนะเลิศ ชลบุรี ยูธ ลีก 2026 รุ่น U-12.jpg",
+      "category": "image",
+      "mimeType": "image/jpeg",
+      "size": 2936012,
+      "createdTime": "2026-08-28T18:00:00Z",
+      "modifiedTime": "2026-08-28T19:30:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=600&auto=format&fit=crop&q=80",
+      "description": "พิธีมอบถ้วยแชมป์และเหรียญรางวัลชนะเลิศประจำทัวร์นาเมนต์",
+      "ageGroup": "U-12",
+      "uploadedBy": "โค้ชกฤษณะ ธนะโสภณ",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-img-05",
+      "name": "ภาพการทดสอบสมรรถภาพทางกาย (Fitness Test) ไตรมาส 3.jpg",
+      "category": "image",
+      "mimeType": "image/jpeg",
+      "size": 1992294,
+      "createdTime": "2026-09-05T10:00:00Z",
+      "modifiedTime": "2026-09-05T11:45:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?w=600&auto=format&fit=crop&q=80",
+      "description": "การทดสอบ Beep Test, สปรินต์ 30 เมตร และ Agility T-Test",
+      "ageGroup": "U-14",
+      "uploadedBy": "โค้ชสมชาย พิทักษ์ไทย",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-vid-01",
+      "name": "วิดีโอบันทึกเต็มเกม SKA U-12 vs ศรีราชา ยูไนเต็ด (Full Match).mp4",
+      "category": "video",
+      "mimeType": "video/mp4",
+      "size": 508559360,
+      "createdTime": "2026-09-06T15:30:00Z",
+      "modifiedTime": "2026-09-06T18:00:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&auto=format&fit=crop&q=80",
+      "description": "บันทึกเทปการแข่งขันกระชับมิตร 9v9 ครบทั้งสองครึ่ง พร้อมระบบเสียงสนาม",
+      "ageGroup": "U-12",
+      "uploadedBy": "ทีมงานถ่ายทอดสดและมีเดีย SKA",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-vid-02",
+      "name": "คลิปไฮไลต์การเล่นและลูกยิงสวยงามประจำเดือนสิงหาคม 2026.mp4",
+      "category": "video",
+      "mimeType": "video/mp4",
+      "size": 131072000,
+      "createdTime": "2026-08-31T20:00:00Z",
+      "modifiedTime": "2026-08-31T21:15:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&auto=format&fit=crop&q=80",
+      "description": "รวบรวมช็อตต่อบอลสวยงาม ลูกยิงไกล และการเซฟยอดเยี่ยมของเด็กๆ",
+      "ageGroup": "All",
+      "uploadedBy": "ฝ่ายมีเดียและคอนเทนต์",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-vid-03",
+      "name": "วิดีโอวิเคราะห์เทคนิค 1v1 Attacking & Dribbling โดยโค้ชชัยวัฒน์.mp4",
+      "category": "video",
+      "mimeType": "video/mp4",
+      "size": 99614720,
+      "createdTime": "2026-09-03T11:00:00Z",
+      "modifiedTime": "2026-09-03T11:50:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=600&auto=format&fit=crop&q=80",
+      "description": "สื่อการสอนทักษะการเลี้ยงดวล 1 ต่อ 1 การหลอกจังหวะแรก และการจบสกอร์",
+      "ageGroup": "U-10",
+      "uploadedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-vid-04",
+      "name": "คลิปวิเคราะห์แท็กติก Defending Shape และ Rest Defense U-14.mp4",
+      "category": "video",
+      "mimeType": "video/mp4",
+      "size": 152043520,
+      "createdTime": "2026-09-08T17:30:00Z",
+      "modifiedTime": "2026-09-08T18:40:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&auto=format&fit=crop&q=80",
+      "description": "การวิเคราะห์วิดีโอสำหรับห้องประชุมโค้ช เน้นการรักษาระยะห่างแนวรับ",
+      "ageGroup": "U-14",
+      "uploadedBy": "โค้ชกฤษณะ ธนะโสภณ",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-vid-05",
+      "name": "วิดีโอแบบฝึกผู้รักษาประตู การเซฟและการออกบอลเปิดเกมรุก.mp4",
+      "category": "video",
+      "mimeType": "video/mp4",
+      "size": 89128960,
+      "createdTime": "2026-08-25T16:00:00Z",
+      "modifiedTime": "2026-08-25T17:15:00Z",
+      "webViewLink": "https://drive.google.com",
+      "thumbnailLink": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?w=600&auto=format&fit=crop&q=80",
+      "description": "เจาะลึกฟุตเวิร์ก การตัดสินใจตัดบอลกลางอากาศ และการขว้างบอลสวนกลับ",
+      "ageGroup": "U-16",
+      "uploadedBy": "โค้ชอนุชา วงศ์สวัสดิ์",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-doc-01",
+      "name": "ระเบียบวินัยและข้อบังคับนักฟุตบอลเยาวชน SKA United (ฉบับสมบูรณ์).pdf",
+      "category": "document",
+      "mimeType": "application/pdf",
+      "size": 1258291,
+      "createdTime": "2026-08-01T08:00:00Z",
+      "modifiedTime": "2026-08-10T14:30:00Z",
+      "webViewLink": "https://drive.google.com",
+      "description": "ข้อตกลงการฝึกซ้อม การแต่งกาย มารยาทในสนาม และนโยบายการเรียนควบคู่กีฬา",
+      "ageGroup": "All",
+      "uploadedBy": "ผู้อำนวยการฝ่ายพัฒนาเยาวชน",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-doc-02",
+      "name": "ใบสมัครและหนังสือยินยอมจากผู้ปกครอง อคาเดมี่ 2026.docx",
+      "category": "document",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 460800,
+      "createdTime": "2026-08-05T10:00:00Z",
+      "modifiedTime": "2026-08-05T10:00:00Z",
+      "webViewLink": "https://drive.google.com",
+      "description": "เอกสารลงนามยินยอมการฝึกซ้อม ประวัติสุขภาพ และการเดินทางไปแข่งขันต่างจังหวัด",
+      "ageGroup": "All",
+      "uploadedBy": "ฝ่ายธุรการสโมสร",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-doc-03",
+      "name": "แผนพัฒนาศักยภาพนักเตะรายบุคคล IDP Master Blueprint.xlsx",
+      "category": "document",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 870400,
+      "createdTime": "2026-08-12T09:00:00Z",
+      "modifiedTime": "2026-09-08T16:20:00Z",
+      "webViewLink": "https://drive.google.com",
+      "description": "เทมเพลตและตารางสรุปคะแนนประเมิน 4 เสาหลักของนักเตะทุกรุ่นอายุ",
+      "ageGroup": "All",
+      "uploadedBy": "หัวหน้าผู้ฝึกสอน",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-doc-04",
+      "name": "คู่มือหลักสูตรฝึกสอนฟุตบอล 4 เสาหลัก (Youth Development Curriculum).pdf",
+      "category": "document",
+      "mimeType": "application/pdf",
+      "size": 3670016,
+      "createdTime": "2026-07-20T11:00:00Z",
+      "modifiedTime": "2026-08-01T09:15:00Z",
+      "webViewLink": "https://drive.google.com",
+      "description": "หลักสูตรแบบฝึกการซ้อมตั้งแต่ U-8 ถึง U-18 ตามมาตรฐานสากล AFC/FA",
+      "ageGroup": "All",
+      "uploadedBy": "ประธานเทคนิคสโมสร",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-doc-05",
+      "name": "ตารางงบประมาณรายรับ-รายจ่ายและแผนจัดซื้ออุปกรณ์ ไตรมาส 3.xlsx",
+      "category": "document",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 634880,
+      "createdTime": "2026-08-25T13:00:00Z",
+      "modifiedTime": "2026-09-09T18:00:00Z",
+      "webViewLink": "https://drive.google.com",
+      "description": "งบประมาณค่าสนาม ค่าน้ำดื่ม ลูกฟุตบอล กรวย และอุปกรณ์ฝึกซ้อม",
+      "ageGroup": "All",
+      "uploadedBy": "ฝ่ายการเงินสโมสร",
+      "isGoogleDriveLive": false
+    },
+    {
+      "id": "drv-doc-06",
+      "name": "แบบฟอร์มบันทึกการพูดคุย One on One และประเมินจิตวิทยา.docx",
+      "category": "document",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 389120,
+      "createdTime": "2026-09-01T15:00:00Z",
+      "modifiedTime": "2026-09-01T15:00:00Z",
+      "webViewLink": "https://drive.google.com",
+      "description": "แบบฟอร์มสัมภาษณ์เจาะลึกความรู้สึก ความสุขในการเล่น และเป้าหมายระยะสั้น",
+      "ageGroup": "All",
+      "uploadedBy": "โค้ชกฤษณะ ธนะโสภณ",
+      "isGoogleDriveLive": false
+    }
+  ],
+  "matchReports": [
+    {
+      "id": "match-01",
+      "date": "2026-09-06",
+      "time": "09:30",
+      "competition": "Chonburi FA Youth League 2026 (นัดที่ 8)",
+      "matchType": "League",
+      "ageGroup": "U-12",
+      "venue": "สนามเทศบาลเมืองพนัสนิคม (สนามหญ้าจริง 1)",
+      "isHome": true,
+      "opponentName": "ชลบุรี เอฟซี อคาเดมี่ (รุ่นจิ๋ว)",
+      "skaScore": 3,
+      "opponentScore": 1,
+      "result": "ชนะ",
+      "formation": "7v7 (1-2-3-1)",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "manOfTheMatch": "ด.ช. ภูผา สุวรรณรัตน์ (#10)",
+      "goals": [
+        {
+          "minute": 14,
+          "scorerPlayerId": "p1",
+          "scorerName": "น้องภูผา",
+          "assistPlayerId": "p3",
+          "assistName": "น้องมาร์คัส",
+          "type": "Open Play"
+        },
+        {
+          "minute": 28,
+          "scorerPlayerId": "p3",
+          "scorerName": "น้องมาร์คัส",
+          "assistPlayerId": "p1",
+          "assistName": "น้องภูผา",
+          "type": "Counter Attack"
+        },
+        {
+          "minute": 42,
+          "scorerPlayerId": "p1",
+          "scorerName": "น้องภูผา",
+          "assistPlayerId": "p2",
+          "assistName": "น้องภัทร",
+          "type": "Penalty"
+        }
+      ],
+      "playerStats": [
+        {
+          "playerId": "p1",
+          "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
+          "jerseyNumber": 10,
+          "position": "กองหน้าตัวเป้า (ST)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 2,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 9.5,
+          "coachNotes": "จบสกอร์เฉียบคม มีภาวะผู้นำ กระชากหนีกองหลังได้ยอดเยี่ยม"
+        },
+        {
+          "playerId": "p2",
+          "playerName": "ด.ช. วรภัทร โชควิจิตร",
+          "jerseyNumber": 7,
+          "position": "ปีกขวา (RW)",
+          "isStarter": true,
+          "minutesPlayed": 45,
+          "goals": 0,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8.5,
+          "coachNotes": "พาบอลขึ้นริมเส้นเร็ว สร้างโอกาสและได้จุดโทษ"
+        },
+        {
+          "playerId": "p3",
+          "playerName": "ด.ช. ธีรเดช เมธากุล",
+          "jerseyNumber": 8,
+          "position": "กองกลางตัวรุก (CAM)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 1,
+          "assists": 1,
+          "yellowCards": 1,
+          "redCards": 0,
+          "rating": 8.8,
+          "coachNotes": "คุมจังหวะเกมรุกได้ดี จ่ายบอลตัดหลังแนวรับแม่นยำ"
+        },
+        {
+          "playerId": "p4",
+          "playerName": "ด.ช. กิตติพงษ์ สัจจะ",
+          "jerseyNumber": 4,
+          "position": "เซ็นเตอร์แบ็ก (CB)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8.2,
+          "coachNotes": "สกัดบอลจังหวะสำคัญได้ดี บัญชาการแนวรับมั่นคง"
+        },
+        {
+          "playerId": "p5",
+          "playerName": "ด.ช. ธนกร พลอยเจริญ",
+          "jerseyNumber": 1,
+          "position": "ผู้รักษาประตู (GK)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8,
+          "coachNotes": "เซฟจังหวะ 1v1 ในครึ่งแรกได้อย่างยอดเยี่ยม ออกบอลไว"
+        }
+      ],
+      "matchSummary": "เกมเปิดได้อย่างดุดัน ทีมครองบอลแดนกลางได้ 62% การเคาน์เตอร์เพรสซิ่งทำได้ตามแผนที่ฝึกซ้อม ชนะคู่ปรับสำคัญอย่างสมศักดิ์ศรี",
+      "tacticalNotes": "จุดที่ต้องเสริม: การป้องกันลูกเตะมุมเสาแรก และการไม่ประมาทช่วง 5 นาทีสุดท้ายหลังนำห่าง"
+    },
+    {
+      "id": "match-02",
+      "date": "2026-08-30",
+      "time": "14:00",
+      "competition": "ศึกกระชับมิตรเยาวชนภาคตะวันออก",
+      "matchType": "Friendly",
+      "ageGroup": "U-12",
+      "venue": "สนามกีฬากลางเทศบาลบ้านบึง",
+      "isHome": false,
+      "opponentName": "บ้านบึง ซิตี้ จูเนียร์",
+      "skaScore": 2,
+      "opponentScore": 2,
+      "result": "เสมอ",
+      "formation": "7v7 (1-2-3-1)",
+      "headCoach": "โค้ชกฤษณะ ธนะโสภณ",
+      "manOfTheMatch": "ด.ช. ธีรเดช เมธากุล (#8)",
+      "goals": [
+        {
+          "minute": 9,
+          "scorerPlayerId": "p2",
+          "scorerName": "น้องภัทร",
+          "assistPlayerId": "p3",
+          "assistName": "น้องมาร์คัส",
+          "type": "Corner"
+        },
+        {
+          "minute": 35,
+          "scorerPlayerId": "p1",
+          "scorerName": "น้องภูผา",
+          "assistPlayerId": "p4",
+          "assistName": "น้องกิต",
+          "type": "Open Play"
+        }
+      ],
+      "playerStats": [
+        {
+          "playerId": "p1",
+          "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
+          "jerseyNumber": 10,
+          "position": "กองหน้าตัวเป้า (ST)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 1,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8,
+          "coachNotes": "โดนประกบติด 2 คน แต่ยังหาช่องยิงตีเสมอได้"
+        },
+        {
+          "playerId": "p2",
+          "playerName": "ด.ช. วรภัทร โชควิจิตร",
+          "jerseyNumber": 7,
+          "position": "ปีกขวา (RW)",
+          "isStarter": true,
+          "minutesPlayed": 40,
+          "goals": 1,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8.3,
+          "coachNotes": "สอดเข้ามายิงจังหวะสองได้ยอดเยี่ยม"
+        },
+        {
+          "playerId": "p3",
+          "playerName": "ด.ช. ธีรเดช เมธากุล",
+          "jerseyNumber": 8,
+          "position": "กองกลางตัวรุก (CAM)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 0,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8.5,
+          "coachNotes": "เปิดลูกตั้งเตะอันตราย วิ่งเชื่อมเกมตลอด 50 นาที"
+        },
+        {
+          "playerId": "p5",
+          "playerName": "ด.ช. ธนกร พลอยเจริญ",
+          "jerseyNumber": 1,
+          "position": "ผู้รักษาประตู (GK)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 7.2,
+          "coachNotes": "เสียประตูจากลูกยิงไกลแฉลบ โดยรวมสมาธิดี"
+        }
+      ],
+      "matchSummary": "ทดลองระบบหมุนเวียนนักเตะและปรับแท็กติกการเพรสซิ่งแดนบน ผลเสมอถือว่ายุติธรรมและได้ประโยชน์ในการเห็นข้อบกพร่อง",
+      "tacticalNotes": "การถอยลงมารับจังหวะโดนสวนกลับต้องเร็วกว่านี้ แบ็กสองข้างเติมสูงแล้วพื้นที่ด้านหลังเปิดกว้าง"
+    },
+    {
+      "id": "match-03",
+      "date": "2026-08-16",
+      "time": "10:00",
+      "competition": "พานทอง ซูเปอร์ ยูธ คัพ 2026 (รอบ 8 ทีม)",
+      "matchType": "Cup",
+      "ageGroup": "U-14",
+      "venue": "สนามศูนย์ฝึกพานทองสเตเดียม",
+      "isHome": false,
+      "opponentName": "พานทอง ยูไนเต็ด อคาเดมี่",
+      "skaScore": 4,
+      "opponentScore": 0,
+      "result": "ชนะ",
+      "formation": "9v9 (1-3-2-3)",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "manOfTheMatch": "ด.ช. ภูผา สุวรรณรัตน์ (#10)",
+      "goals": [
+        {
+          "minute": 6,
+          "scorerPlayerId": "p1",
+          "scorerName": "น้องภูผา",
+          "assistPlayerId": "p2",
+          "assistName": "น้องภัทร",
+          "type": "Open Play"
+        },
+        {
+          "minute": 19,
+          "scorerPlayerId": "p1",
+          "scorerName": "น้องภูผา",
+          "assistPlayerId": "p3",
+          "assistName": "น้องมาร์คัส",
+          "type": "Open Play"
+        },
+        {
+          "minute": 31,
+          "scorerPlayerId": "p3",
+          "scorerName": "น้องมาร์คัส",
+          "assistPlayerId": "p1",
+          "assistName": "น้องภูผา",
+          "type": "Free Kick"
+        },
+        {
+          "minute": 48,
+          "scorerPlayerId": "p2",
+          "scorerName": "น้องภัทร",
+          "assistPlayerId": "p4",
+          "assistName": "น้องกิต",
+          "type": "Counter Attack"
+        }
+      ],
+      "playerStats": [
+        {
+          "playerId": "p1",
+          "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
+          "jerseyNumber": 10,
+          "position": "กองหน้าตัวเป้า (ST)",
+          "isStarter": true,
+          "minutesPlayed": 55,
+          "goals": 2,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 9.8,
+          "coachNotes": "ยอดเยี่ยมมาก ทำแฮตทริกแอสซิสต์และ 2 ประตู"
+        },
+        {
+          "playerId": "p2",
+          "playerName": "ด.ช. วรภัทร โชควิจิตร",
+          "jerseyNumber": 7,
+          "position": "ปีกขวา (RW)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 1,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 9,
+          "coachNotes": "ความเร็วสูง เล่นงานแนวรับคู่แข่งได้ตลอดเวลา"
+        },
+        {
+          "playerId": "p3",
+          "playerName": "ด.ช. ธีรเดช เมธากุล",
+          "jerseyNumber": 8,
+          "position": "กองกลางตัวรุก (CAM)",
+          "isStarter": true,
+          "minutesPlayed": 60,
+          "goals": 1,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 9,
+          "coachNotes": "ยิงฟรีคิก 22 หลาเสียบสามเหลี่ยมสุดสวย"
+        },
+        {
+          "playerId": "p5",
+          "playerName": "ด.ช. ธนกร พลอยเจริญ",
+          "jerseyNumber": 1,
+          "position": "ผู้รักษาประตู (GK)",
+          "isStarter": true,
+          "minutesPlayed": 60,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8.8,
+          "coachNotes": "เก็บคลีนชีตสำคัญ ปัดบอล 3 จังหวะจะแจ้ง"
+        }
+      ],
+      "matchSummary": "เล่นได้อย่างไร้ที่ติทั้งเกมรุกและเกมรับ ผ่านเข้าสู่รอบรองชนะเลิศได้อย่างสวยงาม กองเชียร์และผู้ปกครองส่งเสียงเชียร์กึกก้อง",
+      "tacticalNotes": "การเปลี่ยนจากรับเป็นรุก (Transition) สมบูรณ์แบบ รักษามาตรฐานความฟิตนี้ไว้เพื่อรอบรองฯ"
+    },
+    {
+      "id": "match-04",
+      "date": "2026-08-02",
+      "time": "15:30",
+      "competition": "Chonburi FA Youth League 2026 (นัดที่ 6)",
+      "matchType": "League",
+      "ageGroup": "U-12",
+      "venue": "สนามเทศบาลเมืองพนัสนิคม (สนามหญ้าจริง 1)",
+      "isHome": true,
+      "opponentName": "อัสสัมชัญ ศรีราชา ยูธ",
+      "skaScore": 1,
+      "opponentScore": 2,
+      "result": "แพ้",
+      "formation": "7v7 (1-2-3-1)",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "manOfTheMatch": "ด.ช. ธีรเดช เมธากุล (#8)",
+      "goals": [
+        {
+          "minute": 22,
+          "scorerPlayerId": "p3",
+          "scorerName": "น้องมาร์คัส",
+          "assistPlayerId": "p2",
+          "assistName": "น้องภัทร",
+          "type": "Open Play"
+        }
+      ],
+      "playerStats": [
+        {
+          "playerId": "p1",
+          "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
+          "jerseyNumber": 10,
+          "position": "กองหน้าตัวเป้า (ST)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 1,
+          "redCards": 0,
+          "rating": 7.2,
+          "coachNotes": "คู่แข่งดักทางได้ดี ต้องเรียนรู้การเคลื่อนที่ดึงตัวประกบ"
+        },
+        {
+          "playerId": "p2",
+          "playerName": "ด.ช. วรภัทร โชควิจิตร",
+          "jerseyNumber": 7,
+          "position": "ปีกขวา (RW)",
+          "isStarter": true,
+          "minutesPlayed": 45,
+          "goals": 0,
+          "assists": 1,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 7.5,
+          "coachNotes": "พยายามเปิดบอลสวยหลายครั้ง"
+        },
+        {
+          "playerId": "p3",
+          "playerName": "ด.ช. ธีรเดช เมธากุล",
+          "jerseyNumber": 8,
+          "position": "กองกลางตัวรุก (CAM)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 1,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 8,
+          "coachNotes": "ยิงประตูขึ้นนำ สู้เต็มที่ตลอดเกม"
+        },
+        {
+          "playerId": "p5",
+          "playerName": "ด.ช. ธนกร พลอยเจริญ",
+          "jerseyNumber": 1,
+          "position": "ผู้รักษาประตู (GK)",
+          "isStarter": true,
+          "minutesPlayed": 50,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "rating": 7,
+          "coachNotes": "เสีย 2 ประตูจากลูกซ้ำจังหวะสอง"
+        }
+      ],
+      "matchSummary": "เป็นเกมที่ดุเดือด นำก่อน 1-0 แต่โดนคู่แข่งเร่งเครื่องแซงช่วงท้าย เป็นบทเรียนล้ำค่าในเรื่องสมาธิและการรักษาทรงบอลภายใต้ความกดดัน",
+      "tacticalNotes": "ต้องฝึกเรื่องการรับมือลูกโด่ง และการสื่อสารระหว่างคู่เซ็นเตอร์กับผู้รักษาประตู"
+    }
+  ],
+  "injuries": [
+    {
+      "id": "inj-01",
+      "playerId": "p2",
+      "playerName": "ด.ช. วรภัทร โชควิจิตร",
+      "ageGroup": "U-12",
+      "jerseyNumber": 7,
+      "injuryDate": "2026-09-08",
+      "expectedReturnDate": "2026-09-18",
+      "bodyPart": "ข้อเท้า (Ankle)",
+      "diagnosis": "ข้อเท้าขวาพลิก เกรด 1 (Lateral Ankle Sprain Grade 1) เอ็นยึดเล็กน้อย ไม่มีกระดูกร้าว",
+      "cause": "การฝึกซ้อม (Training)",
+      "severity": "ระดับ 1 (เล็กน้อย)",
+      "status": "แยกซ้อมเบาๆ (Light Solo)",
+      "treatedBy": "นักกายภาพ ประจำ รพ.พนัสนิคม & โค้ชกฤษณะ",
+      "treatmentPlan": "ประคบเย็นตามหลัก RICE Protocol 48 ชม. แรก ทำกายภาพยืดเหยียดเอ็นร้อยหวาย และฝึกความมั่นคงบน Balance Board",
+      "rehabNotes": [
+        "08 ก.ย. 2026: บาดเจ็บจากการลงน้ำหนักผิดจังหวะระหว่างซ้อม 1v1 ปฐมพยาบาลทันที",
+        "09 ก.ย. 2026: อาการบวมลดลง 80% เดินลงน้ำหนักได้เกือบปกติ",
+        "10 ก.ย. 2026: เริ่มลงสนามแยกวิ่งจ็อกกิ้งเบาๆ และฝึก Balance Pad ไม่พบอาการเจ็บแปลบ"
+      ],
+      "rtpChecklist": {
+        "noPainAtRest": true,
+        "fullRangeOfMotion": true,
+        "strengthRestored": false,
+        "canSprintAndCut": false,
+        "ballDrillsTolerated": false
+      }
+    },
+    {
+      "id": "inj-02",
+      "playerId": "p4",
+      "playerName": "ด.ช. กิตติพงษ์ สัจจะ",
+      "ageGroup": "U-12",
+      "jerseyNumber": 4,
+      "injuryDate": "2026-08-20",
+      "expectedReturnDate": "2026-09-05",
+      "actualReturnDate": "2026-09-05",
+      "bodyPart": "แฮมสตริง (Hamstring)",
+      "diagnosis": "กล้ามเนื้อต้นขาด้านหลังตึงระดับ 1 จากการสปรินต์ไล่กวดบอล",
+      "cause": "การแข่งขัน (Match)",
+      "severity": "ระดับ 1 (เล็กน้อย)",
+      "status": "หายเป็นปกติพร้อมแข่ง 100% (Cleared)",
+      "treatedBy": "คลินิกกายภาพบำบัดพนัสนิคม",
+      "treatmentPlan": "หยุดพัก 5 วัน นวดคลายกล้ามเนื้อ ฟื้นฟูด้วยวิธี Eccentric Hamstring Strengthening (Nordic curls)",
+      "rehabNotes": [
+        "20 ส.ค. 2026: ตึงแฮมสตริงช่วงท้ายเกมอุ่นเครื่อง ถอดเปลี่ยนตัวทันที",
+        "28 ส.ค. 2026: ผ่านเกณฑ์การสปรินต์ 70% ไม่รู้สึกเจ็บ",
+        "05 ก.ย. 2026: ผ่านการทดสอบ Return to Play 100% กลับมาลงซ้อมเต็มระบบและแข่งนัดล่าสุดได้"
+      ],
+      "rtpChecklist": {
+        "noPainAtRest": true,
+        "fullRangeOfMotion": true,
+        "strengthRestored": true,
+        "canSprintAndCut": true,
+        "ballDrillsTolerated": true
+      }
+    },
+    {
+      "id": "inj-03",
+      "playerId": "p9",
+      "playerName": "ด.ช. ณภัทร ธรรมรักษ์",
+      "ageGroup": "U-14",
+      "jerseyNumber": 9,
+      "injuryDate": "2026-09-04",
+      "expectedReturnDate": "2026-09-25",
+      "bodyPart": "หัวเข่า (Knee)",
+      "diagnosis": "เข่าซ้ายฟกช้ำจากการปะทะ (Knee Contusion) มีอาการบวมด้านหน้ากระดูกสะบ้า",
+      "cause": "การแข่งขัน (Match)",
+      "severity": "ระดับ 2 (ปานกลาง)",
+      "status": "รักษาตัว (Under Treatment)",
+      "treatedBy": "แพทย์เวชศาสตร์การกีฬา รพ.ชลบุรี",
+      "treatmentPlan": "สวมสนับเข่าพยุง ทำ Ultrasound บำบัด งดการกระแทก 10 วัน ปั่นจักรยานเบาๆ เสริมกล้ามเนื้อ Quadriceps",
+      "rehabNotes": [
+        "04 ก.ย. 2026: ปะทะกับกองหลังฝั่งตรงข้าม ปฐมพยาบาลด้วย Cold pack ทันที",
+        "07 ก.ย. 2026: พบแพทย์ เอ็กซเรย์ไม่พบกระดูกหัก อาการบวมลดลง",
+        "10 ก.ย. 2026: ทำกายภาพเสริมความแข็งแรงกล้ามเนื้อรอบข้อต่อ"
+      ],
+      "rtpChecklist": {
+        "noPainAtRest": true,
+        "fullRangeOfMotion": false,
+        "strengthRestored": false,
+        "canSprintAndCut": false,
+        "ballDrillsTolerated": false
+      }
+    },
+    {
+      "id": "inj-04",
+      "playerId": "p6",
+      "playerName": "ด.ช. รชต วงศ์สวรรค์",
+      "ageGroup": "U-10",
+      "jerseyNumber": 11,
+      "injuryDate": "2026-09-02",
+      "expectedReturnDate": "2026-09-14",
+      "bodyPart": "กล้ามเนื้อน่อง (Calf)",
+      "diagnosis": "ตะคริวรุนแรงและกล้ามเนื้อน่องล้าสะสม (Calf Strain)",
+      "cause": "การฝึกซ้อม (Training)",
+      "severity": "ระดับ 1 (เล็กน้อย)",
+      "status": "ซ้อมร่วมทีมบางส่วน (Partial Team)",
+      "treatedBy": "โค้ชกฤษณะ ธนะโสภณ",
+      "treatmentPlan": "ดื่มน้ำเกลือแร่สม่ำเสมอ ประคบอุ่นและโฟมโรลเลอร์ (Foam Rolling) วันละ 15 นาที",
+      "rehabNotes": [
+        "02 ก.ย. 2026: ตะคริวขึ้นช่วงท้ายซ้อม ให้พักฟื้นและปรับตารางน้ำดื่ม",
+        "08 ก.ย. 2026: ร่วมซ้อมฝึกส่งบอลเบาๆ ได้ แต่ยังงดซ้อมแข่งความเร็วสูง"
+      ],
+      "rtpChecklist": {
+        "noPainAtRest": true,
+        "fullRangeOfMotion": true,
+        "strengthRestored": true,
+        "canSprintAndCut": false,
+        "ballDrillsTolerated": true
+      }
+    }
+  ],
+  "drills": [
+    {
+      "id": "drill-01",
+      "title": "4v2 Rondo Quick Transition (ลิงชิงบอลสปีดสูง)",
+      "category": "Tactical & Rondo",
+      "ageGroups": [
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "durationMinutes": 15,
+      "intensity": "High",
+      "pitchArea": "10x10 หลา (กรอบสี่เหลี่ยม)",
+      "minPlayers": 6,
+      "equipment": [
+        "กรวยมาร์กเกอร์ 4 อัน",
+        "ลูกฟุตบอล 6 ลูก",
+        "เอี๊ยม 2 สี"
+      ],
+      "objective": "ฝึกการจ่ายบอลเร็ว 1-2 จังหวะ, การเปิดมุมรับบอล (Body Shape) และการเพรสซิ่งแย่งบอลเป็นคู่",
+      "instructions": [
+        "ผู้เล่นรอบนอก 4 คนครองบอล ผู้เล่นตรงกลาง 2 คนไล่บีบแย่งบอล",
+        "ผู้เล่นรอบนอกห้ามแตะบอลเกิน 2 จังหวะ (Condition 2-touch limit)",
+        "หากผู้เล่นตรงกลางตัดบอลได้ ให้สลับตัวกับผู้เล่นที่ทำบอลเสียทันที",
+        "หากจ่ายบอลทะลุช่องกลางระหว่างผู้ไล่บอล 2 คนได้สำเร็จ นับเป็น 1 แต้มพิเศษ (Split Pass)"
+      ],
+      "coachingPoints": [
+        "เปิดร่างกายรับบอลให้เห็นทั้งสนาม (Open body orientation)",
+        "ความแม่นยำและน้ำหนักของบอล (Weight of pass) ต้องพอดีเท้าเพื่อน",
+        "ผู้เล่นตรงกลางต้องสื่อสารและบีบพร้อมกัน (Compact pressing)"
+      ],
+      "variations": [
+        "บังคับเล่นจังหวะเดียว (1-Touch) เมื่อชำนาญขึ้น",
+        "ขยายขนาดกรอบเป็น 12x12 หลาสำหรับรุ่นเด็ก U-10"
+      ],
+      "diagramType": "rondo",
+      "attachments": [
+        {
+          "id": "att-drill-01-png",
+          "name": "แผนภาพตำแหน่งยืน 4v2 Rondo Tactical Board.png",
+          "type": "image",
+          "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 560\" width=\"800\" height=\"560\">\n  <defs>\n    <radialGradient id=\"turfGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\">\n      <stop offset=\"0%\" stop-color=\"%231b4332\"/>\n      <stop offset=\"100%\" stop-color=\"%23081c15\"/>\n    </radialGradient>\n    <pattern id=\"turfStripe\" width=\"80\" height=\"80\" patternUnits=\"userSpaceOnUse\">\n      <rect width=\"80\" height=\"40\" fill=\"%232d6a4f\" opacity=\"0.15\"/>\n      <rect y=\"40\" width=\"80\" height=\"40\" fill=\"%231b4332\" opacity=\"0.15\"/>\n    </pattern>\n  </defs>\n  <!-- Background Grass Pitch -->\n  <rect width=\"800\" height=\"560\" rx=\"16\" fill=\"url(%23turfGrad)\"/>\n  <rect width=\"800\" height=\"560\" rx=\"16\" fill=\"url(%23turfStripe)\"/>\n  \n  <!-- Outer Grid -->\n  <rect x=\"140\" y=\"70\" width=\"520\" height=\"420\" rx=\"12\" fill=\"%232d6a4f\" fill-opacity=\"0.35\" stroke=\"%2352b788\" stroke-width=\"3\" stroke-dasharray=\"6,6\"/>\n  \n  <!-- Cones at 4 corners -->\n  <polygon points=\"140,70 132,85 148,85\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n  <polygon points=\"660,70 652,85 668,85\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n  <polygon points=\"140,490 132,505 148,505\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n  <polygon points=\"660,490 652,505 668,505\" fill=\"%23ff9e00\" stroke=\"%23e85d04\" stroke-width=\"2\"/>\n\n  <!-- Center dashed line -->\n  <circle cx=\"400\" cy=\"280\" r=\"90\" fill=\"none\" stroke=\"%2352b788\" stroke-width=\"2\" stroke-opacity=\"0.5\" stroke-dasharray=\"4,4\"/>\n\n  <!-- Passing Pathways (Arrows) -->\n  <path d=\"M 400 115 L 620 280\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n  <path d=\"M 620 280 L 400 445\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n  <path d=\"M 400 445 L 180 280\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n  <path d=\"M 180 280 L 400 115\" stroke=\"%23ffd166\" stroke-width=\"3\" stroke-dasharray=\"8,6\" fill=\"none\"/>\n\n  <!-- Split Pass Option (Direct Through Center) -->\n  <path d=\"M 180 280 L 620 280\" stroke=\"%2306d6a0\" stroke-width=\"4\" stroke-dasharray=\"4,4\" fill=\"none\"/>\n\n  <!-- Outside Attacking Players (4 Blue) -->\n  <!-- Top player with ball -->\n  <circle cx=\"400\" cy=\"115\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"400\" y=\"122\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P1</text>\n  <!-- Ball near P1 -->\n  <circle cx=\"430\" cy=\"115\" r=\"10\" fill=\"%23ffffff\" stroke=\"%231e293b\" stroke-width=\"2\"/>\n  <circle cx=\"430\" cy=\"115\" r=\"4\" fill=\"%23000000\"/>\n\n  <!-- Right player -->\n  <circle cx=\"620\" cy=\"280\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"620\" y=\"287\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P2</text>\n\n  <!-- Bottom player -->\n  <circle cx=\"400\" cy=\"445\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"400\" y=\"452\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P3</text>\n\n  <!-- Left player -->\n  <circle cx=\"180\" cy=\"280\" r=\"24\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"180\" y=\"287\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">P4</text>\n\n  <!-- Inside Pressing Defenders (2 Red) -->\n  <circle cx=\"350\" cy=\"265\" r=\"22\" fill=\"%23dc2626\" stroke=\"%23fca5a5\" stroke-width=\"3\"/>\n  <text x=\"350\" y=\"272\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">D1</text>\n\n  <circle cx=\"440\" cy=\"295\" r=\"22\" fill=\"%23dc2626\" stroke=\"%23fca5a5\" stroke-width=\"3\"/>\n  <text x=\"440\" y=\"302\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">D2</text>\n\n  <!-- Labels & Pitch Annotation -->\n  <rect x=\"20\" y=\"20\" width=\"340\" height=\"36\" rx=\"8\" fill=\"%230f172a\" fill-opacity=\"0.85\"/>\n  <text x=\"35\" y=\"43\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"%2338bdf8\">แผนภาพแท็กติก 4v2 Rondo Transition Drill</text>\n\n  <rect x=\"490\" y=\"505\" width=\"290\" height=\"35\" rx=\"8\" fill=\"%230f172a\" fill-opacity=\"0.85\"/>\n  <text x=\"505\" y=\"527\" font-family=\"sans-serif\" font-size=\"12\" fill=\"%2394a3b8\">เส้นประสีเขียว = ช่อง Split Pass (+1 แต้ม)</text>\n</svg>",
+          "size": 45200,
+          "uploadedAt": "2026-09-10T10:30:00.000Z",
+          "caption": "แผนภาพแสดงตำแหน่ง P1-P4 รอบนอก และช่องจ่ายบอล Split Pass ทะลุคู่ไล่บอล D1-D2"
+        },
+        {
+          "id": "att-drill-01-video",
+          "name": "คลิปสาธิตแท็กติก Rondo Speed & Transition.mp4",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "uploadedAt": "2026-09-11T14:15:00.000Z",
+          "caption": "ตัวอย่างการเคลื่อนที่ของลูกฟุตบอลและการบีบพื้นที่แบบ Compact Pressing"
+        },
+        {
+          "id": "att-drill-01-pdf",
+          "name": "คู่มือหลักสูตร AFC Rondo Coaching Guide.pdf",
+          "type": "pdf",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "size": 215400,
+          "uploadedAt": "2026-09-12T09:00:00.000Z",
+          "caption": "เอกสารหลักสูตรสมาคมฯ รายละเอียดเกณฑ์การประเมิน 2-Touch Limit และ Key Factors"
+        }
+      ]
+    },
+    {
+      "id": "drill-02",
+      "title": "1v1 Corridor Attacking & Finishing under Pressure",
+      "category": "Dribbling & 1v1",
+      "ageGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14"
+      ],
+      "durationMinutes": 20,
+      "intensity": "High",
+      "pitchArea": "ช่องทางเดิน 15x25 หลา หน้ากรอบเขตโทษ",
+      "minPlayers": 8,
+      "equipment": [
+        "กรวยหลัก 6 อัน",
+        "ลูกบอล 10 ลูก",
+        "ประตูหลักพร้อมโกล",
+        "ประตูมินิ 2 หลัง"
+      ],
+      "objective": "พัฒนาทักษะการเลี้ยงจี้คู่แข่ง, การใช้ท่าหลอก (Body Feint/Step-over) และการยิงประตูอย่างรวดเร็ว",
+      "instructions": [
+        "กองรุกเริ่มจากกรวยหน้าช่อง เลี้ยงบอลจี้ตรงไปหากองหลังที่ออกมาขวาง",
+        "กองรุกมีเวลา 6 วินาทีในการเลี้ยงผ่านหรือหาจังหวะยิงเข้าประตูใหญ่",
+        "หากกองหลังตัดบอลได้ สามารถสวนกลับยิงเข้าประตูมินิด้านข้าง 2 หลังได้ทันที",
+        "สลับบทบาทกองรุก-กองรับทุก 5 นาที"
+      ],
+      "coachingPoints": [
+        "เลี้ยงจี้คู่แข่งด้วยความเร็วเพื่อบีบให้กองหลังถอยหลัง (Attack space aggressively)",
+        "เปลี่ยนทิศทางอย่างฉับพลันด้วยการทิ้งน้ำหนักหลอก (Deceptive body shift)",
+        "ยิงประตูด้วยปลายเท้าหรือข้างเท้าด้านในเน้นเข้ามุมเสา ไม่จำเป็นต้องยิงแรงสุดแรง"
+      ],
+      "variations": [
+        "เพิ่มกองรุกเป็น 2v1 หากต้องการเน้นการทำชิ่ง One-Two"
+      ],
+      "diagramType": "corridor-1v1",
+      "attachments": [
+        {
+          "id": "att-drill-02-png",
+          "name": "แผนผังสนามช่องทางเดิน 1v1 Corridor Scheme.png",
+          "type": "image",
+          "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 560\" width=\"800\" height=\"560\">\n  <defs>\n    <radialGradient id=\"turfGrad2\" cx=\"50%\" cy=\"50%\" r=\"70%\">\n      <stop offset=\"0%\" stop-color=\"%23143625\"/>\n      <stop offset=\"100%\" stop-color=\"%23081c15\"/>\n    </radialGradient>\n  </defs>\n  <rect width=\"800\" height=\"560\" rx=\"16\" fill=\"url(%23turfGrad2)\"/>\n  \n  <!-- Goal Net at Bottom -->\n  <rect x=\"290\" y=\"480\" width=\"220\" height=\"50\" rx=\"6\" fill=\"%23ffffff\" fill-opacity=\"0.2\" stroke=\"%23ffffff\" stroke-width=\"4\"/>\n  <text x=\"400\" y=\"512\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">GOAL ประตูหลัก</text>\n\n  <!-- Corridor Box -->\n  <rect x=\"220\" y=\"70\" width=\"360\" height=\"390\" rx=\"12\" fill=\"%231e40af\" fill-opacity=\"0.1\" stroke=\"%2338bdf8\" stroke-width=\"3\" stroke-dasharray=\"8,6\"/>\n  \n  <!-- Side Mini Goals for Counter -->\n  <rect x=\"120\" y=\"100\" width=\"50\" height=\"90\" rx=\"4\" fill=\"%23ef4444\" fill-opacity=\"0.2\" stroke=\"%23f87171\" stroke-width=\"2\"/>\n  <text x=\"145\" y=\"150\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"%23fca5a5\" text-anchor=\"middle\" transform=\"rotate(-90 145 150)\">MINI GOAL</text>\n\n  <rect x=\"630\" y=\"100\" width=\"50\" height=\"90\" rx=\"4\" fill=\"%23ef4444\" fill-opacity=\"0.2\" stroke=\"%23f87171\" stroke-width=\"2\"/>\n  <text x=\"655\" y=\"150\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"bold\" fill=\"%23fca5a5\" text-anchor=\"middle\" transform=\"rotate(90 655 150)\">MINI GOAL</text>\n\n  <!-- Attacker Running Arrow (Blue) -->\n  <path d=\"M 400 120 Q 360 210 420 320\" stroke=\"%2338bdf8\" stroke-width=\"4\" stroke-dasharray=\"6,6\" fill=\"none\"/>\n  \n  <!-- Attacking Player (Blue) -->\n  <circle cx=\"400\" cy=\"110\" r=\"22\" fill=\"%232563eb\" stroke=\"%2393c5fd\" stroke-width=\"3\"/>\n  <text x=\"400\" y=\"117\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">ATT</text>\n  <circle cx=\"425\" cy=\"110\" r=\"8\" fill=\"%23ffffff\" stroke=\"%23000000\" stroke-width=\"1.5\"/>\n\n  <!-- Defender (Red) -->\n  <circle cx=\"400\" cy=\"270\" r=\"22\" fill=\"%23dc2626\" stroke=\"%23fca5a5\" stroke-width=\"3\"/>\n  <text x=\"400\" y=\"277\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">DEF</text>\n\n  <!-- Goalkeeper (Yellow) -->\n  <circle cx=\"400\" cy=\"460\" r=\"20\" fill=\"%23eab308\" stroke=\"%23fef08a\" stroke-width=\"3\"/>\n  <text x=\"400\" y=\"466\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"%231e293b\" text-anchor=\"middle\">GK</text>\n\n  <!-- Header -->\n  <rect x=\"20\" y=\"20\" width=\"370\" height=\"34\" rx=\"8\" fill=\"%230f172a\" fill-opacity=\"0.85\"/>\n  <text x=\"35\" y=\"42\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"%2338bdf8\">1v1 Corridor Attack &amp; Defensive Transition</text>\n</svg>",
+          "size": 42100,
+          "uploadedAt": "2026-09-12T11:20:00.000Z",
+          "caption": "ผังการจัดมาร์กเกอร์และประตูด้านข้างสำหรับจังหวะ Counter-attack"
+        },
+        {
+          "id": "att-drill-02-pdf",
+          "name": "เกณฑ์คะแนนทักษะ 1v1 Body Feint & Finishing.pdf",
+          "type": "pdf",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "size": 184200,
+          "uploadedAt": "2026-09-13T16:00:00.000Z",
+          "caption": "เอกสารชี้แจงเทคนิคการหลอกล่อด้วยท่วงท่า และการจบสกอร์ด้วยความเด็ดขาด"
+        }
+      ]
+    },
+    {
+      "id": "drill-03",
+      "title": "3v2 Continuous Wave Attack with Overlapping Wings",
+      "category": "Finishing & Shooting",
+      "ageGroups": [
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "durationMinutes": 25,
+      "intensity": "Maximum",
+      "pitchArea": "ครึ่งสนามฟุตบอล",
+      "minPlayers": 12,
+      "equipment": [
+        "ลูกบอล 15 ลูก",
+        "ประตูขนาดมาตรฐาน 1 หลัง",
+        "เอี๊ยม 3 สี (ทีมละ 3 คน)"
+      ],
+      "objective": "การสร้างสรรค์เกมรุกเมื่อมีผู้เล่นมากกว่า (Numerical Advantage) การเติมเกมของฟูลแบ็ก และการจบสกอร์ในกรอบเขตโทษ",
+      "instructions": [
+        "ทีมรุก 3 คนต่อบอลโจมตีกองหลัง 2 คน + ผู้รักษาประตู 1 คน",
+        "เมื่อจบจังหวะยิง (หรือกองหลังตัดบอลได้) ทีมรุก 2 คนจะกลายเป็นกองหลังทันที",
+        "ทีมรุกชุดใหม่ 3 คนจะเริ่มบุกสวนลงมาเป็นคลื่น (Wave attack continuous)",
+        "เน้นการวิ่งโอเวอร์แล็ป (Overlapping run) และการตัดเข้าใน (Inverted cut)"
+      ],
+      "coachingPoints": [
+        "ตัวครองบอลต้องดึงตัวประกบให้เข้ามาใกล้ก่อนปล่อยบอล (Commit the defender)",
+        "ปีกหรือผู้เล่นด้านกว้างต้องสปีดเติมเกมสุดเส้นหลัง (Timing of overlaps)",
+        "จังหวะเข้าทำหน้าประตูต้องมีตัวโฉบเสาแรก เสาสอง และแถวสอง (Box penetration layers)"
+      ],
+      "variations": [
+        "ให้แตะบอลได้ไม่เกิน 3 ครั้งต่อคนก่อนยิง"
+      ],
+      "diagramType": "wave-attack"
+    },
+    {
+      "id": "drill-04",
+      "title": "Small Sided Game: 6v6 2-Touch Conditioned Match",
+      "category": "Small Sided Games (SSG)",
+      "ageGroups": [
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "durationMinutes": 30,
+      "intensity": "Maximum",
+      "pitchArea": "สนามหญ้าเทียม 35x45 หลา",
+      "minPlayers": 12,
+      "equipment": [
+        "ลูกบอล 8 ลูก",
+        "ประตูมินิ 2 หลัง หรือ ประตู 7 คน",
+        "เอี๊ยม 2 สี"
+      ],
+      "objective": "จำลองสถานการณ์แข่งขันจริงภายใต้พื้นที่จำกัด เพิ่มความเร็วในการตัดสินใจและการเคลื่อนที่แบบไร้บอล (Off-the-ball movements)",
+      "instructions": [
+        "แบ่งผู้เล่น 6v6 รวมผู้รักษาประตู",
+        "แดนกลางเล่นได้ไม่เกิน 2 จังหวะ เพื่อบังคับให้บอลเคลื่อนที่ตลอดเวลา",
+        "ในกรอบเขตโทษ อนุญาตให้เล่นได้อิสระไม่จำกัดจังหวะเพื่อจบสกอร์",
+        "ทุกครั้งที่ทำประตูได้หลังจากการต่อบอลเกิน 5 ครั้ง จะได้รับแต้มคูณสอง"
+      ],
+      "coachingPoints": [
+        "สแกนพื้นที่รอบตัวล่วงหน้าก่อนที่บอลจะมาถึงเท้า (Pre-orientation / Scanning)",
+        "สื่อสารด้วยเสียงเรียกเพื่อนอย่างต่อเนื่อง (Clear vocal communication)",
+        "เมื่อเสียบอล ทุกคนต้องปรับทรงกลับมารับทันทีภายใน 3 วินาที (3-second counter-press)"
+      ],
+      "variations": [
+        "เพิ่มผู้เล่นเป็นตัวฟรี (Joker/Neutral player) สวมเสื้อสีที่ 3 เพื่อช่วยทีมที่ครองบอล"
+      ],
+      "diagramType": "ssg-pitch"
+    },
+    {
+      "id": "drill-05",
+      "title": "SAQ Speed, Agility & Quickness with Reaction Finish",
+      "category": "Warm-up & SAQ",
+      "ageGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "durationMinutes": 15,
+      "intensity": "High",
+      "pitchArea": "ริมเส้นหรือพื้นที่หลังประตู 15x20 หลา",
+      "minPlayers": 6,
+      "equipment": [
+        "บันไดลิง Agility Ladder 2 ชุด",
+        "กรวยเตี้ย 12 อัน",
+        "ห่วงกระโดด Speed Rings 6 วง"
+      ],
+      "objective": "เสริมสร้างความคล่องตัว การประสานงานของประสาทกล้ามเนื้อ (Neuromuscular coordination) และปฏิกิริยาตอบสนองฉับไว",
+      "instructions": [
+        "ผู้เล่นเข้าสถานีบันไดลิง: วิ่งก้าวสลับ Icky Shuffle หรือ Two-in-Two-out",
+        "กระโดดข้ามห่วงด้วยขาคู่และขาเดี่ยวรักษาความสมดุลลำตัว",
+        "สปรินต์ซิกแซกผ่านกรวยเตี้ย 5 เมตร",
+        "โค้ชตะโกนเรียกสีหรือชูมือ เพื่อให้นักเตะกลับตัวสปรินต์แตะกรวยเป้าหมายให้เร็วที่สุด"
+      ],
+      "coachingPoints": [
+        "ปลายเท้ายกสูง ไม่ลงน้ำหนักที่ส้นเท้า (Stay on balls of feet)",
+        "แกว่งแขนให้สัมพันธ์กับจังหวะก้าวขา ลำตัวโน้มไปข้างหน้าเล็กน้อย",
+        "สายตามองตรงข้างหน้า ไม่งอคอก้มมองแต่เท้า"
+      ],
+      "diagramType": "passing-diamond"
+    },
+    {
+      "id": "drill-06",
+      "title": "Passing Diamond: Combination Play & Third-Man Run",
+      "category": "Technical Passing & Receiving",
+      "ageGroups": [
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "durationMinutes": 20,
+      "intensity": "Moderate",
+      "pitchArea": "รูปเพชร 18x18 หลา",
+      "minPlayers": 8,
+      "equipment": [
+        "กรวยรูปเพชร 4 ตำแหน่ง + กรวยกลาง 1 อัน",
+        "ลูกบอล 6 ลูก"
+      ],
+      "objective": "การต่อบอลทำทางแบบ Third Man Run (ผู้เล่นคนที่สามวิ่งสอดรับบอล) และการส่งบอลทะลุช่องแบบอัตโนมัติ",
+      "instructions": [
+        "ผู้เล่นยืนประจำ 4 จุดมุมเพชรและ 1 จุดตรงกลาง",
+        "A ส่งบอลให้ B (จุดกลาง) -> B แปะบอลคืนให้ A -> A แทงบอลทะลุช่องให้ C ที่วิ่งสอดขึ้นมา (Third Man)",
+        "C รับบอลแล้วทำซ้ำกระบวนการต่อไปยังจุด D รอบรูปเพชร",
+        "ผู้เล่นวิ่งสลับตำแหน่งตามทิศทางที่ส่งบอลไป"
+      ],
+      "coachingPoints": [
+        "จังหวะวิ่งสอดต้องสัมพันธ์กับเวลาที่เพื่อนเงยหน้าพร้อมจ่ายบอล (Timing of the run)",
+        "การแปะบอลคืนต้องนิ่มนวลและวางบนเท้าข้างถนัดของเพื่อน (Soft cushion set-up pass)",
+        "เล่นด้วยความเร็วและจังหวะที่เป็นธรรมชาติเหมือนแข่งจริง"
+      ],
+      "diagramType": "passing-diamond"
+    },
+    {
+      "id": "drill-07",
+      "title": "Rapid Shooting from Box Edges with Rebound Hunters",
+      "category": "Finishing & Shooting",
+      "ageGroups": [
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "durationMinutes": 20,
+      "intensity": "High",
+      "pitchArea": "หน้ากรอบเขตโทษ 18 หลา",
+      "minPlayers": 8,
+      "equipment": [
+        "ประตูมาตรฐานพร้อมตาข่าย",
+        "ลูกบอล 16 ลูก",
+        "มาร์กเกอร์จุดยิง 4 จุด"
+      ],
+      "objective": "ฝึกยิงประตูจังหวะเดียวจากระยะ 16-20 หลา และการวิ่งซ้ำจังหวะสอง (Rebound pursuit)",
+      "instructions": [
+        "โค้ชหรือเพื่อนจ่ายบอลเรียดมาจากด้านข้าง เข้าหาหัวกะโหลกกรอบเขตโทษ",
+        "ผู้เล่นสปีดเข้ามายิงด้วยข้างเท้าด้านในหรือหลังเท้าแบบ First-time finish",
+        "ผู้เล่นคนที่สองที่อยู่มุมตรงข้ามต้องสปรินต์เข้าซ้ำทันทีหากผู้รักษาประตูปัดบอล",
+        "สลับจุดยิงจากฝั่งซ้ายและฝั่งขวา"
+      ],
+      "coachingPoints": [
+        "หัวเข่าและลำตัวต้องคร่อมทับลูกบอลเวลาสัมผัส เพื่อไม่ให้บอลลอยเหินข้ามคาน",
+        "เล็งมุมเสาไกลหรือมุมล่างที่ผู้รักษาประตูล้มตัวรับยากที่สุด",
+        "ตามซ้ำทุกจังหวะอย่างไม่ลังเล (Never assume the keeper will catch cleanly)"
+      ],
+      "diagramType": "shooting-box"
+    },
+    {
+      "id": "drill-08",
+      "title": "Defending Compact Shape: Low Block & Counter Pressing",
+      "category": "Defending & Pressing",
+      "ageGroups": [
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "durationMinutes": 25,
+      "intensity": "High",
+      "pitchArea": "ครึ่งสนาม 30x40 หลา",
+      "minPlayers": 10,
+      "equipment": [
+        "กรวยบอกแนวระนาบ 8 อัน",
+        "ลูกบอล 8 ลูก",
+        "เอี๊ยม 2 สี"
+      ],
+      "objective": "การรักษาความกระชับของแนวรับ (Horizontal & Vertical Compactness) และการบีบดักบอลในพื้นที่อันตราย",
+      "instructions": [
+        "ทีมรับ 4 คน (กองหลัง 3 + กองกลางรับ 1) ป้องกันพื้นที่หน้ากรอบ",
+        "ทีมรุก 5 คนพยายามต่อบอลเจาะเข้าพื้นที่อันตราย",
+        "ทีมรับต้องขยับตามทิศทางบอลเป็นแผงพร้อมกัน (Shift as a unit)",
+        "เมื่อตัดบอลได้ ให้เวลา 8 วินาทีในการส่งบอลทะลุไปถึงกรวยเป้าหมายแดนหน้า"
+      ],
+      "coachingPoints": [
+        "ระยะห่างระหว่างผู้เล่นในแนวรับต้องไม่เกิน 8-10 หลา",
+        "คนใกล้บอลบีบเข้าหา (Press) คนข้างๆ ซ้อนตำแหน่ง (Cover & Balance)",
+        "อย่ารีบพุ่งเสียบ ให้ชะลอและบีบคู่แข่งออกไปทางริมเส้น"
+      ],
+      "diagramType": "ssg-pitch"
+    }
+  ],
+  "reportCards": [],
+  "structure": {
+    "philosophy": {
+      "motto": "สร้างคนดี ควบคู่ปั้นนักฟุตบอลอาชีพสู่เวทีระดับชาติ",
+      "vision": "มุ่งมั่นพัฒนาเยาวชนอำเภอพนัสนิคมและภาคตะวันออก ให้มีความเป็นเลิศทางฟุตบอลตามมาตรฐานสากล พร้อมปลูกฝังวินัย ทักษะชีวิต และการศึกษาที่มั่นคง",
+      "mission": "พัฒนาระบบการฝึกซ้อมตาม 4 เสาหลัก (เทคนิค, แท็กติก, ร่างกาย, จิตวิทยา) ด้วยหลักสูตรที่เป็นขั้นตอน ส่งต่อนักเตะสู่อะคาเดมี่ชั้นนำ สโมสรฟุตบอลอาชีพ และสถาบันการศึกษาชั้นนำทั่วประเทศ",
+      "coreValues": [
+        "ความมีวินัยและตรงต่อเวลา (Discipline & Punctuality)",
+        "การเคารพซึ่งกันและกัน (Respect for Teammates, Opponents & Referees)",
+        "ความกล้าเล่นและสร้างสรรค์ (Courage & Creativity on the Ball)",
+        "จิตวิญญาณแห่งชัยชนะที่ไม่ยอมแพ้ (Unrelenting Work Ethic)",
+        "การทำงานเป็นทีม (Together Everyone Achieves More)",
+        "ความรับผิดชอบต่อการเรียนและครอบครัว (Academic & Family Balance)"
+      ],
+      "developmentPillars": [
+        {
+          "title": "Technical Mastery",
+          "thaiMeaning": "ความเป็นเลิศด้านทักษะเฉพาะตัว",
+          "description": "การควบคุมบอล เลี้ยง ส่ง ยิง และสัมผัสบอลแรก (First Touch) ภายใต้แรงกดดันจากคู่แข่งอย่างเป็นธรรมชาติและมีสมาธิ",
+          "keyPrinciples": [
+            "First Touch ชี้นำทิศทาง",
+            "การใช้เท้าทั้งสองข้างได้อย่างมั่นใจ",
+            "1v1 Offensive & Defensive Dominance"
+          ]
+        },
+        {
+          "title": "Tactical Understanding",
+          "thaiMeaning": "ความเข้าใจเกมและระบบการเล่น",
+          "description": "เข้าใจตำแหน่งหน้าที่ (Positional Play) การอ่านเกม การเคลื่อนที่ไร้บอล และการตัดสินใจในเสี้ยววินาที",
+          "keyPrinciples": [
+            "สร้างมิติเกมรับ-รุก (Width & Depth)",
+            "Scanning รอบตัวก่อนรับบอลตลอดเวลา",
+            "Transition รับเป็นรุก รุกเป็นรับรวดเร็ว"
+          ]
+        },
+        {
+          "title": "Physical Development",
+          "thaiMeaning": "สมรรถภาพทางกายตามวัย (LTAD)",
+          "description": "พัฒนาความคล่องแคล่ว ความเร็ว ความแข็งแรง และความยืดหยุ่น โดยคำนึงถึงช่วงอายุและการเติบโต ป้องกันอาการบาดเจ็บ",
+          "keyPrinciples": [
+            "Agility, Balance, Coordination (ABC)",
+            "Core Stability & Functional Movement",
+            "Speed of Reaction & Acceleration"
+          ]
+        },
+        {
+          "title": "Psychological & Social",
+          "thaiMeaning": "ทัศนคติ จิตวิทยา และวินัยทางสังคม",
+          "description": "สร้างภาวะผู้นำ ความอดทนต่อความกดดัน การสื่อสารในสนาม และความอ่อนน้อมถ่อมตนทั้งในและนอกสนาม",
+          "keyPrinciples": [
+            "Growth Mindset ไม่กลัวความผิดพลาด",
+            "Emotional Control ในสถานการณ์วิกฤต",
+            "Leadership & Strong Communication"
+          ]
+        }
+      ],
+      "coachEthos": "โค้ชคือแม่พิมพ์และผู้ชี้แนะ ไม่ใช่ผู้ควบคุมที่ใช้ความกลัว เน้นการตั้งคำถามให้นักเตะคิดเอง (Guided Discovery) ให้กำลังใจ และเป็นแบบอย่างที่ดีทั้งวาจาและการกระทำ",
+      "parentAllianceGuide": "สโมสรและผู้ปกครองคือทีมเดียวกัน สนับสนุนกำลังใจเชิงบวก ไม่ตะโกนสั่งแท็กติกจากข้างสนาม ปล่อยให้เด็กและโค้ชทำงานร่วมกันอย่างเต็มที่"
+    },
+    "styleOfPlay": {
+      "dnaOverview": "Proactive Attacking & High-Pressing Football (ฟุตบอลเชิงรุก ดุดัน ครอบครองบอลสร้างสรรค์โอกาส และเพรสซิ่งสูงทันทีที่เสียบอล)",
+      "primaryFormation": "1-4-3-3 (Dominant Possession & Wing Play)",
+      "secondaryFormation": "1-3-4-2-1 / 1-4-2-3-1 (Flexible Structure)",
+      "phases": [
+        {
+          "phase": "Attacking (เกมรุกมีบอล)",
+          "formation": "1-4-3-3 (กระจายตัวกว้าง Width & Depth)",
+          "principles": [
+            "Build-up จากแดนหลังอย่างเยือกเย็นและปลอดภัยผ่านผู้รักษาประตูและเซ็นเตอร์แบ็ก",
+            "กองกลางหมุนเวียนหาพื้นที่ว่าง (Overload in Midfield) เพื่อทะลุทะลวง Line-breaking pass",
+            "ริมเส้นกว้าง 1v1 ปีกเปิดพื้นที่ Overlap / Underlap ของฟูลแบ็ก",
+            "การสอดเข้ากรอบเขตโทษ 3-4 คนในจังหวะเข้าทำ (Box occupation)"
+          ],
+          "keyInstructions": [
+            "มองไปข้างหน้าก่อนเสมอ (Play forward when possible)",
+            "ขยับทำมุมรับบอลอย่างน้อย 2 ทางเลือก (Support Angles)",
+            "ไม่ยืนซ้อนแถวเดียวกันในแนวดิ่ง"
+          ]
+        },
+        {
+          "phase": "Defensive Transition (เสียบอล/ตัดเกมกลับ)",
+          "formation": "Gegenpressing 5-Second Rule",
+          "principles": [
+            "เคาน์เตอร์เพรสซิ่งทันทีภายใน 5 วินาทีแรกที่เสียบอลเพื่อแย่งกลับ",
+            "ผู้เล่นที่ใกล้บอลที่สุดบีบพื้นที่ทันทีเพื่อปิดมุมจ่ายแนวลึก",
+            "ผู้เล่นคนอื่นบีบโซนเข้ามาเป็นหน่วยบล็อกกะทัดรัด (Compact)"
+          ],
+          "keyInstructions": [
+            "Reaction ทันที ไม่ก้มหน้าเสียดาย",
+            "ถ้าไม่สามารถแย่งบอลได้ภายใน 5 วินาที ให้รีบถอยกลับจัด Shape ป้องกันแดนกลาง"
+          ]
+        },
+        {
+          "phase": "Defending (เกมรับไร้บอล)",
+          "formation": "Compact Mid/High Block (1-4-4-2 Shape)",
+          "principles": [
+            "รักษาความกระชับระหว่างแดนหน้ากับแดนหลังไม่เกิน 25-30 เมตร",
+            "บีบเกมให้คู่แข่งต้องเล่นออกข้างลำเลียงบอลยาก (Force Wide)",
+            "เซ็นเตอร์แบ็กและฟูลแบ็กคุมพื้นที่เสาสองและป้องกันลูกครอส"
+          ],
+          "keyInstructions": [
+            "สื่อสารและดันไลน์เช็คล้ำหน้าพร้อมกัน",
+            "ป้องกันพื้นที่อันตรายตรงกลางหน้ากรอบเขตโทษ (Zone 14)"
+          ]
+        },
+        {
+          "phase": "Attacking Transition (แย่งบอลได้/สวนกลับ)",
+          "formation": "Direct & Incisive Counter-Attack",
+          "principles": [
+            "เมื่อตัดบอลได้ ให้จ่ายบอลออกจากโซนที่หนาแน่นทันที",
+            "กองหน้าและปีกวิ่งฉีกช่องว่างหลังแนวรับคู่แข่ง (Run in behind)",
+            "จบสกอร์ด้วยความเด็ดขาดภายใน 3-4 สัมผัส"
+          ],
+          "keyInstructions": [
+            "สแกนกองหน้าและปีกทันทีก่อนแย่งบอลได้",
+            "หากไม่มีพื้นที่ว่าง ให้เก็บบอลไว้แล้วรีเซ็ตเข้าสู่ Possession Build-up"
+          ]
+        },
+        {
+          "phase": "Set Pieces (ลูกตั้งเตะ)",
+          "formation": "Zonal & Man-Marking Hybrid",
+          "principles": [
+            "เตะมุมรุก: ซ้อมรูปแบบสั้นและแบบเปิดเข้าจุดนัดพบเสาแรก-เสาสอง",
+            "เตะมุมรับ: ผสมผสานคุมโซน 6 หลา และประกบตัวต่อตัวสำหรับผู้เล่นเสี่ยง",
+            "ฟรีคิกหน้ากรอบ: วางกำแพงกระชับและส่งผู้เล่นเร็วเตรียมโต้กลับ"
+          ],
+          "keyInstructions": [
+            "ความกระตือรือร้นและชัยชนะในการดวลลูกกลางอากาศ (Aerial duel dominance)"
+          ]
+        }
+      ],
+      "ageGroupProgression": [
+        {
+          "ageGroup": "U-8",
+          "gameFormat": "5v5 (Fun, Ball Mastery & 1v1)",
+          "focusTactics": "ให้เด็กได้สัมผัสบอลมากที่สุด เลี้ยงบอลอย่างอิสระ กล้าเล่น ไม่เน้นแท็กติกซับซ้อน",
+          "keyLearningOutcomes": [
+            "สัมผัสบอล 300+ ครั้ง/การซ้อม",
+            "กล้าเลี้ยงหลบ 1v1",
+            "รู้จักการส่งบอลให้เพื่อนร่วมทีม"
+          ]
+        },
+        {
+          "ageGroup": "U-10",
+          "gameFormat": "7v7 (Shape, Passing & Width)",
+          "focusTactics": "เริ่มสร้างรูปทรงสามเหลี่ยมและสี่เหลี่ยมขนมเปียกปูน (Triangles & Diamonds) เข้าใจบทบาทรุก-รับพื้นฐาน",
+          "keyLearningOutcomes": [
+            "การเปิดพื้นที่กว้าง (Width)",
+            "First Touch หันทิศทางที่จะเล่น",
+            "การถอยช่วยเกมรับเมื่อเสียบอล"
+          ]
+        },
+        {
+          "ageGroup": "U-12",
+          "gameFormat": "9v9 (Build-up, Roles & Transition)",
+          "focusTactics": "การขึ้นเกมจากแดนหลัง (Build-up play) ความเข้าใจในตำแหน่งเฉพาะของตนเองและการสลับตำแหน่งง่ายๆ",
+          "keyLearningOutcomes": [
+            "การบิวต์อัพผ่านผู้รักษาประตู",
+            "การสแกนพื้นที่รอบตัว (Scanning)",
+            "การเพรสซิ่งเป็นกลุ่มย่อย (Small unit press)"
+          ]
+        },
+        {
+          "ageGroup": "U-14",
+          "gameFormat": "11v11 (Full Pitch Tactics & Systems)",
+          "focusTactics": "การเล่น 11 คนเต็มสนาม ทำความเข้าใจระบบ 4-3-3, การบีบพื้นที่ (Compactness) และยุทธวิธีการรุกเจาะโซน",
+          "keyLearningOutcomes": [
+            "การรักษาไลน์เช็คล้ำหน้า",
+            "การเปลี่ยนจังหวะรุก-รับ (Transitions)",
+            "ความเร็วในการตัดสินใจ (Speed of thought)"
+          ]
+        },
+        {
+          "ageGroup": "U-16",
+          "gameFormat": "11v11 (High Performance & Specialization)",
+          "focusTactics": "แท็กติกเข้มข้น ความแข็งแกร่งทางร่างกาย การเล่นภายใต้แรงกดดันจากคู่แข่งระดับลีกเยาวชนอาชีพ",
+          "keyLearningOutcomes": [
+            "ความเชี่ยวชาญเฉพาะตำแหน่งระดับสูง",
+            "การแก้เกมในสนามตามสถานการณ์",
+            "การจัดการความเครียดและการแข่งแมตช์ใหญ่"
+          ]
+        },
+        {
+          "ageGroup": "U-18",
+          "gameFormat": "11v11 (Professional Readiness & Pathways)",
+          "focusTactics": "การเตรียมพร้อมสู่ระดับชุดใหญ่/ไทยลีก และการแข่งขันชิงทุนมหาวิทยาลัย ความเร็วเกมและมาตรฐานระดับอาชีพ",
+          "keyLearningOutcomes": [
+            "แท็กติกหลากหลายยืดหยุ่น",
+            "สภาพความฟิตระดับการแข่งขัน 90 นาที+",
+            "ภาวะผู้นำและทัศนคติของนักกีฬาอาชีพ"
+          ]
+        }
+      ]
+    },
+    "pathways": [
+      {
+        "id": "pw-1",
+        "stageName": "Stage 1: Grassroots Discovery & Love for Football",
+        "ageRange": "อายุ 6 - 8 ปี (U-8)",
+        "objective": "ปลูกฝังความรักในกีฬาฟุตบอล ความสนุกสนาน ทักษะการเคลื่อนไหวพื้นฐาน (FMS) และความคุ้นเคยกับลูกฟุตบอลอย่างเป็นธรรมชาติ",
+        "weeklySchedule": "ฝึกซ้อม 2 ครั้ง/สัปดาห์ (ครั้งละ 75 นาที) + มินิเฟสติวัลฟุตบอล 5 คน",
+        "competitions": [
+          "Grassroots Fun Festivals",
+          "ทัวร์นาเมนต์กระชับมิตรท้องถิ่น U-8"
+        ],
+        "exitOutcomes": [
+          "ทักษะเลี้ยงบอลคล่องแคล่วทั้งสองเท้า",
+          "รักการเล่นฟุตบอลและมีระเบียบวินัยพื้นฐาน"
+        ],
+        "color": "from-amber-500/20 to-orange-500/10 text-amber-300 border-amber-500/30"
+      },
+      {
+        "id": "pw-2",
+        "stageName": "Stage 2: Foundation & Technical Excellence",
+        "ageRange": "อายุ 9 - 12 ปี (U-10, U-12)",
+        "objective": "ช่วงเวลาทองของการเรียนรู้ทักษะ (The Golden Age of Learning) พัฒนาเทคนิคขั้นสูง First touch, การส่งบอลสั้น-ยาว และการเล่นเป็นทีม 7v7 และ 9v9",
+        "weeklySchedule": "ฝึกซ้อม 3 ครั้ง/สัปดาห์ (ครั้งละ 90 นาที) + แมตช์สุดสัปดาห์",
+        "competitions": [
+          "ช้าง จูเนียร์ คัพ โซนภาคตะวันออก",
+          "ฟุตบอลเยาวชน กรมพลศึกษา รุ่น 12 ปี",
+          "Eastern Youth League"
+        ],
+        "exitOutcomes": [
+          "ผ่านการทดสอบทักษะพื้นฐาน 4 มิติ",
+          "พร้อมก้าวสู่ฟุตบอล 11 คนเต็มสนาม"
+        ],
+        "color": "from-emerald-500/20 to-teal-500/10 text-emerald-300 border-emerald-500/30"
+      },
+      {
+        "id": "pw-3",
+        "stageName": "Stage 3: Tactical Development & Talent Incubation",
+        "ageRange": "อายุ 13 - 14 ปี (U-14)",
+        "objective": "เรียนรู้ระบบฟุตบอล 11 คนเต็มสนาม พัฒนาความเข้าใจเชิงลึกเกี่ยวกับบทบาทตำแหน่ง ความเร็วในการตัดสินใจ และการปรับตัวเข้าสู่การแข่งขันระดับชาติ",
+        "weeklySchedule": "ฝึกซ้อม 4 ครั้ง/สัปดาห์ + เวทเทรนนิ่งพื้นฐาน + แมตช์แข่งขันทางการ",
+        "competitions": [
+          "ฟุตบอลนักเรียนชิงถ้วยพระราชทาน U-14",
+          "PTT Youth League",
+          "Youth FA Cup"
+        ],
+        "exitOutcomes": [
+          "ได้รับข้อเสนอโควตานักกีฬาเข้าเรียนชั้น ม.ปลาย โรงเรียนกีฬาชั้นนำ",
+          "ถูกเรียกคัดตัวเยาวชนสโมสรอาชีพ"
+        ],
+        "color": "from-blue-500/20 to-indigo-500/10 text-blue-300 border-blue-500/30"
+      },
+      {
+        "id": "pw-4",
+        "stageName": "Stage 4: High Performance & Pre-Professional",
+        "ageRange": "อายุ 15 - 18 ปี (U-16, U-18)",
+        "objective": "ยกระดับสมรรถภาพร่างกาย เทคนิค แท็กติกเฉพาะตำแหน่ง และทัศนคติระดับอาชีพ เตรียมความพร้อมสู่การเซ็นสัญญาอาชีพหรือรับทุนการศึกษาระดับอุดมศึกษา",
+        "weeklySchedule": "ฝึกซ้อม 5 ครั้ง/สัปดาห์ + ฟิตเนสวิทยาศาสตร์การกีฬา + แมตช์ทางการ + วิดีโอวิเคราะห์",
+        "competitions": [
+          "Thai Youth League (ไทยยูธลีก)",
+          "ฟุตบอล 7 สี / บอลนักเรียน กรมพลศึกษา ถ้วย ก.",
+          "โค้กคัพ โซนภาคตะวันออก"
+        ],
+        "exitOutcomes": [
+          "เซ็นสัญญาเป็นนักเตะเยาวชนสโมสรไทยลีก 1 - 3",
+          "ได้รับทุนการศึกษาโควตานักกีฬาฟุตบอลในมหาวิทยาลัยชั้นนำ (ฟรีค่าเทอม 100%)",
+          "ติดทีมชาติไทยรุ่นเยาวชน (U-17 / U-19)"
+        ],
+        "color": "from-purple-500/20 to-pink-500/10 text-purple-300 border-purple-500/30"
+      },
+      {
+        "id": "pw-5",
+        "stageName": "Stage 5: Professional Footballer or Higher Education Career",
+        "ageRange": "อายุ 18 ปีขึ้นไป (Senior / Alumni)",
+        "objective": "ส่งต่อเยาวชนสู่ความสำเร็จในชีวิต ทั้งการเป็นนักฟุตบอลอาชีพที่มีรายได้มั่นคง หรือการศึกษาต่อและทำงานในสายวิชาชีพกีฬา",
+        "weeklySchedule": "สัญญานักฟุตบอลอาชีพ หรือฝึกซ้อมร่วมกับทีมมหาวิทยาลัย",
+        "competitions": [
+          "ไทยลีก 1, ไทยลีก 2, ไทยลีก 3",
+          "ฟุตบอลประเพณีจุฬาฯ-ธรรมศาสตร์ / มหาวิทยาลัยอาเซียน"
+        ],
+        "exitOutcomes": [
+          "นักฟุตบอลอาชีพระดับลีกสูงสุด",
+          "โค้ช, นักวิทยาศาสตร์การกีฬา, ผู้บริหารวงการฟุตบอล"
+        ],
+        "color": "from-amber-400/20 to-emerald-400/10 text-amber-200 border-amber-400/40"
+      }
+    ],
+    "playerPathwayTrackings": [
+      {
+        "id": "ppt-1",
+        "playerId": "p1",
+        "playerName": "ด.ช. ภัทรพล เจริญสุข (น้องเบส)",
+        "currentStage": "Stage 3: Tactical Development (U-14)",
+        "targetDestination": "โรงเรียนอัสสัมชัญธนบุรี / ชลบุรี เอฟซี อคาเดมี",
+        "destinationType": "High School",
+        "status": "Sent for Trial",
+        "year": "2026",
+        "notes": "เข้ารับการทดสอบฝีเท้าเมื่อเดือนสิงหาคม 2026 ผ่านการตัดตัวรอบที่สอง ตำแหน่งมิดฟิลด์ตัวรุก"
+      },
+      {
+        "id": "ppt-2",
+        "playerId": "p3",
+        "playerName": "ด.ช. ธีรภัทร กุลทรัพย์ไพศาล (น้องกัปตัน)",
+        "currentStage": "Stage 3: Tactical Development (U-14)",
+        "targetDestination": "พัทยา ดอลฟินส์ ยูไนเต็ด / ท่าเรือ เอฟซี อคาเดมี",
+        "destinationType": "Pro Club",
+        "status": "In Development",
+        "year": "2026",
+        "notes": "โค้ชทีมพันธมิตรติดตามดูฟอร์มในรายการแข่งขันฟุตบอลเยาวชนภาคตะวันออก เน้นเพิ่มสปีดต้น"
+      },
+      {
+        "id": "ppt-3",
+        "playerId": "p5",
+        "playerName": "นาย ภานุพงศ์ ทิพย์สวัสดิ์ (น้องฟลุ๊ค)",
+        "currentStage": "Stage 4: High Performance (U-16)",
+        "targetDestination": "โรงเรียนโพธินิมิตวิทยาคม (เมืองทอง ยูไนเต็ด)",
+        "destinationType": "Partner Academy",
+        "status": "Signed Contract",
+        "year": "2025",
+        "notes": "เซ็นสัญญาร่วมโครงการพัฒนาเยาวชน รับทุนการศึกษาและที่พักเต็มรูปแบบ"
+      },
+      {
+        "id": "ppt-4",
+        "playerId": "p7",
+        "playerName": "นาย รัชชานนท์ ชัยวัฒน์ (น้องบอมบ์)",
+        "currentStage": "Stage 4: High Performance (U-18)",
+        "targetDestination": "มหาวิทยาลัยเกษตรศาสตร์ (โควตานักกีฬา วท.บ. กีฬา)",
+        "destinationType": "University",
+        "status": "Scholarship Awarded",
+        "year": "2026",
+        "notes": "ได้รับทุนการศึกษานักกีฬาฟุตบอลตัวแทนมหาวิทยาลัย พร้อมเข้าแข่งขันกีฬามหาวิทยาลัยแห่งประเทศไทย"
+      }
+    ],
+    "networks": [
+      {
+        "id": "net-1",
+        "name": "ชลบุรี เอฟซี อคาเดมี (Chonburi FC Academy)",
+        "shortName": "Chonburi FC",
+        "type": "Pro Club",
+        "categoryThai": "สโมสรฟุตบอลอาชีพ",
+        "logoUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=200&auto=format&fit=crop&q=80",
+        "location": "อำเภอเมืองชลบุรี / อำเภอบ้านบึง จังหวัดชลบุรี",
+        "contactPerson": "ผู้อำนวยการฝ่ายพัฒนาเยาวชน สโมสรชลบุรี เอฟซี",
+        "contactPhone": "038-123-456",
+        "collaborationSummary": "MOU พันธมิตรทางเทคนิค: ส่งนักเตะ U-12 และ U-14 ที่มีศักยภาพโดดเด่นเข้าทดสอบฝีเท้าประจำปี, อบรมโค้ช, และส่งทีมเข้าร่วมทัวร์นาเมนต์กระชับมิตร",
+        "quotaOrBenefits": "โควตาคัดเลือกพิเศษรอบสุดท้ายปีละ 4-6 คน, อบรมหลักสูตรโค้ชฟรีปีละ 2 ครั้ง",
+        "sentPlayersCount": 8,
+        "featuredAlumni": [
+          "ด.ช. ภัทรพล เจริญสุข (ทดสอบฝีเท้า U-14)",
+          "นาย วรเมธ สุขเกษม (เยาวชนชลบุรี U-16)"
+        ],
+        "status": "Active Partnership"
+      },
+      {
+        "id": "net-2",
+        "name": "สโมสรฟุตบอล พัทยา ยูไนเต็ด (Pattaya United FC)",
+        "shortName": "Pattaya Utd",
+        "type": "Pro Club",
+        "categoryThai": "สโมสรฟุตบอลอาชีพ",
+        "logoUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=200&auto=format&fit=crop&q=80",
+        "location": "สนามกีฬาเทศบาลเมืองหนองปรือ พัทยา ชลบุรี",
+        "contactPerson": "ผู้จัดการฝ่ายกีฬาและอะคาเดมี่เยาวชน",
+        "contactPhone": "081-456-7890",
+        "collaborationSummary": "ส่งเสริมโอกาสนักเตะ U-16 - U-18 ขึ้นร่วมซ้อมกับทีมสำรอง (B-Team) และเปิดโอกาสเซ็นสัญญาอาชีพระดับไทยลีก 2",
+        "quotaOrBenefits": "โอกาสฝึกซ้อมร่วมกับทีมชุดใหญ่ช่วงปรีซีซั่น, สนับสนุนตั๋วชมการแข่งขันของนักเตะเยาวชนทั้งสโมสร",
+        "sentPlayersCount": 5,
+        "featuredAlumni": [
+          "นาย ธีรเทพ พานิชย์ (ทีมเยาวชนพัทยา U-18)"
+        ],
+        "status": "Active Partnership"
+      },
+      {
+        "id": "net-3",
+        "name": "โรงเรียนอัสสัมชัญศรีราชา (Assumption College Sriracha)",
+        "shortName": "ACS Sriracha",
+        "type": "School",
+        "categoryThai": "โรงเรียนมัธยมโควตากีฬา",
+        "logoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&auto=format&fit=crop&q=80",
+        "location": "อำเภอศรีราชา จังหวัดชลบุรี",
+        "contactPerson": "มาสเตอร์หัวหน้าแผนกส่งเสริมกีฬาและฟุตบอล",
+        "contactPhone": "038-311-055",
+        "collaborationSummary": "โควตาทุนการศึกษาระดับมัธยมศึกษา (ม.1 และ ม.4) สำหรับนักเตะเยาวชนที่มีผลการเรียนผ่านเกณฑ์และมีทักษะฟุตบอลระดับแข่งขัน",
+        "quotaOrBenefits": "ทุนเรียนฟรี 100% พร้อมหอพักนักกีฬาประจำปีละ 2-3 ทุน",
+        "sentPlayersCount": 11,
+        "featuredAlumni": [
+          "นาย ภานุพงศ์ ทิพย์สวัสดิ์ (นักเรียนทุน ม.4)",
+          "ด.ช. อานนท์ โชคดี (นักเรียน ม.1)"
+        ],
+        "status": "Active Partnership"
+      },
+      {
+        "id": "net-4",
+        "name": "โรงเรียนกีฬาจังหวัดชลบุรี (Chonburi Sports School)",
+        "shortName": "CSS Chonburi",
+        "type": "School",
+        "categoryThai": "โรงเรียนมัธยมโควตากีฬา",
+        "logoUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=200&auto=format&fit=crop&q=80",
+        "location": "อำเภอเมืองชลบุรี จังหวัดชลบุรี",
+        "contactPerson": "โค้ชผู้ฝึกสอนประจำโรงเรียนกีฬา",
+        "contactPhone": "038-278-900",
+        "collaborationSummary": "ความร่วมมือส่งนักเรียนระดับ ม.1 - ม.6 เข้าศึกษาตามหลักสูตรนักกีฬาอาชีพ อาหาร ที่พัก และการแข่งขันฟุตบอลนักเรียนกรมพลศึกษา",
+        "quotaOrBenefits": "สนับสนุนอุปกรณ์การฝึกซ้อมและเข้าร่วมการแข่งขันระดับชาติ",
+        "sentPlayersCount": 9,
+        "featuredAlumni": [
+          "ด.ช. ธีรภัทร กุลทรัพย์ไพศาล (ผ่านคัดตัวรอบแรก)"
+        ],
+        "status": "Active Partnership"
+      },
+      {
+        "id": "net-5",
+        "name": "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)",
+        "shortName": "Kasetsart Univ",
+        "type": "University",
+        "categoryThai": "มหาวิทยาลัยทุนนักกีฬา",
+        "logoUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=200&auto=format&fit=crop&q=80",
+        "location": "คณะวิทยาศาสตร์การกีฬา มหาวิทยาลัยเกษตรศาสตร์",
+        "contactPerson": "อาจารย์ผู้ประสานงานโครงการทุนผู้มีความสามารถพิเศษทางกีฬา",
+        "contactPhone": "034-351-890",
+        "collaborationSummary": "ความร่วมมือด้านวิทยาศาสตร์การกีฬา และโควตารับตรงนักเรียน ม.6 ของอคาเดมี่เข้าศึกษาต่อระดับปริญญาตรี พร้อมทุนนักกีฬาตัวแทนมหาวิทยาลัย",
+        "quotaOrBenefits": "ทุนการศึกษาปริญญาตรี 4 ปี, สิทธิ์เข้าศึกษาคณะวิทยาศาสตร์การกีฬา / บริหารธุรกิจ",
+        "sentPlayersCount": 6,
+        "featuredAlumni": [
+          "นาย รัชชานนท์ ชัยวัฒน์ (ปี 1 วท.บ. กีฬา)",
+          "นาย ศักดา พรหมมา (ศิษย์เก่ารุ่น 2)"
+        ],
+        "status": "Active Partnership"
+      },
+      {
+        "id": "net-6",
+        "name": "มหาวิทยาลัยบูรพา (Burapha University - BUU)",
+        "shortName": "Burapha Univ",
+        "type": "University",
+        "categoryThai": "มหาวิทยาลัยทุนนักกีฬา",
+        "logoUrl": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&auto=format&fit=crop&q=80",
+        "location": "อำเภอเมืองชลบุรี จังหวัดชลบุรี",
+        "contactPerson": "สำนักพัฒนานิสิตและส่งเสริมกีฬา มหาวิทยาลัยบูรพา",
+        "contactPhone": "038-102-222",
+        "collaborationSummary": "โควตานักกีฬาฟุตบอลช้างเผือก ตัวแทนทีมมหาวิทยาลัยบูรพาลงแข่งขันกีฬามหาวิทยาลัยแห่งประเทศไทยและยูลีก (University League)",
+        "quotaOrBenefits": "ยกเว้นค่าธรรมเนียมการศึกษา, เบี้ยเลี้ยงฝึกซ้อม และสิทธิ์พักหอพักนิสิต",
+        "sentPlayersCount": 4,
+        "featuredAlumni": [
+          "นาย ปริญญา สุวรรณโชติ (นิสิตคณะศึกษาศาสตร์ เอกพลศึกษา)"
+        ],
+        "status": "Active Partnership"
+      },
+      {
+        "id": "net-7",
+        "name": "สโมสรฟุตบอล บ้านบึง เอฟซี (Banbueng FC)",
+        "shortName": "Banbueng FC",
+        "type": "Pro Club",
+        "categoryThai": "สโมสรฟุตบอลอาชีพ",
+        "logoUrl": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=200&auto=format&fit=crop&q=80",
+        "location": "อำเภอบ้านบึง จังหวัดชลบุรี",
+        "contactPerson": "ผู้อำนวยการสโมสรบ้านบึง เอฟซี",
+        "contactPhone": "089-771-2345",
+        "collaborationSummary": "เวทีส่งนักเตะ U-18 และ U-20 ลงสัมผัสเกมฟุตบอลลีกอาชีพ ไทยลีก 3 โซนภาคตะวันออก เพื่อเก็บเกี่ยวประสบการณ์ก่อนก้าวสู่ลีกระดับสูง",
+        "quotaOrBenefits": "สิทธิ์ลงทะเบียนนักเตะเยาวชนในไทยลีก 3 โควตานักเตะท้องถิ่น",
+        "sentPlayersCount": 7,
+        "featuredAlumni": [
+          "นาย ภานุมาศ บุญส่ง (นักเตะเยาวชนตัวจริง T3)"
+        ],
+        "status": "Active Partnership"
+      }
+    ]
+  },
+  "commercial": {
+    "branding": {
+      "brandName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
+      "shortName": "SKA FC",
+      "tagline": "ปั้นเยาวชนลูกหนังสู่นักเตะอาชีพ ควบคู่การสร้างคนดีมีวินัย",
+      "brandVision": "ก้าวสู่การเป็นศูนย์ฝึกฟุตบอลเยาวชนชั้นนำระดับภูมิภาคที่พึ่งพาตนเองได้อย่างยั่งยืน และเป็นต้นแบบการพัฒนาทรัพยากรมนุษย์ผ่านกีฬา",
+      "brandPersonality": [
+        "มืออาชีพและมีมาตรฐาน (Professional Standard)",
+        "อบอุ่นผูกพันชุมชน (Community Warmth)",
+        "มุ่งมั่นพัฒนาสู่ความเป็นเลิศ (Relentless Excellence)",
+        "มีระเบียบวินัยและน้ำใจนักกีฬา (Integrity & Fair Play)"
+      ],
+      "primaryColor": "#059669",
+      "secondaryColor": "#d97706",
+      "accentColor": "#1e293b",
+      "badgeConcept": "โล่เกียรติยศสีเขียวมรกต ล้อมรวงข้าวสุกสีทองแห่งเมืองพนัสนิคม ลูกฟุตบอลคลาสสิกตรงกลาง และปีกอินทรีเหินเวหา สื่อถึงพลังเยาวชนที่ทะยานสู่เป้าหมายระดับชาติ",
+      "kitDesignPhilosophy": "ชุดเหย้า (เขียวมรกต-ตัดขลิบทอง): สื่อถึงความอุดมสมบูรณ์ มุ่งมั่น และเกียรติยศ / ชุดเยือน (ขาวบริสุทธิ์-ขลิบเขียว): สื่อถึงความโปร่งใส สปิริตนักกีฬา และความคล่องตัวในสนาม",
+      "brandStory": "เริ่มต้นจากความมุ่งมั่นของกลุ่มโค้ชท้องถิ่นและผู้ปกครองในอำเภอพนัสนิคม ที่ต้องการให้บุตรหลานมีพื้นที่ฝึกฟุตบอลคุณภาพสูงตามมาตรฐาน AFC โดยไม่ต้องเดินทางไกลเข้ากรุงเทพฯ ตลอด 5 ปีที่ผ่านมา อคาเดมี่ได้ผลิตนักเตะส่งต่อสู่โรงเรียนกีฬาชั้นนำและสโมสรอาชีพอย่างต่อเนื่อง",
+      "voiceTone": "สร้างแรงบันดาลใจ (Inspiring), สุภาพจริงใจ (Authentic), และยกย่องทุกความพยายามของเด็กๆ (Empowering)",
+      "officialChannels": {
+        "facebook": "facebook.com/SKAPhanatNikhomFC",
+        "tiktok": "@ska_academy_official",
+        "instagram": "@ska_united_academy",
+        "youtube": "SKA FC TV Official",
+        "lineOA": "@skasports"
+      }
+    },
+    "marketing": {
+      "coreMarketingGoals": [
+        "เพิ่มยอดผู้เล่นเยาวชนใหม่ 25% ภายในสิ้นปี 2026",
+        "สร้างเครือข่ายผู้ปกครองและครอบครัวให้เป็น Brand Advocate ที่ช่วยบอกต่อ",
+        "ขยายฐานผู้ติดตามโซเชียลมีเดียท้องถิ่นให้ถึง 20,000 ผู้ติดตาม",
+        "ดึงดูดผู้สนับสนุนระดับธุรกิจในนิคมอุตสาหกรรมชลบุรีและพนัสนิคม"
+      ],
+      "targetAudiences": [
+        {
+          "id": "aud-1",
+          "segment": "ผู้ปกครองกลุ่ม Gen Y & Z (บุตรอายุ 6-12 ปี)",
+          "priority": "Core",
+          "painPoints": "กังวลเรื่องลูกติดจอ ต้องการหากิจกรรมสร้างเสริมวินัย สุขภาพ และมิตรภาพที่ปลอดภัย",
+          "keyMessage": "พื้นที่ที่ลูกของคุณจะเติบโตอย่างมีความสุข ปลอดภัย และสร้างวินัยชีวิตผ่านฟุตบอล",
+          "keyChannel": "Facebook Page, LINE Official, และการบอกต่อแบบปากต่อปาก (Word of Mouth)"
+        },
+        {
+          "id": "aud-2",
+          "segment": "เยาวชนมัธยม (อายุ 13-18 ปี ที่ต้องการเป็นนักเตะอาชีพ)",
+          "priority": "High",
+          "painPoints": "ขาดเวทีแข่งขันมาตรฐาน ขาดโอกาสทดสอบฝีเท้ากับสโมสรใหญ่ หรือต้องการโควตาทุนการศึกษา",
+          "keyMessage": "มี Pathway ชัดเจน เชื่อมโยงสโมสร T1-T3 และโรงเรียนกีฬาชื่อดัง พร้อมการประเมิน IDP รายบุคคล",
+          "keyChannel": "TikTok, Instagram Reels, และคลิปไฮไลท์ทักษะในสนาม"
+        },
+        {
+          "id": "aud-3",
+          "segment": "ผู้ประกอบการธุรกิจ & โรงงานในพื้นที่พนัสนิคม-อมตะ",
+          "priority": "Medium",
+          "painPoints": "ต้องการทำกิจกรรม CSR เพื่อชุมชน และต้องการช่องทางประชาสัมพันธ์สินค้าสู่กลุ่มครอบครัว",
+          "keyMessage": "ร่วมสร้างอนาคตเยาวชนพนัสนิคม พร้อมสิทธิประโยชน์การมองเห็นแบรนด์อย่างยั่งยืน",
+          "keyChannel": "เอกสารข้อเสนอ Sponsorship Pitch Deck, การนัดประชุมตรง, และกิจกรรม Matchday"
+        }
+      ],
+      "fanEngagementInitiatives": [
+        {
+          "id": "fei-1",
+          "title": "SKA Family Day & BBQ Football Party",
+          "type": "Event",
+          "targetGroup": "ผู้ปกครองและนักเตะทุกรุ่นอายุ",
+          "schedule": "จัดทุกไตรมาส (ช่วงปิดเทอม)",
+          "objective": "สร้างความผูกพันและเครือข่ายความร่วมมืออันอบอุ่นระหว่างสตาฟฟ์และผู้ปกครอง",
+          "expectedOutcome": "อัตราการต่ออายุสมาชิกค่าบำรุงรายเดือน (Retention Rate) สูงกว่า 95%",
+          "budgetEstimate": 15000
+        },
+        {
+          "id": "fei-2",
+          "title": "Grassroots Football Open House (ทดลองเรียนฟรี 1 สัปดาห์)",
+          "type": "Community",
+          "targetGroup": "เด็กเยาวชนในโรงเรียนประถมศึกษาพนัสนิคมและพื้นที่ใกล้เคียง",
+          "schedule": "พฤษภาคม และ ตุลาคม ของทุกปี",
+          "objective": "เปิดโอกาสให้เด็กใหม่ได้สัมผัสบรรยากาศการฝึกซ้อมระดับมืออาชีพ",
+          "expectedOutcome": "เปลี่ยนผู้ทดลองเรียนเป็นนักเตะประจำได้ไม่ต่ำกว่า 20 คนต่อรอบ",
+          "budgetEstimate": 5000
+        },
+        {
+          "id": "fei-3",
+          "title": "SKA Parents & Coaches Cup (ฟุตบอลกระชับมิตรผู้ปกครอง-โค้ช)",
+          "type": "Community",
+          "targetGroup": "คุณพ่อคุณแม่และผู้ฝึกสอน",
+          "schedule": "ปีละ 2 ครั้ง วันอาทิตย์บ่าย",
+          "objective": "สร้างความเข้าใจซึ่งกันและกัน สลายความตึงเครียด และร่วมสนุกกับเกมกีฬา",
+          "expectedOutcome": "ลดปัญหาความขัดแย้งข้างสนามและสร้างความสามัคคีในครอบครัวลูกหนัง",
+          "budgetEstimate": 8000
+        },
+        {
+          "id": "fei-4",
+          "title": "SKA Supporter Club & Digital Member Card",
+          "type": "Membership",
+          "targetGroup": "แฟนคลับและครอบครัวนักเตะ",
+          "schedule": "ตลอดทั้งปี ผ่านระบบ LINE Official",
+          "objective": "มอบสิทธิส่วนลดร้านค้าพันธมิตรในพนัสนิคม และสิทธิพิเศษซื้อชุดแข่งก่อนใคร",
+          "expectedOutcome": "สมาชิก Active ใน LINE Official กว่า 500 บัญชี",
+          "budgetEstimate": 3000
+        }
+      ],
+      "parentCommunityStrategy": "จัดตั้งกลุ่มไลน์ผู้ปกครองแยกตามรุ่นอายุ พร้อมรายงานพัฒนาการหลังการฝึกซ้อม และจัดสัมมนา \"จิตวิทยาสำหรับผู้ปกครองนักกีฬาเยาวชน\" ร่วมกับสตาฟฟ์โค้ชปีละ 2 ครั้ง",
+      "localPartnershipSummary": "จับมือกับโรงเรียนในเขตพื้นที่ 6 แห่งในการเปิดคลินิกฟุตบอลหลังเลิกเรียน และร้านอาหาร/อุปกรณ์กีฬา 10 ร้านค้าในตลาดพนัสนิคมเพื่อมอบส่วนลดแก่สมาชิก"
+    },
+    "valueCreation": {
+      "valuePropositionSummary": "ยกระดับคุณค่าสโมสรจากศูนย์ฝึกทั่วไปสู่ \"สถาบันฟุตบอลมาตรฐานสากล\" ที่มีสินทรัพย์จับต้องได้และสินทรัพย์ทางปัญญา (IP) ครอบคลุม 5 มิติหลัก",
+      "strategicPillars": [
+        {
+          "id": "vc-1",
+          "title": "1. ทะเบียนนักเตะและส่วนแบ่งเงินชดเชยการฝึกซ้อม (Player Valuation & Training Compensation)",
+          "category": "Player Asset",
+          "description": "ทำบันทึกประวัติการฝึกซ้อม (Passport Player) ตามระเบียบ FIFA และสมาคมฯ เพื่อขอรับเงินชดเชยเมื่อนักเตะก้าวสู่นักเตะอาชีพหรือย้ายทีม",
+          "actionPlan": "บันทึก IDP และสัญญาการฝึกซ้อมที่เป็นลายลักษณ์อักษร ร่วมกับสโมสรพันธมิตรใน T1-T2 พร้อมส่วนแบ่งสิทธิ์ Transfer Fee ในอนาคต 5-10%",
+          "monetaryImpact": "ส่วนแบ่งสัญญา 30,000 - 150,000 บาท/คน เมื่อเด็กเซ็นสัญญาอาชีพ",
+          "timeframe": "ระยะยาว (2-4 ปี)",
+          "currentProgressPercent": 75
+        },
+        {
+          "id": "vc-2",
+          "title": "2. แบรนด์ทัวร์นาเมนต์ลิขสิทธิ์ตัวเอง (SKA Youth Super Cup IP)",
+          "category": "Tournament & IP",
+          "description": "จัดทัวร์นาเมนต์ฟุตบอลเยาวชนระดับประเทศในพื้นที่พนัสนิคมเป็นประจำทุกปี เพื่อสร้างชื่อเสียง ดึงดูดทีมเยือน และขายสปอนเซอร์งานแข่ง",
+          "actionPlan": "จัดรุ่น U-10, U-12, U-14 ชิงถ้วยเกียรติยศ มีไลฟ์สดทุกคู่ พร้อมบูธจำหน่ายสินค้าและสปอนเซอร์",
+          "monetaryImpact": "รายได้สุทธิ 120,000 - 200,000 บาทต่อทัวร์นาเมนต์",
+          "timeframe": "ระยะกลาง (ปีละ 2 ครั้ง)",
+          "currentProgressPercent": 85
+        },
+        {
+          "id": "vc-3",
+          "title": "3. มาตรฐานโค้ช AFC / FA Thailand และการประเมิน IDP ดิจิทัล",
+          "category": "Coaching Reputation",
+          "description": "สร้างความน่าเชื่อถือด้วยทีมงานโค้ชที่ถือใบอนุญาต B-License และ C-License พร้อมคลังแบบฝึกซ้อมและระบบวิเคราะห์รายบุคคล",
+          "actionPlan": "สนับสนุนทุนพัฒนาโค้ชให้ได้ใบอนุญาตสูงขึ้น และใช้อุปกรณ์ Smart Timing Gates / GPS ในการวัดผล",
+          "monetaryImpact": "สามารถปรับขึ้นค่าบำรุงรายเดือนได้ 20% ตามคุณวุฒิที่เพิ่มขึ้น",
+          "timeframe": "ระยะสั้น-กลาง (ดำเนินการต่อเนื่อง)",
+          "currentProgressPercent": 90
+        },
+        {
+          "id": "vc-4",
+          "title": "4. การเพิ่มมูลค่าสนามและสิ่งอำนวยความสะดวก (Facility Asset Optimization)",
+          "category": "Facility",
+          "description": "ปรับปรุงสนามหญ้า ไฟส่องสว่างมาตรฐาน แพลตฟอร์มถ่ายทอดสด และคลับเฮาส์กาแฟ/สปอร์ตบาร์",
+          "actionPlan": "เปิดให้ทีมบุคคลภายนอกเช่าช่วงค่ำในวันธรรมดา และให้บริการพื้นที่จัดกิจกรรมกีฬาของหน่วยงานรัฐ/เอกชน",
+          "monetaryImpact": "รายได้เสริมค่าเช่า 25,000 - 45,000 บาท/เดือน",
+          "timeframe": "ระยะกลาง (6-12 เดือน)",
+          "currentProgressPercent": 60
+        },
+        {
+          "id": "vc-5",
+          "title": "5. คลังข้อมูลสื่อดิจิทัล & วิดีโอสเกาต์ (Digital Media & Video Scouting Archive)",
+          "category": "Digital Media",
+          "description": "จัดทำ Profile Video คลิปทักษะการเล่นรายบุคคลสำหรับนักเตะรุ่น U-14 ถึง U-18 เพื่อส่งให้แมวมองสโมสรอาชีพและมหาวิทยาลัย",
+          "actionPlan": "บันทึกวิดีโอ 4K ทุกแมตช์การแข่งขัน ตัดต่อคลิปความสามารถเฉพาะบุคคลพร้อมกราฟิกสถิติ",
+          "monetaryImpact": "สร้างมูลค่าแพ็กเกจพรีเมียมเพิ่มขึ้น 3,000 - 5,000 บาทต่อนักเตะ/ฤดูกาล",
+          "timeframe": "ระยะสั้น (ทำได้ทันที)",
+          "currentProgressPercent": 80
+        }
+      ],
+      "playerValuationMethod": "ประเมินจาก 4 เสาหลัก (Technical, Tactical, Physical, Psychological) ประกอบกับอายุ จำนวนนาทีที่ลงแข่งขันจริง และผลงานในการพบกับทีมระดับแนวหน้า",
+      "reputationMilestones": [
+        "รางวัลอะคาเดมี่พัฒนาเยาวชนดีเด่นประจำจังหวัดชลบุรี (2025)",
+        "ผ่านการรับรองมาตรฐานสโมสรสมาชิกของสมาคมกีฬาฟุตบอลแห่งประเทศไทยฯ ระดับ 1 ดาว",
+        "ส่งนักเตะเยาวชนติดทีมนักเรียนไทยและเยาวชนทีมชาติไทย U-16 จำนวน 2 ราย"
+      ]
+    },
+    "revenue": {
+      "monthlyTotalTarget": 195000,
+      "monthlyActual": 181500,
+      "targetMonth": "กันยายน 2569",
+      "annualTotalTarget": 2340000,
+      "currencyUnit": "บาท (THB)",
+      "financialSustainabilityPlan": "กระจายแหล่งรายได้ไม่ให้พึ่งพาเฉพาะค่าบำรุงรายเดือน โดยตั้งเป้าให้สัดส่วนสปอนเซอร์และสินค้า/กิจกรรมอยู่ที่ 45% ของรายได้รวมทั้งหมด เพื่อสร้างความยั่งยืนเมื่อเกิดการเปลี่ยนแปลงจำนวนผู้เรียน",
+      "costControlGuidelines": [
+        "งบเงินเดือนและค่าตอบแทนผู้ฝึกสอน ไม่เกิน 45% ของรายรับรวม",
+        "งบบำรุงรักษาสนามและอุปกรณ์ฝึกซ้อม ไม่เกิน 15%",
+        "งบการตลาดและกิจกรรมแข่งขัน 15%",
+        "สำรองกองทุนฉุกเฉินและพัฒนาอคาเดมี่ 25%"
+      ],
+      "streams": [
+        {
+          "id": "rev-1",
+          "name": "ค่าบำรุงสมาชิกรายเดือน (Monthly Training Fees)",
+          "category": "Academy Fees",
+          "monthlyTarget": 95000,
+          "monthlyActual": 92000,
+          "annualTarget": 1140000,
+          "description": "รายได้หลักจากสมาชิกนักเตะเยาวชน U-8 ถึง U-18 (คิดเฉลี่ย 95-100 คน คนละ 1,000 บ./เดือน)",
+          "pricingStructure": "1,000 บาท/คน/เดือน (รวมซ้อมสัปดาห์ละ 3-4 วัน + แมตช์เดย์)",
+          "isRecurring": true
+        },
+        {
+          "id": "rev-2",
+          "name": "เงินสนับสนุนจากผู้สนับสนุนธุรกิจ (Corporate Sponsorship)",
+          "category": "Sponsorship",
+          "monthlyTarget": 50000,
+          "monthlyActual": 45000,
+          "annualTarget": 600000,
+          "description": "สัญญารายปีจากผู้สนับสนุนหลักอกเสื้อ, หลังเสื้อ, ป้ายข้างสนาม และสื่อดิจิทัล",
+          "pricingStructure": "สัญญารายปี แบ่งชำระเป็นงวด (เฉลี่ย 50,000 บ./เดือน)",
+          "isRecurring": true
+        },
+        {
+          "id": "rev-3",
+          "name": "การจำหน่ายชุดแข่งและของที่ระลึก (Merchandise & Kit Sales)",
+          "category": "Merchandise & Kits",
+          "monthlyTarget": 18000,
+          "monthlyActual": 16500,
+          "annualTarget": 216000,
+          "description": "ชุดแข่งประจำฤดูกาล (เหย้า/เยือน), เสื้อซ้อม, ถุงเท้า, กระเป๋ากีฬา และของที่ระลึกสโมสร",
+          "pricingStructure": "ชุดแข่งฟูลเซ็ต 790 บาท, เสื้อซ้อม 390 บาท, หมวกและผ้าพันคอ 250 บาท",
+          "isRecurring": false
+        },
+        {
+          "id": "rev-4",
+          "name": "ซัมเมอร์แคมป์และคลินิกฝึกเข้มข้น (Holiday Camps & Masterclasses)",
+          "category": "Camps & Clinics",
+          "monthlyTarget": 15000,
+          "monthlyActual": 18000,
+          "annualTarget": 180000,
+          "description": "แคมป์ฟุตบอลช่วงปิดเทอม (มีนาคม-เมษายน และ ตุลาคม) และคลินิกสอนทักษะเฉพาะตำแหน่ง",
+          "pricingStructure": "คอร์ส 5 วัน ราคา 2,500 - 3,500 บาท/คน (รวมอาหารกลางวันและเสื้อแคมป์)",
+          "isRecurring": false
+        },
+        {
+          "id": "rev-5",
+          "name": "ค่าเช่าสนามและไฟส่องสว่าง (Facility & Pitch Rental)",
+          "category": "Facility & Rental",
+          "monthlyTarget": 12000,
+          "monthlyActual": 10500,
+          "annualTarget": 144000,
+          "description": "เปิดให้บุคคลภายนอกและทีมบริษัทเช่าสนามในช่วงที่ไม่มีตารางซ้อมของอคาเดมี่",
+          "pricingStructure": "สนาม 7 คน: 700 บ./ชม. (เปิดไฟ +300 บ./ชม.)",
+          "isRecurring": true
+        },
+        {
+          "id": "rev-6",
+          "name": "ค่าธรรมเนียมจัดแข่งขันและกิจกรรม (Tournament Operations)",
+          "category": "Tournament Operations",
+          "monthlyTarget": 5000,
+          "monthlyActual": 6000,
+          "annualTarget": 60000,
+          "description": "ค่าสมัครเข้าร่วมแข่งขัน SKA Youth Cup และค่าบูธจำหน่ายสินค้าในวันแข่ง",
+          "pricingStructure": "ค่าสมัครทีมละ 3,000 - 4,500 บาท / บูธอาหาร 1,000 บาทต่องาน",
+          "isRecurring": false
+        }
+      ]
+    },
+    "sponsorship": {
+      "pitchDeckSummary": "ร่วมเป็นพันธมิตรสร้างอนาคตเยาวชนลูกหนังพนัสนิคม เข้าถึงครอบครัวกว่า 500+ คน พร้อมยอดการมองเห็นแบรนด์ในโลกออนไลน์กว่า 150,000 วิวต่อเดือน",
+      "valueReturnProposition": "เราไม่ได้มองหาแค่เงินบริจาค แต่เรามอบผลตอบแทนทางธุรกิจ (Return on Investment) ที่ชัดเจน ทั้งภาพลักษณ์ความรับผิดชอบต่อสังคม (CSR), การวางตำแหน่งสินค้าในมือกลุ่มเป้าหมาย (Sampling), ป้ายแบรนด์เด่นในสนาม และคลิปวิดีโอ Dedicated ในทุกช่องทางโซเชียลมีเดีย",
+      "sponsorFulfillmentPolicy": "จัดส่งรายงานผลการมองเห็น (Sponsorship Report) ทุก 3 เดือน พร้อมภาพถ่ายนักเตะร่วมกับสินค้า และมอบสิทธิพิเศษเข้าร่วมงานกิจกรรมสโมสรทุกรายการ",
+      "packages": [
+        {
+          "id": "sp-1",
+          "tierName": "Title Sponsor (สปอนเซอร์หลักอกเสื้อ)",
+          "pricePerYear": 300000,
+          "maxSlots": 1,
+          "occupiedSlots": 1,
+          "colorBadge": "border-amber-400/60 bg-amber-500/10 text-amber-300",
+          "benefits": [
+            "โลโก้ขนาดใหญ่โดดเด่นกลางหน้าอกชุดแข่งทุกชุด (เหย้า/เยือน/ชุดซ้อม ทุกรุ่น U8-U18)",
+            "ชื่อสโมสรร่วม เช่น \"SKA FC พนัสนิคม x [แบรนด์ของคุณ]\" ในทุกสื่อทางการ",
+            "ป้ายบิลบอร์ดขนาดยักษ์หน้าทางเข้าสนามและป้ายข้างสนามหลัก 4 ป้าย",
+            "โพสต์และคลิปวิดีโอขอบคุณโปรโมตสินค้าอย่างน้อยสัปดาห์ละ 1 ครั้ง",
+            "สิทธิออกบูธจำหน่ายสินค้าฟรีในทุกแมตช์เดย์และทัวร์นาเมนต์ของสโมสร"
+          ],
+          "brandingPlacements": [
+            "อกเสื้อแข่งทุกชุด",
+            "ป้ายบิลบอร์ดหน้าสนาม",
+            "แบ็กดรอปสัมภาษณ์",
+            "Cover โซเชียลมีเดีย"
+          ]
+        },
+        {
+          "id": "sp-2",
+          "tierName": "Gold Partner (สปอนเซอร์แถบเสื้อ/กางเกง)",
+          "pricePerYear": 150000,
+          "maxSlots": 2,
+          "occupiedSlots": 1,
+          "colorBadge": "border-yellow-400/60 bg-yellow-500/10 text-yellow-300",
+          "benefits": [
+            "โลโก้บนหลังเสื้อแข่ง (เหนือเบอร์เสื้อ) หรือแขนเสื้อแข่งทุกชุด",
+            "ป้ายไวนิลข้างสนามขนาดมาตรฐาน 2 ป้าย ตลอดทั้งฤดูกาล",
+            "ปรากฏโลโก้ในกรอบไฮไลท์วิดีโอการแข่งขันและสื่อประชาสัมพันธ์ออนไลน์",
+            "สิทธิ์ร่วมมอบรางวัลในพิธีปิดการแข่งขัน SKA Youth Cup"
+          ],
+          "brandingPlacements": [
+            "หลังเสื้อแข่ง",
+            "แขนเสื้อ",
+            "ป้ายข้างสนาม 2 จุด",
+            "วิดีโอไฮไลท์"
+          ]
+        },
+        {
+          "id": "sp-3",
+          "tierName": "Silver Partner (ป้ายสนาม & สื่อดิจิทัล)",
+          "pricePerYear": 50000,
+          "maxSlots": 4,
+          "occupiedSlots": 2,
+          "colorBadge": "border-slate-300/60 bg-slate-400/10 text-slate-200",
+          "benefits": [
+            "ป้ายโฆษณาข้างสนามขนาด 2x1 เมตร จำนวน 1 ป้าย ตลอด 1 ปี",
+            "โลโก้ขนาดเล็กบนแบ็กดรอปแถลงข่าวและถ่ายรูปทีม",
+            "โพสต์แนะนำธุรกิจและสินค้าบนเพจ Facebook สโมสร เดือนละ 1 ครั้ง"
+          ],
+          "brandingPlacements": [
+            "ป้ายข้างสนาม",
+            "แบ็กดรอปรูปทีม",
+            "เพจ Facebook"
+          ]
+        },
+        {
+          "id": "sp-4",
+          "tierName": "Official Gear & Nutrition Partner",
+          "pricePerYear": 80000,
+          "maxSlots": 2,
+          "occupiedSlots": 1,
+          "colorBadge": "border-emerald-400/60 bg-emerald-500/10 text-emerald-300",
+          "benefits": [
+            "การจัดหาเครื่องดื่มเกลือแร่, น้ำดื่ม, อาหารเสริม หรืออุปกรณ์ซ้อมให้นักเตะ",
+            "โลโก้บนกระติกน้ำ ซุ้มม้านั่งสำรอง และกล่องปฐมพยาบาลสโมสร",
+            "คลิปรีวิวและการใช้สินค้าจริงโดยโค้ชและนักเตะเยาวชน"
+          ],
+          "brandingPlacements": [
+            "ซุ้มม้านั่งสำรอง",
+            "กระติกน้ำ",
+            "เสื้อกั๊กซ้อม"
+          ]
+        },
+        {
+          "id": "sp-5",
+          "tierName": "Grassroots Community Supporter",
+          "pricePerYear": 20000,
+          "maxSlots": 6,
+          "occupiedSlots": 3,
+          "colorBadge": "border-purple-400/60 bg-purple-500/10 text-purple-300",
+          "benefits": [
+            "โลโก้บนบอร์ดผู้สนับสนุนชุมชนหน้าคลับเฮาส์",
+            "เกียรติบัตรขอบคุณและกรอบรูปเสื้อสโมสรพร้อมลายเซ็นนักเตะ",
+            "การโปรโมตร้านค้าท้องถิ่นผ่านกลุ่ม LINE ผู้ปกครองสโมสร"
+          ],
+          "brandingPlacements": [
+            "บอร์ดคลับเฮาส์",
+            "LINE ผู้ปกครอง"
+          ]
+        }
+      ],
+      "pipeline": [
+        {
+          "id": "lead-1",
+          "companyName": "บจก. ซีพี แอ็กซ์ตร้า (สาขาชลบุรี-พนัสนิคม)",
+          "businessType": "ค้าปลีกและกระจายสินค้า",
+          "contactPerson": "คุณวิชัย สุวรรณโชติ (ผู้จัดการฝ่ายการตลาด)",
+          "contactPhone": "038-456-789",
+          "contactEmail": "wichai.s@cpextra.co.th",
+          "proposedTier": "Title Sponsor (สปอนเซอร์หลักอกเสื้อ)",
+          "offeredValue": 300000,
+          "stage": "Signed Contract",
+          "lastFollowUp": "10 มี.ค. 2026",
+          "notes": "เซ็นสัญญาสปอนเซอร์หลักอกเสื้อเรียบร้อย ฤดูกาล 2026 พร้อมโควตาน้ำดื่มและนมสำหรับนักเตะทุกสัปดาห์"
+        },
+        {
+          "id": "lead-2",
+          "companyName": "โรงพยาบาลวิภาราม อมตะนคร",
+          "businessType": "การแพทย์และสุขภาพ",
+          "contactPerson": "พญ. พิมพ์ใจ ธนกุล (ผอ. แผนกเวชศาสตร์การกีฬา)",
+          "contactPhone": "038-765-432",
+          "contactEmail": "sportsmed@vibhachon.com",
+          "proposedTier": "Official Gear & Nutrition Partner",
+          "offeredValue": 80000,
+          "stage": "Signed Contract",
+          "lastFollowUp": "12 ก.พ. 2026",
+          "notes": "สนับสนุนแพทย์ตรวจร่างกายและส่วนลดค่ารักษาพยาบาลแก่นักเตะอคาเดมี่"
+        },
+        {
+          "id": "lead-3",
+          "companyName": "ร้านพนัสนิคมสปอร์ต & กราฟิก",
+          "businessType": "เสื้อผ้ากีฬาและสกรีนเสื้อ",
+          "contactPerson": "คุณสมชาย ธนทรัพย์",
+          "contactPhone": "081-888-9999",
+          "contactEmail": "phanat.sports@gmail.com",
+          "proposedTier": "Gold Partner (สปอนเซอร์แถบเสื้อ/กางเกง)",
+          "offeredValue": 150000,
+          "stage": "Signed Contract",
+          "lastFollowUp": "15 ม.ค. 2026",
+          "notes": "ผู้สนับสนุนผลิตชุดแข่งและเสื้อซ้อมในราคาทุน พร้อมส่วนลด 30% ให้ผู้ปกครอง"
+        },
+        {
+          "id": "lead-4",
+          "companyName": "บมจ. อมตะ คอร์ปอเรชัน (CSR ชุมชน)",
+          "businessType": "นิคมอุตสาหกรรมและอสังหาริมทรัพย์",
+          "contactPerson": "คุณกิตติภพ เกษมสุข (ฝ่ายชุมชนสัมพันธ์)",
+          "contactPhone": "038-999-111",
+          "contactEmail": "csr@amata.com",
+          "proposedTier": "Gold Partner (สปอนเซอร์แถบเสื้อ/กางเกง)",
+          "offeredValue": 150000,
+          "stage": "Negotiating",
+          "lastFollowUp": "2 มี.ค. 2026",
+          "notes": "กำลังพิจารณาข้อเสนอ มอบทุนนักเตะช้างเผือก 10 ทุน และป้ายประชาสัมพันธ์ข้างสนาม"
+        },
+        {
+          "id": "lead-5",
+          "companyName": "สยามคูโบต้า ตัวแทนพนัสนิคม",
+          "businessType": "เครื่องจักรกลการเกษตร",
+          "contactPerson": "คุณอรรถพล เจริญพาณิชย์",
+          "contactPhone": "089-123-4567",
+          "contactEmail": "kubota_phanat@hotmail.com",
+          "proposedTier": "Silver Partner (ป้ายสนาม & สื่อดิจิทัล)",
+          "offeredValue": 50000,
+          "stage": "Pitch Deck Sent",
+          "lastFollowUp": "28 ก.พ. 2026",
+          "notes": "ส่งข้อเสนอและแพ็กเกจป้ายสนามเรียบร้อย รอนัดประชุมรอบสองสัปดาห์หน้า"
+        },
+        {
+          "id": "lead-6",
+          "companyName": "คาเฟ่ อเมซอน สาขาปั๊ม ปตท. พนัสนิคม",
+          "businessType": "เครื่องดื่มและเบเกอรี่",
+          "contactPerson": "คุณลลิตา มุ่งเจริญ",
+          "contactPhone": "086-555-4321",
+          "contactEmail": "amazon.phanat@gmail.com",
+          "proposedTier": "Grassroots Community Supporter",
+          "offeredValue": 20000,
+          "stage": "Signed Contract",
+          "lastFollowUp": "20 ม.ค. 2026",
+          "notes": "สนับสนุนป้ายหน้าคลับเฮาส์ และมอบคูปองส่วนลดเครื่องดื่มให้ผู้ปกครองในวันซ้อม"
+        }
+      ]
+    },
+    "contentMarketing": {
+      "brandVoiceGuideline": "เน้นพลังบวก มิตรภาพ ความทุ่มเท และการพัฒนาที่ไม่หยุดยั้ง ใช้ภาษาที่เข้าใจง่าย ให้เกียรติคู่แข่ง และโฟกัสที่การสร้างความภาคภูมิใจในตัวเด็กๆ",
+      "monthlyVideoGoal": 24,
+      "platformStrategies": [
+        {
+          "platform": "TikTok",
+          "handle": "@ska_academy_official",
+          "postingCadence": "วันละ 1-2 คลิป (5-7 คลิป/สัปดาห์)",
+          "primaryRole": "เข้าถึงเยาวชนและสร้างกระแสไวรัลผ่านคลิปทักษะฟุตบอล, ความฮาหลังการซ้อม, และชาเลนจ์สนุกๆ",
+          "kpiTarget": "ยอดวิวเฉลี่ย 15,000 วิว/คลิป, ผู้ติดตาม 30,000 คน"
+        },
+        {
+          "platform": "Facebook",
+          "handle": "facebook.com/SKAPhanatNikhomFC",
+          "postingCadence": "วันละ 1 โพสต์ (อัลบั้มรูปภาพ, สรุปผลแข่ง, แจ้งข่าวผู้ปกครอง)",
+          "primaryRole": "ศูนย์กลางข้อมูลทางการสำหรับผู้ปกครอง, สปอนเซอร์ และชุมชนพนัสนิคม",
+          "kpiTarget": "Reach 80,000 คน/เดือน, ผู้มีส่วนร่วม (Engagement) 8%"
+        },
+        {
+          "platform": "Instagram",
+          "handle": "@ska_united_academy",
+          "postingCadence": "3-4 โพสต์/สัปดาห์ + สตอรี่ทุกวันในวันที่มีการฝึกซ้อม",
+          "primaryRole": "แสดงภาพลักษณ์พรีเมียม ถ่ายทอดความเท่ของชุดแข่ง อารมณ์การแข่งขัน และ Profile นักเตะ",
+          "kpiTarget": "ผู้ติดตาม 10,000 คน, บันทึกภาพ (Save) เฉลี่ย 120 ครั้ง/โพสต์"
+        },
+        {
+          "platform": "YouTube",
+          "handle": "SKA FC TV Official",
+          "postingCadence": "สัปดาห์ละ 1-2 คลิปยาว (Full Match, Highlights, Mini-Documentary)",
+          "primaryRole": "คลังวิดีโอคุณภาพสูงสำหรับแมวมอง และคลิปสารคดีสั้นสร้างแรงบันดาลใจ",
+          "kpiTarget": "Watch Time 3,000 ชั่วโมง/ปี, ยอดสมาชิก 5,000 Sub"
+        },
+        {
+          "platform": "LINE Official",
+          "handle": "@skasports",
+          "postingCadence": "บรอดแคสต์สัปดาห์ละ 1-2 ครั้ง (ตารางซ้อม, รายงานค่าบำรุง, ประกาศรับสมัคร)",
+          "primaryRole": "การสื่อสารโดยตรงกับครอบครัวนักเตะแบบปิด และการปิดการขายคอร์ส/แคมป์",
+          "kpiTarget": "สมาชิกผู้ปกครอง 100% ตอบกลับภายใน 15 นาที"
+        }
+      ],
+      "pillars": [
+        {
+          "id": "cp-1",
+          "pillarName": "1. Behind The Scenes & Daily Life",
+          "thaiMeaning": "เบื้องหลังการซ้อมและชีวิตประจำวันของนักเตะเยาวชน",
+          "objective": "สร้างความผูกพันและเข้าถึงง่าย ให้ผู้ชมเห็นความพยายามเบื้องหลังความสำเร็จ",
+          "suggestedTopics": [
+            "วันหนึ่งของนักฟุตบอล U-12 ซ้อมหนักแค่ไหนก่อนเปิดเทอม",
+            "เปิดกระเป๋าสตั๊ดนักเตะ มีไอเทมลับอะไรบ้าง",
+            "รีแอคชั่นเมื่อโค้ชประกาศรายชื่อ 11 ตัวจริงแมตช์ชิงชนะเลิศ"
+          ],
+          "postingFrequency": "2 คลิปต่อสัปดาห์",
+          "primaryFormat": "Short Video (Reels/TikTok)",
+          "colorTag": "bg-emerald-500/20 text-emerald-800 border-emerald-500/30",
+          "targetCount": 5,
+          "actualCount": 4,
+          "isCompleted": false,
+          "checklists": [
+            {
+              "id": "chk-1-1",
+              "task": "ถ่ายทำเบื้องหลังการซ้อมสัปดาห์ละ 2 เซ็ต",
+              "isDone": true,
+              "completedAt": "12 ก.ย. 2569"
+            },
+            {
+              "id": "chk-1-2",
+              "task": "ตัดต่อคลิปท้าดวลยิงชนคานลง TikTok",
+              "isDone": true,
+              "completedAt": "15 ก.ย. 2569"
+            },
+            {
+              "id": "chk-1-3",
+              "task": "คลิปสัมภาษณ์ความรู้สึกเด็กหลังเกมรอบชิง",
+              "isDone": false
+            }
+          ],
+          "actionUpdates": [
+            {
+              "id": "act-1-1",
+              "date": "15 ก.ย. 2569",
+              "action": "ถ่ายทำคลิปสั้นและดวลยิงชนคานสำเร็จ ยอดวิวแตะ 12,000 วิวใน TikTok",
+              "operator": "โค้ชก้อง & ทีมสื่อ",
+              "completed": true
+            },
+            {
+              "id": "act-1-2",
+              "date": "10 ก.ย. 2569",
+              "action": "วางสตอรี่บอร์ดซีรีส์ 1 วันของนักฟุตบอล U-12",
+              "operator": "แอดมินเพจ",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "cp-2",
+          "pillarName": "2. Player Spotlight & IDP Skills",
+          "thaiMeaning": "เจาะลึกพัฒนาการ ทักษะเฉพาะตัว และผลการประเมิน IDP",
+          "objective": "ส่งเสริมความภาคภูมิใจในตัวนักเตะ และสร้างโปรไฟล์สำหรับแมวมองสโมสรอาชีพ",
+          "suggestedTopics": [
+            "จากเด็กเลี้ยงบอลไม่ผ่าน สู่ดาวซัลโว U-14: เส้นทางพัฒนาการของ \"น้องก้อง\"",
+            "วิเคราะห์จังหวะเซฟจุดโทษ 3 ลูกติดของนายด่าน U-16",
+            "สกิล Move 1v1 ที่โค้ชสั่งให้ฝึก 1,000 ครั้งจนชำนาญ"
+          ],
+          "postingFrequency": "1-2 คอนเทนต์ต่อสัปดาห์",
+          "primaryFormat": "Short Video (Reels/TikTok)",
+          "colorTag": "bg-blue-500/20 text-blue-800 border-blue-500/30",
+          "targetCount": 5,
+          "actualCount": 3,
+          "isCompleted": false,
+          "checklists": [
+            {
+              "id": "chk-2-1",
+              "task": "รวบรวมข้อมูล IDP น้องก้องและน้องต้า",
+              "isDone": true,
+              "completedAt": "11 ก.ย. 2569"
+            },
+            {
+              "id": "chk-2-2",
+              "task": "ถ่ายวิดีโอเจาะสกิล 1v1 ในสนาม",
+              "isDone": true,
+              "completedAt": "16 ก.ย. 2569"
+            },
+            {
+              "id": "chk-2-3",
+              "task": "ผลิตคลิปสรุปโปรไฟล์แมวมองสำหรับ T3",
+              "isDone": false
+            }
+          ],
+          "actionUpdates": [
+            {
+              "id": "act-2-1",
+              "date": "16 ก.ย. 2569",
+              "action": "ตัดต่อคลิปไฮไลต์เซฟจุดโทษของน้องต้าลงเพจ Facebook เรียบร้อย",
+              "operator": "ทีมวิดีโอ",
+              "completed": true
+            },
+            {
+              "id": "act-2-2",
+              "date": "08 ก.ย. 2569",
+              "action": "คัดเลือกนักเตะเด่น 3 คนสำหรับ Spotlight เดือนนี้",
+              "operator": "โค้ชเอก Head Coach",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "cp-3",
+          "pillarName": "3. Matchday Highlights & High Emotion",
+          "thaiMeaning": "ไฮไลท์การแข่งขัน ประตูสุดสวย และความรู้สึกหลังเกม",
+          "objective": "สร้างความตื่นเต้น ปลุกสปิริตเชียร์ และให้สปอนเซอร์เห็นแบรนด์บนเสื้อในสนามจริง",
+          "suggestedTopics": [
+            "รวม 5 ประตูสุดสวยประจำเดือนจากแข้งจิ๋ว U-10",
+            "จังหวะดราม่ายิงประตูทดเวลาบาดเจ็บพาเข้ารอบชิงชนะเลิศ",
+            "ไฮไลท์เต็มแมตช์ SKA FC vs ชลบุรี เอฟซี อคาเดมี"
+          ],
+          "postingFrequency": "ทุกสัปดาห์หลังแข่งขัน (วันจันทร์-อังคาร)",
+          "primaryFormat": "Short Video (Reels/TikTok)",
+          "colorTag": "bg-amber-500/20 text-amber-800 border-amber-500/30",
+          "targetCount": 6,
+          "actualCount": 5,
+          "isCompleted": false,
+          "checklists": [
+            {
+              "id": "chk-3-1",
+              "task": "บันทึกวิดีโอ 4K แมตช์เดย์รอบรองชนะเลิศ",
+              "isDone": true,
+              "completedAt": "13 ก.ย. 2569"
+            },
+            {
+              "id": "chk-3-2",
+              "task": "ตัดคลิปสั้น Short Reel ประตูชัยทดเจ็บ",
+              "isDone": true,
+              "completedAt": "14 ก.ย. 2569"
+            },
+            {
+              "id": "chk-3-3",
+              "task": "ใส่โลโก้สปอนเซอร์ทุกจุดในคลิปไฮไลท์",
+              "isDone": true,
+              "completedAt": "14 ก.ย. 2569"
+            }
+          ],
+          "actionUpdates": [
+            {
+              "id": "act-3-1",
+              "date": "14 ก.ย. 2569",
+              "action": "อัปโหลดคลิป 5 ประตูสุดสวย เข้าถึงผู้ชมกว่า 25,000 Reach",
+              "operator": "ทีมโซเชียลมีเดีย",
+              "completed": true
+            },
+            {
+              "id": "act-3-2",
+              "date": "07 ก.ย. 2569",
+              "action": "ติดตั้งกล้องถ่ายมุมสูงเพื่อเก็บบรรยากาศสนามใหม่",
+              "operator": "ทีมเทคนิค",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "cp-4",
+          "pillarName": "4. Coaching Tips & Masterclass",
+          "thaiMeaning": "เคล็ดลับฟุตบอลและแบบฝึกซ้อมฉบับเข้าใจง่ายสำหรับผู้ปกครองและเด็ก",
+          "objective": "ตอกย้ำความเป็นมืออาชีพของทีมผู้ฝึกสอน และสร้างคุณค่าแก่คอมมูนิตี้คนรักฟุตบอล",
+          "suggestedTopics": [
+            "3 แบบฝึกการจับบอลแรก (First Touch) ให้ได้เปรียบ ซ้อมเองที่บ้านได้",
+            "โภชนาการก่อนแข่ง 2 ชั่วโมง นักเตะเยาวชนควรกินอะไรและห้ามกินอะไร",
+            "วิธีแก้ปัญหานักเตะตื่นเต้น กลัวความผิดพลาดในสนาม โดยโค้ช A-License"
+          ],
+          "postingFrequency": "สัปดาห์ละ 1 ครั้ง (วันพุธ)",
+          "primaryFormat": "Infographic / Article",
+          "colorTag": "bg-purple-500/20 text-purple-800 border-purple-500/30",
+          "targetCount": 4,
+          "actualCount": 4,
+          "isCompleted": true,
+          "checklists": [
+            {
+              "id": "chk-4-1",
+              "task": "จัดทำ Infographic 5 สิ่งที่ผู้ปกครองห้ามตะโกน",
+              "isDone": true,
+              "completedAt": "10 ก.ย. 2569"
+            },
+            {
+              "id": "chk-4-2",
+              "task": "บันทึกคลิป First Touch Tips โดยโค้ช A-License",
+              "isDone": true,
+              "completedAt": "17 ก.ย. 2569"
+            }
+          ],
+          "actionUpdates": [
+            {
+              "id": "act-4-1",
+              "date": "17 ก.ย. 2569",
+              "action": "เผยแพร่คลิป First Touch Tips ผู้ปกครองกดบันทึก (Save) กว่า 180 ครั้ง",
+              "operator": "โค้ชมาโนช",
+              "completed": true
+            },
+            {
+              "id": "act-4-2",
+              "date": "09 ก.ย. 2569",
+              "action": "ตรวจทานเนื้อหาโภชนาการก่อนแข่งร่วมกับนักกายภาพ",
+              "operator": "ทีมแพทย์ & โค้ช",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "cp-5",
+          "pillarName": "5. Parent Voice & Academy Community",
+          "thaiMeaning": "เสียงสะท้อนจากผู้ปกครอง และเรื่องราวแรงบันดาลใจครอบครัว",
+          "objective": "เป็น Social Proof ชั้นยอดที่ช่วยให้ผู้ปกครองตัดสินใจส่งลูกมาเรียน",
+          "suggestedTopics": [
+            "สัมภาษณ์คุณแม่: ลูกเปลี่ยนไปอย่างไรบ้างหลังจากมาซ้อมที่ SKA ได้ 6 เดือน",
+            "เคล็ดลับของคุณพ่อในการสนับสนุนความฝันลูก โดยไม่กดดัน",
+            "ภาพบรรยากาศงานเลี้ยงปิดฤดูกาล รอยยิ้มและน้ำตาแห่งความพยายาม"
+          ],
+          "postingFrequency": "2 ครั้งต่อเดือน",
+          "primaryFormat": "Photo Album",
+          "colorTag": "bg-rose-500/20 text-rose-800 border-rose-500/30",
+          "targetCount": 4,
+          "actualCount": 2,
+          "isCompleted": false,
+          "checklists": [
+            {
+              "id": "chk-5-1",
+              "task": "สัมภาษณ์คุณแม่น้องเจมส์ เรื่องวินัยและการเรียน",
+              "isDone": true,
+              "completedAt": "11 ก.ย. 2569"
+            },
+            {
+              "id": "chk-5-2",
+              "task": "จัดอัลบั้มรูปภาพกิจกรรมครอบครัววันซ้อมเสาร์-อาทิตย์",
+              "isDone": false
+            }
+          ],
+          "actionUpdates": [
+            {
+              "id": "act-5-1",
+              "date": "12 ก.ย. 2569",
+              "action": "ปล่อยบทความสัมภาษณ์คุณแม่น้องเจมส์ ได้รับเสียงชื่นชมจากผู้ปกครองท่านอื่นมากมาย",
+              "operator": "ทีมประชาสัมพันธ์",
+              "completed": true
+            }
+          ]
+        }
+      ],
+      "ideas": [
+        {
+          "id": "idea-1",
+          "title": "คลิปสั้น: โค้ชท้าดวลยิงชนคานกับกัปตันทีม U-12 ใครแพ้วิดพื้น 50 ที",
+          "pillarId": "cp-1",
+          "platform": "TikTok",
+          "format": "Short Video (Reels/TikTok)",
+          "hookHeadline": "เมื่อโค้ชท้าเด็กยิงชนคาน... ผลลัพธ์หักมุมท้ายคลิป!",
+          "callToAction": "คอมเมนต์ทายซิว่ากัปตันหรือโค้ชจะแพ้?",
+          "scheduledDate": "2026-09-15",
+          "status": "Ready to Post",
+          "targetAudience": "เด็กเยาวชนและแฟนคลับทั่วไป"
+        },
+        {
+          "id": "idea-2",
+          "title": "รวม 10 เซฟมหัศจรรย์ของ \"น้องต้า\" ผู้รักษาประตู U-14 พร้อมคลิปวิเคราะห์",
+          "pillarId": "cp-2",
+          "platform": "Facebook",
+          "format": "Short Video (Reels/TikTok)",
+          "hookHeadline": "กำแพงเหล็กแห่งพนัสนิคม! ไม่ผ่านมือหนุ่มน้อยคนนี้แน่นอน",
+          "callToAction": "กดแชร์เป็นกำลังใจให้น้องต้า สู่แคมป์ทีมชาติ",
+          "scheduledDate": "2026-09-18",
+          "status": "Shooting",
+          "targetAudience": "ผู้ปกครองและแฟนบอลท้องถิ่น"
+        },
+        {
+          "id": "idea-3",
+          "title": "บทความการ์ด Infographic: 5 สิ่งที่ผู้ปกครองห้ามตะโกนบอกลูกข้างสนาม",
+          "pillarId": "cp-4",
+          "platform": "Facebook",
+          "format": "Infographic / Article",
+          "hookHeadline": "คำพูดข้างสนามของคุณ กำลังทำร้ายความมั่นใจของลูกหรือไม่?",
+          "callToAction": "บันทึกโพสต์นี้ไว้ และแชร์ให้ผู้ปกครองนักกีฬาอ่านกันครับ",
+          "scheduledDate": "2026-09-22",
+          "status": "Scripting",
+          "targetAudience": "ผู้ปกครองเด็ก 6-15 ปี"
+        },
+        {
+          "id": "idea-4",
+          "title": "วิดีโอสัมภาษณ์ผู้ปกครองน้องนนท์: จากเด็กขี้อาย สู่ผู้นำทีม U-10",
+          "pillarId": "cp-5",
+          "platform": "YouTube",
+          "format": "Photo Album",
+          "hookHeadline": "ฟุตบอลเปลี่ยนชีวิตลูกชายของผมได้อย่างไร",
+          "callToAction": "สนใจลงทะเบียนทดลองเรียนฟรี ทัก LINE: @skasports ได้เลย",
+          "scheduledDate": "2026-09-27",
+          "status": "Idea",
+          "targetAudience": "พ่อแม่ผู้ปกครองที่กำลังมองหาที่เรียนกีฬา"
+        },
+        {
+          "id": "idea-5",
+          "title": "แมตช์เดย์ไฮไลท์ดาร์บี้แมตช์: SKA FC vs ชลบุรี อคาเดมี U-12",
+          "pillarId": "cp-3",
+          "platform": "TikTok",
+          "format": "Short Video (Reels/TikTok)",
+          "hookHeadline": "เกมเดือดระดับ 5 ดาว! ซัดกัน 5 ประตูใน 20 นาทีสุดท้าย",
+          "callToAction": "ติดตามชมฟูลแมตช์ได้ทาง YouTube ช่อง SKA FC TV",
+          "scheduledDate": "2026-10-02",
+          "status": "Idea",
+          "targetAudience": "แฟนบอลเยาวชนทั่วประเทศ"
+        }
+      ]
+    }
+  },
+  "feeHistoricalOverrides": {},
+  "financialHistoricalOverrides": {},
+  "defaultMonthlyFee": 1000,
+  "clubLogoUrl": "",
+  "clubShortName": "SKA FC",
+  "academyTagline": "ศูนย์ฝึกฟุตบอลเยาวชนพนัสนิคม"
 }

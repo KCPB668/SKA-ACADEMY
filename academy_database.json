@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:02:20.809Z",
+  "lastUpdated": "2026-09-20T11:02:21.753Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1405,42 +1405,6 @@
     }
   ],
   "drills": [
-    {
-      "id": "drill-03",
-      "title": "3v2 Continuous Wave Attack with Overlapping Wings",
-      "category": "Finishing & Shooting",
-      "ageGroups": [
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 25,
-      "intensity": "Maximum",
-      "pitchArea": "ครึ่งสนามฟุตบอล",
-      "minPlayers": 12,
-      "equipment": [
-        "ลูกบอล 15 ลูก",
-        "ประตูขนาดมาตรฐาน 1 หลัง",
-        "เอี๊ยม 3 สี (ทีมละ 3 คน)"
-      ],
-      "objective": "การสร้างสรรค์เกมรุกเมื่อมีผู้เล่นมากกว่า (Numerical Advantage) การเติมเกมของฟูลแบ็ก และการจบสกอร์ในกรอบเขตโทษ",
-      "instructions": [
-        "ทีมรุก 3 คนต่อบอลโจมตีกองหลัง 2 คน + ผู้รักษาประตู 1 คน",
-        "เมื่อจบจังหวะยิง (หรือกองหลังตัดบอลได้) ทีมรุก 2 คนจะกลายเป็นกองหลังทันที",
-        "ทีมรุกชุดใหม่ 3 คนจะเริ่มบุกสวนลงมาเป็นคลื่น (Wave attack continuous)",
-        "เน้นการวิ่งโอเวอร์แล็ป (Overlapping run) และการตัดเข้าใน (Inverted cut)"
-      ],
-      "coachingPoints": [
-        "ตัวครองบอลต้องดึงตัวประกบให้เข้ามาใกล้ก่อนปล่อยบอล (Commit the defender)",
-        "ปีกหรือผู้เล่นด้านกว้างต้องสปีดเติมเกมสุดเส้นหลัง (Timing of overlaps)",
-        "จังหวะเข้าทำหน้าประตูต้องมีตัวโฉบเสาแรก เสาสอง และแถวสอง (Box penetration layers)"
-      ],
-      "variations": [
-        "ให้แตะบอลได้ไม่เกิน 3 ครั้งต่อคนก่อนยิง"
-      ],
-      "diagramType": "wave-attack"
-    },
     {
       "id": "drill-04",
       "title": "Small Sided Game: 6v6 2-Touch Conditioned Match",

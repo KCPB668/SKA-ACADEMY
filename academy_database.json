@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:05:17.398Z",
+  "lastUpdated": "2026-09-20T11:05:27.153Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -538,9 +538,10 @@
       "ageGroup": "U-14",
       "borrowDate": "2026-09-10 16:00",
       "expectedReturnDate": "2026-09-10 18:30",
-      "status": "กำลังยืมใช้งาน",
+      "status": "คืนเรียบร้อยแล้ว",
       "purpose": "ซ้อมแท็กติก Small Sided Game 8v8 สนาม 2",
-      "note": "เบิกไปพร้อมเอี๊ยมสีส้ม 10 ตัว"
+      "note": "เบิกไปพร้อมเอี๊ยมสีส้ม 10 ตัว",
+      "returnedDate": "2026-09-20 11:05"
     },
     {
       "id": "chk-04",
@@ -551,8 +552,9 @@
       "ageGroup": "U-16",
       "borrowDate": "2026-09-10 15:45",
       "expectedReturnDate": "2026-09-10 18:30",
-      "status": "กำลังยืมใช้งาน",
-      "purpose": "สแตนด์บายข้างสนามซ้อมจำลองแมตช์จริง"
+      "status": "คืนเรียบร้อยแล้ว",
+      "purpose": "สแตนด์บายข้างสนามซ้อมจำลองแมตช์จริง",
+      "returnedDate": "2026-09-20 11:05"
     }
   ],
   "consultations": [],

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:05:14.596Z",
+  "lastUpdated": "2026-09-20T11:05:17.398Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -465,22 +465,7 @@
   ],
   "transactions": [],
   "sponsors": [],
-  "equipment": [
-    {
-      "id": "eq-10",
-      "name": "กระดานแท็กติกโค้ชแม่เหล็กพร้อมเบี้ย (Magnetic Tactical Board)",
-      "category": "อุปกรณ์เสริมฟิตเนส",
-      "quantity": 4,
-      "minThreshold": 3,
-      "unit": "แผ่น",
-      "condition": "ดีเยี่ยม",
-      "unitPrice": 950,
-      "location": "ห้องทำงานสตาฟฟ์โค้ช",
-      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "lastChecked": "2026-09-07",
-      "lastInspected": "2026-09-07"
-    }
-  ],
+  "equipment": [],
   "procurementOrders": [
     {
       "id": "po-01",

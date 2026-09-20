@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:04:50.897Z",
+  "lastUpdated": "2026-09-20T11:05:08.344Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -466,21 +466,6 @@
   "transactions": [],
   "sponsors": [],
   "equipment": [
-    {
-      "id": "eq-01",
-      "name": "ลูกฟุตบอลฝึกซ้อม Molten Vantaggio เบอร์ 4 (U-8 ถึง U-12)",
-      "category": "ลูกฟุตบอล",
-      "quantity": 24,
-      "minThreshold": 20,
-      "unit": "ลูก",
-      "condition": "ดีเยี่ยม",
-      "unitPrice": 650,
-      "location": "ห้องเก็บบอล คลับเฮาส์ 1 (ชั้นวาง A1)",
-      "responsibleCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "lastChecked": "2026-09-08",
-      "lastInspected": "2026-09-08",
-      "notes": "สภาพดี ลมยางสมบูรณ์ เติมลม 0.8 bar ประจำสัปดาห์"
-    },
     {
       "id": "eq-02",
       "name": "ลูกฟุตบอลฝึกซ้อม Molten F5A3400 เบอร์ 5 (U-14 ถึง U-18)",

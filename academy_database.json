@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-20T11:40:47.087Z",
+  "lastUpdated": "2026-09-20T11:40:53.882Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -233,7 +233,7 @@
       "date": "2026-09-21",
       "time": "18:00 - 19:30",
       "ageGroup": "ทุกรุ่นอายุ",
-      "theme": "Passin",
+      "theme": "T",
       "drills": [
         "Academy Mass Dynamic Warm-up & Agility Ladder (20 นาที)",
         "Station Circuit: 1. SAQ Circuit / 2. Juggling & First Touch / 3. Passing Gate (45 นาที)",
@@ -712,7 +712,7 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-09-21",
-      "title": "ฝึกซ้อม ทุกรุ่นอายุ: Passin",
+      "title": "ฝึกซ้อม ทุกรุ่นอายุ: T",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
         "U-8",
@@ -735,7 +735,7 @@
       "endTime": "19:30",
       "locationPitch": "สนามหญ้าเทียม",
       "coachInCharge": "กรรชัย ภูบังไม้",
-      "notes": "หัวข้อ: Passin\nผู้เข้าร่วม: 3/3 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
+      "notes": "หัวข้อ: T\nผู้เข้าร่วม: 3/3 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-09-21"
     },
     {

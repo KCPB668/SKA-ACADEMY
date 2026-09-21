@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-21T10:32:20.296Z",
+  "lastUpdated": "2026-09-21T10:32:22.711Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2462,19 +2462,6 @@
       "notes": "บัญชีผู้ดูแลระบบหลัก มีสิทธิ์เต็มในการจัดการข้อมูลและสร้างบัญชีผู้ใช้งาน",
       "isActive": true,
       "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "user-coach-2",
-      "username": "coach.tong",
-      "password": "coach1234",
-      "role": "coach",
-      "displayName": "โค้ชกฤษณะ ธนะโสภณ (โค้ชโต้ง)",
-      "linkedStaffId": "s2",
-      "phone": "086-777-5544",
-      "email": "kritsana.coach@ska-academy.com",
-      "notes": "ผู้ฝึกสอนเยาวชน U-10/U-12",
-      "isActive": true,
-      "createdAt": "2026-01-12T00:00:00.000Z"
     },
     {
       "id": "user-player-1",

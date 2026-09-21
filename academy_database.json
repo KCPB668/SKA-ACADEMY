@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-21T10:32:26.415Z",
+  "lastUpdated": "2026-09-21T10:32:30.148Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2462,36 +2462,6 @@
       "notes": "บัญชีผู้ดูแลระบบหลัก มีสิทธิ์เต็มในการจัดการข้อมูลและสร้างบัญชีผู้ใช้งาน",
       "isActive": true,
       "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "user-parent-1",
-      "username": "parent",
-      "password": "parent1234",
-      "role": "parent",
-      "displayName": "คุณสุทิน สุวรรณรัตน์ (ผู้ปกครองน้องภูผา)",
-      "linkedPlayerId": "p1",
-      "linkedPlayerIds": [
-        "p1"
-      ],
-      "phone": "081-456-7890",
-      "notes": "ผู้ปกครอง ด.ช.ภูผา สุวรรณรัตน์ (U-12)",
-      "isActive": true,
-      "createdAt": "2026-02-01T00:00:00.000Z"
-    },
-    {
-      "id": "user-parent-2",
-      "username": "parent.kittisak",
-      "password": "parent1234",
-      "role": "parent",
-      "displayName": "คุณกิตติศักดิ์ กิตติเดชา (ผู้ปกครองเตชินท์)",
-      "linkedPlayerId": "p8",
-      "linkedPlayerIds": [
-        "p8"
-      ],
-      "phone": "081-332-9876",
-      "notes": "ผู้ปกครอง ด.ช.ชินดนัย กิตติเดชา (U-14)",
-      "isActive": true,
-      "createdAt": "2026-02-05T00:00:00.000Z"
     }
   ]
 }

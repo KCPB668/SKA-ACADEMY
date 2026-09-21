@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-21T11:53:29.241Z",
+  "lastUpdated": "2026-09-21T11:58:05.885Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -265,38 +265,6 @@
         },
         {
           "playerId": "p-1789898922205",
-          "attendance": "มาซ้อม",
-          "effort": 8,
-          "technical": 8,
-          "tactical": 8,
-          "discipline": 9,
-          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
-        }
-      ]
-    },
-    {
-      "id": "tr-U-12-2026-09-21",
-      "date": "2026-09-21",
-      "time": "17:30 - 19:30",
-      "ageGroup": "U-12",
-      "theme": "1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
-      "drills": [
-        "Warm-up & SAQ: บันไดลิง สปีดระยะสั้น และปฏิกิริยาตอบสนอง (15 นาที)",
-        "Technical 1v1 Corridor: จังหวะกระชากหนีและการบล็อกมุมยิง (20 นาที)",
-        "Overload 3v2 Wave Attack with Finishing (25 นาที)",
-        "Small Sided Game: 7v7 2-Touch Conditioned Match (30 นาที)",
-        "Cool Down & Core Stability (10 นาที)"
-      ],
-      "pitch": "สนามหญ้าเทียม",
-      "weather": "ร่มครึ้ม",
-      "intensity": "Low",
-      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "assistantCoaches": [
-        "โค้ชภานุพงศ์ ทิพย์มงคล"
-      ],
-      "playerScores": [
-        {
-          "playerId": "p-1789899452597",
           "attendance": "มาซ้อม",
           "effort": 8,
           "technical": 8,
@@ -736,24 +704,6 @@
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-09-21"
     },
     {
-      "id": "evt-tr-tr-U-12-2026-09-21",
-      "title": "ฝึกซ้อม U-12: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
-      "eventType": "เซสชันการฝึกซ้อม",
-      "targetAgeGroups": [
-        "U-12"
-      ],
-      "ageGroups": [
-        "U-12"
-      ],
-      "startDate": "2026-09-21",
-      "startTime": "17:30",
-      "endTime": "19:30",
-      "locationPitch": "สนามหญ้าเทียม",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)\nผู้เข้าร่วม: 1/1 คน\nผู้ช่วยโค้ช: โค้ชภานุพงศ์ ทิพย์มงคล",
-      "linkedTrainingLogId": "tr-U-12-2026-09-21"
-    },
-    {
       "id": "evt-tr-tr-U-12-2026-09-20",
       "title": "ฝึกซ้อม U-12: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
       "eventType": "เซสชันการฝึกซ้อม",
@@ -783,7 +733,19 @@
       "category": "Training"
     }
   ],
-  "notes": [],
+  "notes": [
+    {
+      "id": "nt-1789991867344",
+      "title": "แก้ไขระบบแดชบอร์ด",
+      "category": "General",
+      "content": "ฟังค์ชั่นการใช้งาน\n- โค้ช\n- ผู้เล่น\n- ผู้ปกครอง\nให้ใช้งานเฉพาะที่อคาเดมี่กำหนด\n\nฟังค์ชั่นคะแนนทักษะ\n\nฟังค์การบันทึกข้อมูลลงคลาวด์ Github แบบอัตโนมัติ โดยที่ไม่ต้องกดบันทึก",
+      "author": "กรรชัย ภูบังไม้",
+      "isPinned": false,
+      "colorTag": "emerald",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    }
+  ],
   "driveFiles": [
     {
       "id": "drv-img-01",

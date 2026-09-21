@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-21T10:45:34.330Z",
+  "lastUpdated": "2026-09-21T11:35:51.836Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1023,7 +1023,28 @@
   "matchReports": [],
   "injuries": [],
   "drills": [],
-  "reportCards": [],
+  "reportCards": [
+    {
+      "id": "rep-1789990548143",
+      "playerId": "p-1789899479141",
+      "reportPeriod": "ไตรมาส 1/2026 (ม.ค. - มี.ค. 2026)",
+      "issueDate": "2026-09-21",
+      "evaluatorCoach": "โค้ชชัยวัฒน์ นาคพงษ์ (AFC B License)",
+      "attendanceRate": 100,
+      "totalSessionsAttended": 1,
+      "totalSessions": 1,
+      "overallScore": 75,
+      "pillarScores": {
+        "technical": 73,
+        "tactical": 74,
+        "physical": 72,
+        "psychological": 80
+      },
+      "highlights": "ดรูฟ จูปิเตอร์ (ดรูฟ) มีความตั้งใจและมีวินัยในการฝึกซ้อมสูงมาก การจับบอลแรกและการสแกนพื้นที่ทำได้อย่างเป็นธรรมชาติ กล้าเล่นในสถานการณ์ 1 ต่อ 1 และทัศนคติเป็นผู้นำที่ดี",
+      "developmentGoals": "เพิ่มความแม่นยำในการเปิดบอลด้วยเท้าข้างไม่ถนัด และฝึกสปีดต้นใน 5 เมตรแรก พร้อมทั้งรักษาสมาธิและสื่อสารกับเพื่อนร่วมทีมตลอด 90 นาที",
+      "parentFeedbackNote": "ฝึกเคาะบอลกับกำแพง (Wall Pass) วันละ 100 ครั้ง สลับเท้าซ้าย-ขวา และฝึกการยืดเหยียดกล้ามเนื้อสะโพกและแฮมสตริงเป็นประจำเพื่อป้องกันอาการบาดเจ็บ"
+    }
+  ],
   "structure": {
     "philosophy": {
       "motto": "สร้างคนดี ควบคู่ปั้นนักฟุตบอลอาชีพสู่เวทีระดับชาติ",

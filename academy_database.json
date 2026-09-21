@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-21T11:50:42.968Z",
+  "lastUpdated": "2026-09-21T11:51:34.463Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2474,11 +2474,11 @@
   "userAccounts": [
     {
       "id": "user-admin-1",
-      "username": "admin",
-      "password": "password123",
+      "username": "kanchai kcpb",
+      "password": "Kanchai.kcpb2821",
       "role": "admin",
       "displayName": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
-      "phone": "081-888-9999",
+      "phone": "",
       "email": "admin@ska-academy.com",
       "notes": "บัญชีผู้ดูแลระบบหลัก มีสิทธิ์เต็มในการจัดการข้อมูลและสร้างบัญชีผู้ใช้งาน",
       "isActive": true,

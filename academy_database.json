@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-21T10:31:24.559Z",
+  "lastUpdated": "2026-09-21T10:32:20.296Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2462,19 +2462,6 @@
       "notes": "บัญชีผู้ดูแลระบบหลัก มีสิทธิ์เต็มในการจัดการข้อมูลและสร้างบัญชีผู้ใช้งาน",
       "isActive": true,
       "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "user-coach-1",
-      "username": "coach",
-      "password": "coach1234",
-      "role": "coach",
-      "displayName": "โค้ชชัยวัฒน์ นาคพงษ์ (โค้ชวัฒน์)",
-      "linkedStaffId": "s1",
-      "phone": "081-998-3344",
-      "email": "chaiwat.coach@ska-academy.com",
-      "notes": "หัวหน้าผู้ฝึกสอนอคาเดมี่ (Academy Head Coach)",
-      "isActive": true,
-      "createdAt": "2026-01-10T00:00:00.000Z"
     },
     {
       "id": "user-coach-2",

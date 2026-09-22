@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-22T07:38:45.466Z",
+  "lastUpdated": "2026-09-22T07:43:42.962Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -189,7 +189,7 @@
     "p-1789899479141": {
       "playerId": "p-1789899479141",
       "technical": {
-        "firstTouch": 7.5,
+        "firstTouch": 8,
         "passing": 7.5,
         "dribbling": 7,
         "finishing": 7,

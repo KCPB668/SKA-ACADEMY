@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-22T08:00:04.956Z",
+  "lastUpdated": "2026-09-22T08:07:25.188Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -957,6 +957,22 @@
       "parentFeedbackNote": "ฝึกเคาะบอลกับกำแพง (Wall Pass) วันละ 100 ครั้ง สลับเท้าซ้าย-ขวา และฝึกการยืดเหยียดกล้ามเนื้อสะโพกและแฮมสตริงเป็นประจำเพื่อป้องกันอาการบาดเจ็บ"
     }
   ],
+  "reportSignatures": {
+    "evaluatorCoachId": "s1",
+    "evaluatorCoachName": "นาย ชัยวัฒน์ นาคพงษ์ (AFC B License)",
+    "evaluatorCoachRole": "หัวหน้าผู้ฝึกสอนผู้ประเมิน",
+    "evaluatorSignatureText": "Chaiwat N.",
+    "academyDirectorId": "s2",
+    "academyDirectorName": "นาย กฤษณะ ธนะโสภณ (AFC C License)",
+    "academyDirectorRole": "ผู้อำนวยการฝ่ายพัฒนาเยาวชน",
+    "academyDirectorSignatureText": "Kritsana T.",
+    "clubStampType": "preset",
+    "clubStampPreset": "circular",
+    "clubStampColor": "red",
+    "clubStampText": "SKA PHANAT NIKHOM UNITED FC",
+    "clubStampSubtext": "ACADEMY SEAL • CERTIFIED",
+    "showStampDate": true
+  },
   "structure": {
     "philosophy": {
       "motto": "สร้างคนดี ควบคู่ปั้นนักฟุตบอลอาชีพสู่เวทีระดับชาติ",

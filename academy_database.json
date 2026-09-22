@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-22T07:28:23.661Z",
+  "lastUpdated": "2026-09-22T07:31:57.964Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -202,7 +202,7 @@
         "decisionMaking": 7
       },
       "physical": {
-        "speed": 7.5,
+        "speed": 8,
         "agility": 7.5,
         "stamina": 7.5,
         "strength": 7
@@ -222,7 +222,7 @@
         }
       ],
       "longTermAmbition": "มุ่งมั่นพัฒนาทักษะสู่ระดับอาชีพ",
-      "lastAssessedDate": "2026-09-20",
+      "lastAssessedDate": "2026-09-22",
       "evaluatorCoach": "โค้ชชัยวัฒน์",
       "coachSummaryNotes": "นักเตะใหม่ สมรรถภาพร่างกายและทัศนคติดีมาก"
     }

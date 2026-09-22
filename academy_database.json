@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-22T07:31:57.964Z",
+  "lastUpdated": "2026-09-22T07:31:58.997Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -202,7 +202,7 @@
         "decisionMaking": 7
       },
       "physical": {
-        "speed": 8,
+        "speed": 7.5,
         "agility": 7.5,
         "stamina": 7.5,
         "strength": 7

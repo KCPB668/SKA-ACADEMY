@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-23T07:13:09.982Z",
+  "lastUpdated": "2026-09-23T07:19:56.676Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2459,5 +2459,383 @@
       "isActive": true,
       "createdAt": "2026-09-22T12:20:26.121Z"
     }
-  ]
+  ],
+  "rolePermissions": {
+    "admin": {
+      "overview": {
+        "canView": true,
+        "canWrite": true
+      },
+      "academy-structure": {
+        "canView": true,
+        "canWrite": true
+      },
+      "calendar": {
+        "canView": true,
+        "canWrite": true
+      },
+      "todo-notes": {
+        "canView": true,
+        "canWrite": true
+      },
+      "weekly-registration": {
+        "canView": true,
+        "canWrite": true
+      },
+      "daily-training": {
+        "canView": true,
+        "canWrite": true
+      },
+      "drill-library": {
+        "canView": true,
+        "canWrite": true
+      },
+      "match-reports": {
+        "canView": true,
+        "canWrite": true
+      },
+      "idp": {
+        "canView": true,
+        "canWrite": true
+      },
+      "player-progress": {
+        "canView": true,
+        "canWrite": true
+      },
+      "historical-logs": {
+        "canView": true,
+        "canWrite": true
+      },
+      "training-stats": {
+        "canView": true,
+        "canWrite": true
+      },
+      "players": {
+        "canView": true,
+        "canWrite": true
+      },
+      "staff": {
+        "canView": true,
+        "canWrite": true
+      },
+      "injury-tracker": {
+        "canView": true,
+        "canWrite": true
+      },
+      "consultations": {
+        "canView": true,
+        "canWrite": true
+      },
+      "commercial": {
+        "canView": true,
+        "canWrite": true
+      },
+      "monthly-fees": {
+        "canView": true,
+        "canWrite": true
+      },
+      "finances": {
+        "canView": true,
+        "canWrite": true
+      },
+      "sponsors": {
+        "canView": true,
+        "canWrite": true
+      },
+      "equipment": {
+        "canView": true,
+        "canWrite": true
+      },
+      "academy-files": {
+        "canView": true,
+        "canWrite": true
+      },
+      "user-management": {
+        "canView": true,
+        "canWrite": true
+      }
+    },
+    "coach": {
+      "overview": {
+        "canView": true,
+        "canWrite": true
+      },
+      "academy-structure": {
+        "canView": true,
+        "canWrite": false
+      },
+      "calendar": {
+        "canView": true,
+        "canWrite": true
+      },
+      "todo-notes": {
+        "canView": true,
+        "canWrite": true
+      },
+      "weekly-registration": {
+        "canView": true,
+        "canWrite": true
+      },
+      "daily-training": {
+        "canView": true,
+        "canWrite": true
+      },
+      "drill-library": {
+        "canView": true,
+        "canWrite": true
+      },
+      "match-reports": {
+        "canView": true,
+        "canWrite": true
+      },
+      "idp": {
+        "canView": true,
+        "canWrite": true
+      },
+      "player-progress": {
+        "canView": true,
+        "canWrite": true
+      },
+      "historical-logs": {
+        "canView": true,
+        "canWrite": true
+      },
+      "training-stats": {
+        "canView": true,
+        "canWrite": true
+      },
+      "players": {
+        "canView": true,
+        "canWrite": true
+      },
+      "staff": {
+        "canView": true,
+        "canWrite": false
+      },
+      "injury-tracker": {
+        "canView": true,
+        "canWrite": true
+      },
+      "consultations": {
+        "canView": true,
+        "canWrite": true
+      },
+      "commercial": {
+        "canView": false,
+        "canWrite": false
+      },
+      "monthly-fees": {
+        "canView": false,
+        "canWrite": false
+      },
+      "finances": {
+        "canView": false,
+        "canWrite": false
+      },
+      "sponsors": {
+        "canView": false,
+        "canWrite": false
+      },
+      "equipment": {
+        "canView": true,
+        "canWrite": true
+      },
+      "academy-files": {
+        "canView": true,
+        "canWrite": true
+      },
+      "user-management": {
+        "canView": false,
+        "canWrite": false
+      }
+    },
+    "player": {
+      "overview": {
+        "canView": true,
+        "canWrite": false
+      },
+      "academy-structure": {
+        "canView": true,
+        "canWrite": false
+      },
+      "calendar": {
+        "canView": true,
+        "canWrite": false
+      },
+      "todo-notes": {
+        "canView": false,
+        "canWrite": false
+      },
+      "weekly-registration": {
+        "canView": true,
+        "canWrite": true
+      },
+      "daily-training": {
+        "canView": false,
+        "canWrite": false
+      },
+      "drill-library": {
+        "canView": true,
+        "canWrite": false
+      },
+      "match-reports": {
+        "canView": false,
+        "canWrite": false
+      },
+      "idp": {
+        "canView": true,
+        "canWrite": false
+      },
+      "player-progress": {
+        "canView": false,
+        "canWrite": false
+      },
+      "historical-logs": {
+        "canView": false,
+        "canWrite": false
+      },
+      "training-stats": {
+        "canView": false,
+        "canWrite": false
+      },
+      "players": {
+        "canView": false,
+        "canWrite": false
+      },
+      "staff": {
+        "canView": false,
+        "canWrite": false
+      },
+      "injury-tracker": {
+        "canView": false,
+        "canWrite": false
+      },
+      "consultations": {
+        "canView": false,
+        "canWrite": false
+      },
+      "commercial": {
+        "canView": false,
+        "canWrite": false
+      },
+      "monthly-fees": {
+        "canView": false,
+        "canWrite": false
+      },
+      "finances": {
+        "canView": false,
+        "canWrite": false
+      },
+      "sponsors": {
+        "canView": false,
+        "canWrite": false
+      },
+      "equipment": {
+        "canView": false,
+        "canWrite": false
+      },
+      "academy-files": {
+        "canView": false,
+        "canWrite": false
+      },
+      "user-management": {
+        "canView": false,
+        "canWrite": false
+      }
+    },
+    "parent": {
+      "overview": {
+        "canView": true,
+        "canWrite": false
+      },
+      "academy-structure": {
+        "canView": true,
+        "canWrite": false
+      },
+      "calendar": {
+        "canView": true,
+        "canWrite": false
+      },
+      "todo-notes": {
+        "canView": false,
+        "canWrite": false
+      },
+      "weekly-registration": {
+        "canView": true,
+        "canWrite": true
+      },
+      "daily-training": {
+        "canView": false,
+        "canWrite": false
+      },
+      "drill-library": {
+        "canView": false,
+        "canWrite": false
+      },
+      "match-reports": {
+        "canView": false,
+        "canWrite": false
+      },
+      "idp": {
+        "canView": false,
+        "canWrite": false
+      },
+      "player-progress": {
+        "canView": true,
+        "canWrite": false
+      },
+      "historical-logs": {
+        "canView": false,
+        "canWrite": false
+      },
+      "training-stats": {
+        "canView": false,
+        "canWrite": false
+      },
+      "players": {
+        "canView": false,
+        "canWrite": false
+      },
+      "staff": {
+        "canView": false,
+        "canWrite": false
+      },
+      "injury-tracker": {
+        "canView": false,
+        "canWrite": false
+      },
+      "consultations": {
+        "canView": false,
+        "canWrite": false
+      },
+      "commercial": {
+        "canView": false,
+        "canWrite": false
+      },
+      "monthly-fees": {
+        "canView": true,
+        "canWrite": false
+      },
+      "finances": {
+        "canView": false,
+        "canWrite": false
+      },
+      "sponsors": {
+        "canView": false,
+        "canWrite": false
+      },
+      "equipment": {
+        "canView": false,
+        "canWrite": false
+      },
+      "academy-files": {
+        "canView": false,
+        "canWrite": false
+      },
+      "user-management": {
+        "canView": false,
+        "canWrite": false
+      }
+    }
+  }
 }

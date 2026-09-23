@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-23T13:37:50.165Z",
+  "lastUpdated": "2026-09-23T13:39:33.280Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3135,26 +3135,6 @@
       "colorTag": "purple",
       "createdAt": "2026-08-25T11:00:00.000Z",
       "updatedAt": "2026-09-05T09:15:00.000Z"
-    },
-    {
-      "id": "cn-03",
-      "topicId": "cnt-03",
-      "title": "แนวทางการเล่น 3-Second Counter-Pressing และ Rest Defense",
-      "content": "แนวทางการฝึกซ้อมร่วมกันทุกชุดอายุ (U-12, U-14, U-16):\n• จังหวะเสียบอล (Offensive Transition to Defense): ผู้เล่นที่อยู่ใกล้บอลที่สุด 2 คนต้องวิ่งบีบกดดันทันทีภายใน 3 วินาทีแรก\n• การยืนตำแหน่ง Rest Defense (3+1): แผงหลัง 3 คนพร้อมกองกลางตัวรับ 1 คน ต้องรักษาระยะความลึกไม่เกิน 25 เมตร เพื่อดักจังหวะตัดบอลสวนกลับ\n• เมื่อตัดบอลได้ ให้เล่นบอลไดเรกต์ 1-2 จังหวะเข้าสู่พื้นที่ว่างด้านข้างสนามทันที",
-      "author": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "authorRole": "หัวหน้าผู้ฝึกสอนอคาเดมี่ (AFC B License)",
-      "authorAccountId": "user-coach-1",
-      "isPinned": true,
-      "priority": "High",
-      "tags": [
-        "แท็กติก",
-        "Counter-Press",
-        "Rest Defense",
-        "คู่มือโค้ช"
-      ],
-      "colorTag": "blue",
-      "createdAt": "2026-08-28T16:00:00.000Z",
-      "updatedAt": "2026-09-08T17:20:00.000Z"
     },
     {
       "id": "cn-04",

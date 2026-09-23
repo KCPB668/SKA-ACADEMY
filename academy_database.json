@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-23T13:22:37.511Z",
+  "lastUpdated": "2026-09-23T13:23:51.245Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2444,7 +2444,102 @@
       "email": "",
       "notes": "",
       "isActive": true,
-      "createdAt": "2026-09-21T11:53:13.138Z"
+      "createdAt": "2026-09-21T11:53:13.138Z",
+      "useCustomPermissions": true,
+      "customPermissions": {
+        "overview": {
+          "canView": false,
+          "canWrite": false
+        },
+        "academy-structure": {
+          "canView": false,
+          "canWrite": false
+        },
+        "calendar": {
+          "canView": true,
+          "canWrite": false
+        },
+        "todo-notes": {
+          "canView": true,
+          "canWrite": true
+        },
+        "weekly-registration": {
+          "canView": true,
+          "canWrite": true
+        },
+        "daily-training": {
+          "canView": false,
+          "canWrite": false
+        },
+        "drill-library": {
+          "canView": false,
+          "canWrite": false
+        },
+        "match-reports": {
+          "canView": true,
+          "canWrite": false
+        },
+        "idp": {
+          "canView": true,
+          "canWrite": false
+        },
+        "player-progress": {
+          "canView": true,
+          "canWrite": false
+        },
+        "historical-logs": {
+          "canView": false,
+          "canWrite": false
+        },
+        "training-stats": {
+          "canView": false,
+          "canWrite": false
+        },
+        "players": {
+          "canView": true,
+          "canWrite": false
+        },
+        "staff": {
+          "canView": false,
+          "canWrite": false
+        },
+        "injury-tracker": {
+          "canView": true,
+          "canWrite": false
+        },
+        "consultations": {
+          "canView": false,
+          "canWrite": false
+        },
+        "commercial": {
+          "canView": false,
+          "canWrite": false
+        },
+        "monthly-fees": {
+          "canView": false,
+          "canWrite": false
+        },
+        "finances": {
+          "canView": false,
+          "canWrite": false
+        },
+        "sponsors": {
+          "canView": false,
+          "canWrite": false
+        },
+        "equipment": {
+          "canView": false,
+          "canWrite": false
+        },
+        "academy-files": {
+          "canView": false,
+          "canWrite": false
+        },
+        "user-management": {
+          "canView": false,
+          "canWrite": false
+        }
+      }
     },
     {
       "id": "user-1790079626121-njth",

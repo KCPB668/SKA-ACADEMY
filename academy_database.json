@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-30T11:43:44.736Z",
+  "lastUpdated": "2026-09-30T11:44:16.391Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -1185,6 +1185,22 @@
       ]
     },
     "pathways": [
+      {
+        "id": "pw-1",
+        "stageName": "Stage 1: Grassroots Discovery & Love for Football",
+        "ageRange": "อายุ 6 - 8 ปี (U-8)",
+        "objective": "ปลูกฝังความรักในกีฬาฟุตบอล ความสนุกสนาน ทักษะการเคลื่อนไหวพื้นฐาน (FMS) และความคุ้นเคยกับลูกฟุตบอลอย่างเป็นธรรมชาติ",
+        "weeklySchedule": "ฝึกซ้อม 2 ครั้ง/สัปดาห์ (ครั้งละ 75 นาที) + มินิเฟสติวัลฟุตบอล 5 คน",
+        "competitions": [
+          "Grassroots Fun Festivals",
+          "ทัวร์นาเมนต์กระชับมิตรท้องถิ่น U-8"
+        ],
+        "exitOutcomes": [
+          "ทักษะเลี้ยงบอลคล่องแคล่วทั้งสองเท้า",
+          "รักการเล่นฟุตบอลและมีระเบียบวินัยพื้นฐาน"
+        ],
+        "color": "from-amber-500/20 to-orange-500/10 text-amber-300 border-amber-500/30"
+      },
       {
         "id": "pw-2",
         "stageName": "Stage 2: Foundation & Technical Excellence",

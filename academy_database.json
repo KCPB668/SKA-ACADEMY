@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-30T12:53:14.218Z",
+  "lastUpdated": "2026-09-30T12:54:09.623Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -641,7 +641,20 @@
       "returnedDate": "2026-09-20 11:05"
     }
   ],
-  "consultations": [],
+  "consultations": [
+    {
+      "id": "cs-1790772849468",
+      "playerId": "p-1789899452597",
+      "date": "2026-09-30",
+      "conductedWith": "ทั้งนักเตะและผู้ปกครอง",
+      "coachName": "กรรชัย ภูบังไม้",
+      "location": "คลับเฮาส์ อคาเดมี่ SKA FC",
+      "topics": "พัฒนาการและเป้าหมายการเล่นตำแหน่งกองกลาง",
+      "notes": "Saf",
+      "actionPlan": [],
+      "nextFollowUpDate": "2026-10-15"
+    }
+  ],
   "calendarEvents": [
     {
       "id": "ev-1790129723815",

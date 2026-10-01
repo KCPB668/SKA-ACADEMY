@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-01T18:21:31.451Z",
+  "lastUpdated": "2026-10-01T18:21:35.026Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -757,21 +757,6 @@
       "description": "การทดสอบ Beep Test, สปรินต์ 30 เมตร และ Agility T-Test",
       "ageGroup": "U-14",
       "uploadedBy": "โค้ชสมชาย พิทักษ์ไทย",
-      "isGoogleDriveLive": false
-    },
-    {
-      "id": "drv-vid-02",
-      "name": "คลิปไฮไลต์การเล่นและลูกยิงสวยงามประจำเดือนสิงหาคม 2026.mp4",
-      "category": "video",
-      "mimeType": "video/mp4",
-      "size": 131072000,
-      "createdTime": "2026-08-31T20:00:00Z",
-      "modifiedTime": "2026-08-31T21:15:00Z",
-      "webViewLink": "https://drive.google.com",
-      "thumbnailLink": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&auto=format&fit=crop&q=80",
-      "description": "รวบรวมช็อตต่อบอลสวยงาม ลูกยิงไกล และการเซฟยอดเยี่ยมของเด็กๆ",
-      "ageGroup": "All",
-      "uploadedBy": "ฝ่ายมีเดียและคอนเทนต์",
       "isGoogleDriveLive": false
     },
     {

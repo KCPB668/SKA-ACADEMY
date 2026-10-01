@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-01T18:21:40.463Z",
+  "lastUpdated": "2026-10-01T18:21:44.794Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -801,20 +801,6 @@
       "description": "เอกสารลงนามยินยอมการฝึกซ้อม ประวัติสุขภาพ และการเดินทางไปแข่งขันต่างจังหวัด",
       "ageGroup": "All",
       "uploadedBy": "ฝ่ายธุรการสโมสร",
-      "isGoogleDriveLive": false
-    },
-    {
-      "id": "drv-doc-03",
-      "name": "แผนพัฒนาศักยภาพนักเตะรายบุคคล IDP Master Blueprint.xlsx",
-      "category": "document",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "size": 870400,
-      "createdTime": "2026-08-12T09:00:00Z",
-      "modifiedTime": "2026-09-08T16:20:00Z",
-      "webViewLink": "https://drive.google.com",
-      "description": "เทมเพลตและตารางสรุปคะแนนประเมิน 4 เสาหลักของนักเตะทุกรุ่นอายุ",
-      "ageGroup": "All",
-      "uploadedBy": "หัวหน้าผู้ฝึกสอน",
       "isGoogleDriveLive": false
     },
     {

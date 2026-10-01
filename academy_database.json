@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-01T18:21:00.025Z",
+  "lastUpdated": "2026-10-01T18:21:12.994Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -714,21 +714,6 @@
     }
   ],
   "driveFiles": [
-    {
-      "id": "drv-img-01",
-      "name": "ภาพเปิดตัวชุดแข่งอคาเดมี่ประจำฤดูกาล 2026-2027.jpg",
-      "category": "image",
-      "mimeType": "image/jpeg",
-      "size": 2516582,
-      "createdTime": "2026-08-15T09:30:00Z",
-      "modifiedTime": "2026-08-15T10:00:00Z",
-      "webViewLink": "https://drive.google.com",
-      "thumbnailLink": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=600&auto=format&fit=crop&q=80",
-      "description": "ภาพถ่ายชุดแข่งเหย้า-เยือน และชุดผู้รักษาประตูรุ่นเยาวชน SKA",
-      "ageGroup": "All",
-      "uploadedBy": "ฝ่ายประชาสัมพันธ์สโมสร",
-      "isGoogleDriveLive": false
-    },
     {
       "id": "drv-img-02",
       "name": "ภาพการฝึกซ้อมเทคนิคเกมรุก U-12 สนามหญ้าจริง 1.jpg",

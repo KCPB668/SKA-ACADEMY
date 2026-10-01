@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-01T18:21:44.794Z",
+  "lastUpdated": "2026-10-01T18:21:47.371Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -815,20 +815,6 @@
       "description": "หลักสูตรแบบฝึกการซ้อมตั้งแต่ U-8 ถึง U-18 ตามมาตรฐานสากล AFC/FA",
       "ageGroup": "All",
       "uploadedBy": "ประธานเทคนิคสโมสร",
-      "isGoogleDriveLive": false
-    },
-    {
-      "id": "drv-doc-05",
-      "name": "ตารางงบประมาณรายรับ-รายจ่ายและแผนจัดซื้ออุปกรณ์ ไตรมาส 3.xlsx",
-      "category": "document",
-      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "size": 634880,
-      "createdTime": "2026-08-25T13:00:00Z",
-      "modifiedTime": "2026-09-09T18:00:00Z",
-      "webViewLink": "https://drive.google.com",
-      "description": "งบประมาณค่าสนาม ค่าน้ำดื่ม ลูกฟุตบอล กรวย และอุปกรณ์ฝึกซ้อม",
-      "ageGroup": "All",
-      "uploadedBy": "ฝ่ายการเงินสโมสร",
       "isGoogleDriveLive": false
     },
     {

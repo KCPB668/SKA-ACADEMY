@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-01T18:21:12.994Z",
+  "lastUpdated": "2026-10-01T18:21:16.745Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -714,21 +714,6 @@
     }
   ],
   "driveFiles": [
-    {
-      "id": "drv-img-02",
-      "name": "ภาพการฝึกซ้อมเทคนิคเกมรุก U-12 สนามหญ้าจริง 1.jpg",
-      "category": "image",
-      "mimeType": "image/jpeg",
-      "size": 3355443,
-      "createdTime": "2026-09-02T16:45:00Z",
-      "modifiedTime": "2026-09-02T18:30:00Z",
-      "webViewLink": "https://drive.google.com",
-      "thumbnailLink": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&auto=format&fit=crop&q=80",
-      "description": "บันทึกภาพบรรยากาศการฝึกซ้อมเซสชัน Positional Play & Finishing",
-      "ageGroup": "U-12",
-      "uploadedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "isGoogleDriveLive": false
-    },
     {
       "id": "drv-img-03",
       "name": "ทำเนียบภาพถ่ายเดี่ยวนักเตะ U-8 ถึง U-18 ประจำฤดูกาล.png",

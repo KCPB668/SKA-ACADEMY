@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-01T18:21:47.371Z",
+  "lastUpdated": "2026-10-01T18:21:50.793Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -801,34 +801,6 @@
       "description": "เอกสารลงนามยินยอมการฝึกซ้อม ประวัติสุขภาพ และการเดินทางไปแข่งขันต่างจังหวัด",
       "ageGroup": "All",
       "uploadedBy": "ฝ่ายธุรการสโมสร",
-      "isGoogleDriveLive": false
-    },
-    {
-      "id": "drv-doc-04",
-      "name": "คู่มือหลักสูตรฝึกสอนฟุตบอล 4 เสาหลัก (Youth Development Curriculum).pdf",
-      "category": "document",
-      "mimeType": "application/pdf",
-      "size": 3670016,
-      "createdTime": "2026-07-20T11:00:00Z",
-      "modifiedTime": "2026-08-01T09:15:00Z",
-      "webViewLink": "https://drive.google.com",
-      "description": "หลักสูตรแบบฝึกการซ้อมตั้งแต่ U-8 ถึง U-18 ตามมาตรฐานสากล AFC/FA",
-      "ageGroup": "All",
-      "uploadedBy": "ประธานเทคนิคสโมสร",
-      "isGoogleDriveLive": false
-    },
-    {
-      "id": "drv-doc-06",
-      "name": "แบบฟอร์มบันทึกการพูดคุย One on One และประเมินจิตวิทยา.docx",
-      "category": "document",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "size": 389120,
-      "createdTime": "2026-09-01T15:00:00Z",
-      "modifiedTime": "2026-09-01T15:00:00Z",
-      "webViewLink": "https://drive.google.com",
-      "description": "แบบฟอร์มสัมภาษณ์เจาะลึกความรู้สึก ความสุขในการเล่น และเป้าหมายระยะสั้น",
-      "ageGroup": "All",
-      "uploadedBy": "โค้ชกฤษณะ ธนะโสภณ",
       "isGoogleDriveLive": false
     }
   ],

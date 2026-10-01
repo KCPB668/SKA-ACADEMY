@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-01T18:21:35.026Z",
+  "lastUpdated": "2026-10-01T18:21:40.463Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -787,20 +787,6 @@
       "description": "เจาะลึกฟุตเวิร์ก การตัดสินใจตัดบอลกลางอากาศ และการขว้างบอลสวนกลับ",
       "ageGroup": "U-16",
       "uploadedBy": "โค้ชอนุชา วงศ์สวัสดิ์",
-      "isGoogleDriveLive": false
-    },
-    {
-      "id": "drv-doc-01",
-      "name": "ระเบียบวินัยและข้อบังคับนักฟุตบอลเยาวชน SKA United (ฉบับสมบูรณ์).pdf",
-      "category": "document",
-      "mimeType": "application/pdf",
-      "size": 1258291,
-      "createdTime": "2026-08-01T08:00:00Z",
-      "modifiedTime": "2026-08-10T14:30:00Z",
-      "webViewLink": "https://drive.google.com",
-      "description": "ข้อตกลงการฝึกซ้อม การแต่งกาย มารยาทในสนาม และนโยบายการเรียนควบคู่กีฬา",
-      "ageGroup": "All",
-      "uploadedBy": "ผู้อำนวยการฝ่ายพัฒนาเยาวชน",
       "isGoogleDriveLive": false
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-02T13:13:14.217Z",
+  "lastUpdated": "2026-10-02T13:12:53.641Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2303,6 +2303,15 @@
       "notes": "",
       "isActive": true,
       "createdAt": "2026-09-22T12:20:26.121Z"
+    },
+    {
+      "id": "test-user-999",
+      "username": "testuser999",
+      "password": "password123",
+      "role": "player",
+      "displayName": "Test Player",
+      "isActive": true,
+      "createdAt": "2026-10-02T12:56:36.863Z"
     }
   ],
   "rolePermissions": {

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-02T15:15:12.691Z",
+  "lastUpdated": "2026-10-02T15:17:23.782Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -227,7 +227,40 @@
       "coachSummaryNotes": "นักเตะใหม่ สมรรถภาพร่างกายและทัศนคติดีมาก"
     }
   },
-  "trainingLogs": [],
+  "trainingLogs": [
+    {
+      "id": "tr-U-12-2026-10-02",
+      "date": "2026-10-02",
+      "time": "16:30 - 18:30",
+      "ageGroup": "U-12",
+      "theme": "1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
+      "drills": [
+        "Warm-up & SAQ: บันไดลิง สปีดระยะสั้น และปฏิกิริยาตอบสนอง (15 นาที)",
+        "Technical 1v1 Corridor: จังหวะกระชากหนีและการบล็อกมุมยิง (20 นาที)",
+        "Overload 3v2 Wave Attack with Finishing (25 นาที)",
+        "Small Sided Game: 7v7 2-Touch Conditioned Match (30 นาที)",
+        "Cool Down & Core Stability (10 นาที)"
+      ],
+      "pitch": "สนามหญ้าจริง 1",
+      "weather": "ร่มครึ้ม",
+      "intensity": "High",
+      "headCoach": "กรรชัย ภูบังไม้",
+      "assistantCoaches": [
+        "โค้ชภานุพงศ์ ทิพย์มงคล"
+      ],
+      "playerScores": [
+        {
+          "playerId": "p-1789899452597",
+          "attendance": "มาซ้อม",
+          "effort": 8,
+          "technical": 8,
+          "tactical": 8,
+          "discipline": 9,
+          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
+        }
+      ]
+    }
+  ],
   "monthlyFees": [
     {
       "id": "fee-1789899479142",
@@ -596,6 +629,24 @@
   ],
   "consultations": [],
   "calendarEvents": [
+    {
+      "id": "evt-tr-tr-U-12-2026-10-02",
+      "title": "ฝึกซ้อม U-12: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
+      "eventType": "เซสชันการฝึกซ้อม",
+      "targetAgeGroups": [
+        "U-12"
+      ],
+      "ageGroups": [
+        "U-12"
+      ],
+      "startDate": "2026-10-02",
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "locationPitch": "สนามหญ้าจริง 1",
+      "coachInCharge": "กรรชัย ภูบังไม้",
+      "notes": "หัวข้อ: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)\nผู้เข้าร่วม: 1/1 คน\nผู้ช่วยโค้ช: โค้ชภานุพงศ์ ทิพย์มงคล",
+      "linkedTrainingLogId": "tr-U-12-2026-10-02"
+    },
     {
       "id": "ev-1790129723815",
       "title": "match",

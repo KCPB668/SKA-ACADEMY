@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-02T13:01:14.546Z",
+  "lastUpdated": "2026-10-02T13:01:30.416Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2312,33 +2312,6 @@
       "displayName": "Test Player",
       "isActive": true,
       "createdAt": "2026-10-02T12:56:36.863Z"
-    },
-    {
-      "id": "user-test-u1",
-      "username": "player_somchai",
-      "password": "password123",
-      "role": "player",
-      "displayName": "ด.ช. สมชาย ใจดี",
-      "isActive": true,
-      "createdAt": "2026-10-02T13:01:14.467Z"
-    },
-    {
-      "id": "user-test-u2",
-      "username": "coach_anurak",
-      "password": "password123",
-      "role": "coach",
-      "displayName": "โค้ชอนุรักษ์ สอนบอล",
-      "isActive": true,
-      "createdAt": "2026-10-02T13:01:14.467Z"
-    },
-    {
-      "id": "user-test-u3",
-      "username": "parent_somying",
-      "password": "password123",
-      "role": "parent",
-      "displayName": "ผู้ปกครองน้องสมชาย",
-      "isActive": true,
-      "createdAt": "2026-10-02T13:01:14.467Z"
     }
   ],
   "rolePermissions": {

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-02T13:12:48.631Z",
+  "lastUpdated": "2026-10-02T13:12:53.641Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2312,15 +2312,6 @@
       "displayName": "Test Player",
       "isActive": true,
       "createdAt": "2026-10-02T12:56:36.863Z"
-    },
-    {
-      "id": "user-temp-del-1790946768554",
-      "username": "to_be_deleted",
-      "password": "password123",
-      "role": "player",
-      "displayName": "บัญชีสำหรับทดสอบลบ",
-      "isActive": true,
-      "createdAt": "2026-10-02T13:12:48.554Z"
     }
   ],
   "rolePermissions": {

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-02T14:19:29.376Z",
+  "lastUpdated": "2026-10-02T14:20:10.385Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2303,6 +2303,23 @@
       "notes": "",
       "isActive": true,
       "createdAt": "2026-09-22T12:20:26.121Z"
+    },
+    {
+      "id": "user-1790950810054-0r8p",
+      "username": "เซอร์หมูแฮม",
+      "password": "เซอร์หมูแฮม.55",
+      "role": "player",
+      "displayName": "จิตติพงษ์ (หมูแฮม)",
+      "linkedPlayerId": "p-1789899452597",
+      "linkedPlayerIds": [
+        "p-1789899452597"
+      ],
+      "phone": "",
+      "email": "",
+      "notes": "",
+      "isActive": true,
+      "createdAt": "2026-10-02T14:20:10.054Z",
+      "useCustomPermissions": false
     }
   ],
   "rolePermissions": {

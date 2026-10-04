@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-04T11:35:55.247Z",
+  "lastUpdated": "2026-10-04T11:35:03.114Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2056,13 +2056,12 @@
     "announcements": [
       {
         "id": "ann-1789901096608",
-        "title": "ลงชื่อซ้อมประจำสัปดาห์ ลงชื่อก่อนวันอาทิตย์ 4 ตุลาคม 2569 ก่อนเวลา 22.00น.",
-        "content": "ลงชื่อซ้อมประจำสัปดาห์ ลงชื่อก่อนวันอาทิตย์ 4 คุลาคม 2569 ก่อนเวลา 22.00น.\nสัปดาห์นี้ซ้อม จันทร์ อังคาร พุธ พฤหัสบดี",
+        "title": "ลงชื่อซ้อมประจำสัปดาห์ ลงชื่อก่อนวันอาทิตย์ 20 กันยายน 2569 ก่อนเวลา 22.00น.",
+        "content": "ลงชื่อซ้อมประจำสัปดาห์ ลงชื่อก่อนวันอาทิตย์ 20 กันยายน 2569 ก่อนเวลา 22.00น.\nสัปดาห์นี้ซ้อม จันทร์ ังคาร พุธ พฤหัสบดี",
         "datePosted": "2026-09-20",
         "postedBy": "ทีมงานผู้ฝึกสอน SKA FC",
         "isPinned": true,
-        "type": "general",
-        "lastEditedAt": "2026-10-04T11:35:33.842Z"
+        "type": "general"
       },
       {
         "id": "ann-2",
@@ -2234,7 +2233,7 @@
         "transportType": "ผู้ปกครองมาส่ง"
       }
     ],
-    "lastUpdated": "2026-10-04T11:35:33.842Z"
+    "lastUpdated": "2026-10-02T14:25:04.461Z"
   },
   "userAccounts": [
     {
@@ -2388,117 +2387,6 @@
       "notes": "",
       "isActive": true,
       "createdAt": "2026-10-02T14:40:13.468Z",
-      "useCustomPermissions": true,
-      "customPermissions": {
-        "overview": {
-          "canView": true,
-          "canWrite": false
-        },
-        "academy-structure": {
-          "canView": false,
-          "canWrite": false
-        },
-        "calendar": {
-          "canView": true,
-          "canWrite": false
-        },
-        "todo-notes": {
-          "canView": true,
-          "canWrite": true
-        },
-        "weekly-registration": {
-          "canView": true,
-          "canWrite": true
-        },
-        "daily-training": {
-          "canView": false,
-          "canWrite": false
-        },
-        "drill-library": {
-          "canView": false,
-          "canWrite": false
-        },
-        "match-reports": {
-          "canView": true,
-          "canWrite": false
-        },
-        "idp": {
-          "canView": true,
-          "canWrite": false
-        },
-        "player-progress": {
-          "canView": true,
-          "canWrite": false
-        },
-        "historical-logs": {
-          "canView": false,
-          "canWrite": false
-        },
-        "training-stats": {
-          "canView": false,
-          "canWrite": false
-        },
-        "players": {
-          "canView": true,
-          "canWrite": false
-        },
-        "staff": {
-          "canView": false,
-          "canWrite": false
-        },
-        "injury-tracker": {
-          "canView": true,
-          "canWrite": false
-        },
-        "consultations": {
-          "canView": false,
-          "canWrite": false
-        },
-        "commercial": {
-          "canView": false,
-          "canWrite": false
-        },
-        "monthly-fees": {
-          "canView": false,
-          "canWrite": false
-        },
-        "finances": {
-          "canView": false,
-          "canWrite": false
-        },
-        "sponsors": {
-          "canView": false,
-          "canWrite": false
-        },
-        "equipment": {
-          "canView": false,
-          "canWrite": false
-        },
-        "academy-files": {
-          "canView": false,
-          "canWrite": false
-        },
-        "user-management": {
-          "canView": false,
-          "canWrite": false
-        }
-      }
-    },
-    {
-      "id": "user-1791113483243-41f7",
-      "username": "ดรูฟ",
-      "password": "ดรูฟ.จูปิเตอร์55",
-      "role": "player",
-      "displayName": "ดรูฟ จูปิเตอร์",
-      "linkedPlayerId": "p-1789899479141",
-      "linkedPlayerIds": [
-        "p-1789899479141"
-      ],
-      "phone": "",
-      "email": "",
-      "notes": "",
-      "isActive": true,
-      "createdAt": "2026-10-04T11:31:23.243Z",
       "useCustomPermissions": true,
       "customPermissions": {
         "overview": {

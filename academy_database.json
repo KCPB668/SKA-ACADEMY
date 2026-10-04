@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-04T13:09:22.479Z",
+  "lastUpdated": "2026-10-04T13:09:43.130Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2231,7 +2231,8 @@
           "thursday"
         ],
         "registeredAt": "2026-10-04T11:41:35.798Z",
-        "transportType": "ผู้ปกครองมาส่ง"
+        "transportType": "รถรับส่งสโมสร",
+        "reasonOrNote": "โค้ชรับ-ส่ง ที่บ้าน"
       },
       {
         "id": "reg-1790951104458",
@@ -2250,7 +2251,7 @@
         "transportType": "ผู้ปกครองมาส่ง"
       }
     ],
-    "lastUpdated": "2026-10-04T11:41:35.798Z"
+    "lastUpdated": "2026-10-04T13:09:40.289Z"
   },
   "userAccounts": [
     {

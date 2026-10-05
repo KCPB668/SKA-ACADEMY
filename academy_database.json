@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-05T10:31:34.428Z",
+  "lastUpdated": "2026-10-05T11:20:25.359Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2651,6 +2651,10 @@
         "canView": true,
         "canWrite": true
       },
+      "player-analysis": {
+        "canView": true,
+        "canWrite": true
+      },
       "player-progress": {
         "canView": true,
         "canWrite": true
@@ -2742,6 +2746,10 @@
         "canWrite": true
       },
       "idp": {
+        "canView": true,
+        "canWrite": true
+      },
+      "player-analysis": {
         "canView": true,
         "canWrite": true
       },
@@ -2839,6 +2847,10 @@
         "canView": true,
         "canWrite": false
       },
+      "player-analysis": {
+        "canView": true,
+        "canWrite": false
+      },
       "player-progress": {
         "canView": true,
         "canWrite": false
@@ -2931,6 +2943,10 @@
       },
       "idp": {
         "canView": false,
+        "canWrite": false
+      },
+      "player-analysis": {
+        "canView": true,
         "canWrite": false
       },
       "player-progress": {

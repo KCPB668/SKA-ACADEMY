@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-06T08:15:38.413Z",
+  "lastUpdated": "2026-10-06T08:15:47.690Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2477,10 +2477,6 @@
         "canView": true,
         "canWrite": true
       },
-      "player-analysis": {
-        "canView": true,
-        "canWrite": true
-      },
       "player-progress": {
         "canView": true,
         "canWrite": true
@@ -2534,6 +2530,10 @@
         "canWrite": true
       },
       "user-management": {
+        "canView": true,
+        "canWrite": true
+      },
+      "player-analysis": {
         "canView": true,
         "canWrite": true
       }
@@ -2575,10 +2575,6 @@
         "canView": true,
         "canWrite": true
       },
-      "player-analysis": {
-        "canView": true,
-        "canWrite": true
-      },
       "player-progress": {
         "canView": true,
         "canWrite": true
@@ -2634,6 +2630,10 @@
       "user-management": {
         "canView": false,
         "canWrite": false
+      },
+      "player-analysis": {
+        "canView": true,
+        "canWrite": true
       }
     },
     "player": {
@@ -2673,10 +2673,6 @@
         "canView": true,
         "canWrite": false
       },
-      "player-analysis": {
-        "canView": true,
-        "canWrite": false
-      },
       "player-progress": {
         "canView": true,
         "canWrite": false
@@ -2731,6 +2727,10 @@
       },
       "user-management": {
         "canView": false,
+        "canWrite": false
+      },
+      "player-analysis": {
+        "canView": true,
         "canWrite": false
       }
     },
@@ -2771,10 +2771,6 @@
         "canView": false,
         "canWrite": false
       },
-      "player-analysis": {
-        "canView": true,
-        "canWrite": false
-      },
       "player-progress": {
         "canView": true,
         "canWrite": false
@@ -2829,6 +2825,10 @@
       },
       "user-management": {
         "canView": false,
+        "canWrite": false
+      },
+      "player-analysis": {
+        "canView": true,
         "canWrite": false
       }
     }

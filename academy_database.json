@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-08T16:00:00.365Z",
+  "lastUpdated": "2026-10-09T14:55:18.155Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2465,6 +2465,10 @@
         "canView": true,
         "canWrite": true
       },
+      "mood-log": {
+        "canView": true,
+        "canWrite": true
+      },
       "drill-library": {
         "canView": true,
         "canWrite": true
@@ -2560,6 +2564,10 @@
         "canWrite": true
       },
       "daily-training": {
+        "canView": true,
+        "canWrite": true
+      },
+      "mood-log": {
         "canView": true,
         "canWrite": true
       },
@@ -2661,6 +2669,10 @@
         "canView": false,
         "canWrite": false
       },
+      "mood-log": {
+        "canView": true,
+        "canWrite": true
+      },
       "drill-library": {
         "canView": true,
         "canWrite": false
@@ -2758,6 +2770,10 @@
       "daily-training": {
         "canView": false,
         "canWrite": false
+      },
+      "mood-log": {
+        "canView": true,
+        "canWrite": true
       },
       "drill-library": {
         "canView": false,
@@ -3360,5 +3376,362 @@
   ],
   "suspendedTabs": {},
   "tabSuspensionReasons": {},
-  "tabStatusOverrides": {}
+  "tabStatusOverrides": {},
+  "playerDailyMoodLogs": [
+    {
+      "id": "mood-001",
+      "playerId": "p1",
+      "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
+      "playerNickname": "น้องภูผา",
+      "ageGroup": "U-12",
+      "jerseyNumber": 10,
+      "date": "2026-10-08",
+      "time": "18:15",
+      "trainingSessionId": "session-today",
+      "trainingTheme": "Tactical Build-up & Attacking Transition",
+      "score": 5,
+      "emoji": "🤩",
+      "moodLabel": "ยอดเยี่ยม / มั่นใจเต็มร้อย",
+      "notes": "วันนี้เล่นเกมรุกไหลลื่นมาก เข้าใจจังหวะแทงทะลุช่องที่โค้ชชัยวัฒน์สอน รู้สึกมั่นใจกับการแข่งขันเสาร์นี้มากครับ",
+      "energyLevel": 5,
+      "stressLevel": 1,
+      "sorenessLevel": 2,
+      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
+      "tags": [
+        "⚽ ซ้อมสนุกมาก",
+        "🚀 มั่นใจในการเล่น",
+        "🧠 เข้าใจแท็กติกทีม"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": true,
+        "reviewedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+        "reviewedAt": "2026-10-08 19:00",
+        "coachFeedback": "ยอดเยี่ยมมากภูผา รักษาสมาธิและจังหวะการตัดสินใจแบบนี้ไว้ในแมตช์จริง",
+        "flaggedForAttention": false
+      }
+    },
+    {
+      "id": "mood-002",
+      "playerId": "p2",
+      "playerName": "ด.ช. อัครวินท์ เตชะเสน",
+      "playerNickname": "วินเนอร์",
+      "ageGroup": "U-12",
+      "jerseyNumber": 7,
+      "date": "2026-10-08",
+      "time": "18:18",
+      "trainingSessionId": "session-today",
+      "trainingTheme": "Tactical Build-up & Attacking Transition",
+      "score": 4,
+      "emoji": "😊",
+      "moodLabel": "รู้สึกดี / กระตือรือร้น",
+      "notes": "สปีดไปกับบอลริมเส้นได้ดี แต่ช่วงท้ายเซสชั่นมีตึงๆ ที่น่องขวาเล็กน้อย โดยรวมยังสนุกและพร้อมซ้อมต่อครับ",
+      "energyLevel": 4,
+      "stressLevel": 2,
+      "sorenessLevel": 3,
+      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
+      "tags": [
+        "⚽ ซ้อมสนุกมาก",
+        "🦵 ล้ากล้ามเนื้อขา"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": true,
+        "reviewedBy": "โค้ชกฤษณะ ธนะโสภณ",
+        "reviewedAt": "2026-10-08 19:10",
+        "coachFeedback": "ให้ประคบเย็นและยืดเหยียดน่องเพิ่ม 10 นาทีก่อนนอนนะครับวินเนอร์",
+        "flaggedForAttention": false
+      }
+    },
+    {
+      "id": "mood-003",
+      "playerId": "p3",
+      "playerName": "ด.ช. ธีรเมธ ศิริโชคสถิตย์",
+      "playerNickname": "กัปตัน",
+      "ageGroup": "U-12",
+      "jerseyNumber": 4,
+      "date": "2026-10-08",
+      "time": "18:20",
+      "trainingSessionId": "session-today",
+      "trainingTheme": "Tactical Build-up & Attacking Transition",
+      "score": 2,
+      "emoji": "😕",
+      "moodLabel": "ไม่ค่อยดี / เหนื่อยล้า",
+      "notes": "วันนี้รู้สึกกดดันกับการสั่งการแนวรับ รู้สึกเหนื่อยง่ายกว่าปกติเพราะนอนดึกอ่านหนังสือก่อนสอบ กังวลว่าจะทำได้ไม่ดีในเกมสำคัญ",
+      "energyLevel": 2,
+      "stressLevel": 4,
+      "sorenessLevel": 3,
+      "sleepQuality": "พักผ่อนน้อย/หลับไม่สนิท",
+      "tags": [
+        "😴 พักผ่อนน้อย/นอนดึก",
+        "💭 กังวลเรื่องตำแหน่ง",
+        "😮‍💨 หายใจไม่ทัน/เหนื่อยเร็ว"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": true,
+        "reviewedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+        "reviewedAt": "2026-10-08 19:30",
+        "coachFeedback": "นัดพูดคุยปรับทัศนคติและลดความกดดันให้น้องกัปตัน ไม่ต้องแบกรับความคาดหวังคนเดียว โค้ชและเพื่อนๆ พร้อมซัพพอร์ต",
+        "flaggedForAttention": true
+      }
+    },
+    {
+      "id": "mood-004",
+      "playerId": "p4",
+      "playerName": "ด.ช. ปัณณธร แซ่ลี้",
+      "playerNickname": "ไทเกอร์",
+      "ageGroup": "U-12",
+      "jerseyNumber": 1,
+      "date": "2026-10-08",
+      "time": "18:22",
+      "trainingSessionId": "session-today",
+      "trainingTheme": "Tactical Build-up & Attacking Transition",
+      "score": 4,
+      "emoji": "😊",
+      "moodLabel": "รู้สึกดี / กระตือรือร้น",
+      "notes": "เซฟลูกยิงไกลได้หลายลูก มีความมั่นใจขึ้นหลังซ้อมปฏิกิริยากับโค้ชผู้รักษาประตู",
+      "energyLevel": 4,
+      "stressLevel": 2,
+      "sorenessLevel": 2,
+      "sleepQuality": "ปกติ",
+      "tags": [
+        "💪 ร่างกายฟิตเต็มที่",
+        "⭐ โค้ชชมเชย"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": false
+      }
+    },
+    {
+      "id": "mood-005",
+      "playerId": "p5",
+      "playerName": "ด.ช. ณภัทร รัตนเวช",
+      "playerNickname": "นอร์ธ",
+      "ageGroup": "U-10",
+      "jerseyNumber": 9,
+      "date": "2026-10-08",
+      "time": "18:25",
+      "trainingSessionId": "session-today",
+      "trainingTheme": "Finishing & 1v1 Skill Mastery",
+      "score": 5,
+      "emoji": "🤩",
+      "moodLabel": "ยอดเยี่ยม / มั่นใจเต็มร้อย",
+      "notes": "ยิงเข้าหลายลูกเลยครับ ชอบดริลล์ 1 ต่อ 1 มาก เพื่อนๆ ชมด้วย วันนี้สนุกที่สุดในสัปดาห์",
+      "energyLevel": 5,
+      "stressLevel": 1,
+      "sorenessLevel": 1,
+      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
+      "tags": [
+        "⚽ ซ้อมสนุกมาก",
+        "🎯 ยิงประตู/ส่งบอลแม่น",
+        "🚀 มั่นใจในการเล่น"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": true,
+        "reviewedBy": "โค้ชกฤษณะ ธนะโสภณ",
+        "reviewedAt": "2026-10-08 19:40",
+        "coachFeedback": "เก่งมากนอร์ธ รอยยิ้มและความมั่นใจจะช่วยให้เล่นได้เป็นธรรมชาติ",
+        "flaggedForAttention": false
+      }
+    },
+    {
+      "id": "mood-006",
+      "playerId": "p6",
+      "playerName": "ด.ช. ธนภูมิ กาญจนกิจ",
+      "playerNickname": "โอโม่",
+      "ageGroup": "U-10",
+      "jerseyNumber": 8,
+      "date": "2026-10-08",
+      "time": "18:30",
+      "trainingSessionId": "session-today",
+      "trainingTheme": "Finishing & 1v1 Skill Mastery",
+      "score": 3,
+      "emoji": "😐",
+      "moodLabel": "ปานกลาง / ทรงตัว",
+      "notes": "รู้สึกธรรมดาครับ อากาศช่วงบ่ายค่อนข้างอบอ้าว จ่ายบอลมีพลาดบ้างช่วงท้าย แต่ก็พอใจที่วิ่งได้จนจบคาบ",
+      "energyLevel": 3,
+      "stressLevel": 2,
+      "sorenessLevel": 2,
+      "sleepQuality": "ปกติ",
+      "tags": [
+        "☀️ อากาศร้อนจัด",
+        "🤝 เข้าขากับเพื่อนร่วมทีม"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": false
+      }
+    },
+    {
+      "id": "mood-007",
+      "playerId": "p1",
+      "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
+      "playerNickname": "น้องภูผา",
+      "ageGroup": "U-12",
+      "jerseyNumber": 10,
+      "date": "2026-10-07",
+      "time": "18:10",
+      "trainingSessionId": "session-yesterday",
+      "trainingTheme": "Possession & Small Sided Games",
+      "score": 4,
+      "emoji": "😊",
+      "moodLabel": "รู้สึกดี / กระตือรือร้น",
+      "notes": "เกมเพรสซิ่งเข้มข้นมาก ได้ฝึกแก้สถานการณ์เวลาโดนบีบเร็ว",
+      "energyLevel": 4,
+      "stressLevel": 2,
+      "sorenessLevel": 3,
+      "sleepQuality": "ปกติ",
+      "tags": [
+        "⚽ ซ้อมสนุกมาก",
+        "🧠 เข้าใจแท็กติกทีม"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": true,
+        "reviewedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+        "reviewedAt": "2026-10-07 19:00",
+        "coachFeedback": "พัฒนาการอ่านจังหวะได้ดีขึ้นชัดเจน",
+        "flaggedForAttention": false
+      }
+    },
+    {
+      "id": "mood-008",
+      "playerId": "p3",
+      "playerName": "ด.ช. ธีรเมธ ศิริโชคสถิตย์",
+      "playerNickname": "กัปตัน",
+      "ageGroup": "U-12",
+      "jerseyNumber": 4,
+      "date": "2026-10-07",
+      "time": "18:15",
+      "trainingSessionId": "session-yesterday",
+      "trainingTheme": "Possession & Small Sided Games",
+      "score": 1,
+      "emoji": "😫",
+      "moodLabel": "แย่มาก / หมดพลัง",
+      "notes": "รู้สึกหมดแรงตั้งแต่นาทีที่ 20 ขาหนักมาก สมาธิหลุดบ่อย กลัวโค้ชผิดหวัง",
+      "energyLevel": 1,
+      "stressLevel": 5,
+      "sorenessLevel": 4,
+      "sleepQuality": "พักผ่อนน้อย/หลับไม่สนิท",
+      "tags": [
+        "😴 พักผ่อนน้อย/นอนดึก",
+        "🦵 ล้ากล้ามเนื้อขา",
+        "💭 กังวลเรื่องตำแหน่ง"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": true,
+        "reviewedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
+        "reviewedAt": "2026-10-07 19:20",
+        "coachFeedback": "คะแนนตก 2 วันติด (1 และ 2) สตาฟโค้ชจัดช่วงคุยส่วนตัวเพื่อลดความเครียดจากการเรียนและฟุตบอล",
+        "flaggedForAttention": true
+      }
+    },
+    {
+      "id": "mood-009",
+      "playerId": "p2",
+      "playerName": "ด.ช. อัครวินท์ เตชะเสน",
+      "playerNickname": "วินเนอร์",
+      "ageGroup": "U-12",
+      "jerseyNumber": 7,
+      "date": "2026-10-07",
+      "time": "18:18",
+      "trainingSessionId": "session-yesterday",
+      "trainingTheme": "Possession & Small Sided Games",
+      "score": 5,
+      "emoji": "🤩",
+      "moodLabel": "ยอดเยี่ยม / มั่นใจเต็มร้อย",
+      "notes": "เลี้ยงกินตัวผ่านได้ทุกครั้ง ได้ซ้อมลูกเปิดจากด้านข้างแม่นยำ",
+      "energyLevel": 5,
+      "stressLevel": 1,
+      "sorenessLevel": 2,
+      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
+      "tags": [
+        "🚀 มั่นใจในการเล่น",
+        "💪 ร่างกายฟิตเต็มที่"
+      ],
+      "recordedBy": "player",
+      "coachReview": {
+        "isReviewed": true,
+        "reviewedBy": "โค้ชกฤษณะ ธนะโสภณ",
+        "reviewedAt": "2026-10-07 19:15",
+        "coachFeedback": "มั่นใจดีมาก",
+        "flaggedForAttention": false
+      }
+    },
+    {
+      "id": "mood-010",
+      "playerId": "p1",
+      "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
+      "playerNickname": "น้องภูผา",
+      "ageGroup": "U-12",
+      "jerseyNumber": 10,
+      "date": "2026-10-06",
+      "time": "18:00",
+      "trainingTheme": "Agility & Speed with Ball",
+      "score": 4,
+      "emoji": "😊",
+      "moodLabel": "รู้สึกดี / กระตือรือร้น",
+      "notes": "สปีดดี ทดสอบจับเวลาได้ดีกว่าเดิมเล็กน้อย",
+      "energyLevel": 4,
+      "stressLevel": 2,
+      "sorenessLevel": 2,
+      "sleepQuality": "ปกติ",
+      "tags": [
+        "💪 ร่างกายฟิตเต็มที่",
+        "⚽ ซ้อมสนุกมาก"
+      ],
+      "recordedBy": "player"
+    },
+    {
+      "id": "mood-011",
+      "playerId": "p5",
+      "playerName": "ด.ช. ณภัทร รัตนเวช",
+      "playerNickname": "นอร์ธ",
+      "ageGroup": "U-10",
+      "jerseyNumber": 9,
+      "date": "2026-10-06",
+      "time": "18:10",
+      "trainingTheme": "Basic Passing & First Touch",
+      "score": 4,
+      "emoji": "😊",
+      "moodLabel": "รู้สึกดี / กระตือรือร้น",
+      "notes": "จับบอลแรกนิ่งขึ้น โค้ชสอนวิธีมองรอบตัวก่อนรับบอล",
+      "energyLevel": 4,
+      "stressLevel": 1,
+      "sorenessLevel": 1,
+      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
+      "tags": [
+        "🧠 เข้าใจแท็กติกทีม",
+        "⭐ โค้ชชมเชย"
+      ],
+      "recordedBy": "player"
+    },
+    {
+      "id": "mood-012",
+      "playerId": "p4",
+      "playerName": "ด.ช. ปัณณธร แซ่ลี้",
+      "playerNickname": "ไทเกอร์",
+      "ageGroup": "U-12",
+      "jerseyNumber": 1,
+      "date": "2026-10-06",
+      "time": "18:20",
+      "trainingTheme": "Goalkeeping Diving & Handling",
+      "score": 3,
+      "emoji": "😐",
+      "moodLabel": "ปานกลาง / ทรงตัว",
+      "notes": "ซ้อมกระโดดปัดบอลหลายเซ็ต ปวดข้อมือนิดหน่อยแต่น้ำแข็งช่วยได้ครับ",
+      "energyLevel": 3,
+      "stressLevel": 3,
+      "sorenessLevel": 3,
+      "sleepQuality": "ปกติ",
+      "tags": [
+        "🦵 ล้ากล้ามเนื้อขา"
+      ],
+      "recordedBy": "player"
+    }
+  ]
 }

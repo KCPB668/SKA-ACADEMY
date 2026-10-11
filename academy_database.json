@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-11T11:52:59.682Z",
+  "lastUpdated": "2026-10-11T11:53:06.068Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2007,7 +2007,7 @@
       {
         "dayKey": "monday",
         "dayNameThai": "วันจันทร์",
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "isTrainingDay": false,
         "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
@@ -2027,7 +2027,7 @@
       {
         "dayKey": "tuesday",
         "dayNameThai": "วันอังคาร",
-        "date": "2026-10-06",
+        "date": "2026-10-13",
         "isTrainingDay": true,
         "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
@@ -2047,7 +2047,7 @@
       {
         "dayKey": "wednesday",
         "dayNameThai": "วันพุธ",
-        "date": "2026-10-07",
+        "date": "2026-10-14",
         "isTrainingDay": true,
         "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
@@ -2067,7 +2067,7 @@
       {
         "dayKey": "thursday",
         "dayNameThai": "วันพฤหัสบดี",
-        "date": "2026-10-08",
+        "date": "2026-10-15",
         "isTrainingDay": true,
         "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
@@ -2180,7 +2180,7 @@
         "transportType": "ผู้ปกครองมาส่ง"
       }
     ],
-    "lastUpdated": "2026-10-11T11:52:31.647Z"
+    "lastUpdated": "2026-10-11T11:53:00.101Z"
   },
   "userAccounts": [
     {

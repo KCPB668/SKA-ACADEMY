@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-12T18:13:13.890Z",
+  "lastUpdated": "2026-10-12T18:58:17.001Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2452,6 +2452,10 @@
         "canView": true,
         "canWrite": true
       },
+      "character-evaluation": {
+        "canView": true,
+        "canWrite": true
+      },
       "drill-library": {
         "canView": true,
         "canWrite": true
@@ -2551,6 +2555,10 @@
         "canWrite": true
       },
       "mood-log": {
+        "canView": true,
+        "canWrite": true
+      },
+      "character-evaluation": {
         "canView": true,
         "canWrite": true
       },
@@ -2656,6 +2664,10 @@
         "canView": true,
         "canWrite": true
       },
+      "character-evaluation": {
+        "canView": true,
+        "canWrite": false
+      },
       "drill-library": {
         "canView": true,
         "canWrite": false
@@ -2755,6 +2767,10 @@
         "canWrite": false
       },
       "mood-log": {
+        "canView": true,
+        "canWrite": true
+      },
+      "character-evaluation": {
         "canView": true,
         "canWrite": true
       },
@@ -3715,6 +3731,143 @@
         "🦵 ล้ากล้ามเนื้อขา"
       ],
       "recordedBy": "player"
+    }
+  ],
+  "characterEvaluations": [
+    {
+      "id": "char-eval-1",
+      "playerId": "p1",
+      "evaluatorCoachId": "s1",
+      "evaluatorName": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "date": "2026-10-10",
+      "scores": {
+        "discipline": 5,
+        "respect": 5,
+        "grit": 4,
+        "teamwork": 5,
+        "responsibility": 4
+      },
+      "overallScore": 4.6,
+      "badgesAwarded": [
+        "leader_of_the_day",
+        "ultimate_teammate"
+      ],
+      "positivePraises": "น้องภูผาเป็นแบบอย่างที่ดีในการนำเพื่อนวอร์มอัป ไฮไฟว์ให้กำลังใจเพื่อนตลอดแมตช์จำลอง",
+      "constructiveNotes": "ช่วงท้ายเกมยังมีจังหวะแอบหงุดหงิดเวลาเพื่อนส่งบอลน้ำหนักขาด ให้ฝึกสื่อสารกระตุ้นเชิงบวกต่อไป",
+      "createdAt": "2026-10-10T17:30:00.000Z"
+    },
+    {
+      "id": "char-eval-2",
+      "playerId": "p1",
+      "evaluatorCoachId": "s1",
+      "evaluatorName": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "date": "2026-10-07",
+      "scores": {
+        "discipline": 5,
+        "respect": 5,
+        "grit": 5,
+        "teamwork": 4,
+        "responsibility": 5
+      },
+      "overallScore": 4.8,
+      "badgesAwarded": [
+        "punctuality_master",
+        "unstoppable_grit"
+      ],
+      "positivePraises": "มาถึงสนามก่อนเริ่มซ้อม 25 นาที ผูกเชือกรองเท้าเอง เตรียมกระบอกน้ำเรียบร้อย วิ่งไล่บอลเต็มที่",
+      "createdAt": "2026-10-07T17:30:00.000Z"
+    },
+    {
+      "id": "char-eval-3",
+      "playerId": "p8",
+      "evaluatorCoachId": "s2",
+      "evaluatorName": "โค้ชกฤษณะ ธนะโสภณ",
+      "date": "2026-10-09",
+      "scores": {
+        "discipline": 4,
+        "respect": 4,
+        "grit": 5,
+        "teamwork": 4,
+        "responsibility": 4
+      },
+      "overallScore": 4.2,
+      "badgesAwarded": [
+        "unstoppable_grit",
+        "fair_play_respect"
+      ],
+      "positivePraises": "เตชินท์มีสมาธิดีมากเมื่อโค้ชสั่งปรับตำแหน่ง เข้าปะทะหนักแต่ช่วยดึงคู่แข่งขึ้นมาทันที",
+      "constructiveNotes": "บางช่วงของการซ้อมยังติดเล่นหยอกล้อกับเพื่อนสนิท ให้เพิ่มโฟกัสตอนฟังแท็กติก",
+      "createdAt": "2026-10-09T17:30:00.000Z"
+    },
+    {
+      "id": "char-eval-4",
+      "playerId": "p2",
+      "evaluatorCoachId": "s1",
+      "evaluatorName": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "date": "2026-10-08",
+      "scores": {
+        "discipline": 4,
+        "respect": 5,
+        "grit": 4,
+        "teamwork": 5,
+        "responsibility": 4
+      },
+      "overallScore": 4.4,
+      "badgesAwarded": [
+        "fair_play_respect"
+      ],
+      "positivePraises": "มีมารยาทดีเยี่ยม ไหว้โค้ชและผู้ปกครองทุกคนที่ขอบสนาม ช่วยเก็บกรวยและบอลหลังซ้อมเสร็จ",
+      "createdAt": "2026-10-08T17:30:00.000Z"
+    }
+  ],
+  "parentBehaviorCheckins": [
+    {
+      "id": "parent-checkin-1",
+      "playerId": "p1",
+      "parentAccountId": "user-parent-1",
+      "parentName": "คุณสุทิน สุวรรณรัตน์",
+      "month": "2026-10",
+      "date": "2026-10-05",
+      "homeDisciplineRating": 5,
+      "academicBalanceRating": 4,
+      "nutritionSleepRating": 5,
+      "parentFeedback": "ภูผาจัดกระเป๋าซ้อมบอลและซักสนับแข้งด้วยตัวเองทุกครั้งครับ ส่งการบ้านครบและเข้านอนไม่เกิน 21:30 น. ตามที่โค้ชแนะนำ ขอบคุณทีมงานโค้ชที่ช่วยปลูกฝังวินัยให้ครับ",
+      "coachAcknowledgement": "โค้ชวัฒน์รับทราบครับ ภูผามีพัฒนาการด้านความเป็นผู้นำชัดเจนมาก ขอชื่นชมคุณพ่อและครอบครัวครับ",
+      "createdAt": "2026-10-05T19:00:00.000Z"
+    },
+    {
+      "id": "parent-checkin-2",
+      "playerId": "p8",
+      "parentAccountId": "user-parent-2",
+      "parentName": "คุณกิตติศักดิ์ กิตติเดชา",
+      "month": "2026-10",
+      "date": "2026-10-06",
+      "homeDisciplineRating": 4,
+      "academicBalanceRating": 4,
+      "nutritionSleepRating": 4,
+      "parentFeedback": "เตชินท์มีสมาธิกับการอ่านหนังสือเตรียมสอบดีขึ้นครับ แต่ช่วงสุดสัปดาห์ยังดื่มน้ำน้อยไปนิด คุณพ่อคอยเตือนอยู่ครับ",
+      "coachAcknowledgement": "ขอบคุณคุณพ่อครับ โค้ชจะช่วยย้ำเตือนเรื่องการจิบน้ำระหว่างวันและการฟื้นฟูกล้ามเนื้อให้ครับ",
+      "createdAt": "2026-10-06T20:15:00.000Z"
+    }
+  ],
+  "characterMilestones": [
+    {
+      "id": "milestone-1",
+      "playerId": "p1",
+      "badgeThreshold": 5,
+      "rewardTitle": "ปลอกแขนกัปตันทีมประจำสัปดาห์ (Weekly Captain Armband)",
+      "rewardEmoji": "🌟",
+      "awardedDate": "2026-10-08",
+      "conferredBy": "โค้ชชัยวัฒน์ นาคพงษ์"
+    },
+    {
+      "id": "milestone-2",
+      "playerId": "p1",
+      "badgeThreshold": 10,
+      "rewardTitle": "ใบประกาศนียบัตร \"นักเตะหัวใจทองคำประจำเดือน\" (Academy Character of the Month)",
+      "rewardEmoji": "🎖️",
+      "awardedDate": "2026-09-30",
+      "conferredBy": "ผู้อำนวยการอคาเดมี่"
     }
   ]
 }

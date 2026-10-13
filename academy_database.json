@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-13T11:54:53.338Z",
+  "lastUpdated": "2026-10-13T12:30:34.052Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2456,6 +2456,10 @@
         "canView": true,
         "canWrite": true
       },
+      "wellness-rpe": {
+        "canView": true,
+        "canWrite": true
+      },
       "drill-library": {
         "canView": true,
         "canWrite": true
@@ -2559,6 +2563,10 @@
         "canWrite": true
       },
       "character-evaluation": {
+        "canView": true,
+        "canWrite": true
+      },
+      "wellness-rpe": {
         "canView": true,
         "canWrite": true
       },
@@ -2668,6 +2676,10 @@
         "canView": true,
         "canWrite": false
       },
+      "wellness-rpe": {
+        "canView": true,
+        "canWrite": true
+      },
       "drill-library": {
         "canView": true,
         "canWrite": false
@@ -2771,6 +2783,10 @@
         "canWrite": true
       },
       "character-evaluation": {
+        "canView": true,
+        "canWrite": true
+      },
+      "wellness-rpe": {
         "canView": true,
         "canWrite": true
       },
@@ -3868,6 +3884,139 @@
       "rewardEmoji": "🎖️",
       "awardedDate": "2026-09-30",
       "conferredBy": "ผู้อำนวยการอคาเดมี่"
+    }
+  ],
+  "wellnessEntries": [
+    {
+      "id": "well-1",
+      "playerId": "p1",
+      "date": "2026-10-12",
+      "time": "15:45",
+      "sleepHours": 8.5,
+      "sleepQuality": 5,
+      "fatigueScore": 5,
+      "sorenessScore": 4,
+      "stressScore": 5,
+      "hydrationColorLevel": 2,
+      "sorenessLocations": [
+        "calf"
+      ],
+      "readinessScore": 95,
+      "readinessStatus": "optimal",
+      "playerNotes": "นอนหลับสนิท ตื่นมาสดชื่น มีตึงน่องขวานิดหน่อยจากการกระโดดวานนี้",
+      "coachAdvice": "พร้อมซ้อมเต็มรูปแบบ โค้ชจะให้น้องเน้นยืด Calf Dynamic Stretch ก่อนเริ่ม",
+      "createdAt": "2026-10-12T08:45:00.000Z"
+    },
+    {
+      "id": "well-2",
+      "playerId": "p1",
+      "date": "2026-10-10",
+      "time": "16:00",
+      "sleepHours": 7.5,
+      "sleepQuality": 4,
+      "fatigueScore": 4,
+      "sorenessScore": 4,
+      "stressScore": 4,
+      "hydrationColorLevel": 2,
+      "sorenessLocations": [
+        "none"
+      ],
+      "readinessScore": 80,
+      "readinessStatus": "optimal",
+      "playerNotes": "ร่างกายพร้อม ดื่มน้ำก่อนมาสนาม 2 แก้ว",
+      "createdAt": "2026-10-10T09:00:00.000Z"
+    },
+    {
+      "id": "well-3",
+      "playerId": "p8",
+      "date": "2026-10-12",
+      "time": "15:30",
+      "sleepHours": 6,
+      "sleepQuality": 2,
+      "fatigueScore": 2,
+      "sorenessScore": 2,
+      "stressScore": 3,
+      "hydrationColorLevel": 4,
+      "sorenessLocations": [
+        "hamstring",
+        "knee"
+      ],
+      "readinessScore": 45,
+      "readinessStatus": "caution",
+      "playerNotes": "เมื่อคืนอ่านหนังสือสอบ นอนดึก รู้สึกหนักขาและตึงต้นขาด้านหลังทั้งสองข้าง",
+      "coachAdvice": "จำกัดปริมาณสปรินต์ ให้วอร์มช้าๆ ลดโหลดการปะทะหนักและดื่มเกลือแร่เสริม",
+      "createdAt": "2026-10-12T08:30:00.000Z"
+    },
+    {
+      "id": "well-4",
+      "playerId": "p2",
+      "date": "2026-10-11",
+      "time": "15:50",
+      "sleepHours": 8,
+      "sleepQuality": 4,
+      "fatigueScore": 4,
+      "sorenessScore": 5,
+      "stressScore": 4,
+      "hydrationColorLevel": 1,
+      "sorenessLocations": [
+        "none"
+      ],
+      "readinessScore": 85,
+      "readinessStatus": "optimal",
+      "playerNotes": "กล้ามเนื้อฟื้นตัวดีมาก ไม่มีอาการเจ็บ",
+      "createdAt": "2026-10-11T08:50:00.000Z"
+    }
+  ],
+  "srpeEntries": [
+    {
+      "id": "srpe-1",
+      "playerId": "p1",
+      "date": "2026-10-12",
+      "trainingSessionTitle": "ซ้อมสมอลไซด์เกมส์ 5v5 & เพรสซิ่งแดนบน",
+      "sessionDurationMinutes": 90,
+      "rpeScore": 7,
+      "trainingLoad": 630,
+      "effortLevelLabel": "หนัก (Hard)",
+      "feedbackComments": "เกมเพรสซิ่งต้องวิ่งประกบเร็วตลอดเวลา เหนื่อยสะใจมากครับ",
+      "trainerIntervention": "แนะนำให้ยืดเหยียด Static Stretching และดื่มนมช็อกโกแลตฟื้นฟูกล้ามเนื้อ",
+      "createdAt": "2026-10-12T18:30:00.000Z"
+    },
+    {
+      "id": "srpe-2",
+      "playerId": "p1",
+      "date": "2026-10-10",
+      "trainingSessionTitle": "ฝึกทักษะการส่งบอลและการเคลื่อนที่ (Passing Rondo)",
+      "sessionDurationMinutes": 75,
+      "rpeScore": 4,
+      "trainingLoad": 300,
+      "effortLevelLabel": "ปานกลาง (Moderate)",
+      "feedbackComments": "ซ้อมสนุก ได้จับบอลบ่อย ไม่เหนื่อยล้าจนเกินไป",
+      "createdAt": "2026-10-10T18:15:00.000Z"
+    },
+    {
+      "id": "srpe-3",
+      "playerId": "p8",
+      "date": "2026-10-12",
+      "trainingSessionTitle": "ซ้อมสมอลไซด์เกมส์ 5v5 & แท็กติก",
+      "sessionDurationMinutes": 80,
+      "rpeScore": 9,
+      "trainingLoad": 720,
+      "effortLevelLabel": "หนักมาก (Very Hard)",
+      "feedbackComments": "กล้ามเนื้อล้ามากตั้งแต่กลางเซสชั่น ขอยกเลิกวิ่งคูลดาวน์สปรินต์ช่วงท้าย",
+      "trainerIntervention": "เสี่ยงภาวะ Overtraining ให้แช่น้ำแข็ง (Ice Bath 10 นาที) และพักผ่อนเต็มที่ในวันถัดไป",
+      "createdAt": "2026-10-12T18:25:00.000Z"
+    },
+    {
+      "id": "srpe-4",
+      "playerId": "p2",
+      "date": "2026-10-11",
+      "trainingSessionTitle": "ฝึกแท็กติกเกมรับและลูกตั้งเตะ",
+      "sessionDurationMinutes": 90,
+      "rpeScore": 5,
+      "trainingLoad": 450,
+      "effortLevelLabel": "ปานกลาง (Moderate)",
+      "feedbackComments": "ใช้สมาธิเยอะแต่ไม่ล้าทางกายภาพมาก",
+      "createdAt": "2026-10-11T18:30:00.000Z"
     }
   ]
 }

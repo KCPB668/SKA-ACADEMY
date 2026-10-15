@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-15T15:06:48.993Z",
+  "lastUpdated": "2026-10-15T15:07:38.508Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3447,7 +3447,10 @@
       ],
       "recordedBy": "coach_assisted",
       "coachReview": {
-        "isReviewed": false,
+        "isReviewed": true,
+        "reviewedBy": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
+        "reviewedAt": "2026-10-15 15:07",
+        "coachFeedback": "วันนี้ทำได้ดีมากครับ เพราะไม่ได้ซ้อมบอลนานร่างกายอาจจะต้องปรับตัวกับความเหนื่อยหน่อย",
         "flaggedForAttention": false
       }
     }

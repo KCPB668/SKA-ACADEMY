@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-15T13:12:08.753Z",
+  "lastUpdated": "2026-10-15T13:12:12.230Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3422,86 +3422,6 @@
         "isReviewed": false,
         "flaggedForAttention": false
       }
-    },
-    {
-      "id": "mood-009",
-      "playerId": "p2",
-      "playerName": "ด.ช. อัครวินท์ เตชะเสน",
-      "playerNickname": "วินเนอร์",
-      "ageGroup": "U-12",
-      "jerseyNumber": 7,
-      "date": "2026-10-07",
-      "time": "18:18",
-      "trainingSessionId": "session-yesterday",
-      "trainingTheme": "Possession & Small Sided Games",
-      "score": 5,
-      "emoji": "🤩",
-      "moodLabel": "ยอดเยี่ยม / มั่นใจเต็มร้อย",
-      "notes": "เลี้ยงกินตัวผ่านได้ทุกครั้ง ได้ซ้อมลูกเปิดจากด้านข้างแม่นยำ",
-      "energyLevel": 5,
-      "stressLevel": 1,
-      "sorenessLevel": 2,
-      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
-      "tags": [
-        "🚀 มั่นใจในการเล่น",
-        "💪 ร่างกายฟิตเต็มที่"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": true,
-        "reviewedBy": "โค้ชกฤษณะ ธนะโสภณ",
-        "reviewedAt": "2026-10-07 19:15",
-        "coachFeedback": "มั่นใจดีมาก",
-        "flaggedForAttention": false
-      }
-    },
-    {
-      "id": "mood-010",
-      "playerId": "p1",
-      "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
-      "playerNickname": "น้องภูผา",
-      "ageGroup": "U-12",
-      "jerseyNumber": 10,
-      "date": "2026-10-06",
-      "time": "18:00",
-      "trainingTheme": "Agility & Speed with Ball",
-      "score": 4,
-      "emoji": "😊",
-      "moodLabel": "รู้สึกดี / กระตือรือร้น",
-      "notes": "สปีดดี ทดสอบจับเวลาได้ดีกว่าเดิมเล็กน้อย",
-      "energyLevel": 4,
-      "stressLevel": 2,
-      "sorenessLevel": 2,
-      "sleepQuality": "ปกติ",
-      "tags": [
-        "💪 ร่างกายฟิตเต็มที่",
-        "⚽ ซ้อมสนุกมาก"
-      ],
-      "recordedBy": "player"
-    },
-    {
-      "id": "mood-011",
-      "playerId": "p5",
-      "playerName": "ด.ช. ณภัทร รัตนเวช",
-      "playerNickname": "นอร์ธ",
-      "ageGroup": "U-10",
-      "jerseyNumber": 9,
-      "date": "2026-10-06",
-      "time": "18:10",
-      "trainingTheme": "Basic Passing & First Touch",
-      "score": 4,
-      "emoji": "😊",
-      "moodLabel": "รู้สึกดี / กระตือรือร้น",
-      "notes": "จับบอลแรกนิ่งขึ้น โค้ชสอนวิธีมองรอบตัวก่อนรับบอล",
-      "energyLevel": 4,
-      "stressLevel": 1,
-      "sorenessLevel": 1,
-      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
-      "tags": [
-        "🧠 เข้าใจแท็กติกทีม",
-        "⭐ โค้ชชมเชย"
-      ],
-      "recordedBy": "player"
     },
     {
       "id": "mood-012",

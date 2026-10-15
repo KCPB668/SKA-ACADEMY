@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-15T13:12:12.230Z",
+  "lastUpdated": "2026-10-15T13:12:13.425Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3422,29 +3422,6 @@
         "isReviewed": false,
         "flaggedForAttention": false
       }
-    },
-    {
-      "id": "mood-012",
-      "playerId": "p4",
-      "playerName": "ด.ช. ปัณณธร แซ่ลี้",
-      "playerNickname": "ไทเกอร์",
-      "ageGroup": "U-12",
-      "jerseyNumber": 1,
-      "date": "2026-10-06",
-      "time": "18:20",
-      "trainingTheme": "Goalkeeping Diving & Handling",
-      "score": 3,
-      "emoji": "😐",
-      "moodLabel": "ปานกลาง / ทรงตัว",
-      "notes": "ซ้อมกระโดดปัดบอลหลายเซ็ต ปวดข้อมือนิดหน่อยแต่น้ำแข็งช่วยได้ครับ",
-      "energyLevel": 3,
-      "stressLevel": 3,
-      "sorenessLevel": 3,
-      "sleepQuality": "ปกติ",
-      "tags": [
-        "🦵 ล้ากล้ามเนื้อขา"
-      ],
-      "recordedBy": "player"
     }
   ],
   "characterEvaluations": [

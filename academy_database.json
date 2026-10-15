@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-15T15:07:38.508Z",
+  "lastUpdated": "2026-10-15T15:08:43.945Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3420,7 +3420,10 @@
       ],
       "recordedBy": "coach_assisted",
       "coachReview": {
-        "isReviewed": false,
+        "isReviewed": true,
+        "reviewedBy": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
+        "reviewedAt": "2026-10-15 15:08",
+        "coachFeedback": "ความทุ่มเทยังเหมือนเดิม แต่อยากให้เพิ่มความสนุกในการซ้อม เราสนุกเพื่อนสนุกพี่น้องสนุก นั่นคือความเป็นผู้นำ และช่วงนี้มีการยิงประตูบ่อย ้องโฟกัสการยิงประตูเป็นพิเศษนะครับ",
         "flaggedForAttention": false
       }
     },

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-16T18:50:40.259Z",
+  "lastUpdated": "2026-10-16T18:51:24.525Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3185,9 +3185,10 @@
       "dueDate": "2026-09-30",
       "priority": "High",
       "category": "งานด่วน",
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-09-21T10:00:00.000Z",
-      "updatedAt": "2026-09-21T10:00:00.000Z"
+      "updatedAt": "2026-10-16T18:51:23.196Z",
+      "completedAt": "2026-10-16T18:51:23.196Z"
     },
     {
       "id": "pt-c1-01",

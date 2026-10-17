@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:07:40.386Z",
+  "lastUpdated": "2026-10-17T13:07:44.652Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -631,25 +631,7 @@
     }
   ],
   "consultations": [],
-  "calendarEvents": [
-    {
-      "id": "ev-03",
-      "title": "แมตช์กระชับมิตร: SKA United U-12 vs ศรีราชา ยูไนเต็ด",
-      "eventType": "แมตช์กระชับมิตร",
-      "ageGroups": [
-        "U-12"
-      ],
-      "targetAgeGroups": [
-        "U-12"
-      ],
-      "startDate": "2026-09-13",
-      "startTime": "09:00",
-      "endTime": "11:00",
-      "locationPitch": "สนามฟุตบอลเทศบาลพนัสนิคม",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "ทดสอบระบบการเล่น 9v9 ก่อนแข่งทัวร์นาเมนต์"
-    }
-  ],
+  "calendarEvents": [],
   "todos": [
     {
       "id": "td-01",

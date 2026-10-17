@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:30.799Z",
+  "lastUpdated": "2026-10-17T13:05:40.198Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3821,39 +3821,6 @@
         "reviewedAt": "2026-10-08 19:10",
         "coachFeedback": "ให้ประคบเย็นและยืดเหยียดน่องเพิ่ม 10 นาทีก่อนนอนนะครับวินเนอร์",
         "flaggedForAttention": false
-      }
-    },
-    {
-      "id": "mood-003",
-      "playerId": "p3",
-      "playerName": "ด.ช. ธีรเมธ ศิริโชคสถิตย์",
-      "playerNickname": "กัปตัน",
-      "ageGroup": "U-12",
-      "jerseyNumber": 4,
-      "date": "2026-10-08",
-      "time": "18:20",
-      "trainingSessionId": "session-today",
-      "trainingTheme": "Tactical Build-up & Attacking Transition",
-      "score": 2,
-      "emoji": "😕",
-      "moodLabel": "ไม่ค่อยดี / เหนื่อยล้า",
-      "notes": "วันนี้รู้สึกกดดันกับการสั่งการแนวรับ รู้สึกเหนื่อยง่ายกว่าปกติเพราะนอนดึกอ่านหนังสือก่อนสอบ กังวลว่าจะทำได้ไม่ดีในเกมสำคัญ",
-      "energyLevel": 2,
-      "stressLevel": 4,
-      "sorenessLevel": 3,
-      "sleepQuality": "พักผ่อนน้อย/หลับไม่สนิท",
-      "tags": [
-        "😴 พักผ่อนน้อย/นอนดึก",
-        "💭 กังวลเรื่องตำแหน่ง",
-        "😮‍💨 หายใจไม่ทัน/เหนื่อยเร็ว"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": true,
-        "reviewedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
-        "reviewedAt": "2026-10-08 19:30",
-        "coachFeedback": "นัดพูดคุยปรับทัศนคติและลดความกดดันให้น้องกัปตัน ไม่ต้องแบกรับความคาดหวังคนเดียว โค้ชและเพื่อนๆ พร้อมซัพพอร์ต",
-        "flaggedForAttention": true
       }
     },
     {

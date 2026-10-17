@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:07:56.959Z",
+  "lastUpdated": "2026-10-17T13:07:59.588Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3263,19 +3263,6 @@
   ],
   "clubNotes": [],
   "privateTasks": [
-    {
-      "id": "pt-adm-03",
-      "ownerAccountId": "user-admin-1",
-      "ownerDisplayName": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
-      "task": "นัดประชุมเจรจาต่อสัญญาสปอนเซอร์หลัก SKA Logistics ไตรมาส 4",
-      "description": "เตรียมรายงานสรุปผลงานเยาวชนและยอดผู้เข้าชมสื่อออนไลน์สโมสร",
-      "dueDate": "2026-09-30",
-      "priority": "High",
-      "category": "งานด่วน",
-      "completed": false,
-      "createdAt": "2026-09-21T10:00:00.000Z",
-      "updatedAt": "2026-09-21T10:00:00.000Z"
-    },
     {
       "id": "pt-c1-01",
       "ownerAccountId": "user-coach-1",

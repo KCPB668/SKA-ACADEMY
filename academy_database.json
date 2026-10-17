@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:27.428Z",
+  "lastUpdated": "2026-10-17T13:02:28.647Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -118,25 +118,6 @@
       "joinedDate": "2024-02-15",
       "customMonthlyFee": 500,
       "feeCondition": "ทุนเยาวชนพรสวรรค์ 50%"
-    },
-    {
-      "id": "p7",
-      "name": "ด.ช. กานต์ดนัย พงษ์ศิริ",
-      "nickname": "ออกัสต์",
-      "jerseyNumber": 11,
-      "ageGroup": "U-8",
-      "position": "LW",
-      "preferredFoot": "ขวา",
-      "height": 125,
-      "weight": 24,
-      "school": "รร.อนุบาลพนัสศึกษาลัย",
-      "injuryHistory": "ไม่มี",
-      "parentName": "คุณพิมพ์ใจ พงษ์ศิริ",
-      "parentPhone": "087-445-5667",
-      "parentLine": "pimjai_august",
-      "joinedDate": "2024-05-10",
-      "customMonthlyFee": 800,
-      "feeCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)"
     },
     {
       "id": "p8",
@@ -928,18 +909,6 @@
       "note": "ได้รับทุนเยาวชนพรสวรรค์ 50% ชำระยอด 500 บาท"
     },
     {
-      "id": "fee-09-07",
-      "playerId": "p7",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
-      "isCustomAmount": true,
-      "status": "ค้างชำระ",
-      "paymentMethod": "-",
-      "note": "ผู้ปกครองขอผัดผ่อนถึงวันที่ 15 ก.ย."
-    },
-    {
       "id": "fee-09-08",
       "playerId": "p8",
       "monthYear": "2026-09",
@@ -1020,19 +989,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-08-03",
       "receiptNumber": "RCP-202608-006"
-    },
-    {
-      "id": "fee-08-07",
-      "playerId": "p7",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-08-15",
-      "receiptNumber": "RCP-202608-007"
     },
     {
       "id": "fee-08-08",
@@ -1116,19 +1072,6 @@
       "receiptNumber": "RCP-202607-006"
     },
     {
-      "id": "fee-07-07",
-      "playerId": "p7",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-07-12",
-      "receiptNumber": "RCP-202607-007"
-    },
-    {
       "id": "fee-07-08",
       "playerId": "p8",
       "monthYear": "2026-07",
@@ -1208,19 +1151,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-06-04",
       "receiptNumber": "RCP-202606-006"
-    },
-    {
-      "id": "fee-06-07",
-      "playerId": "p7",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-06-11",
-      "receiptNumber": "RCP-202606-007"
     },
     {
       "id": "fee-06-08",
@@ -1304,19 +1234,6 @@
       "receiptNumber": "RCP-202605-006"
     },
     {
-      "id": "fee-05-07",
-      "playerId": "p7",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-05-10",
-      "receiptNumber": "RCP-202605-007"
-    },
-    {
       "id": "fee-05-08",
       "playerId": "p8",
       "monthYear": "2026-05",
@@ -1398,19 +1315,6 @@
       "receiptNumber": "RCP-202604-006"
     },
     {
-      "id": "fee-04-07",
-      "playerId": "p7",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-04-12",
-      "receiptNumber": "RCP-202604-007"
-    },
-    {
       "id": "fee-04-08",
       "playerId": "p8",
       "monthYear": "2026-04",
@@ -1490,19 +1394,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-03-02",
       "receiptNumber": "RCP-202603-006"
-    },
-    {
-      "id": "fee-03-07",
-      "playerId": "p7",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง (ครอบครัวพงษ์ศิริ)",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-03-10",
-      "receiptNumber": "RCP-202603-007"
     },
     {
       "id": "fee-03-08",
@@ -2233,18 +2124,6 @@
       "mentalAndMindset": "มีความมั่นใจในตัวเองสูง เปิดรับคำแนะนำจากโค้ชได้ดีเยี่ยม",
       "mutualAgreements": "ฝึกสปีดการจ่ายบอล 2 จังหวะในการซ้อมแบบกลุ่ม และรักษาเวลาเดินทางมาสนาม",
       "nextFollowUpDate": "2026-10-02"
-    },
-    {
-      "id": "cs-03",
-      "playerId": "p7",
-      "date": "2026-08-28",
-      "type": "Parent Only",
-      "coachName": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "footballProgress": "น้องออกัสต์ (U-8) มีความสุขกับการเล่นบอลมาก สัมผัสบอลเป็นธรรมชาติ เข้ากับเพื่อนได้ไว",
-      "academicAndLifestyle": "คุณแม่ปรึกษาเรื่องอาหารการกิน อยากให้น้องทานผักและดื่มนมมากขึ้น โค้ชได้จัดตารางอาหารเบื้องต้นให้",
-      "mentalAndMindset": "อารมณ์ดี ร่าเริง ชอบการแข่งขันแบบสนุกสนาน (Fun & Enjoyment Focus)",
-      "mutualAgreements": "เน้นความสนุกและการออกกำลังกาย ไม่กดดันเรื่องผลแพ้ชนะ",
-      "nextFollowUpDate": "2026-09-28"
     }
   ],
   "calendarEvents": [

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:03.180Z",
+  "lastUpdated": "2026-10-17T13:05:05.259Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -1136,17 +1136,7 @@
         "ขยายขนาดกรอบเป็น 12x12 หลาสำหรับรุ่นเด็ก U-10"
       ],
       "diagramType": "rondo",
-      "attachments": [
-        {
-          "id": "att-drill-01-pdf",
-          "name": "คู่มือหลักสูตร AFC Rondo Coaching Guide.pdf",
-          "type": "pdf",
-          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-          "size": 215400,
-          "uploadedAt": "2026-09-12T09:00:00.000Z",
-          "caption": "เอกสารหลักสูตรสมาคมฯ รายละเอียดเกณฑ์การประเมิน 2-Touch Limit และ Key Factors"
-        }
-      ]
+      "attachments": []
     }
   ],
   "reportCards": [],

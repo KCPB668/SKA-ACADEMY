@@ -1,63 +1,9 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:57.533Z",
+  "lastUpdated": "2026-10-17T13:02:58.893Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
-    {
-      "id": "s5",
-      "name": "นางสาว กานดา อัศวรัตนโชติ",
-      "nickname": "หมอกานต์",
-      "category": "medical",
-      "role": "นักกายภาพบำบัดประจำสโมสร (Head Physiotherapist)",
-      "license": "ใบอนุญาตประกอบวิชาชีพกายภาพบำบัด (ก.ภ. 12480)",
-      "licenseLevel": "Physical Therapy",
-      "licenseIssuingBody": "สภากายภาพบำบัดแห่งประเทศไทย",
-      "licenseExpiry": "2029-10-31",
-      "education": "ปริญญาตรี กายภาพบำบัดบัณฑิต มหาวิทยาลัยธรรมศาสตร์",
-      "educationDetails": [
-        {
-          "degree": "กภ.บ. กายภาพบำบัด เกียรตินิยมอันดับ 1",
-          "institution": "คณะสหเวชศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
-          "gradYear": "2562"
-        },
-        {
-          "degree": "ประกาศนียบัตร FIFA Diploma in Football Medicine",
-          "institution": "Fédération Internationale de Football Association (FIFA)",
-          "gradYear": "2565"
-        }
-      ],
-      "experienceSummary": "ดูแลการปฐมพยาบาลข้างสนาม (Pitchside Trauma Care) การฟื้นฟูอาการบาดเจ็บข้อเท้าและหัวเข่าในนักฟุตบอลเยาวชน (Return to Play Protocol) และการบันทึกเวชระเบียนนักเตะ",
-      "workHistory": [
-        {
-          "period": "2024 - ปัจจุบัน",
-          "organization": "สโมสรฟุตบอล เอสเคเอ พนัสนิคม ยูไนเต็ด",
-          "position": "Head Academy Physiotherapist",
-          "achievements": "ก่อตั้งห้องฟื้นฟูสมรรถภาพและการตรวจคัดกรอง Pre-season Screening"
-        },
-        {
-          "period": "2021 - 2023",
-          "organization": "โรงพยาบาลสมิติเวช ชลบุรี (คลินิกเวชศาสตร์การกีฬา)",
-          "position": "นักกายภาพบำบัดเฉพาะทางกีฬา",
-          "achievements": "ดูแลนักกีฬาฟุตบอลอาชีพและกรีฑาทีมชาติ"
-        }
-      ],
-      "assignedAgeGroups": [
-        "ทุกรุ่นอายุ (U-8 ถึง U-18)"
-      ],
-      "phone": "084-221-8899",
-      "email": "kanda.physio@ska-academy.com",
-      "lineId": "physio_kanda",
-      "joinedDate": "2024-02-01",
-      "specialties": [
-        "Sports Injury Assessment & Taping",
-        "Return to Play (RTP) Protocol",
-        "Pre-hab & Myofascial Release"
-      ],
-      "status": "ปฏิบัติงานเต็มเวลา (Full-time)",
-      "salaryOrStipend": 32000,
-      "emergencyContact": "คุณธีระ อัศวรัตนโชติ (บิดา) โทร 084-221-8800"
-    },
     {
       "id": "s6",
       "name": "นาย ธนพล ศรีอรุณทิพย์",

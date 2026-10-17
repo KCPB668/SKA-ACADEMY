@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:53.124Z",
+  "lastUpdated": "2026-10-17T13:05:54.555Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3791,34 +3791,6 @@
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
   "playerDailyMoodLogs": [
-    {
-      "id": "mood-006",
-      "playerId": "p6",
-      "playerName": "ด.ช. ธนภูมิ กาญจนกิจ",
-      "playerNickname": "โอโม่",
-      "ageGroup": "U-10",
-      "jerseyNumber": 8,
-      "date": "2026-10-08",
-      "time": "18:30",
-      "trainingSessionId": "session-today",
-      "trainingTheme": "Finishing & 1v1 Skill Mastery",
-      "score": 3,
-      "emoji": "😐",
-      "moodLabel": "ปานกลาง / ทรงตัว",
-      "notes": "รู้สึกธรรมดาครับ อากาศช่วงบ่ายค่อนข้างอบอ้าว จ่ายบอลมีพลาดบ้างช่วงท้าย แต่ก็พอใจที่วิ่งได้จนจบคาบ",
-      "energyLevel": 3,
-      "stressLevel": 2,
-      "sorenessLevel": 2,
-      "sleepQuality": "ปกติ",
-      "tags": [
-        "☀️ อากาศร้อนจัด",
-        "🤝 เข้าขากับเพื่อนร่วมทีม"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": false
-      }
-    },
     {
       "id": "mood-009",
       "playerId": "p2",

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:35.047Z",
+  "lastUpdated": "2026-10-17T13:02:36.543Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -80,25 +80,6 @@
       "joinedDate": "2023-04-12",
       "customMonthlyFee": 1000,
       "feeCondition": "อัตรามาตรฐาน"
-    },
-    {
-      "id": "p6",
-      "name": "ด.ช. ธนภูมิ กาญจนกิจ",
-      "nickname": "โอโม่",
-      "jerseyNumber": 8,
-      "ageGroup": "U-10",
-      "position": "CM",
-      "preferredFoot": "ทั้งสองเท้า",
-      "height": 136,
-      "weight": 31,
-      "school": "รร.วัฒนานุศาสน์",
-      "injuryHistory": "ไม่มี",
-      "parentName": "คุณวิชัย กาญจนกิจ",
-      "parentPhone": "085-112-4433",
-      "parentLine": "wichai_omo",
-      "joinedDate": "2024-02-15",
-      "customMonthlyFee": 500,
-      "feeCondition": "ทุนเยาวชนพรสวรรค์ 50%"
     }
   ],
   "staff": [
@@ -847,20 +828,6 @@
       "note": "ชำระเงินสดที่ฝ่ายธุรการสนาม"
     },
     {
-      "id": "fee-09-06",
-      "playerId": "p6",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-09-03",
-      "receiptNumber": "RCP-202609-004",
-      "note": "ได้รับทุนเยาวชนพรสวรรค์ 50% ชำระยอด 500 บาท"
-    },
-    {
       "id": "fee-08-01",
       "playerId": "p1",
       "monthYear": "2026-08",
@@ -905,19 +872,6 @@
       "paymentMethod": "เงินสด",
       "paymentDate": "2026-08-05",
       "receiptNumber": "RCP-202608-004"
-    },
-    {
-      "id": "fee-08-06",
-      "playerId": "p6",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-03",
-      "receiptNumber": "RCP-202608-006"
     },
     {
       "id": "fee-07-01",
@@ -966,19 +920,6 @@
       "receiptNumber": "RCP-202607-004"
     },
     {
-      "id": "fee-07-06",
-      "playerId": "p6",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-07-02",
-      "receiptNumber": "RCP-202607-006"
-    },
-    {
       "id": "fee-06-01",
       "playerId": "p1",
       "monthYear": "2026-06",
@@ -1023,19 +964,6 @@
       "paymentMethod": "เงินสด",
       "paymentDate": "2026-06-05",
       "receiptNumber": "RCP-202606-004"
-    },
-    {
-      "id": "fee-06-06",
-      "playerId": "p6",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-06-04",
-      "receiptNumber": "RCP-202606-006"
     },
     {
       "id": "fee-05-01",
@@ -1084,19 +1012,6 @@
       "receiptNumber": "RCP-202605-004"
     },
     {
-      "id": "fee-05-06",
-      "playerId": "p6",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-05-02",
-      "receiptNumber": "RCP-202605-006"
-    },
-    {
       "id": "fee-04-01",
       "playerId": "p1",
       "monthYear": "2026-04",
@@ -1143,19 +1058,6 @@
       "receiptNumber": "RCP-202604-004"
     },
     {
-      "id": "fee-04-06",
-      "playerId": "p6",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-04-03",
-      "receiptNumber": "RCP-202604-006"
-    },
-    {
       "id": "fee-03-01",
       "playerId": "p1",
       "monthYear": "2026-03",
@@ -1200,19 +1102,6 @@
       "paymentMethod": "เงินสด",
       "paymentDate": "2026-03-05",
       "receiptNumber": "RCP-202603-004"
-    },
-    {
-      "id": "fee-03-06",
-      "playerId": "p6",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 500,
-      "specialCondition": "ทุนเยาวชนพรสวรรค์ 50%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-03-02",
-      "receiptNumber": "RCP-202603-006"
     }
   ],
   "transactions": [
@@ -2866,33 +2755,6 @@
         "fullRangeOfMotion": true,
         "strengthRestored": true,
         "canSprintAndCut": true,
-        "ballDrillsTolerated": true
-      }
-    },
-    {
-      "id": "inj-04",
-      "playerId": "p6",
-      "playerName": "ด.ช. รชต วงศ์สวรรค์",
-      "ageGroup": "U-10",
-      "jerseyNumber": 11,
-      "injuryDate": "2026-09-02",
-      "expectedReturnDate": "2026-09-14",
-      "bodyPart": "กล้ามเนื้อน่อง (Calf)",
-      "diagnosis": "ตะคริวรุนแรงและกล้ามเนื้อน่องล้าสะสม (Calf Strain)",
-      "cause": "การฝึกซ้อม (Training)",
-      "severity": "ระดับ 1 (เล็กน้อย)",
-      "status": "ซ้อมร่วมทีมบางส่วน (Partial Team)",
-      "treatedBy": "โค้ชกฤษณะ ธนะโสภณ",
-      "treatmentPlan": "ดื่มน้ำเกลือแร่สม่ำเสมอ ประคบอุ่นและโฟมโรลเลอร์ (Foam Rolling) วันละ 15 นาที",
-      "rehabNotes": [
-        "02 ก.ย. 2026: ตะคริวขึ้นช่วงท้ายซ้อม ให้พักฟื้นและปรับตารางน้ำดื่ม",
-        "08 ก.ย. 2026: ร่วมซ้อมฝึกส่งบอลเบาๆ ได้ แต่ยังงดซ้อมแข่งความเร็วสูง"
-      ],
-      "rtpChecklist": {
-        "noPainAtRest": true,
-        "fullRangeOfMotion": true,
-        "strengthRestored": true,
-        "canSprintAndCut": false,
         "ballDrillsTolerated": true
       }
     }

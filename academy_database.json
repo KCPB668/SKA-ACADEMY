@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:49.952Z",
+  "lastUpdated": "2026-10-17T13:05:51.545Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3791,34 +3791,6 @@
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
   "playerDailyMoodLogs": [
-    {
-      "id": "mood-004",
-      "playerId": "p4",
-      "playerName": "ด.ช. ปัณณธร แซ่ลี้",
-      "playerNickname": "ไทเกอร์",
-      "ageGroup": "U-12",
-      "jerseyNumber": 1,
-      "date": "2026-10-08",
-      "time": "18:22",
-      "trainingSessionId": "session-today",
-      "trainingTheme": "Tactical Build-up & Attacking Transition",
-      "score": 4,
-      "emoji": "😊",
-      "moodLabel": "รู้สึกดี / กระตือรือร้น",
-      "notes": "เซฟลูกยิงไกลได้หลายลูก มีความมั่นใจขึ้นหลังซ้อมปฏิกิริยากับโค้ชผู้รักษาประตู",
-      "energyLevel": 4,
-      "stressLevel": 2,
-      "sorenessLevel": 2,
-      "sleepQuality": "ปกติ",
-      "tags": [
-        "💪 ร่างกายฟิตเต็มที่",
-        "⭐ โค้ชชมเชย"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": false
-      }
-    },
     {
       "id": "mood-005",
       "playerId": "p5",

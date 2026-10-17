@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:07:44.661Z",
+  "lastUpdated": "2026-10-17T13:07:53.288Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3263,19 +3263,6 @@
   ],
   "clubNotes": [],
   "privateTasks": [
-    {
-      "id": "pt-adm-01",
-      "ownerAccountId": "user-admin-1",
-      "ownerDisplayName": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
-      "task": "อนุมัติเบิกจ่ายงบจัดซื้อลูกฟุตบอล Molten เบอร์ 5 จำนวน 10 ลูก",
-      "description": "เอกสารขอจัดซื้อจากโค้ชวัฒน์ ยอดประมาณ 6,500 บาท",
-      "dueDate": "2026-09-25",
-      "priority": "High",
-      "category": "ธุรการ",
-      "completed": false,
-      "createdAt": "2026-09-20T08:00:00.000Z",
-      "updatedAt": "2026-09-20T08:00:00.000Z"
-    },
     {
       "id": "pt-adm-02",
       "ownerAccountId": "user-admin-1",

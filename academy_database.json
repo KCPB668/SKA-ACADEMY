@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:00.093Z",
+  "lastUpdated": "2026-10-17T13:05:03.160Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -1137,14 +1137,6 @@
       ],
       "diagramType": "rondo",
       "attachments": [
-        {
-          "id": "att-drill-01-video",
-          "name": "คลิปสาธิตแท็กติก Rondo Speed & Transition.mp4",
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "uploadedAt": "2026-09-11T14:15:00.000Z",
-          "caption": "ตัวอย่างการเคลื่อนที่ของลูกฟุตบอลและการบีบพื้นที่แบบ Compact Pressing"
-        },
         {
           "id": "att-drill-01-pdf",
           "name": "คู่มือหลักสูตร AFC Rondo Coaching Guide.pdf",

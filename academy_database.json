@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:07:53.957Z",
+  "lastUpdated": "2026-10-17T13:07:56.955Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3263,20 +3263,6 @@
   ],
   "clubNotes": [],
   "privateTasks": [
-    {
-      "id": "pt-adm-02",
-      "ownerAccountId": "user-admin-1",
-      "ownerDisplayName": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
-      "task": "ตรวจสอบสถานะการชำระค่าบำรุงสมาชิกรายเดือน ก.ย. 2026",
-      "description": "ประสานงานฝ่ายการเงินเพื่อส่งใบเสร็จรับเงินทาง LINE ให้ผู้ปกครอง",
-      "dueDate": "2026-09-26",
-      "priority": "Medium",
-      "category": "ธุรการ",
-      "completed": true,
-      "completedAt": "2026-09-22T14:30:00.000Z",
-      "createdAt": "2026-09-18T09:00:00.000Z",
-      "updatedAt": "2026-09-22T14:30:00.000Z"
-    },
     {
       "id": "pt-adm-03",
       "ownerAccountId": "user-admin-1",

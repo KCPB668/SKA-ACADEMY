@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:51.548Z",
+  "lastUpdated": "2026-10-17T13:05:53.115Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3791,39 +3791,6 @@
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
   "playerDailyMoodLogs": [
-    {
-      "id": "mood-005",
-      "playerId": "p5",
-      "playerName": "ด.ช. ณภัทร รัตนเวช",
-      "playerNickname": "นอร์ธ",
-      "ageGroup": "U-10",
-      "jerseyNumber": 9,
-      "date": "2026-10-08",
-      "time": "18:25",
-      "trainingSessionId": "session-today",
-      "trainingTheme": "Finishing & 1v1 Skill Mastery",
-      "score": 5,
-      "emoji": "🤩",
-      "moodLabel": "ยอดเยี่ยม / มั่นใจเต็มร้อย",
-      "notes": "ยิงเข้าหลายลูกเลยครับ ชอบดริลล์ 1 ต่อ 1 มาก เพื่อนๆ ชมด้วย วันนี้สนุกที่สุดในสัปดาห์",
-      "energyLevel": 5,
-      "stressLevel": 1,
-      "sorenessLevel": 1,
-      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
-      "tags": [
-        "⚽ ซ้อมสนุกมาก",
-        "🎯 ยิงประตู/ส่งบอลแม่น",
-        "🚀 มั่นใจในการเล่น"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": true,
-        "reviewedBy": "โค้ชกฤษณะ ธนะโสภณ",
-        "reviewedAt": "2026-10-08 19:40",
-        "coachFeedback": "เก่งมากนอร์ธ รอยยิ้มและความมั่นใจจะช่วยให้เล่นได้เป็นธรรมชาติ",
-        "flaggedForAttention": false
-      }
-    },
     {
       "id": "mood-006",
       "playerId": "p6",

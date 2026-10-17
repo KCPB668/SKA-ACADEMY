@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:04:48.107Z",
+  "lastUpdated": "2026-10-17T13:04:49.856Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -1164,41 +1164,6 @@
           "caption": "เอกสารหลักสูตรสมาคมฯ รายละเอียดเกณฑ์การประเมิน 2-Touch Limit และ Key Factors"
         }
       ]
-    },
-    {
-      "id": "drill-05",
-      "title": "SAQ Speed, Agility & Quickness with Reaction Finish",
-      "category": "Warm-up & SAQ",
-      "ageGroups": [
-        "U-8",
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 15,
-      "intensity": "High",
-      "pitchArea": "ริมเส้นหรือพื้นที่หลังประตู 15x20 หลา",
-      "minPlayers": 6,
-      "equipment": [
-        "บันไดลิง Agility Ladder 2 ชุด",
-        "กรวยเตี้ย 12 อัน",
-        "ห่วงกระโดด Speed Rings 6 วง"
-      ],
-      "objective": "เสริมสร้างความคล่องตัว การประสานงานของประสาทกล้ามเนื้อ (Neuromuscular coordination) และปฏิกิริยาตอบสนองฉับไว",
-      "instructions": [
-        "ผู้เล่นเข้าสถานีบันไดลิง: วิ่งก้าวสลับ Icky Shuffle หรือ Two-in-Two-out",
-        "กระโดดข้ามห่วงด้วยขาคู่และขาเดี่ยวรักษาความสมดุลลำตัว",
-        "สปรินต์ซิกแซกผ่านกรวยเตี้ย 5 เมตร",
-        "โค้ชตะโกนเรียกสีหรือชูมือ เพื่อให้นักเตะกลับตัวสปรินต์แตะกรวยเป้าหมายให้เร็วที่สุด"
-      ],
-      "coachingPoints": [
-        "ปลายเท้ายกสูง ไม่ลงน้ำหนักที่ส้นเท้า (Stay on balls of feet)",
-        "แกว่งแขนให้สัมพันธ์กับจังหวะก้าวขา ลำตัวโน้มไปข้างหน้าเล็กน้อย",
-        "สายตามองตรงข้างหน้า ไม่งอคอก้มมองแต่เท้า"
-      ],
-      "diagramType": "passing-diamond"
     },
     {
       "id": "drill-06",

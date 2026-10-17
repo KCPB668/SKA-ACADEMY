@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:37.712Z",
+  "lastUpdated": "2026-10-17T13:02:38.609Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -40,25 +40,6 @@
       "parentLine": "mallika_t",
       "avatarUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80",
       "joinedDate": "2023-06-01",
-      "customMonthlyFee": 1000,
-      "feeCondition": "อัตรามาตรฐาน"
-    },
-    {
-      "id": "p4",
-      "name": "ด.ช. ปัณณธร แซ่ลี้",
-      "nickname": "ไทเกอร์",
-      "jerseyNumber": 1,
-      "ageGroup": "U-12",
-      "position": "GK",
-      "preferredFoot": "ขวา",
-      "height": 158,
-      "weight": 48,
-      "school": "รร.เทศบาล 1 พนัสนิคม",
-      "injuryHistory": "นิ้วมือซ้น เมื่อ 3 เดือนก่อน",
-      "parentName": "คุณสมเกียรติ แซ่ลี้",
-      "parentPhone": "084-556-3321",
-      "parentLine": "somkiat_tiger",
-      "joinedDate": "2023-04-12",
       "customMonthlyFee": 1000,
       "feeCondition": "อัตรามาตรฐาน"
     }
@@ -739,18 +720,6 @@
       "note": "สลิป SCB Easy เข้าบัญชีสโมสร"
     },
     {
-      "id": "fee-09-04",
-      "playerId": "p4",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-09-06",
-      "receiptNumber": "RCP-202609-003",
-      "note": "ชำระเงินสดที่ฝ่ายธุรการสนาม"
-    },
-    {
       "id": "fee-08-01",
       "playerId": "p1",
       "monthYear": "2026-08",
@@ -771,17 +740,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-08-04",
       "receiptNumber": "RCP-202608-002"
-    },
-    {
-      "id": "fee-08-04",
-      "playerId": "p4",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-08-05",
-      "receiptNumber": "RCP-202608-004"
     },
     {
       "id": "fee-07-01",
@@ -806,17 +764,6 @@
       "receiptNumber": "RCP-202607-002"
     },
     {
-      "id": "fee-07-04",
-      "playerId": "p4",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-07-05",
-      "receiptNumber": "RCP-202607-004"
-    },
-    {
       "id": "fee-06-01",
       "playerId": "p1",
       "monthYear": "2026-06",
@@ -837,17 +784,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-06-03",
       "receiptNumber": "RCP-202606-002"
-    },
-    {
-      "id": "fee-06-04",
-      "playerId": "p4",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-06-05",
-      "receiptNumber": "RCP-202606-004"
     },
     {
       "id": "fee-05-01",
@@ -872,17 +808,6 @@
       "receiptNumber": "RCP-202605-002"
     },
     {
-      "id": "fee-05-04",
-      "playerId": "p4",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-05-05",
-      "receiptNumber": "RCP-202605-004"
-    },
-    {
       "id": "fee-04-01",
       "playerId": "p1",
       "monthYear": "2026-04",
@@ -905,17 +830,6 @@
       "receiptNumber": "RCP-202604-002"
     },
     {
-      "id": "fee-04-04",
-      "playerId": "p4",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-04-06",
-      "receiptNumber": "RCP-202604-004"
-    },
-    {
       "id": "fee-03-01",
       "playerId": "p1",
       "monthYear": "2026-03",
@@ -936,17 +850,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-03-04",
       "receiptNumber": "RCP-202603-002"
-    },
-    {
-      "id": "fee-03-04",
-      "playerId": "p4",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "เงินสด",
-      "paymentDate": "2026-03-05",
-      "receiptNumber": "RCP-202603-004"
     }
   ],
   "transactions": [
@@ -2572,35 +2475,6 @@
         "strengthRestored": false,
         "canSprintAndCut": false,
         "ballDrillsTolerated": false
-      }
-    },
-    {
-      "id": "inj-02",
-      "playerId": "p4",
-      "playerName": "ด.ช. กิตติพงษ์ สัจจะ",
-      "ageGroup": "U-12",
-      "jerseyNumber": 4,
-      "injuryDate": "2026-08-20",
-      "expectedReturnDate": "2026-09-05",
-      "actualReturnDate": "2026-09-05",
-      "bodyPart": "แฮมสตริง (Hamstring)",
-      "diagnosis": "กล้ามเนื้อต้นขาด้านหลังตึงระดับ 1 จากการสปรินต์ไล่กวดบอล",
-      "cause": "การแข่งขัน (Match)",
-      "severity": "ระดับ 1 (เล็กน้อย)",
-      "status": "หายเป็นปกติพร้อมแข่ง 100% (Cleared)",
-      "treatedBy": "คลินิกกายภาพบำบัดพนัสนิคม",
-      "treatmentPlan": "หยุดพัก 5 วัน นวดคลายกล้ามเนื้อ ฟื้นฟูด้วยวิธี Eccentric Hamstring Strengthening (Nordic curls)",
-      "rehabNotes": [
-        "20 ส.ค. 2026: ตึงแฮมสตริงช่วงท้ายเกมอุ่นเครื่อง ถอดเปลี่ยนตัวทันที",
-        "28 ส.ค. 2026: ผ่านเกณฑ์การสปรินต์ 70% ไม่รู้สึกเจ็บ",
-        "05 ก.ย. 2026: ผ่านการทดสอบ Return to Play 100% กลับมาลงซ้อมเต็มระบบและแข่งนัดล่าสุดได้"
-      ],
-      "rtpChecklist": {
-        "noPainAtRest": true,
-        "fullRangeOfMotion": true,
-        "strengthRestored": true,
-        "canSprintAndCut": true,
-        "ballDrillsTolerated": true
       }
     }
   ],

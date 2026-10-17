@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:04:52.285Z",
+  "lastUpdated": "2026-10-17T13:04:53.794Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -1164,40 +1164,6 @@
           "caption": "เอกสารหลักสูตรสมาคมฯ รายละเอียดเกณฑ์การประเมิน 2-Touch Limit และ Key Factors"
         }
       ]
-    },
-    {
-      "id": "drill-07",
-      "title": "Rapid Shooting from Box Edges with Rebound Hunters",
-      "category": "Finishing & Shooting",
-      "ageGroups": [
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 20,
-      "intensity": "High",
-      "pitchArea": "หน้ากรอบเขตโทษ 18 หลา",
-      "minPlayers": 8,
-      "equipment": [
-        "ประตูมาตรฐานพร้อมตาข่าย",
-        "ลูกบอล 16 ลูก",
-        "มาร์กเกอร์จุดยิง 4 จุด"
-      ],
-      "objective": "ฝึกยิงประตูจังหวะเดียวจากระยะ 16-20 หลา และการวิ่งซ้ำจังหวะสอง (Rebound pursuit)",
-      "instructions": [
-        "โค้ชหรือเพื่อนจ่ายบอลเรียดมาจากด้านข้าง เข้าหาหัวกะโหลกกรอบเขตโทษ",
-        "ผู้เล่นสปีดเข้ามายิงด้วยข้างเท้าด้านในหรือหลังเท้าแบบ First-time finish",
-        "ผู้เล่นคนที่สองที่อยู่มุมตรงข้ามต้องสปรินต์เข้าซ้ำทันทีหากผู้รักษาประตูปัดบอล",
-        "สลับจุดยิงจากฝั่งซ้ายและฝั่งขวา"
-      ],
-      "coachingPoints": [
-        "หัวเข่าและลำตัวต้องคร่อมทับลูกบอลเวลาสัมผัส เพื่อไม่ให้บอลลอยเหินข้ามคาน",
-        "เล็งมุมเสาไกลหรือมุมล่างที่ผู้รักษาประตูล้มตัวรับยากที่สุด",
-        "ตามซ้ำทุกจังหวะอย่างไม่ลังเล (Never assume the keeper will catch cleanly)"
-      ],
-      "diagramType": "shooting-box"
     },
     {
       "id": "drill-08",

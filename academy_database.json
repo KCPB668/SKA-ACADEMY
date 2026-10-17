@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:31.779Z",
+  "lastUpdated": "2026-10-17T13:02:35.036Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -78,25 +78,6 @@
       "parentPhone": "084-556-3321",
       "parentLine": "somkiat_tiger",
       "joinedDate": "2023-04-12",
-      "customMonthlyFee": 1000,
-      "feeCondition": "อัตรามาตรฐาน"
-    },
-    {
-      "id": "p5",
-      "name": "ด.ช. ณภัทร รัตนเวช",
-      "nickname": "นอร์ธ",
-      "jerseyNumber": 9,
-      "ageGroup": "U-10",
-      "position": "ST",
-      "preferredFoot": "ซ้าย",
-      "height": 139,
-      "weight": 33,
-      "school": "รร.อนุบาลพนัสศึกษาลัย",
-      "injuryHistory": "ไม่มี",
-      "parentName": "คุณศศิธร รัตนเวช",
-      "parentPhone": "082-998-1122",
-      "parentLine": "sasi_north",
-      "joinedDate": "2024-01-08",
       "customMonthlyFee": 1000,
       "feeCondition": "อัตรามาตรฐาน"
     },
@@ -866,16 +847,6 @@
       "note": "ชำระเงินสดที่ฝ่ายธุรการสนาม"
     },
     {
-      "id": "fee-09-05",
-      "playerId": "p5",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 1000,
-      "status": "รอชำระ",
-      "paymentMethod": "-",
-      "note": "แจ้งเตือนผ่าน Line ผู้ปกครองแล้ว กำหนดจ่าย 10 ก.ย."
-    },
-    {
       "id": "fee-09-06",
       "playerId": "p6",
       "monthYear": "2026-09",
@@ -934,17 +905,6 @@
       "paymentMethod": "เงินสด",
       "paymentDate": "2026-08-05",
       "receiptNumber": "RCP-202608-004"
-    },
-    {
-      "id": "fee-08-05",
-      "playerId": "p5",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-08",
-      "receiptNumber": "RCP-202608-005"
     },
     {
       "id": "fee-08-06",
@@ -1006,17 +966,6 @@
       "receiptNumber": "RCP-202607-004"
     },
     {
-      "id": "fee-07-05",
-      "playerId": "p5",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-07-09",
-      "receiptNumber": "RCP-202607-005"
-    },
-    {
       "id": "fee-07-06",
       "playerId": "p6",
       "monthYear": "2026-07",
@@ -1074,17 +1023,6 @@
       "paymentMethod": "เงินสด",
       "paymentDate": "2026-06-05",
       "receiptNumber": "RCP-202606-004"
-    },
-    {
-      "id": "fee-06-05",
-      "playerId": "p5",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-06-07",
-      "receiptNumber": "RCP-202606-005"
     },
     {
       "id": "fee-06-06",
@@ -1146,17 +1084,6 @@
       "receiptNumber": "RCP-202605-004"
     },
     {
-      "id": "fee-05-05",
-      "playerId": "p5",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-05-06",
-      "receiptNumber": "RCP-202605-005"
-    },
-    {
       "id": "fee-05-06",
       "playerId": "p6",
       "monthYear": "2026-05",
@@ -1216,17 +1143,6 @@
       "receiptNumber": "RCP-202604-004"
     },
     {
-      "id": "fee-04-05",
-      "playerId": "p5",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-04-08",
-      "receiptNumber": "RCP-202604-005"
-    },
-    {
       "id": "fee-04-06",
       "playerId": "p6",
       "monthYear": "2026-04",
@@ -1284,17 +1200,6 @@
       "paymentMethod": "เงินสด",
       "paymentDate": "2026-03-05",
       "receiptNumber": "RCP-202603-004"
-    },
-    {
-      "id": "fee-03-05",
-      "playerId": "p5",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-03-09",
-      "receiptNumber": "RCP-202603-005"
     },
     {
       "id": "fee-03-06",

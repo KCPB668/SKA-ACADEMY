@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:07:37.172Z",
+  "lastUpdated": "2026-10-17T13:07:40.325Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -648,25 +648,6 @@
       "locationPitch": "สนามฟุตบอลเทศบาลพนัสนิคม",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
       "notes": "ทดสอบระบบการเล่น 9v9 ก่อนแข่งทัวร์นาเมนต์"
-    },
-    {
-      "id": "ev-05",
-      "title": "ทัวร์นาเมนต์ ชลบุรี จูเนียร์ แชมเปียนชิพ 2026",
-      "eventType": "ทัวร์นาเมนต์แข่งขัน",
-      "ageGroups": [
-        "U-12",
-        "U-14"
-      ],
-      "targetAgeGroups": [
-        "U-12",
-        "U-14"
-      ],
-      "startDate": "2026-09-20",
-      "startTime": "08:00",
-      "endTime": "17:00",
-      "locationPitch": "สนามกีฬาเทศบาลเมืองชลบุรี",
-      "coachInCharge": "โค้ชกฤษณะ ธนะโสภณ",
-      "notes": "นำนักเตะเดินทางด้วยรถบัสสโมสร รวมตัว 06:30 น."
     }
   ],
   "todos": [

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:04:31.131Z",
+  "lastUpdated": "2026-10-17T13:04:32.793Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -1097,101 +1097,6 @@
     }
   ],
   "matchReports": [
-    {
-      "id": "match-02",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "competition": "ศึกกระชับมิตรเยาวชนภาคตะวันออก",
-      "matchType": "Friendly",
-      "ageGroup": "U-12",
-      "venue": "สนามกีฬากลางเทศบาลบ้านบึง",
-      "isHome": false,
-      "opponentName": "บ้านบึง ซิตี้ จูเนียร์",
-      "skaScore": 2,
-      "opponentScore": 2,
-      "result": "เสมอ",
-      "formation": "7v7 (1-2-3-1)",
-      "headCoach": "โค้ชกฤษณะ ธนะโสภณ",
-      "manOfTheMatch": "ด.ช. ธีรเดช เมธากุล (#8)",
-      "goals": [
-        {
-          "minute": 9,
-          "scorerPlayerId": "p2",
-          "scorerName": "น้องภัทร",
-          "assistPlayerId": "p3",
-          "assistName": "น้องมาร์คัส",
-          "type": "Corner"
-        },
-        {
-          "minute": 35,
-          "scorerPlayerId": "p1",
-          "scorerName": "น้องภูผา",
-          "assistPlayerId": "p4",
-          "assistName": "น้องกิต",
-          "type": "Open Play"
-        }
-      ],
-      "playerStats": [
-        {
-          "playerId": "p1",
-          "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
-          "jerseyNumber": 10,
-          "position": "กองหน้าตัวเป้า (ST)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 1,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 8,
-          "coachNotes": "โดนประกบติด 2 คน แต่ยังหาช่องยิงตีเสมอได้"
-        },
-        {
-          "playerId": "p2",
-          "playerName": "ด.ช. วรภัทร โชควิจิตร",
-          "jerseyNumber": 7,
-          "position": "ปีกขวา (RW)",
-          "isStarter": true,
-          "minutesPlayed": 40,
-          "goals": 1,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 8.3,
-          "coachNotes": "สอดเข้ามายิงจังหวะสองได้ยอดเยี่ยม"
-        },
-        {
-          "playerId": "p3",
-          "playerName": "ด.ช. ธีรเดช เมธากุล",
-          "jerseyNumber": 8,
-          "position": "กองกลางตัวรุก (CAM)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 0,
-          "assists": 1,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 8.5,
-          "coachNotes": "เปิดลูกตั้งเตะอันตราย วิ่งเชื่อมเกมตลอด 50 นาที"
-        },
-        {
-          "playerId": "p5",
-          "playerName": "ด.ช. ธนกร พลอยเจริญ",
-          "jerseyNumber": 1,
-          "position": "ผู้รักษาประตู (GK)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 7.2,
-          "coachNotes": "เสียประตูจากลูกยิงไกลแฉลบ โดยรวมสมาธิดี"
-        }
-      ],
-      "matchSummary": "ทดลองระบบหมุนเวียนนักเตะและปรับแท็กติกการเพรสซิ่งแดนบน ผลเสมอถือว่ายุติธรรมและได้ประโยชน์ในการเห็นข้อบกพร่อง",
-      "tacticalNotes": "การถอยลงมารับจังหวะโดนสวนกลับต้องเร็วกว่านี้ แบ็กสองข้างเติมสูงแล้วพื้นที่ด้านหลังเปิดกว้าง"
-    },
     {
       "id": "match-03",
       "date": "2026-08-16",

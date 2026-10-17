@@ -1,72 +1,9 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:41.419Z",
+  "lastUpdated": "2026-10-17T13:02:53.391Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
-    {
-      "id": "s1",
-      "name": "นาย ชัยวัฒน์ นาคพงษ์",
-      "nickname": "โค้ชวัฒน์",
-      "category": "coaching",
-      "role": "หัวหน้าผู้ฝึกสอนอคาเดมี่ (Academy Head Coach)",
-      "license": "AFC \"B\" Coaching Certificate",
-      "licenseLevel": "AFC B",
-      "licenseIssuingBody": "สมาคมกีฬาฟุตบอลแห่งประเทศไทยฯ / AFC (อบรมผ่านปี 2021)",
-      "licenseExpiry": "2027-12-31",
-      "education": "ปริญญาตรี วิทยาศาสตรบัณฑิต (วิทยาศาสตร์การกีฬา) ม.เกษตรศาสตร์",
-      "educationDetails": [
-        {
-          "degree": "ปริญญาตรี วท.บ. วิทยาศาสตร์การกีฬาและการออกกำลังกาย",
-          "institution": "มหาวิทยาลัยเกษตรศาสตร์",
-          "gradYear": "2557"
-        },
-        {
-          "degree": "ประกาศนียบัตรหลักสูตรการบริหารจัดการทีมฟุตบอลอาชีพสมัยใหม่",
-          "institution": "สถาบันวิทยาการกีฬาแห่งประเทศไทย",
-          "gradYear": "2563"
-        }
-      ],
-      "experienceSummary": "อดีตนักฟุตบอลระดับไทยลีก 2 และทีมชาติเยาวชน ประสบการณ์คุมทีมอคาเดมี่สโมสรอาชีพกว่า 10 ปี เชี่ยวชาญการวางแผนระบบ Tactics 4-3-3 และ Positional Play",
-      "workHistory": [
-        {
-          "period": "2023 - ปัจจุบัน",
-          "organization": "สโมสรฟุตบอล เอสเคเอ พนัสนิคม ยูไนเต็ด",
-          "position": "Head Coach & Youth Technical Lead",
-          "achievements": "พาทีม U-14 คว้าแชมป์ ช้าง จูเนียร์ โซนชลบุรี และวางหลักสูตร 4 เสาหลัก"
-        },
-        {
-          "period": "2019 - 2022",
-          "organization": "ชลบุรี เอฟซี อคาเดมี่ (บ้านบึง)",
-          "position": "หัวหน้าผู้ฝึกสอนรุ่น U-15",
-          "achievements": "รองแชมป์ฟุตบอลเยาวชน กรมพลศึกษา ถ้วย ก. รุ่น 16 ปี"
-        },
-        {
-          "period": "2016 - 2018",
-          "organization": "พัทยา ยูไนเต็ด อคาเดมี่",
-          "position": "ผู้ช่วยโค้ชชุดเยาวชน & วิเคราะห์แมตช์",
-          "achievements": "พัฒนานักเตะก้าวสู่นักเรียนไทย 3 คน"
-        }
-      ],
-      "assignedAgeGroups": [
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "phone": "081-998-3344",
-      "email": "chaiwat.coach@ska-academy.com",
-      "lineId": "coach_wat_ska",
-      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
-      "joinedDate": "2023-01-15",
-      "specialties": [
-        "ยุทธวิธีเกมรุก (Attacking Transitions)",
-        "การสร้าง Positional Play",
-        "การพัฒนาภาวะผู้นำเยาวชน"
-      ],
-      "status": "ปฏิบัติงานเต็มเวลา (Full-time)",
-      "salaryOrStipend": 35000,
-      "emergencyContact": "คุณมัลลิกา นาคพงษ์ (ภรรยา) โทร 081-998-3355"
-    },
     {
       "id": "s2",
       "name": "นาย กฤษณะ ธนะโสภณ",

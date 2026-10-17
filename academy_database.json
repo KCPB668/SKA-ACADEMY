@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:42.386Z",
+  "lastUpdated": "2026-10-17T13:05:49.947Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3791,38 +3791,6 @@
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
   "playerDailyMoodLogs": [
-    {
-      "id": "mood-002",
-      "playerId": "p2",
-      "playerName": "ด.ช. อัครวินท์ เตชะเสน",
-      "playerNickname": "วินเนอร์",
-      "ageGroup": "U-12",
-      "jerseyNumber": 7,
-      "date": "2026-10-08",
-      "time": "18:18",
-      "trainingSessionId": "session-today",
-      "trainingTheme": "Tactical Build-up & Attacking Transition",
-      "score": 4,
-      "emoji": "😊",
-      "moodLabel": "รู้สึกดี / กระตือรือร้น",
-      "notes": "สปีดไปกับบอลริมเส้นได้ดี แต่ช่วงท้ายเซสชั่นมีตึงๆ ที่น่องขวาเล็กน้อย โดยรวมยังสนุกและพร้อมซ้อมต่อครับ",
-      "energyLevel": 4,
-      "stressLevel": 2,
-      "sorenessLevel": 3,
-      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
-      "tags": [
-        "⚽ ซ้อมสนุกมาก",
-        "🦵 ล้ากล้ามเนื้อขา"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": true,
-        "reviewedBy": "โค้ชกฤษณะ ธนะโสภณ",
-        "reviewedAt": "2026-10-08 19:10",
-        "coachFeedback": "ให้ประคบเย็นและยืดเหยียดน่องเพิ่ม 10 นาทีก่อนนอนนะครับวินเนอร์",
-        "flaggedForAttention": false
-      }
-    },
     {
       "id": "mood-004",
       "playerId": "p4",

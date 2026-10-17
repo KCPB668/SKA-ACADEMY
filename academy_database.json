@@ -1,58 +1,9 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:58.900Z",
+  "lastUpdated": "2026-10-17T13:03:04.232Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
-    {
-      "id": "s6",
-      "name": "นาย ธนพล ศรีอรุณทิพย์",
-      "nickname": "ผู้จัดการบาส",
-      "category": "management",
-      "role": "ผู้จัดการทั่วไปฝ่ายปฏิบัติการอคาเดมี่ (Academy General Operations Manager)",
-      "license": "Club Operations & League Admin Certificate",
-      "licenseLevel": "Management",
-      "licenseIssuingBody": "ฝ่ายจัดการแข่งขัน บริษัท ไทยลีก จำกัด (Thai League)",
-      "licenseExpiry": "2028-12-31",
-      "education": "ปริญญาตรี รัฐประศาสนศาสตรบัณฑิต มหาวิทยาลัยบูรพา",
-      "educationDetails": [
-        {
-          "degree": "รป.บ. การบริหารการปกครองและจัดการภาครัฐ-เอกชน",
-          "institution": "มหาวิทยาลัยบูรพา",
-          "gradYear": "2558"
-        }
-      ],
-      "experienceSummary": "ประสบการณ์บริหารสโมสรฟุตบอลและการประสานงานภาครัฐ สปอนเซอร์ ทัวร์นาเมนต์แข่งขัน และดูแลระบบสวัสดิการบุคลากรและนักเตะอย่างมืออาชีพ",
-      "workHistory": [
-        {
-          "period": "2022 - ปัจจุบัน",
-          "organization": "สโมสรฟุตบอล เอสเคเอ พนัสนิคม ยูไนเต็ด",
-          "position": "Operations & Club Secretary",
-          "achievements": "บริหารสัญญาผู้สนับสนุนและเชื่อมโยงระบบฐานข้อมูลอคาเดมี่เต็มรูปแบบ"
-        },
-        {
-          "period": "2017 - 2021",
-          "organization": "สโมสรฟุตบอลพานทอง เอฟซี (ไทยลีก 4)",
-          "position": "เจ้าหน้าที่ทีมและประสานงานต่างประเทศ",
-          "achievements": "จัดการระบบขึ้นทะเบียนนักเตะ FIFA TMS / COMET"
-        }
-      ],
-      "assignedAgeGroups": [
-        "บริหารภาพรวมทุกฝ่าย"
-      ],
-      "phone": "082-556-3311",
-      "email": "thanapol.ops@ska-academy.com",
-      "lineId": "bas_ska_manager",
-      "joinedDate": "2022-01-10",
-      "specialties": [
-        "Club Administration & Licensing",
-        "Sponsor Deliverables Management",
-        "Event Logistics & Tournament Entry"
-      ],
-      "status": "ปฏิบัติงานเต็มเวลา (Full-time)",
-      "salaryOrStipend": 32000,
-      "emergencyContact": "คุณศศิวิมล ศรีอรุณทิพย์ (พี่สาว) โทร 082-556-3322"
-    },
     {
       "id": "s7",
       "name": "นาย วิศรุต ปานทอง",

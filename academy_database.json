@@ -1,66 +1,9 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:53.405Z",
+  "lastUpdated": "2026-10-17T13:02:54.807Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
-    {
-      "id": "s2",
-      "name": "นาย กฤษณะ ธนะโสภณ",
-      "nickname": "โค้ชโต้ง",
-      "category": "coaching",
-      "role": "ผู้ฝึกสอนเยาวชน U-10/U-12 (Youth Development Coach)",
-      "license": "AFC \"C\" Coaching Certificate",
-      "licenseLevel": "AFC C",
-      "licenseIssuingBody": "สมาคมกีฬาฟุตบอลแห่งประเทศไทยฯ / AFC (ปี 2023)",
-      "licenseExpiry": "2028-06-30",
-      "education": "ปริญญาตรี ศึกษาศาสตรบัณฑิต (พลศึกษา) มหาวิทยาลัยการกีฬาแห่งชาติ วิทยาเขตชลบุรี",
-      "educationDetails": [
-        {
-          "degree": "ศษ.บ. การฝึกสอนกีฬาและพลศึกษา",
-          "institution": "มหาวิทยาลัยการกีฬาแห่งชาติ วิทยาเขตชลบุรี",
-          "gradYear": "2561"
-        },
-        {
-          "degree": "ใบประกาศนียบัตร Grassroots Coaching Course (TFA)",
-          "institution": "สมาคมกีฬาฟุตบอลแห่งประเทศไทยฯ",
-          "gradYear": "2564"
-        }
-      ],
-      "experienceSummary": "เชี่ยวชาญการฝึกพื้นฐานทักษะลูกหนังเด็กเล็ก (Grassroots) การจับบอลแรก เลี้ยง 1v1 และการสร้างความสนุกสนานควบคู่ระเบียบวินัย",
-      "workHistory": [
-        {
-          "period": "2022 - ปัจจุบัน",
-          "organization": "สโมสรฟุตบอล เอสเคเอ พนัสนิคม ยูไนเต็ด",
-          "position": "Lead Coach U-10 & U-12",
-          "achievements": "ปั้นนักเตะติดทีมเยาวชนจังหวัดชลบุรีรุ่น 12 ปี จำนวน 5 คน"
-        },
-        {
-          "period": "2019 - 2021",
-          "organization": "โรงเรียนกีฬาเทศบาลแหลมฉบัง",
-          "position": "ผู้ฝึกสอนทีมเยาวชนรุ่น 11 ปี",
-          "achievements": "แชมป์ฟุตบอล 7 คน เทศบาลคัพ 2 ปีซ้อน"
-        }
-      ],
-      "assignedAgeGroups": [
-        "U-8",
-        "U-10",
-        "U-12"
-      ],
-      "phone": "086-445-6677",
-      "email": "kritsana.t@ska-academy.com",
-      "lineId": "coach_tong_skau",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
-      "joinedDate": "2022-05-01",
-      "specialties": [
-        "First Touch & Ball Mastery",
-        "Small-Sided Games (SSG)",
-        "จิตวิทยาพัฒนาการเด็กเล็ก"
-      ],
-      "status": "ปฏิบัติงานเต็มเวลา (Full-time)",
-      "salaryOrStipend": 25000,
-      "emergencyContact": "คุณสมใจ ธนะโสภณ (มารดา) โทร 086-445-6688"
-    },
     {
       "id": "s3",
       "name": "นาย เอกพล ศรีสวัสดิ์",

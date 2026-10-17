@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:04:34.261Z",
+  "lastUpdated": "2026-10-17T13:04:35.886Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -1096,95 +1096,7 @@
       "isGoogleDriveLive": false
     }
   ],
-  "matchReports": [
-    {
-      "id": "match-04",
-      "date": "2026-08-02",
-      "time": "15:30",
-      "competition": "Chonburi FA Youth League 2026 (นัดที่ 6)",
-      "matchType": "League",
-      "ageGroup": "U-12",
-      "venue": "สนามเทศบาลเมืองพนัสนิคม (สนามหญ้าจริง 1)",
-      "isHome": true,
-      "opponentName": "อัสสัมชัญ ศรีราชา ยูธ",
-      "skaScore": 1,
-      "opponentScore": 2,
-      "result": "แพ้",
-      "formation": "7v7 (1-2-3-1)",
-      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "manOfTheMatch": "ด.ช. ธีรเดช เมธากุล (#8)",
-      "goals": [
-        {
-          "minute": 22,
-          "scorerPlayerId": "p3",
-          "scorerName": "น้องมาร์คัส",
-          "assistPlayerId": "p2",
-          "assistName": "น้องภัทร",
-          "type": "Open Play"
-        }
-      ],
-      "playerStats": [
-        {
-          "playerId": "p1",
-          "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
-          "jerseyNumber": 10,
-          "position": "กองหน้าตัวเป้า (ST)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 1,
-          "redCards": 0,
-          "rating": 7.2,
-          "coachNotes": "คู่แข่งดักทางได้ดี ต้องเรียนรู้การเคลื่อนที่ดึงตัวประกบ"
-        },
-        {
-          "playerId": "p2",
-          "playerName": "ด.ช. วรภัทร โชควิจิตร",
-          "jerseyNumber": 7,
-          "position": "ปีกขวา (RW)",
-          "isStarter": true,
-          "minutesPlayed": 45,
-          "goals": 0,
-          "assists": 1,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 7.5,
-          "coachNotes": "พยายามเปิดบอลสวยหลายครั้ง"
-        },
-        {
-          "playerId": "p3",
-          "playerName": "ด.ช. ธีรเดช เมธากุล",
-          "jerseyNumber": 8,
-          "position": "กองกลางตัวรุก (CAM)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 1,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 8,
-          "coachNotes": "ยิงประตูขึ้นนำ สู้เต็มที่ตลอดเกม"
-        },
-        {
-          "playerId": "p5",
-          "playerName": "ด.ช. ธนกร พลอยเจริญ",
-          "jerseyNumber": 1,
-          "position": "ผู้รักษาประตู (GK)",
-          "isStarter": true,
-          "minutesPlayed": 50,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "rating": 7,
-          "coachNotes": "เสีย 2 ประตูจากลูกซ้ำจังหวะสอง"
-        }
-      ],
-      "matchSummary": "เป็นเกมที่ดุเดือด นำก่อน 1-0 แต่โดนคู่แข่งเร่งเครื่องแซงช่วงท้าย เป็นบทเรียนล้ำค่าในเรื่องสมาธิและการรักษาทรงบอลภายใต้ความกดดัน",
-      "tacticalNotes": "ต้องฝึกเรื่องการรับมือลูกโด่ง และการสื่อสารระหว่างคู่เซ็นเตอร์กับผู้รักษาประตู"
-    }
-  ],
+  "matchReports": [],
   "injuries": [],
   "drills": [
     {

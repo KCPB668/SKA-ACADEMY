@@ -1,62 +1,9 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:54.811Z",
+  "lastUpdated": "2026-10-17T13:02:56.428Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [
-    {
-      "id": "s3",
-      "name": "นาย เอกพล ศรีสวัสดิ์",
-      "nickname": "โค้ชเอก",
-      "category": "coaching",
-      "role": "ผู้ฝึกสอนผู้รักษาประตู (Head of Goalkeeping)",
-      "license": "FA Thailand GK Coaching Course Level 1",
-      "licenseLevel": "GK Level 1",
-      "licenseIssuingBody": "สมาคมกีฬาฟุตบอลแห่งประเทศไทยฯ (FA Thailand)",
-      "licenseExpiry": "2027-08-31",
-      "education": "ปริญญาตรี วิทยาศาสตรบัณฑิต (วิทยาศาสตร์การกีฬา) สถาบันการพลศึกษา",
-      "educationDetails": [
-        {
-          "degree": "ปริญญาตรี วิทยาการส่งเสริมสุขภาพและกีฬา",
-          "institution": "สถาบันการพลศึกษา วิทยาเขตกรุงเทพ",
-          "gradYear": "2559"
-        }
-      ],
-      "experienceSummary": "อดีตผู้รักษาประตูสโมสร ราชประชา และ พัทยา เอฟซี มีความเชี่ยวชาญสูงด้าน Footwork, Shot Stopping, และการสร้างเกมจากแดนหลัง (Sweeper-Keeper)",
-      "workHistory": [
-        {
-          "period": "2023 - ปัจจุบัน",
-          "organization": "สโมสรฟุตบอล เอสเคเอ พนัสนิคม ยูไนเต็ด",
-          "position": "ผู้ฝึกสอนผู้รักษาประตูทุกรุ่นอายุ",
-          "achievements": "คลีนชีตเฉลี่ย 45% ในการแข่งขันระดับภาค 2025"
-        },
-        {
-          "period": "2020 - 2022",
-          "organization": "สมุทรปราการ คัสตอม ยูไนเต็ด อคาเดมี่",
-          "position": "GK Coach U-14/U-16",
-          "achievements": "ส่งออกผู้รักษาประตูเข้าสู่อะคาเดมี่ทีมชาติ"
-        }
-      ],
-      "assignedAgeGroups": [
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "phone": "083-112-9988",
-      "email": "ekkapol.gk@ska-academy.com",
-      "lineId": "coach_ek_gk",
-      "joinedDate": "2023-03-01",
-      "specialties": [
-        "GK Footwork & 1v1 Reflex",
-        "Distribution & Sweeper-Keeper",
-        "การเซฟจุดโทษและลูกตั้งเตะ"
-      ],
-      "status": "ปฏิบัติงานเต็มเวลา (Full-time)",
-      "salaryOrStipend": 28000,
-      "emergencyContact": "คุณนภัสสร ศรีสวัสดิ์ (ภรรยา) โทร 083-112-9990"
-    },
     {
       "id": "s4",
       "name": "นาย ศุภณัฐ เวชศาสตร์",

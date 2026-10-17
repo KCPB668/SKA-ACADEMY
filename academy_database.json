@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:07:29.392Z",
+  "lastUpdated": "2026-10-17T13:07:37.154Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -648,33 +648,6 @@
       "locationPitch": "สนามฟุตบอลเทศบาลพนัสนิคม",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
       "notes": "ทดสอบระบบการเล่น 9v9 ก่อนแข่งทัวร์นาเมนต์"
-    },
-    {
-      "id": "ev-04",
-      "title": "การประชุมผู้ปกครองและสตาฟฟ์โค้ช ประจำไตรมาส 3",
-      "eventType": "วันประชุม",
-      "ageGroups": [
-        "U-8",
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "targetAgeGroups": [
-        "U-8",
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "startDate": "2026-09-15",
-      "startTime": "18:30",
-      "endTime": "20:00",
-      "locationPitch": "ห้องประชุมคลับเฮาส์ SKA United",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "ชี้แจงโปรแกรมแข่งปลายปี และสรุปพัฒนาการ IDP รายบุคคล"
     },
     {
       "id": "ev-05",

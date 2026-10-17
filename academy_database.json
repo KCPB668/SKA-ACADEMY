@@ -1,53 +1,9 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:03:05.782Z",
+  "lastUpdated": "2026-10-17T13:03:07.795Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
-  "staff": [
-    {
-      "id": "s8",
-      "name": "นาง สุพรรษา บุญส่ง",
-      "nickname": "พี่ษา",
-      "category": "support",
-      "role": "เจ้าหน้าที่โภชนาการและสวัสดิการนักเตะ (Academy Welfare & Nutrition Officer)",
-      "license": "Food Sanitation & Nutrition Certificate",
-      "licenseLevel": "Management",
-      "licenseIssuingBody": "กรมอนามัย กระทรวงสาธารณสุข",
-      "licenseExpiry": "2028-09-30",
-      "education": "ปริญญาตรี คหกรรมศาสตรบัณฑิต (อาหารและโภชนาการ) มหาวิทยาลัยราชภัฏรำไพพรรณี",
-      "educationDetails": [
-        {
-          "degree": "คศ.บ. อาหาร โภชนาการ และการจัดเลี้ยง",
-          "institution": "มหาวิทยาลัยราชภัฏรำไพพรรณี",
-          "gradYear": "2560"
-        }
-      ],
-      "experienceSummary": "วางแผนเมนูอาหารเพิ่มกล้ามเนื้อและพลังงานสำหรับนักกีฬาเยาวชน ดูแลสุขอนามัยในแคมป์และเครื่องดื่มเกลือแร่ประจำทุกเซสชันการซ้อมและการแข่งขัน",
-      "workHistory": [
-        {
-          "period": "2023 - ปัจจุบัน",
-          "organization": "สโมสรฟุตบอล เอสเคเอ พนัสนิคม ยูไนเต็ด",
-          "position": "Welfare & Nutrition Officer",
-          "achievements": "จัดทำคู่มือโภชนาการนักเตะส่งต่อถึงผู้ปกครองทุกครอบครัว"
-        }
-      ],
-      "assignedAgeGroups": [
-        "ทุกรุ่นอายุ"
-      ],
-      "phone": "087-991-4455",
-      "email": "suphansa.nutri@ska-academy.com",
-      "lineId": "sa_ska_welfare",
-      "joinedDate": "2023-06-01",
-      "specialties": [
-        "Youth Athlete Nutrition & Hydration",
-        "Cafeteria & Camp Logistics",
-        "Safeguarding & Student Welfare"
-      ],
-      "status": "ปฏิบัติงานเต็มเวลา (Full-time)",
-      "salaryOrStipend": 22000,
-      "emergencyContact": "คุณสมเกียรติ บุญส่ง (สามี) โทร 087-991-4466"
-    }
-  ],
+  "staff": [],
   "idpProfiles": {},
   "trainingLogs": [
     {

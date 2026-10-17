@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:05.263Z",
+  "lastUpdated": "2026-10-17T13:05:17.096Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -1098,47 +1098,7 @@
   ],
   "matchReports": [],
   "injuries": [],
-  "drills": [
-    {
-      "id": "drill-01",
-      "title": "4v2 Rondo Quick Transition (ลิงชิงบอลสปีดสูง)",
-      "category": "Tactical & Rondo",
-      "ageGroups": [
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
-      ],
-      "durationMinutes": 15,
-      "intensity": "High",
-      "pitchArea": "10x10 หลา (กรอบสี่เหลี่ยม)",
-      "minPlayers": 6,
-      "equipment": [
-        "กรวยมาร์กเกอร์ 4 อัน",
-        "ลูกฟุตบอล 6 ลูก",
-        "เอี๊ยม 2 สี"
-      ],
-      "objective": "ฝึกการจ่ายบอลเร็ว 1-2 จังหวะ, การเปิดมุมรับบอล (Body Shape) และการเพรสซิ่งแย่งบอลเป็นคู่",
-      "instructions": [
-        "ผู้เล่นรอบนอก 4 คนครองบอล ผู้เล่นตรงกลาง 2 คนไล่บีบแย่งบอล",
-        "ผู้เล่นรอบนอกห้ามแตะบอลเกิน 2 จังหวะ (Condition 2-touch limit)",
-        "หากผู้เล่นตรงกลางตัดบอลได้ ให้สลับตัวกับผู้เล่นที่ทำบอลเสียทันที",
-        "หากจ่ายบอลทะลุช่องกลางระหว่างผู้ไล่บอล 2 คนได้สำเร็จ นับเป็น 1 แต้มพิเศษ (Split Pass)"
-      ],
-      "coachingPoints": [
-        "เปิดร่างกายรับบอลให้เห็นทั้งสนาม (Open body orientation)",
-        "ความแม่นยำและน้ำหนักของบอล (Weight of pass) ต้องพอดีเท้าเพื่อน",
-        "ผู้เล่นตรงกลางต้องสื่อสารและบีบพร้อมกัน (Compact pressing)"
-      ],
-      "variations": [
-        "บังคับเล่นจังหวะเดียว (1-Touch) เมื่อชำนาญขึ้น",
-        "ขยายขนาดกรอบเป็น 12x12 หลาสำหรับรุ่นเด็ก U-10"
-      ],
-      "diagramType": "rondo",
-      "attachments": []
-    }
-  ],
+  "drills": [],
   "reportCards": [],
   "reportSignatures": {
     "evaluatorCoachId": "s1",

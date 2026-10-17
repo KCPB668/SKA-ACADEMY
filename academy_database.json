@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:28.661Z",
+  "lastUpdated": "2026-10-17T13:02:31.765Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -118,25 +118,6 @@
       "joinedDate": "2024-02-15",
       "customMonthlyFee": 500,
       "feeCondition": "ทุนเยาวชนพรสวรรค์ 50%"
-    },
-    {
-      "id": "p8",
-      "name": "ด.ช. ชินดนัย กิตติเดชา",
-      "nickname": "เตชินท์",
-      "jerseyNumber": 5,
-      "ageGroup": "U-14",
-      "position": "CDM",
-      "preferredFoot": "ขวา",
-      "height": 165,
-      "weight": 54,
-      "school": "รร.พนัสพิทยาคาร",
-      "injuryHistory": "กล้ามเนื้อต้นขาด้านหลังตึง (ฟื้นตัว 100%)",
-      "parentName": "คุณกิตติศักดิ์ กิตติเดชา",
-      "parentPhone": "081-332-9876",
-      "parentLine": "kittisak_k",
-      "joinedDate": "2022-08-20",
-      "customMonthlyFee": 1000,
-      "feeCondition": "อัตรามาตรฐาน"
     }
   ],
   "staff": [
@@ -909,18 +890,6 @@
       "note": "ได้รับทุนเยาวชนพรสวรรค์ 50% ชำระยอด 500 บาท"
     },
     {
-      "id": "fee-09-08",
-      "playerId": "p8",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-09-01",
-      "receiptNumber": "RCP-202609-005",
-      "note": "ชำระตามอัตรามาตรฐานเรียบร้อย"
-    },
-    {
       "id": "fee-08-01",
       "playerId": "p1",
       "monthYear": "2026-08",
@@ -989,17 +958,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-08-03",
       "receiptNumber": "RCP-202608-006"
-    },
-    {
-      "id": "fee-08-08",
-      "playerId": "p8",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-01",
-      "receiptNumber": "RCP-202608-008"
     },
     {
       "id": "fee-07-01",
@@ -1072,17 +1030,6 @@
       "receiptNumber": "RCP-202607-006"
     },
     {
-      "id": "fee-07-08",
-      "playerId": "p8",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-07-01",
-      "receiptNumber": "RCP-202607-008"
-    },
-    {
       "id": "fee-06-01",
       "playerId": "p1",
       "monthYear": "2026-06",
@@ -1151,17 +1098,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-06-04",
       "receiptNumber": "RCP-202606-006"
-    },
-    {
-      "id": "fee-06-08",
-      "playerId": "p8",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-06-02",
-      "receiptNumber": "RCP-202606-008"
     },
     {
       "id": "fee-05-01",
@@ -1234,17 +1170,6 @@
       "receiptNumber": "RCP-202605-006"
     },
     {
-      "id": "fee-05-08",
-      "playerId": "p8",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-05-04",
-      "receiptNumber": "RCP-202605-008"
-    },
-    {
       "id": "fee-04-01",
       "playerId": "p1",
       "monthYear": "2026-04",
@@ -1315,17 +1240,6 @@
       "receiptNumber": "RCP-202604-006"
     },
     {
-      "id": "fee-04-08",
-      "playerId": "p8",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-04-01",
-      "receiptNumber": "RCP-202604-008"
-    },
-    {
       "id": "fee-03-01",
       "playerId": "p1",
       "monthYear": "2026-03",
@@ -1394,17 +1308,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-03-02",
       "receiptNumber": "RCP-202603-006"
-    },
-    {
-      "id": "fee-03-08",
-      "playerId": "p8",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-03-02",
-      "receiptNumber": "RCP-202603-008"
     }
   ],
   "transactions": [

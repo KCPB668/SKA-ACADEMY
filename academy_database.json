@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:54.558Z",
+  "lastUpdated": "2026-10-17T13:05:56.230Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3791,38 +3791,6 @@
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
   "playerDailyMoodLogs": [
-    {
-      "id": "mood-009",
-      "playerId": "p2",
-      "playerName": "ด.ช. อัครวินท์ เตชะเสน",
-      "playerNickname": "วินเนอร์",
-      "ageGroup": "U-12",
-      "jerseyNumber": 7,
-      "date": "2026-10-07",
-      "time": "18:18",
-      "trainingSessionId": "session-yesterday",
-      "trainingTheme": "Possession & Small Sided Games",
-      "score": 5,
-      "emoji": "🤩",
-      "moodLabel": "ยอดเยี่ยม / มั่นใจเต็มร้อย",
-      "notes": "เลี้ยงกินตัวผ่านได้ทุกครั้ง ได้ซ้อมลูกเปิดจากด้านข้างแม่นยำ",
-      "energyLevel": 5,
-      "stressLevel": 1,
-      "sorenessLevel": 2,
-      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
-      "tags": [
-        "🚀 มั่นใจในการเล่น",
-        "💪 ร่างกายฟิตเต็มที่"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": true,
-        "reviewedBy": "โค้ชกฤษณะ ธนะโสภณ",
-        "reviewedAt": "2026-10-07 19:15",
-        "coachFeedback": "มั่นใจดีมาก",
-        "flaggedForAttention": false
-      }
-    },
     {
       "id": "mood-011",
       "playerId": "p5",

@@ -1,28 +1,8 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:38.615Z",
+  "lastUpdated": "2026-10-17T13:02:40.313Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
-    {
-      "id": "p1",
-      "name": "ด.ช. ภูผา สุวรรณรัตน์",
-      "nickname": "น้องภูผา",
-      "jerseyNumber": 10,
-      "ageGroup": "U-12",
-      "position": "CAM",
-      "preferredFoot": "ขวา",
-      "height": 148,
-      "weight": 38,
-      "school": "รร.อนุบาลพนัสศึกษาลัย",
-      "injuryHistory": "ไม่มีประวัติเจ็บเรื้อรัง",
-      "parentName": "คุณสุทิน สุวรรณรัตน์",
-      "parentPhone": "081-456-7890",
-      "parentLine": "suthin.ska",
-      "avatarUrl": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?w=400&auto=format&fit=crop&q=80",
-      "joinedDate": "2023-05-15",
-      "customMonthlyFee": 1000,
-      "feeCondition": "อัตรามาตรฐาน"
-    },
     {
       "id": "p2",
       "name": "ด.ช. อัครวินท์ เตชะเสน",
@@ -474,58 +454,6 @@
     }
   ],
   "idpProfiles": {
-    "p1": {
-      "playerId": "p1",
-      "technical": {
-        "firstTouch": 8.5,
-        "passing": 8.8,
-        "dribbling": 8.2,
-        "finishing": 7.9,
-        "tackling1v1": 6.8
-      },
-      "tactical": {
-        "gameIQ": 9,
-        "positioning": 8.5,
-        "transitionSpeed": 8.2,
-        "decisionMaking": 8.7
-      },
-      "physical": {
-        "speed": 8,
-        "agility": 8.6,
-        "stamina": 8.1,
-        "strength": 6.9
-      },
-      "psychological": {
-        "workRate": 9.2,
-        "leadership": 8.8,
-        "coachability": 9.5,
-        "resilience": 8.6
-      },
-      "shortTermGoals": [
-        {
-          "id": "g1",
-          "title": "พัฒนาการยิงประตูด้วยเท้าซ้าย (เท้าไม่ถนัด) ในกรอบเขตโทษ",
-          "status": "In Progress",
-          "targetDate": "2026-10-15"
-        },
-        {
-          "id": "g2",
-          "title": "เพิ่มอัตราการจ่ายทะลุช่อง Key Passes สำเร็จ 80%+",
-          "status": "Achieved",
-          "targetDate": "2026-08-30"
-        },
-        {
-          "id": "g3",
-          "title": "ฝึกการสแกนพื้นที่รอบตัว (Scanning) ก่อนรับบอล 3 ครั้ง",
-          "status": "In Progress",
-          "targetDate": "2026-10-30"
-        }
-      ],
-      "longTermAmbition": "ติดทีมชาติไทยรุ่นอายุไม่เกิน 15 ปี (U-15) และเข้าสู่ระบบไทยลีกเยาวชน Academy",
-      "lastAssessedDate": "2026-09-02",
-      "evaluatorCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "coachSummaryNotes": "มีเซนส์ฟุตบอลและวิสัยทัศน์ที่ยอดเยี่ยม สัมผัสแรกนิ่ง ควรเสริมกล้ามเนื้อแกนกลางลำตัวเพื่อรับแรงปะทะ"
-    },
     "p2": {
       "playerId": "p2",
       "technical": {
@@ -696,18 +624,6 @@
   ],
   "monthlyFees": [
     {
-      "id": "fee-09-01",
-      "playerId": "p1",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-09-02",
-      "receiptNumber": "RCP-202609-001",
-      "note": "ชำระค่าบำรุงตามอัตรามาตรฐาน 1,000 บาท"
-    },
-    {
       "id": "fee-09-02",
       "playerId": "p2",
       "monthYear": "2026-09",
@@ -718,17 +634,6 @@
       "paymentDate": "2026-09-05",
       "receiptNumber": "RCP-202609-002",
       "note": "สลิป SCB Easy เข้าบัญชีสโมสร"
-    },
-    {
-      "id": "fee-08-01",
-      "playerId": "p1",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-02",
-      "receiptNumber": "RCP-202608-001"
     },
     {
       "id": "fee-08-02",
@@ -742,17 +647,6 @@
       "receiptNumber": "RCP-202608-002"
     },
     {
-      "id": "fee-07-01",
-      "playerId": "p1",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-07-03",
-      "receiptNumber": "RCP-202607-001"
-    },
-    {
       "id": "fee-07-02",
       "playerId": "p2",
       "monthYear": "2026-07",
@@ -762,17 +656,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-07-04",
       "receiptNumber": "RCP-202607-002"
-    },
-    {
-      "id": "fee-06-01",
-      "playerId": "p1",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-06-02",
-      "receiptNumber": "RCP-202606-001"
     },
     {
       "id": "fee-06-02",
@@ -786,17 +669,6 @@
       "receiptNumber": "RCP-202606-002"
     },
     {
-      "id": "fee-05-01",
-      "playerId": "p1",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-05-02",
-      "receiptNumber": "RCP-202605-001"
-    },
-    {
       "id": "fee-05-02",
       "playerId": "p2",
       "monthYear": "2026-05",
@@ -808,17 +680,6 @@
       "receiptNumber": "RCP-202605-002"
     },
     {
-      "id": "fee-04-01",
-      "playerId": "p1",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-04-02",
-      "receiptNumber": "RCP-202604-001"
-    },
-    {
       "id": "fee-04-02",
       "playerId": "p2",
       "monthYear": "2026-04",
@@ -828,17 +689,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-04-04",
       "receiptNumber": "RCP-202604-002"
-    },
-    {
-      "id": "fee-03-01",
-      "playerId": "p1",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-03-03",
-      "receiptNumber": "RCP-202603-001"
     },
     {
       "id": "fee-03-02",
@@ -1476,57 +1326,6 @@
     }
   ],
   "consultations": [
-    {
-      "id": "cs-01",
-      "playerId": "p1",
-      "date": "2026-09-04",
-      "type": "Player & Parent",
-      "conductedWith": "ทั้งนักเตะและผู้ปกครอง",
-      "coachName": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "location": "ห้องประชุมคลับเฮาส์ SKA FC",
-      "topics": "พัฒนาการทักษะแดนกลาง การยิงแถวสอง และการจัดสรรเวลาเรียน",
-      "notes": "น้องภูผามีความมุ่งมั่นสูงมาก ทักษะการจ่ายบอลและวิสัยทัศน์เกมดีเยี่ยม ให้เพิ่มความมั่นใจในการยิงประตูแถวสอง",
-      "coachAdvice": "จังหวะรับบอลแดนกลางให้เหลือบมองตำแหน่งผู้รักษาประตูคู่แข่งล่วงหน้า หากมีพื้นที่เปิดโล่งระยะ 20-25 หลา ให้กล้าสับไกยิงทันที อย่าลังเล และรักษาสมาธิแม้ทีมจะตกเป็นฝ่ายตามหลัง",
-      "progressChecklist": [
-        {
-          "id": "prog-1-1",
-          "topic": "ฝึกซ้อมยิงแถวสองด้วยหลังเท้าขวา 30 ลูก/สัปดาห์",
-          "completed": true,
-          "completedDate": "2026-09-10",
-          "notes": "วิถีบอลแม่นยำขึ้นมาก เข้ากรอบ 80%"
-        },
-        {
-          "id": "prog-1-2",
-          "topic": "ฝึกซ้อมพิเศษการคอนโทรลบอลแรก (First Touch) ด้วยเท้าข้างที่ไม่ถนัด (ซ้าย)",
-          "completed": true,
-          "completedDate": "2026-09-18",
-          "notes": "ดูดบอลนิ่ง สามารถแต่งบอลเข้าเท้าขวาเล่นต่อได้ทันที"
-        },
-        {
-          "id": "prog-1-3",
-          "topic": "ฝึกการสแกนพื้นที่รอบตัว (Scanning) ก่อนรับบอลอย่างน้อย 2 ครั้ง",
-          "completed": false,
-          "notes": "กำลังฝึกในสถานการณ์จำลอง Small-Sided Games"
-        },
-        {
-          "id": "prog-1-4",
-          "topic": "ปรับเวลาพักผ่อนเข้านอนไม่เกิน 21:30 น. ทุกวันซ้อม",
-          "completed": true,
-          "completedDate": "2026-09-12",
-          "notes": "ตื่นเช้าสดชื่น สมรรถภาพร่างกายดีขึ้นชัดเจน"
-        }
-      ],
-      "actionPlan": [
-        "ฝึกซ้อมพิเศษยิงแถวสองสัปดาห์ละ 2 ครั้ง",
-        "ฝึกดูดบอลด้วยเท้าซ้ายก่อนเริ่มเกมซ้อม",
-        "เข้านอนไม่เกิน 21:30 น."
-      ],
-      "footballProgress": "ทักษะการเล่นเป็นผู้นำแดนกลางก้าวหน้ามาก จ่ายบอลได้เปรียบสม่ำเสมอ แนะนำให้กล้าสับไกยิงแถวสองเพิ่มขึ้น",
-      "academicAndLifestyle": "เกรดเฉลี่ย 3.65 แบ่งเวลาทำการบ้านก่อนมาซ้อมได้ดี คุณพ่อให้การสนับสนุนสม่ำเสมอ",
-      "mentalAndMindset": "มุ่งมั่นสูงมาก แต่อาจกดดันตัวเองเมื่อทีมเสียประตู แนะนำการผ่อนคลายและสร้างพลังบวกให้เพื่อนร่วมทีม",
-      "mutualAgreements": "ตกลงฝึกซ้อมพิเศษยิงเท้าซ้ายสัปดาห์ละ 2 ครั้ง และปรับเวลานอนไม่เกิน 21:30 น.",
-      "nextFollowUpDate": "2026-10-05"
-    },
     {
       "id": "cs-02",
       "playerId": "p2",

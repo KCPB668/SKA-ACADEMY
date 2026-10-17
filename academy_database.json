@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:17.114Z",
+  "lastUpdated": "2026-10-17T13:05:26.830Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3976,38 +3976,6 @@
       "recordedBy": "player",
       "coachReview": {
         "isReviewed": false
-      }
-    },
-    {
-      "id": "mood-007",
-      "playerId": "p1",
-      "playerName": "ด.ช. ภูผา สุวรรณรัตน์",
-      "playerNickname": "น้องภูผา",
-      "ageGroup": "U-12",
-      "jerseyNumber": 10,
-      "date": "2026-10-07",
-      "time": "18:10",
-      "trainingSessionId": "session-yesterday",
-      "trainingTheme": "Possession & Small Sided Games",
-      "score": 4,
-      "emoji": "😊",
-      "moodLabel": "รู้สึกดี / กระตือรือร้น",
-      "notes": "เกมเพรสซิ่งเข้มข้นมาก ได้ฝึกแก้สถานการณ์เวลาโดนบีบเร็ว",
-      "energyLevel": 4,
-      "stressLevel": 2,
-      "sorenessLevel": 3,
-      "sleepQuality": "ปกติ",
-      "tags": [
-        "⚽ ซ้อมสนุกมาก",
-        "🧠 เข้าใจแท็กติกทีม"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": true,
-        "reviewedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
-        "reviewedAt": "2026-10-07 19:00",
-        "coachFeedback": "พัฒนาการอ่านจังหวะได้ดีขึ้นชัดเจน",
-        "flaggedForAttention": false
       }
     },
     {

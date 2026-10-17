@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:36.548Z",
+  "lastUpdated": "2026-10-17T13:02:37.704Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -42,25 +42,6 @@
       "joinedDate": "2023-06-01",
       "customMonthlyFee": 1000,
       "feeCondition": "อัตรามาตรฐาน"
-    },
-    {
-      "id": "p3",
-      "name": "ด.ช. ธีรเมธ ศิริโชคสถิตย์",
-      "nickname": "กัปตัน",
-      "jerseyNumber": 4,
-      "ageGroup": "U-12",
-      "position": "CB",
-      "preferredFoot": "ขวา",
-      "height": 155,
-      "weight": 45,
-      "school": "รร.วัฒนานุศาสน์",
-      "injuryHistory": "ไม่มี",
-      "parentName": "ร.ต.อ. ธนกฤต ศิริโชคสถิตย์",
-      "parentPhone": "086-778-9900",
-      "parentLine": "captain_dad",
-      "joinedDate": "2023-02-10",
-      "customMonthlyFee": 800,
-      "feeCondition": "ส่วนลดพี่น้อง 20%"
     },
     {
       "id": "p4",
@@ -609,52 +590,6 @@
       "lastAssessedDate": "2026-09-03",
       "evaluatorCoach": "โค้ชกฤษณะ ธนะโสภณ",
       "coachSummaryNotes": "ความเร็วและการฉีกแนวรับโดดเด่นมาก ต้องฝึกการเล่นเกมรับเวลา Transition เสียการครอบครองบอล"
-    },
-    "p3": {
-      "playerId": "p3",
-      "technical": {
-        "firstTouch": 7.5,
-        "passing": 8,
-        "dribbling": 6.8,
-        "finishing": 5.5,
-        "tackling1v1": 8.8
-      },
-      "tactical": {
-        "gameIQ": 8.9,
-        "positioning": 9,
-        "transitionSpeed": 7.8,
-        "decisionMaking": 8.5
-      },
-      "physical": {
-        "speed": 7.4,
-        "agility": 7.2,
-        "stamina": 8.5,
-        "strength": 8.8
-      },
-      "psychological": {
-        "workRate": 9.5,
-        "leadership": 9.4,
-        "coachability": 9,
-        "resilience": 9.2
-      },
-      "shortTermGoals": [
-        {
-          "id": "g6",
-          "title": "พัฒนาการวางบอลยาวไดเรกต์แม่นยำ 40 หลา สู่แดนหน้า",
-          "status": "In Progress",
-          "targetDate": "2026-10-10"
-        },
-        {
-          "id": "g7",
-          "title": "สื่อสารและสั่งการไลน์กองหลัง (Defensive Line Calling)",
-          "status": "Achieved",
-          "targetDate": "2026-08-25"
-        }
-      ],
-      "longTermAmbition": "กัปตันทีมโรงเรียนและคว้าแชมป์ฟุตบอลเยาวชนระดับภาคตะวันออก",
-      "lastAssessedDate": "2026-09-01",
-      "evaluatorCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "coachSummaryNotes": "มีความเป็นผู้นำสูง การดักสกัด 1v1 แน่นอน รูปร่างดีมากสำหรับการเป็นเซนเตอร์แบ็ก"
     }
   },
   "trainingLogs": [
@@ -804,18 +739,6 @@
       "note": "สลิป SCB Easy เข้าบัญชีสโมสร"
     },
     {
-      "id": "fee-09-03",
-      "playerId": "p3",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "รอชำระ",
-      "paymentMethod": "-",
-      "note": "ได้รับเงื่อนไขพิเศษส่วนลดพี่น้อง 20% (เดิม 1,000 เหลือ 800 บาท)"
-    },
-    {
       "id": "fee-09-04",
       "playerId": "p4",
       "monthYear": "2026-09",
@@ -848,19 +771,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-08-04",
       "receiptNumber": "RCP-202608-002"
-    },
-    {
-      "id": "fee-08-03",
-      "playerId": "p3",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-10",
-      "receiptNumber": "RCP-202608-003"
     },
     {
       "id": "fee-08-04",
@@ -896,19 +806,6 @@
       "receiptNumber": "RCP-202607-002"
     },
     {
-      "id": "fee-07-03",
-      "playerId": "p3",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-07-07",
-      "receiptNumber": "RCP-202607-003"
-    },
-    {
       "id": "fee-07-04",
       "playerId": "p4",
       "monthYear": "2026-07",
@@ -940,19 +837,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-06-03",
       "receiptNumber": "RCP-202606-002"
-    },
-    {
-      "id": "fee-06-03",
-      "playerId": "p3",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-06-05",
-      "receiptNumber": "RCP-202606-003"
     },
     {
       "id": "fee-06-04",
@@ -988,19 +872,6 @@
       "receiptNumber": "RCP-202605-002"
     },
     {
-      "id": "fee-05-03",
-      "playerId": "p3",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-05-08",
-      "receiptNumber": "RCP-202605-003"
-    },
-    {
       "id": "fee-05-04",
       "playerId": "p4",
       "monthYear": "2026-05",
@@ -1034,19 +905,6 @@
       "receiptNumber": "RCP-202604-002"
     },
     {
-      "id": "fee-04-03",
-      "playerId": "p3",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-04-05",
-      "receiptNumber": "RCP-202604-003"
-    },
-    {
       "id": "fee-04-04",
       "playerId": "p4",
       "monthYear": "2026-04",
@@ -1078,19 +936,6 @@
       "paymentMethod": "โอนเงิน (PromptPay)",
       "paymentDate": "2026-03-04",
       "receiptNumber": "RCP-202603-002"
-    },
-    {
-      "id": "fee-03-03",
-      "playerId": "p3",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 800,
-      "specialCondition": "ส่วนลดพี่น้อง 20%",
-      "isCustomAmount": true,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-03-06",
-      "receiptNumber": "RCP-202603-003"
     },
     {
       "id": "fee-03-04",

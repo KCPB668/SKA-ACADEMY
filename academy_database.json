@@ -1,29 +1,8 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:02:40.331Z",
+  "lastUpdated": "2026-10-17T13:02:41.391Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
-  "players": [
-    {
-      "id": "p2",
-      "name": "ด.ช. อัครวินท์ เตชะเสน",
-      "nickname": "วินเนอร์",
-      "jerseyNumber": 7,
-      "ageGroup": "U-12",
-      "position": "RW",
-      "preferredFoot": "ขวา",
-      "height": 152,
-      "weight": 41,
-      "school": "รร.พนัสพิทยาคาร",
-      "injuryHistory": "ข้อเท้าแพลงเบาบาง (หายสนิทแล้ว)",
-      "parentName": "คุณมัลลิกา เตชะเสน",
-      "parentPhone": "089-223-1144",
-      "parentLine": "mallika_t",
-      "avatarUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80",
-      "joinedDate": "2023-06-01",
-      "customMonthlyFee": 1000,
-      "feeCondition": "อัตรามาตรฐาน"
-    }
-  ],
+  "players": [],
   "staff": [
     {
       "id": "s1",
@@ -453,54 +432,7 @@
       "emergencyContact": "คุณสมเกียรติ บุญส่ง (สามี) โทร 087-991-4466"
     }
   ],
-  "idpProfiles": {
-    "p2": {
-      "playerId": "p2",
-      "technical": {
-        "firstTouch": 7.8,
-        "passing": 7.5,
-        "dribbling": 9,
-        "finishing": 8.2,
-        "tackling1v1": 6.2
-      },
-      "tactical": {
-        "gameIQ": 7.9,
-        "positioning": 8.1,
-        "transitionSpeed": 9.1,
-        "decisionMaking": 7.6
-      },
-      "physical": {
-        "speed": 9.3,
-        "agility": 9,
-        "stamina": 7.8,
-        "strength": 7
-      },
-      "psychological": {
-        "workRate": 8.5,
-        "leadership": 7.2,
-        "coachability": 8.8,
-        "resilience": 8.4
-      },
-      "shortTermGoals": [
-        {
-          "id": "g4",
-          "title": "ปรับจังหวะ Cross บอลจากริมเส้นให้แม่นยำเข้าเป้าเพื่อนร่วมทีม",
-          "status": "In Progress",
-          "targetDate": "2026-09-30"
-        },
-        {
-          "id": "g5",
-          "title": "พัฒนาการตัดสินใจตอน 2v1 ดึงตัวประกบแล้วปล่อยบอล",
-          "status": "Needs Focus",
-          "targetDate": "2026-10-20"
-        }
-      ],
-      "longTermAmbition": "ปีกขวาตัวแทนจังหวัดชลบุรี และก้าวสู่นักเตะอาชีพไทยลีก",
-      "lastAssessedDate": "2026-09-03",
-      "evaluatorCoach": "โค้ชกฤษณะ ธนะโสภณ",
-      "coachSummaryNotes": "ความเร็วและการฉีกแนวรับโดดเด่นมาก ต้องฝึกการเล่นเกมรับเวลา Transition เสียการครอบครองบอล"
-    }
-  },
+  "idpProfiles": {},
   "trainingLogs": [
     {
       "id": "tr-01",
@@ -622,86 +554,7 @@
       ]
     }
   ],
-  "monthlyFees": [
-    {
-      "id": "fee-09-02",
-      "playerId": "p2",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-09-05",
-      "receiptNumber": "RCP-202609-002",
-      "note": "สลิป SCB Easy เข้าบัญชีสโมสร"
-    },
-    {
-      "id": "fee-08-02",
-      "playerId": "p2",
-      "monthYear": "2026-08",
-      "month": "2026-08",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-08-04",
-      "receiptNumber": "RCP-202608-002"
-    },
-    {
-      "id": "fee-07-02",
-      "playerId": "p2",
-      "monthYear": "2026-07",
-      "month": "2026-07",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-07-04",
-      "receiptNumber": "RCP-202607-002"
-    },
-    {
-      "id": "fee-06-02",
-      "playerId": "p2",
-      "monthYear": "2026-06",
-      "month": "2026-06",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-06-03",
-      "receiptNumber": "RCP-202606-002"
-    },
-    {
-      "id": "fee-05-02",
-      "playerId": "p2",
-      "monthYear": "2026-05",
-      "month": "2026-05",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-05-03",
-      "receiptNumber": "RCP-202605-002"
-    },
-    {
-      "id": "fee-04-02",
-      "playerId": "p2",
-      "monthYear": "2026-04",
-      "month": "2026-04",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-04-04",
-      "receiptNumber": "RCP-202604-002"
-    },
-    {
-      "id": "fee-03-02",
-      "playerId": "p2",
-      "monthYear": "2026-03",
-      "month": "2026-03",
-      "amount": 1000,
-      "status": "จ่ายแล้ว",
-      "paymentMethod": "โอนเงิน (PromptPay)",
-      "paymentDate": "2026-03-04",
-      "receiptNumber": "RCP-202603-002"
-    }
-  ],
+  "monthlyFees": [],
   "transactions": [
     {
       "id": "tx-01",
@@ -1325,51 +1178,7 @@
       "purpose": "สแตนด์บายข้างสนามซ้อมจำลองแมตช์จริง"
     }
   ],
-  "consultations": [
-    {
-      "id": "cs-02",
-      "playerId": "p2",
-      "date": "2026-09-02",
-      "type": "Player Only",
-      "conductedWith": "นักเตะ",
-      "coachName": "โค้ชกฤษณะ ธนะโสภณ",
-      "location": "ม้านั่งข้างสนาม 1 SKA FC",
-      "topics": "จังหวะปล่อยบอล 2 จังหวะและการจัดตารางเวลาเรียน",
-      "notes": "น้องมีความเร็วคล่องตัวสูง แนะนำการเล่นเป็นทีมและจังหวะ Release บอลที่แม่นยำ",
-      "coachAdvice": "สปีดความเร็วเป็นจุดเด่นมากอยู่แล้ว แต่จุดสำคัญคือจังหวะกระชากหลบ 1 จังหวะแล้วต้องเงยหน้าจ่ายบอลให้เพื่อนทันที หลีกเลี่ยงการพาบอลตันเข้าไปหาตัวซ้อน",
-      "progressChecklist": [
-        {
-          "id": "prog-2-1",
-          "topic": "ฝึกซ้อมแบบฝึก 1v1 to Target Pass (เลี้ยงผ่านแล้วปล่อยบอล)",
-          "completed": true,
-          "completedDate": "2026-09-08",
-          "notes": "ปล่อยบอลเร็วขึ้น ช่วยเพื่อนหลุดเดี่ยวได้ 2 ครั้ง"
-        },
-        {
-          "id": "prog-2-2",
-          "topic": "ฝึกซ้อมสปีดระยะสั้น 15 เมตร พร้อมคอนโทรลบอลจังหวะสอง",
-          "completed": false,
-          "notes": "อยู่ระหว่างฝึกเพิ่มความแข็งแรงของแกนกลางลำตัว"
-        },
-        {
-          "id": "prog-2-3",
-          "topic": "จัดตารางการบ้านที่โรงเรียนให้เสร็จก่อน 16:30 น.",
-          "completed": true,
-          "completedDate": "2026-09-05",
-          "notes": "มาถึงสนามตรงเวลา ไม่สายแล้ว"
-        }
-      ],
-      "actionPlan": [
-        "ฝึกสปีดการจ่ายบอล 2 จังหวะในการซ้อมแบบกลุ่ม",
-        "รักษาเวลาเดินทางมาสนาม"
-      ],
-      "footballProgress": "สปีดต้นและความกล้ากระชากกินตัวดีมาก แต่ต้องปรับจังหวะการปล่อยบอลให้เร็วขึ้น ไม่หวงบอลเกินไป",
-      "academicAndLifestyle": "ช่วงนี้มีรายงานกลุ่มที่โรงเรียนเยอะ ทำให้มาซ้อมสายไป 1 ครั้ง ได้พูดคุยแนวทางจัดสรรเวลาแล้ว",
-      "mentalAndMindset": "มีความมั่นใจในตัวเองสูง เปิดรับคำแนะนำจากโค้ชได้ดีเยี่ยม",
-      "mutualAgreements": "ฝึกสปีดการจ่ายบอล 2 จังหวะในการซ้อมแบบกลุ่ม และรักษาเวลาเดินทางมาสนาม",
-      "nextFollowUpDate": "2026-10-02"
-    }
-  ],
+  "consultations": [],
   "calendarEvents": [
     {
       "id": "ev-01",
@@ -2247,36 +2056,7 @@
       "tacticalNotes": "ต้องฝึกเรื่องการรับมือลูกโด่ง และการสื่อสารระหว่างคู่เซ็นเตอร์กับผู้รักษาประตู"
     }
   ],
-  "injuries": [
-    {
-      "id": "inj-01",
-      "playerId": "p2",
-      "playerName": "ด.ช. วรภัทร โชควิจิตร",
-      "ageGroup": "U-12",
-      "jerseyNumber": 7,
-      "injuryDate": "2026-09-08",
-      "expectedReturnDate": "2026-09-18",
-      "bodyPart": "ข้อเท้า (Ankle)",
-      "diagnosis": "ข้อเท้าขวาพลิก เกรด 1 (Lateral Ankle Sprain Grade 1) เอ็นยึดเล็กน้อย ไม่มีกระดูกร้าว",
-      "cause": "การฝึกซ้อม (Training)",
-      "severity": "ระดับ 1 (เล็กน้อย)",
-      "status": "แยกซ้อมเบาๆ (Light Solo)",
-      "treatedBy": "นักกายภาพ ประจำ รพ.พนัสนิคม & โค้ชกฤษณะ",
-      "treatmentPlan": "ประคบเย็นตามหลัก RICE Protocol 48 ชม. แรก ทำกายภาพยืดเหยียดเอ็นร้อยหวาย และฝึกความมั่นคงบน Balance Board",
-      "rehabNotes": [
-        "08 ก.ย. 2026: บาดเจ็บจากการลงน้ำหนักผิดจังหวะระหว่างซ้อม 1v1 ปฐมพยาบาลทันที",
-        "09 ก.ย. 2026: อาการบวมลดลง 80% เดินลงน้ำหนักได้เกือบปกติ",
-        "10 ก.ย. 2026: เริ่มลงสนามแยกวิ่งจ็อกกิ้งเบาๆ และฝึก Balance Pad ไม่พบอาการเจ็บแปลบ"
-      ],
-      "rtpChecklist": {
-        "noPainAtRest": true,
-        "fullRangeOfMotion": true,
-        "strengthRestored": false,
-        "canSprintAndCut": false,
-        "ballDrillsTolerated": false
-      }
-    }
-  ],
+  "injuries": [],
   "drills": [
     {
       "id": "drill-01",

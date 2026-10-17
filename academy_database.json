@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-17T13:05:40.232Z",
+  "lastUpdated": "2026-10-17T13:05:42.382Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [],
   "staff": [],
@@ -3910,39 +3910,6 @@
       "recordedBy": "player",
       "coachReview": {
         "isReviewed": false
-      }
-    },
-    {
-      "id": "mood-008",
-      "playerId": "p3",
-      "playerName": "ด.ช. ธีรเมธ ศิริโชคสถิตย์",
-      "playerNickname": "กัปตัน",
-      "ageGroup": "U-12",
-      "jerseyNumber": 4,
-      "date": "2026-10-07",
-      "time": "18:15",
-      "trainingSessionId": "session-yesterday",
-      "trainingTheme": "Possession & Small Sided Games",
-      "score": 1,
-      "emoji": "😫",
-      "moodLabel": "แย่มาก / หมดพลัง",
-      "notes": "รู้สึกหมดแรงตั้งแต่นาทีที่ 20 ขาหนักมาก สมาธิหลุดบ่อย กลัวโค้ชผิดหวัง",
-      "energyLevel": 1,
-      "stressLevel": 5,
-      "sorenessLevel": 4,
-      "sleepQuality": "พักผ่อนน้อย/หลับไม่สนิท",
-      "tags": [
-        "😴 พักผ่อนน้อย/นอนดึก",
-        "🦵 ล้ากล้ามเนื้อขา",
-        "💭 กังวลเรื่องตำแหน่ง"
-      ],
-      "recordedBy": "player",
-      "coachReview": {
-        "isReviewed": true,
-        "reviewedBy": "โค้ชชัยวัฒน์ นาคพงษ์",
-        "reviewedAt": "2026-10-07 19:20",
-        "coachFeedback": "คะแนนตก 2 วันติด (1 และ 2) สตาฟโค้ชจัดช่วงคุยส่วนตัวเพื่อลดความเครียดจากการเรียนและฟุตบอล",
-        "flaggedForAttention": true
       }
     },
     {

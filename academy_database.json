@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-18T12:55:24.369Z",
+  "lastUpdated": "2026-10-18T12:55:25.443Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -244,48 +244,6 @@
     }
   ],
   "sponsors": [
-    {
-      "id": "sp-03",
-      "name": "สหการคอนกรีต พนัสนิคม",
-      "tier": "Silver",
-      "logoPosition": "แขนเสื้อซ้าย",
-      "contractValue": 60000,
-      "paidAmount": 30000,
-      "paymentTerms": "แบ่งชำระ 2 งวด",
-      "contractPeriod": "มิ.ย. 2026 - พ.ค. 2027",
-      "startDate": "2026-06-01",
-      "endDate": "2027-05-31",
-      "contactPerson": "คุณสุทิน เตชวานิช",
-      "phone": "089-551-7788",
-      "email": "sutin.concrete@hotmail.com",
-      "status": "Active",
-      "notes": "ช่วยสนับสนุนเทพื้นคอนกรีตบริเวณลานจอดรถและทางเข้าอคาเดมี่",
-      "benefits": [
-        "โลโก้บนแขนเสื้อด้านซ้ายของชุดแข่งขัน",
-        "ป้ายขอบสนามขนาด 4 เมตร",
-        "โลโก้บนสื่อโบรชัวร์ประชาสัมพันธ์อคาเดมี่"
-      ],
-      "deliverables": [
-        {
-          "id": "del-08",
-          "title": "ติดตั้งป้ายข้างสนามซ้อม 2",
-          "completed": true,
-          "targetDate": "2026-06-15"
-        },
-        {
-          "id": "del-09",
-          "title": "สกรีนโลโก้อาร์มแขนเสื้อแข่ง",
-          "completed": true,
-          "targetDate": "2026-06-20"
-        },
-        {
-          "id": "del-10",
-          "title": "วางโบรชัวร์และป้ายตั้งโต๊ะในห้องรับรองผู้ปกครอง",
-          "completed": true,
-          "targetDate": "2026-07-01"
-        }
-      ]
-    },
     {
       "id": "sp-04",
       "name": "Grand Sport Group Thailand",

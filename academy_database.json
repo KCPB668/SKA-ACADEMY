@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-18T12:55:27.527Z",
+  "lastUpdated": "2026-10-18T12:55:29.859Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -244,40 +244,6 @@
     }
   ],
   "sponsors": [
-    {
-      "id": "sp-05",
-      "name": "สยามเพียว วอเตอร์ (น้ำดื่มสะอาดชลบุรี)",
-      "tier": "Silver",
-      "logoPosition": "ป้ายไวนิลข้างสนาม",
-      "contractValue": 35000,
-      "paidAmount": 35000,
-      "paymentTerms": "สนับสนุนเป็นอุปกรณ์/บริการ",
-      "contractPeriod": "ม.ค. 2026 - ธ.ค. 2026",
-      "startDate": "2026-01-01",
-      "endDate": "2026-12-31",
-      "contactPerson": "คุณนพดล เกษมสุข",
-      "phone": "082-990-1234",
-      "status": "Active",
-      "notes": "สนับสนุนน้ำดื่มขนาด 600ml จำนวน 100 แพ็ก/เดือน ตลอดทั้งปี",
-      "benefits": [
-        "ป้ายไวนิลข้างซุ้มม้านั่งสำรองสนาม 1",
-        "สิทธิ์จำหน่ายเครื่องดื่มและน้ำแร่ในวันแข่งขัน"
-      ],
-      "deliverables": [
-        {
-          "id": "del-13",
-          "title": "ติดตั้งป้ายสปอนเซอร์น้ำดื่มข้างม้านั่งสำรอง",
-          "completed": true,
-          "targetDate": "2026-01-25"
-        },
-        {
-          "id": "del-14",
-          "title": "ส่งมอบน้ำดื่มประจำเดือน ก.ย.",
-          "completed": true,
-          "targetDate": "2026-09-01"
-        }
-      ]
-    },
     {
       "id": "sp-06",
       "name": "บจก. พนัสนิคม สปอร์ตสคลินิก (Panat Sports Clinic)",

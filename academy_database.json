@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-18T12:50:02.784Z",
+  "lastUpdated": "2026-10-18T12:50:08.708Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2661,9 +2661,9 @@
       "password": "ดรูฟ.จูปิเตอร์55",
       "role": "player",
       "displayName": "ดรูฟ จูปิเตอร์",
-      "linkedPlayerId": "p-1789899479141",
+      "linkedPlayerId": "p-1792327778237",
       "linkedPlayerIds": [
-        "p-1789899479141"
+        "p-1792327778237"
       ],
       "phone": "",
       "email": "",
@@ -2693,6 +2693,18 @@
           "canWrite": true
         },
         "daily-training": {
+          "canView": false,
+          "canWrite": false
+        },
+        "wellness-rpe": {
+          "canView": false,
+          "canWrite": false
+        },
+        "character-evaluation": {
+          "canView": false,
+          "canWrite": false
+        },
+        "mood-log": {
           "canView": false,
           "canWrite": false
         },

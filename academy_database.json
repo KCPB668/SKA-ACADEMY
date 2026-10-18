@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-18T12:56:21.149Z",
+  "lastUpdated": "2026-10-18T12:56:22.761Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2102,6 +2102,15 @@
       "isEdited": false,
       "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
       "lastUpdated": "2026-10-18T12:56:20.943Z"
+    },
+    "2026-05": {
+      "income": 0,
+      "expense": 0,
+      "netProfit": 0,
+      "isDeleted": true,
+      "isEdited": false,
+      "note": "ลบข้อมูลสถิติรอบเดือนนี้แล้ว",
+      "lastUpdated": "2026-10-18T12:56:22.511Z"
     }
   },
   "defaultMonthlyFee": 1000,

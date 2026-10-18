@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-18T12:49:38.998Z",
+  "lastUpdated": "2026-10-18T12:49:53.437Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2521,9 +2521,9 @@
       "password": "นท.ณิชพน.ปิยัง",
       "role": "player",
       "displayName": "ณิชพน (นท)",
-      "linkedPlayerId": "p-1789898922205",
+      "linkedPlayerId": "p-1792327729656",
       "linkedPlayerIds": [
-        "p-1789898922205"
+        "p-1792327729656"
       ],
       "phone": "",
       "email": "",
@@ -2553,6 +2553,18 @@
           "canWrite": true
         },
         "daily-training": {
+          "canView": false,
+          "canWrite": false
+        },
+        "wellness-rpe": {
+          "canView": false,
+          "canWrite": false
+        },
+        "character-evaluation": {
+          "canView": false,
+          "canWrite": false
+        },
+        "mood-log": {
           "canView": false,
           "canWrite": false
         },

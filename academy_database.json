@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-19T06:52:10.334Z",
+  "lastUpdated": "2026-10-19T06:52:10.352Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -131,7 +131,7 @@
       "date": "2026-10-19",
       "time": "17.30 - 19.30 น.",
       "ageGroup": "U-12",
-      "theme": "Scan",
+      "theme": "Sca",
       "drills": [
         "Wram-up Passing ball",
         "Coordination Agility",
@@ -548,7 +548,7 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-19",
-      "title": "ฝึกซ้อม U-12: Scan",
+      "title": "ฝึกซ้อม U-12: Sca",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
         "U-12"
@@ -561,7 +561,7 @@
       "endTime": "19.30 น.",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Scan\nผู้เข้าร่วม: 0/0 คน\nผู้ช่วยโค้ช: โค้ชภานุพงศ์ ทิพย์มงคล",
+      "notes": "หัวข้อ: Sca\nผู้เข้าร่วม: 0/0 คน\nผู้ช่วยโค้ช: โค้ชภานุพงศ์ ทิพย์มงคล",
       "linkedTrainingLogId": "tr-U-12-2026-10-19"
     }
   ],

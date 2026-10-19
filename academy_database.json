@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-19T06:49:55.636Z",
+  "lastUpdated": "2026-10-19T06:50:16.886Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -126,6 +126,28 @@
     }
   },
   "trainingLogs": [
+    {
+      "id": "tr-U-12-2026-10-19",
+      "date": "2026-10-19",
+      "time": "1",
+      "ageGroup": "U-12",
+      "theme": "1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
+      "drills": [
+        "Warm-up & SAQ: บันไดลิง สปีดระยะสั้น และปฏิกิริยาตอบสนอง (15 นาที)",
+        "Technical 1v1 Corridor: จังหวะกระชากหนีและการบล็อกมุมยิง (20 นาที)",
+        "Overload 3v2 Wave Attack with Finishing (25 นาที)",
+        "Small Sided Game: 7v7 2-Touch Conditioned Match (30 นาที)",
+        "Cool Down & Core Stability (10 นาที)"
+      ],
+      "pitch": "สนามหญ้าจริง 1",
+      "weather": "ร่มครึ้ม",
+      "intensity": "High",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "assistantCoaches": [
+        "โค้ชภานุพงศ์ ทิพย์มงคล"
+      ],
+      "playerScores": []
+    },
     {
       "id": "tr-ทุกรุ่นอายุ-2026-10-19",
       "date": "2026-10-19",
@@ -526,31 +548,21 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-19",
-      "title": "ฝึกซ้อม ทุกรุ่นอายุ: Technical 1v1 & Scanning",
+      "title": "ฝึกซ้อม U-12: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
-        "U-8",
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
+        "U-12"
       ],
       "ageGroups": [
-        "U-8",
-        "U-10",
-        "U-12",
-        "U-14",
-        "U-16",
-        "U-18"
+        "U-12"
       ],
       "startDate": "2026-10-19",
-      "startTime": "17.30",
-      "endTime": "19.30 น.",
+      "startTime": "1",
+      "endTime": "18:30",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Technical 1v1 & Scanning\nผู้เข้าร่วม: 2/2 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
-      "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-10-19"
+      "notes": "หัวข้อ: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)\nผู้เข้าร่วม: 0/0 คน\nผู้ช่วยโค้ช: โค้ชภานุพงศ์ ทิพย์มงคล",
+      "linkedTrainingLogId": "tr-U-12-2026-10-19"
     }
   ],
   "todos": [

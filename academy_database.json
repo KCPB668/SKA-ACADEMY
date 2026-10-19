@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-19T06:28:46.020Z",
+  "lastUpdated": "2026-10-19T06:29:19.539Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -125,7 +125,48 @@
       "coachSummaryNotes": "นักเตะใหม่ สมรรถภาพร่างกายและทัศนคติดีมาก"
     }
   },
-  "trainingLogs": [],
+  "trainingLogs": [
+    {
+      "id": "tr-ทุกรุ่นอายุ-2026-10-19",
+      "date": "2026-10-19",
+      "time": "17.",
+      "ageGroup": "ทุกรุ่นอายุ",
+      "theme": "All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)",
+      "drills": [
+        "Academy Mass Dynamic Warm-up & Agility Ladder (20 นาที)",
+        "Station Circuit: 1. SAQ Circuit / 2. Juggling & First Touch / 3. Passing Gate (45 นาที)",
+        "Mixed Age Groups 5v5 World Cup Fun Tournament (45 นาที)",
+        "Club Cool-down, Hydration & Team Talk (20 นาที)"
+      ],
+      "pitch": "สนามหญ้าจริง 1",
+      "weather": "เย็นสบาย",
+      "intensity": "High",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "assistantCoaches": [
+        "โค้ชกฤษณะ ธนะโสภณ"
+      ],
+      "playerScores": [
+        {
+          "playerId": "p-1792327778237",
+          "attendance": "มาซ้อม",
+          "effort": 8,
+          "technical": 8,
+          "tactical": 8,
+          "discipline": 9,
+          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
+        },
+        {
+          "playerId": "p-1792327729656",
+          "attendance": "มาซ้อม",
+          "effort": 8,
+          "technical": 8,
+          "tactical": 8,
+          "discipline": 9,
+          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
+        }
+      ]
+    }
+  ],
   "monthlyFees": [
     {
       "id": "fee-1792327778237",
@@ -483,7 +524,36 @@
     }
   ],
   "consultations": [],
-  "calendarEvents": [],
+  "calendarEvents": [
+    {
+      "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-19",
+      "title": "ฝึกซ้อม ทุกรุ่นอายุ: All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)",
+      "eventType": "เซสชันการฝึกซ้อม",
+      "targetAgeGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "ageGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "startDate": "2026-10-19",
+      "startTime": "17.",
+      "endTime": "18:30",
+      "locationPitch": "สนามหญ้าจริง 1",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "หัวข้อ: All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)\nผู้เข้าร่วม: 2/2 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
+      "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-10-19"
+    }
+  ],
   "todos": [
     {
       "id": "td-01",

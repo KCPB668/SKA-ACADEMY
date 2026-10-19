@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-19T06:30:59.045Z",
+  "lastUpdated": "2026-10-19T06:31:02.582Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -134,7 +134,8 @@
       "theme": "Technical 1v1 & Scanning",
       "drills": [
         "Warm-up",
-        "Agility"
+        "Agility",
+        "Technical Scaning"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "เย็นสบาย",

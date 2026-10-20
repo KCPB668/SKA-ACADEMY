@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-20T11:21:57.446Z",
+  "lastUpdated": "2026-10-20T11:24:13.796Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3572,7 +3572,35 @@
   "suspendedTabs": {},
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
-  "playerDailyMoodLogs": [],
+  "playerDailyMoodLogs": [
+    {
+      "id": "mood-1792495452524",
+      "playerId": "p-1792327778237",
+      "playerName": "ดรูฟ จูปิเตอร์",
+      "playerNickname": "ดรูฟ",
+      "ageGroup": "U-10",
+      "jerseyNumber": 10,
+      "date": "2026-10-20",
+      "time": "18:22",
+      "trainingTheme": "Scanning & Recepptving ball",
+      "score": 4,
+      "emoji": "😊",
+      "moodLabel": "รู้สึกดี / กระตือรือร้น",
+      "notes": "เหนื่อยแต่ว่าสนุก การสแกนดีขึ้น",
+      "energyLevel": 3,
+      "stressLevel": 1,
+      "sorenessLevel": 2,
+      "sleepQuality": "ปกติ",
+      "tags": [
+        "🚀 มั่นใจในการเล่น"
+      ],
+      "recordedBy": "coach_assisted",
+      "coachReview": {
+        "isReviewed": false,
+        "flaggedForAttention": false
+      }
+    }
+  ],
   "characterEvaluations": [],
   "parentBehaviorCheckins": [],
   "characterMilestones": [],

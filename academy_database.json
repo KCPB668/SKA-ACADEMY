@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-20T08:22:16.997Z",
+  "lastUpdated": "2026-10-20T08:22:17.003Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -133,8 +133,7 @@
       "ageGroup": "U-12",
       "theme": "Scanning & Receiving Ball",
       "drills": [
-        "Warm-up",
-        "เดาะบอล"
+        "Warm-up"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "ร่มครึ้ม",

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-21T08:27:59.566Z",
+  "lastUpdated": "2026-10-21T08:28:26.972Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -126,6 +126,22 @@
     }
   },
   "trainingLogs": [
+    {
+      "id": "tr-U-12-2026-10-21",
+      "date": "2026-10-21",
+      "time": "16:30 - 18:30",
+      "ageGroup": "U-12",
+      "theme": "1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
+      "drills": [],
+      "pitch": "สนามหญ้าจริง 1",
+      "weather": "ร่มครึ้ม",
+      "intensity": "High",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "assistantCoaches": [
+        "โค้ชภานุพงศ์ ทิพย์มงคล"
+      ],
+      "playerScores": []
+    },
     {
       "id": "tr-U-12-2026-10-20",
       "date": "2026-10-20",
@@ -566,6 +582,24 @@
   ],
   "consultations": [],
   "calendarEvents": [
+    {
+      "id": "evt-tr-tr-U-12-2026-10-21",
+      "title": "ฝึกซ้อม U-12: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
+      "eventType": "เซสชันการฝึกซ้อม",
+      "targetAgeGroups": [
+        "U-12"
+      ],
+      "ageGroups": [
+        "U-12"
+      ],
+      "startDate": "2026-10-21",
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "locationPitch": "สนามหญ้าจริง 1",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "หัวข้อ: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)\nผู้เข้าร่วม: 0/0 คน\nผู้ช่วยโค้ช: โค้ชภานุพงศ์ ทิพย์มงคล",
+      "linkedTrainingLogId": "tr-U-12-2026-10-21"
+    },
     {
       "id": "evt-tr-tr-U-12-2026-10-20",
       "title": "ฝึกซ้อม U-12: Scanning & Receiving Ball",

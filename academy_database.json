@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-21T08:45:27.735Z",
+  "lastUpdated": "2026-10-21T08:45:27.742Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -131,7 +131,7 @@
       "date": "2026-10-21",
       "time": "16:30 - 19:00",
       "ageGroup": "ทุกรุ่นอายุ",
-      "theme": "Receiving ball - การร",
+      "theme": "Receiving ball - การ",
       "drills": [],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "ฝนตกเล็กน้อย",
@@ -626,7 +626,7 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-21",
-      "title": "ฝึกซ้อม ทุกรุ่นอายุ: Receiving ball - การร",
+      "title": "ฝึกซ้อม ทุกรุ่นอายุ: Receiving ball - การ",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
         "U-8",
@@ -649,7 +649,7 @@
       "endTime": "19:00",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Receiving ball - การร\nผู้เข้าร่วม: 2/2 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
+      "notes": "หัวข้อ: Receiving ball - การ\nผู้เข้าร่วม: 2/2 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-10-21"
     },
     {

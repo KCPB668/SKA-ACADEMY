@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-21T17:49:21.085Z",
+  "lastUpdated": "2026-10-21T17:49:36.822Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -126,6 +126,45 @@
     }
   },
   "trainingLogs": [
+    {
+      "id": "tr-ทุกรุ่นอายุ-2026-10-20",
+      "date": "2026-10-20",
+      "time": "16:30 - 19:00",
+      "ageGroup": "ทุกรุ่นอายุ",
+      "theme": "Receiving ball - การรับฟุตบอล",
+      "drills": [
+        "วอร์มอพ",
+        "Coordination",
+        "Funny Game"
+      ],
+      "pitch": "สนามหญ้าจริง 1",
+      "weather": "ฝนตกเล็กน้อย",
+      "intensity": "High",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "assistantCoaches": [
+        "โค้ชกฤษณะ ธนะโสภณ"
+      ],
+      "playerScores": [
+        {
+          "playerId": "p-1792327778237",
+          "attendance": "มาซ้อม",
+          "effort": 8,
+          "technical": 8,
+          "tactical": 8,
+          "discipline": 9,
+          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
+        },
+        {
+          "playerId": "p-1792327729656",
+          "attendance": "มาซ้อม",
+          "effort": 8,
+          "technical": 8,
+          "tactical": 8,
+          "discipline": 9,
+          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
+        }
+      ]
+    },
     {
       "id": "tr-ทุกรุ่นอายุ-2026-10-21",
       "date": "2026-10-21",
@@ -631,6 +670,34 @@
   ],
   "consultations": [],
   "calendarEvents": [
+    {
+      "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-20",
+      "title": "ฝึกซ้อม ทุกรุ่นอายุ: Receiving ball - การรับฟุตบอล",
+      "eventType": "เซสชันการฝึกซ้อม",
+      "targetAgeGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "ageGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "startDate": "2026-10-20",
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "locationPitch": "สนามหญ้าจริง 1",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "หัวข้อ: Receiving ball - การรับฟุตบอล\nผู้เข้าร่วม: 2/2 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
+      "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-10-20"
+    },
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-21",
       "title": "ฝึกซ้อม ทุกรุ่นอายุ: Receiving ball - การรับฟุตบอล",

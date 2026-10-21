@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-21T08:42:18.384Z",
+  "lastUpdated": "2026-10-21T08:43:35.257Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -134,7 +134,7 @@
       "theme": "Receiving ball",
       "drills": [],
       "pitch": "สนามหญ้าจริง 1",
-      "weather": "ร่มครึ้ม",
+      "weather": "ฝนตกเล็กน้อย",
       "intensity": "High",
       "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
       "assistantCoaches": [
@@ -597,7 +597,7 @@
       "endTime": "18:30",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Receiving ball\nผู้เข้าร่วม: 0/0 คน\nผู้ช่วยโค้ช: โค้ชภานุพงศ์ ทิพย์มงคล",
+      "notes": "หัวข้อ: Receiving ball\nผู้เข้าร่วม: 0/0 คน",
       "linkedTrainingLogId": "tr-U-12-2026-10-21"
     },
     {

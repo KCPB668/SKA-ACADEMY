@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-21T08:45:45.112Z",
+  "lastUpdated": "2026-10-21T08:45:45.118Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -133,8 +133,7 @@
       "ageGroup": "ทุกรุ่นอายุ",
       "theme": "Receiving ball - การรับฟุตบอล",
       "drills": [
-        "วอร์มอพ",
-        "Coordination"
+        "วอร์มอพ"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "ฝนตกเล็กน้อย",

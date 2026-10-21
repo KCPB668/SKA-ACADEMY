@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-21T08:44:45.204Z",
+  "lastUpdated": "2026-10-21T08:45:03.720Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -126,6 +126,41 @@
     }
   },
   "trainingLogs": [
+    {
+      "id": "tr-ทุกรุ่นอายุ-2026-10-21",
+      "date": "2026-10-21",
+      "time": "16:30 - 19:00",
+      "ageGroup": "ทุกรุ่นอายุ",
+      "theme": "All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)",
+      "drills": [],
+      "pitch": "สนามหญ้าจริง 1",
+      "weather": "เย็นสบาย",
+      "intensity": "High",
+      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "assistantCoaches": [
+        "โค้ชกฤษณะ ธนะโสภณ"
+      ],
+      "playerScores": [
+        {
+          "playerId": "p-1792327778237",
+          "attendance": "มาซ้อม",
+          "effort": 8,
+          "technical": 8,
+          "tactical": 8,
+          "discipline": 9,
+          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
+        },
+        {
+          "playerId": "p-1792327729656",
+          "attendance": "มาซ้อม",
+          "effort": 8,
+          "technical": 8,
+          "tactical": 8,
+          "discipline": 9,
+          "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
+        }
+      ]
+    },
     {
       "id": "tr-U-12-2026-10-21",
       "date": "2026-10-21",
@@ -589,6 +624,34 @@
   ],
   "consultations": [],
   "calendarEvents": [
+    {
+      "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-21",
+      "title": "ฝึกซ้อม ทุกรุ่นอายุ: All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)",
+      "eventType": "เซสชันการฝึกซ้อม",
+      "targetAgeGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "ageGroups": [
+        "U-8",
+        "U-10",
+        "U-12",
+        "U-14",
+        "U-16",
+        "U-18"
+      ],
+      "startDate": "2026-10-21",
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "locationPitch": "สนามหญ้าจริง 1",
+      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "notes": "หัวข้อ: All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)\nผู้เข้าร่วม: 2/2 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
+      "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-10-21"
+    },
     {
       "id": "evt-tr-tr-U-12-2026-10-21",
       "title": "ฝึกซ้อม U-12: Receiving ball",

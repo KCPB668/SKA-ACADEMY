@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-24T14:13:18.499Z",
+  "lastUpdated": "2026-10-24T14:13:24.802Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3591,19 +3591,6 @@
       "completed": false,
       "createdAt": "2026-10-24T14:13:18.287Z",
       "updatedAt": "2026-10-24T14:13:18.287Z"
-    },
-    {
-      "id": "pt-1792851197720",
-      "ownerAccountId": "user-admin-1",
-      "ownerDisplayName": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
-      "task": "ลงทเบียนคัดตัวผู้เล่น ดรูฟ อัสสัมชัญ ธนบุรี",
-      "description": "ลงทเบียนคัดตัวผู้เล่น ดรูฟ อัสสัมชัญ ธนบุรี\nขอเอกสารข้อมูลจากแม่",
-      "dueDate": "2026-10-25",
-      "priority": "High",
-      "category": "ลงทะเบียนคัดตัวผู้เล่น",
-      "completed": false,
-      "createdAt": "2026-10-24T14:13:17.720Z",
-      "updatedAt": "2026-10-24T14:13:17.720Z"
     },
     {
       "id": "pt-1792850968018",

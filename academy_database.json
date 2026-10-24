@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-24T14:08:05.359Z",
+  "lastUpdated": "2026-10-24T14:09:28.207Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3579,6 +3579,19 @@
   ],
   "clubNotes": [],
   "privateTasks": [
+    {
+      "id": "pt-1792850968018",
+      "ownerAccountId": "user-admin-1",
+      "ownerDisplayName": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
+      "task": "โพสต์รับสมัครผู้เล่น 600/1000บาทต่อเดือน",
+      "description": "แก้ไข Canva ปรึกษา AI",
+      "dueDate": "2026-10-24",
+      "priority": "High",
+      "category": "รับสมัครผู้เล่น",
+      "completed": false,
+      "createdAt": "2026-10-24T14:09:28.018Z",
+      "updatedAt": "2026-10-24T14:09:28.018Z"
+    },
     {
       "id": "pt-c1-01",
       "ownerAccountId": "user-coach-1",

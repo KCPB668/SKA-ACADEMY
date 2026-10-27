@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-27T11:41:50.126Z",
+  "lastUpdated": "2026-10-27T11:43:29.818Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3760,6 +3760,34 @@
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
   "playerDailyMoodLogs": [
+    {
+      "id": "mood-1793101408771",
+      "playerId": "p-1792327729656",
+      "playerName": "ณิชพน ปิยัง",
+      "playerNickname": "นท",
+      "ageGroup": "U-14",
+      "jerseyNumber": 7,
+      "date": "2026-10-27",
+      "time": "18:42",
+      "trainingTheme": "Passing",
+      "score": 4,
+      "emoji": "😊",
+      "moodLabel": "รู้สึกดี / กระตือรือร้น",
+      "notes": "ซ้อมสนุก เพราะจับบอลได้ดีส่งบอลได้ดี",
+      "energyLevel": 4,
+      "stressLevel": 1,
+      "sorenessLevel": 1,
+      "sleepQuality": "สดชื่น/หลับเต็มอิ่ม",
+      "tags": [
+        "😮‍💨 หายใจไม่ทัน/เหนื่อยเร็ว",
+        "⚽ ซ้อมสนุกมาก"
+      ],
+      "recordedBy": "coach_assisted",
+      "coachReview": {
+        "isReviewed": false,
+        "flaggedForAttention": false
+      }
+    },
     {
       "id": "mood-1793101308295",
       "playerId": "p-1792327778237",

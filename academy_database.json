@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-01T16:14:09.673Z",
+  "lastUpdated": "2026-11-01T16:19:37.081Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2451,10 +2451,10 @@
   "clubShortName": "SKA FC",
   "academyTagline": "ศูนย์ฝึกฟุตบอลเยาวชนพนัสนิคม",
   "weeklySchedule": {
-    "id": "week-2026-10-26",
-    "weekStartDate": "2026-10-26",
-    "weekEndDate": "2026-11-01",
-    "weekTitle": "ตารางลงชื่อฝึกซ้อมประจำสัปดาห์ (2026-10-26 ถึง 2026-11-01)",
+    "id": "week-2026-11-02",
+    "weekStartDate": "2026-11-02",
+    "weekEndDate": "2026-11-08",
+    "weekTitle": "ตารางลงชื่อฝึกซ้อมประจำสัปดาห์ (2 พ.ย. - 8 พ.ย. 2569)",
     "isOpenForRegistration": true,
     "announcements": [
       {
@@ -2482,9 +2482,9 @@
         "dayNameThai": "วันจันทร์",
         "date": "2026-11-02",
         "isTrainingDay": true,
-        "trainingTime": "17.30-19.30 น.",
+        "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
-        "sessionFocus": "Technical 1v1  & Scanning ",
+        "sessionFocus": "Technical 1v1 & Small Sided Games",
         "ageGroupsAllowed": [
           "U-8",
           "U-10",
@@ -2502,9 +2502,9 @@
         "dayNameThai": "วันอังคาร",
         "date": "2026-11-03",
         "isTrainingDay": true,
-        "trainingTime": "17.30-19.30 น.",
+        "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
-        "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+        "sessionFocus": "Passing & Combinations Play",
         "ageGroupsAllowed": [
           "U-8",
           "U-10",
@@ -2514,17 +2514,16 @@
           "U-18"
         ],
         "maxParticipants": 35,
-        "coachInCharge": "โค้ชทีมงาน SKA FC",
-        "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        "coachInCharge": "โค้ชทีมงาน SKA FC"
       },
       {
         "dayKey": "wednesday",
         "dayNameThai": "วันพุธ",
         "date": "2026-11-04",
         "isTrainingDay": true,
-        "trainingTime": "17.30-19.30 น.",
+        "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
-        "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+        "sessionFocus": "Speed, Agility & Finishing",
         "ageGroupsAllowed": [
           "U-8",
           "U-10",
@@ -2534,17 +2533,16 @@
           "U-18"
         ],
         "maxParticipants": 35,
-        "coachInCharge": "โค้ชทีมงาน SKA FC",
-        "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        "coachInCharge": "โค้ชทีมงาน SKA FC"
       },
       {
         "dayKey": "thursday",
         "dayNameThai": "วันพฤหัสบดี",
         "date": "2026-11-05",
         "isTrainingDay": true,
-        "trainingTime": "17.30-19.30 น.",
+        "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
-        "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+        "sessionFocus": "Tactical Defensive Shape & Pressing",
         "ageGroupsAllowed": [
           "U-8",
           "U-10",
@@ -2554,17 +2552,16 @@
           "U-18"
         ],
         "maxParticipants": 35,
-        "coachInCharge": "โค้ชทีมงาน SKA FC",
-        "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        "coachInCharge": "โค้ชทีมงาน SKA FC"
       },
       {
         "dayKey": "friday",
         "dayNameThai": "วันศุกร์",
-        "date": "2026-10-30",
+        "date": "2026-11-06",
         "isTrainingDay": true,
-        "trainingTime": "17.30-19.30 น.",
+        "trainingTime": "16:30 - 18:30 น.",
         "pitch": "สนามหญ้าเทียม SKA Training Pitch",
-        "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+        "sessionFocus": "Match Simulation & Set Pieces",
         "ageGroupsAllowed": [
           "U-8",
           "U-10",
@@ -2574,17 +2571,16 @@
           "U-18"
         ],
         "maxParticipants": 35,
-        "coachInCharge": "โค้ชทีมงาน SKA FC",
-        "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        "coachInCharge": "โค้ชทีมงาน SKA FC"
       },
       {
         "dayKey": "saturday",
         "dayNameThai": "วันเสาร์",
-        "date": "2026-10-31",
-        "isTrainingDay": false,
+        "date": "2026-11-07",
+        "isTrainingDay": true,
         "trainingTime": "08:00 - 10:30 น.",
         "pitch": "สนามหญ้าจริง 1 (สนามใหญ่)",
-        "sessionFocus": "Tactical Match Play & Position-Specific",
+        "sessionFocus": "Tactical Match Play & Position Training",
         "ageGroupsAllowed": [
           "U-8",
           "U-10",
@@ -2594,17 +2590,16 @@
           "U-18"
         ],
         "maxParticipants": 35,
-        "coachInCharge": "โค้ชทีมงาน SKA FC",
-        "notes": "มีประเมินทักษะและลงทีมจำลองการแข่งขัน"
+        "coachInCharge": "โค้ชทีมงาน SKA FC"
       },
       {
         "dayKey": "sunday",
         "dayNameThai": "วันอาทิตย์",
-        "date": "2026-11-01",
-        "isTrainingDay": false,
+        "date": "2026-11-08",
+        "isTrainingDay": true,
         "trainingTime": "08:00 - 10:30 น.",
         "pitch": "สนามหญ้าจริง 1 (สนามใหญ่)",
-        "sessionFocus": "Tactical Match Play & Position-Specific",
+        "sessionFocus": "Tactical Match Play & Skill Evaluation",
         "ageGroupsAllowed": [
           "U-8",
           "U-10",
@@ -2614,8 +2609,7 @@
           "U-18"
         ],
         "maxParticipants": 35,
-        "coachInCharge": "โค้ชทีมงาน SKA FC",
-        "notes": "มีประเมินทักษะและลงทีมจำลองการแข่งขัน"
+        "coachInCharge": "โค้ชทีมงาน SKA FC"
       }
     ],
     "registrations": [
@@ -2632,7 +2626,7 @@
           "wednesday",
           "thursday"
         ],
-        "registeredAt": "2026-10-25T14:12:58.169Z",
+        "registeredAt": "2026-11-01T16:19:30.180Z",
         "transportType": "ผู้ปกครองมาส่ง"
       },
       {
@@ -2647,11 +2641,11 @@
           "tuesday",
           "wednesday"
         ],
-        "registeredAt": "2026-10-28T08:00:00.000Z",
+        "registeredAt": "2026-11-01T16:19:30.180Z",
         "transportType": "ผู้ปกครองมาส่ง"
       }
     ],
-    "lastUpdated": "2026-11-01T14:17:13.247Z"
+    "lastUpdated": "2026-11-01T16:19:30.180Z"
   },
   "userAccounts": [
     {
@@ -3998,5 +3992,211 @@
   "parentBehaviorCheckins": [],
   "characterMilestones": [],
   "wellnessEntries": [],
-  "srpeEntries": []
+  "srpeEntries": [],
+  "weeklyScheduleHistory": [
+    {
+      "id": "week-2026-10-26",
+      "weekStartDate": "2026-10-26",
+      "weekEndDate": "2026-11-01",
+      "weekTitle": "ตารางลงชื่อฝึกซ้อมประจำสัปดาห์ (2026-10-26 ถึง 2026-11-01)",
+      "isOpenForRegistration": true,
+      "announcements": [
+        {
+          "id": "ann-1",
+          "title": "📢 ประกาศการลงชื่อฝึกซ้อมประจำสัปดาห์ (จันทร์ - อาทิตย์)",
+          "content": "ขอความร่วมมือนักเตะทุกคนลงชื่อเข้าร่วมการฝึกซ้อมล่วงหน้า เพื่อให้ทีมงานโค้ชเตรียมโปรแกรมการฝึกซ้อม อุปกรณ์ลูกบอล และจัดแบ่งกลุ่มตามรุ่นอายุได้อย่างเหมาะสมที่สุดครับ",
+          "datePosted": "2026-10-17",
+          "postedBy": "เฮดโค้ช SKA FC",
+          "isPinned": true,
+          "type": "general"
+        },
+        {
+          "id": "ann-2",
+          "title": "⚽ ข้อปฏิบัติในการฝึกซ้อมประจำวัน",
+          "content": "1. สวมเสื้อซ้อมและสนับแข้งให้เรียบร้อยทุกครั้ง\n2. เตรียมกระบอกน้ำส่วนตัวมาด้วยตนเอง\n3. หากติดธุระหรือลาป่วย กรุณาลงชื่อแจ้งในช่องหมายเหตุล่วงหน้า",
+          "datePosted": "2026-10-17",
+          "postedBy": "ฝ่ายพัฒนาเทคนิคสโมสร",
+          "isPinned": false,
+          "type": "rules"
+        }
+      ],
+      "days": [
+        {
+          "dayKey": "monday",
+          "dayNameThai": "วันจันทร์",
+          "date": "2026-11-02",
+          "isTrainingDay": true,
+          "trainingTime": "17.30-19.30 น.",
+          "pitch": "สนามหญ้าเทียม SKA Training Pitch",
+          "sessionFocus": "Technical 1v1  & Scanning ",
+          "ageGroupsAllowed": [
+            "U-8",
+            "U-10",
+            "U-12",
+            "U-14",
+            "U-16",
+            "U-18"
+          ],
+          "maxParticipants": 35,
+          "coachInCharge": "โค้ชทีมงาน SKA FC",
+          "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        },
+        {
+          "dayKey": "tuesday",
+          "dayNameThai": "วันอังคาร",
+          "date": "2026-11-03",
+          "isTrainingDay": true,
+          "trainingTime": "17.30-19.30 น.",
+          "pitch": "สนามหญ้าเทียม SKA Training Pitch",
+          "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+          "ageGroupsAllowed": [
+            "U-8",
+            "U-10",
+            "U-12",
+            "U-14",
+            "U-16",
+            "U-18"
+          ],
+          "maxParticipants": 35,
+          "coachInCharge": "โค้ชทีมงาน SKA FC",
+          "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        },
+        {
+          "dayKey": "wednesday",
+          "dayNameThai": "วันพุธ",
+          "date": "2026-11-04",
+          "isTrainingDay": true,
+          "trainingTime": "17.30-19.30 น.",
+          "pitch": "สนามหญ้าเทียม SKA Training Pitch",
+          "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+          "ageGroupsAllowed": [
+            "U-8",
+            "U-10",
+            "U-12",
+            "U-14",
+            "U-16",
+            "U-18"
+          ],
+          "maxParticipants": 35,
+          "coachInCharge": "โค้ชทีมงาน SKA FC",
+          "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        },
+        {
+          "dayKey": "thursday",
+          "dayNameThai": "วันพฤหัสบดี",
+          "date": "2026-11-05",
+          "isTrainingDay": true,
+          "trainingTime": "17.30-19.30 น.",
+          "pitch": "สนามหญ้าเทียม SKA Training Pitch",
+          "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+          "ageGroupsAllowed": [
+            "U-8",
+            "U-10",
+            "U-12",
+            "U-14",
+            "U-16",
+            "U-18"
+          ],
+          "maxParticipants": 35,
+          "coachInCharge": "โค้ชทีมงาน SKA FC",
+          "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        },
+        {
+          "dayKey": "friday",
+          "dayNameThai": "วันศุกร์",
+          "date": "2026-10-30",
+          "isTrainingDay": true,
+          "trainingTime": "17.30-19.30 น.",
+          "pitch": "สนามหญ้าเทียม SKA Training Pitch",
+          "sessionFocus": "Technical 1v1, Passing & Small Sided Games",
+          "ageGroupsAllowed": [
+            "U-8",
+            "U-10",
+            "U-12",
+            "U-14",
+            "U-16",
+            "U-18"
+          ],
+          "maxParticipants": 35,
+          "coachInCharge": "โค้ชทีมงาน SKA FC",
+          "notes": "กรุณามาถึงก่อนเวลา 15 นาทีเพื่อเตรียมความพร้อม"
+        },
+        {
+          "dayKey": "saturday",
+          "dayNameThai": "วันเสาร์",
+          "date": "2026-10-31",
+          "isTrainingDay": false,
+          "trainingTime": "08:00 - 10:30 น.",
+          "pitch": "สนามหญ้าจริง 1 (สนามใหญ่)",
+          "sessionFocus": "Tactical Match Play & Position-Specific",
+          "ageGroupsAllowed": [
+            "U-8",
+            "U-10",
+            "U-12",
+            "U-14",
+            "U-16",
+            "U-18"
+          ],
+          "maxParticipants": 35,
+          "coachInCharge": "โค้ชทีมงาน SKA FC",
+          "notes": "มีประเมินทักษะและลงทีมจำลองการแข่งขัน"
+        },
+        {
+          "dayKey": "sunday",
+          "dayNameThai": "วันอาทิตย์",
+          "date": "2026-11-01",
+          "isTrainingDay": false,
+          "trainingTime": "08:00 - 10:30 น.",
+          "pitch": "สนามหญ้าจริง 1 (สนามใหญ่)",
+          "sessionFocus": "Tactical Match Play & Position-Specific",
+          "ageGroupsAllowed": [
+            "U-8",
+            "U-10",
+            "U-12",
+            "U-14",
+            "U-16",
+            "U-18"
+          ],
+          "maxParticipants": 35,
+          "coachInCharge": "โค้ชทีมงาน SKA FC",
+          "notes": "มีประเมินทักษะและลงทีมจำลองการแข่งขัน"
+        }
+      ],
+      "registrations": [
+        {
+          "id": "reg-1792937578169",
+          "playerId": "p-1792327729656",
+          "playerName": "ณิชพน ปิยัง",
+          "playerNickname": "นท",
+          "jerseyNumber": 7,
+          "ageGroup": "U-14",
+          "daysAttending": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+          ],
+          "registeredAt": "2026-10-25T14:12:58.169Z",
+          "transportType": "ผู้ปกครองมาส่ง"
+        },
+        {
+          "id": "reg-1792937578200",
+          "playerId": "p-1792327778237",
+          "playerName": "ดรูฟ จูปิเตอร์",
+          "playerNickname": "ดรูฟ",
+          "jerseyNumber": 10,
+          "ageGroup": "U-10",
+          "daysAttending": [
+            "monday",
+            "tuesday",
+            "wednesday"
+          ],
+          "registeredAt": "2026-10-28T08:00:00.000Z",
+          "transportType": "ผู้ปกครองมาส่ง"
+        }
+      ],
+      "lastUpdated": "2026-11-01T14:17:13.247Z",
+      "archivedAt": "2026-11-01T16:19:30.180Z"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-06T09:54:40.882Z",
+  "lastUpdated": "2026-11-06T09:54:44.835Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -134,7 +134,8 @@
       "theme": "Passing",
       "drills": [
         "Funny Game",
-        "Coordination"
+        "Coordination",
+        "Passing เทคนิค"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "ฝนตกเล็กน้อย",

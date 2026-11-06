@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-06T09:54:52.235Z",
+  "lastUpdated": "2026-11-06T09:54:55.173Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -129,12 +129,14 @@
     {
       "id": "tr-U-12-2026-11-06",
       "date": "2026-11-06",
-      "time": "16:30 - 18:30",
+      "time": "1:30 - 18:30",
       "ageGroup": "U-12",
       "theme": "Passing",
       "drills": [
         "Funny Game",
-        "Coordination"
+        "Coordination",
+        "Passing เทคนิค",
+        "Passing Game"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "ฝนตกเล็กน้อย",
@@ -700,7 +702,7 @@
         "U-12"
       ],
       "startDate": "2026-11-06",
-      "startTime": "16:30",
+      "startTime": "1:30",
       "endTime": "18:30",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-06T09:55:00.607Z",
+  "lastUpdated": "2026-11-07T14:05:08.863Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -126,27 +126,6 @@
     }
   },
   "trainingLogs": [
-    {
-      "id": "tr-U-12-2026-11-06",
-      "date": "2026-11-06",
-      "time": "17:30 - 19:30",
-      "ageGroup": "U-12",
-      "theme": "Passing",
-      "drills": [
-        "Funny Game",
-        "Coordination",
-        "Passing เทคนิค",
-        "Passing Game"
-      ],
-      "pitch": "สนามหญ้าจริง 1",
-      "weather": "ฝนตกเล็กน้อย",
-      "intensity": "High",
-      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "assistantCoaches": [
-        "โค้ชภานุพงศ์ ทิพย์มงคล"
-      ],
-      "playerScores": []
-    },
     {
       "id": "tr-ทุกรุ่นอายุ-2026-10-20",
       "date": "2026-10-20",
@@ -691,24 +670,6 @@
   ],
   "consultations": [],
   "calendarEvents": [
-    {
-      "id": "evt-tr-tr-U-12-2026-11-06",
-      "title": "ฝึกซ้อม U-12: Passing",
-      "eventType": "เซสชันการฝึกซ้อม",
-      "targetAgeGroups": [
-        "U-12"
-      ],
-      "ageGroups": [
-        "U-12"
-      ],
-      "startDate": "2026-11-06",
-      "startTime": "17:30",
-      "endTime": "19:30",
-      "locationPitch": "สนามหญ้าจริง 1",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Passing\nผู้เข้าร่วม: 0/0 คน",
-      "linkedTrainingLogId": "tr-U-12-2026-11-06"
-    },
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-20",
       "title": "ฝึกซ้อม ทุกรุ่นอายุ: Receiving ball - การรับฟุตบอล",

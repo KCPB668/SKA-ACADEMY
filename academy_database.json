@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-08T12:53:55.076Z",
+  "lastUpdated": "2026-11-08T14:11:37.628Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2681,22 +2681,6 @@
     ],
     "registrations": [
       {
-        "id": "reg-1792937578169",
-        "playerId": "p-1792327729656",
-        "playerName": "ณิชพน ปิยัง",
-        "playerNickname": "นท",
-        "jerseyNumber": 7,
-        "ageGroup": "U-14",
-        "daysAttending": [
-          "monday",
-          "tuesday",
-          "wednesday",
-          "thursday"
-        ],
-        "registeredAt": "2026-11-01T16:19:30.180Z",
-        "transportType": "ผู้ปกครองมาส่ง"
-      },
-      {
         "id": "reg-1792937578200",
         "playerId": "p-1792327778237",
         "playerName": "ดรูฟ จูปิเตอร์",
@@ -2712,7 +2696,7 @@
         "transportType": "ผู้ปกครองมาส่ง"
       }
     ],
-    "lastUpdated": "2026-11-01T16:19:30.180Z"
+    "lastUpdated": "2026-11-08T14:11:37.628Z"
   },
   "userAccounts": [
     {

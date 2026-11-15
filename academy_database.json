@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-08T15:18:28.286Z",
+  "lastUpdated": "2026-11-15T12:04:15.969Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2681,24 +2681,6 @@
     ],
     "registrations": [
       {
-        "id": "reg-1794151107567",
-        "playerId": "p-1792327778237",
-        "playerName": "ดรูฟ จูปิเตอร์",
-        "playerNickname": "ดรูฟ",
-        "jerseyNumber": 10,
-        "ageGroup": "U-10",
-        "daysAttending": [
-          "monday",
-          "tuesday",
-          "wednesday",
-          "thursday",
-          "friday"
-        ],
-        "registeredAt": "2026-11-08T15:18:27.567Z",
-        "reasonOrNote": "โค้ชมารับส่งที่สนาม",
-        "transportType": "รถรับส่งสโมสร"
-      },
-      {
         "id": "reg-1794148290058",
         "playerId": "p-1792327729656",
         "playerName": "ณิชพน ปิยัง",
@@ -2714,7 +2696,7 @@
         "transportType": "ผู้ปกครองมาส่ง"
       }
     ],
-    "lastUpdated": "2026-11-08T15:18:27.696Z"
+    "lastUpdated": "2026-11-15T12:04:15.969Z"
   },
   "userAccounts": [
     {
@@ -4267,6 +4249,5 @@
       "lastUpdated": "2026-11-01T14:17:13.247Z",
       "archivedAt": "2026-11-01T16:19:30.180Z"
     }
-  ],
-  "immediateCommit": true
+  ]
 }

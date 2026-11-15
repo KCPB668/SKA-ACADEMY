@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-15T12:07:29.573Z",
+  "lastUpdated": "2026-11-15T12:07:35.190Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2570,7 +2570,7 @@
         "date": "2026-11-17",
         "isTrainingDay": true,
         "trainingTime": "17:30 - 19:00 น.",
-        "pitch": "สนามหญ้าเทียม SKA Training Pitch",
+        "pitch": "สนามฟุตบอล เทศบาลเมืองพนัสนิคม",
         "sessionFocus": "Passing & Combinations Play",
         "ageGroupsAllowed": [
           "U-8",
@@ -2680,7 +2680,7 @@
       }
     ],
     "registrations": [],
-    "lastUpdated": "2026-11-15T12:07:28.059Z"
+    "lastUpdated": "2026-11-15T12:07:33.376Z"
   },
   "userAccounts": [
     {

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-17T09:39:44.180Z",
+  "lastUpdated": "2026-11-17T09:40:02.257Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -234,28 +234,6 @@
         }
       ],
       "coachNotes": ""
-    },
-    {
-      "id": "tr-U-12-2026-11-17",
-      "date": "2026-11-17",
-      "time": "17.30 - 18:30",
-      "ageGroup": "U-12",
-      "theme": "Combination One-Two",
-      "drills": [
-        "Warm-up Agility Speed",
-        "เดาะบอล",
-        "Passing Ball 2 Box 2 Team",
-        "Combination One-two",
-        "Game 2v1"
-      ],
-      "pitch": "สนามหญ้าจริง 1",
-      "weather": "ร่มครึ้ม",
-      "intensity": "Moderate",
-      "headCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "assistantCoaches": [
-        "โค้ชภานุพงศ์ ทิพย์มงคล"
-      ],
-      "playerScores": []
     },
     {
       "id": "tr-ทุกรุ่นอายุ-2026-10-20",
@@ -837,24 +815,6 @@
       "coachInCharge": "Coach KanchaiKcpb",
       "notes": "หัวข้อ: Combination One-Two & Overlab\nผู้เข้าร่วม: 3/3 คน",
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-11-17"
-    },
-    {
-      "id": "evt-tr-tr-U-12-2026-11-17",
-      "title": "ฝึกซ้อม U-12: Combination One-Two",
-      "eventType": "เซสชันการฝึกซ้อม",
-      "targetAgeGroups": [
-        "U-12"
-      ],
-      "ageGroups": [
-        "U-12"
-      ],
-      "startDate": "2026-11-17",
-      "startTime": "17.30",
-      "endTime": "18:30",
-      "locationPitch": "สนามหญ้าจริง 1",
-      "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Combination One-Two\nผู้เข้าร่วม: 0/0 คน",
-      "linkedTrainingLogId": "tr-U-12-2026-11-17"
     },
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-10-20",

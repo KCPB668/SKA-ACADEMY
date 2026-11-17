@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-17T09:34:42.047Z",
+  "lastUpdated": "2026-11-17T09:35:30.811Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -191,7 +191,8 @@
       "ageGroup": "ทุกรุ่นอายุ",
       "theme": "All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)",
       "drills": [
-        "Warm-up Agility Speed (10’)"
+        "Warm-up Agility Speed (10’)",
+        "Passing เทคนิค 2คน คนนึง Passing&Back (10’)"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "เย็นสบาย",

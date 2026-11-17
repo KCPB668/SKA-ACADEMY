@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-17T09:38:07.533Z",
+  "lastUpdated": "2026-11-17T09:38:11.287Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -187,7 +187,7 @@
     {
       "id": "tr-ทุกรุ่นอายุ-2026-11-17",
       "date": "2026-11-17",
-      "time": "17.30 - ",
+      "time": "17.30 - 18.30",
       "ageGroup": "ทุกรุ่นอายุ",
       "theme": "All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)",
       "drills": [
@@ -831,7 +831,7 @@
       ],
       "startDate": "2026-11-17",
       "startTime": "17.30",
-      "endTime": "18:30",
+      "endTime": "18.30",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
       "notes": "หัวข้อ: All-Academy Physical Testing, Technical Circuit & Club Unity (การประเมินสมรรถภาพทางกาย ทักษะรวม และสปิริตสโมสร)\nผู้เข้าร่วม: 3/3 คน",

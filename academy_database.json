@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-17T09:21:15.762Z",
+  "lastUpdated": "2026-11-17T09:23:21.360Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3010,7 +3010,117 @@
       "notes": "",
       "isActive": true,
       "createdAt": "2026-11-17T09:21:13.698Z",
-      "useCustomPermissions": false
+      "useCustomPermissions": true,
+      "customPermissions": {
+        "overview": {
+          "canView": true,
+          "canWrite": false
+        },
+        "academy-structure": {
+          "canView": false,
+          "canWrite": false
+        },
+        "calendar": {
+          "canView": true,
+          "canWrite": false
+        },
+        "todo-notes": {
+          "canView": true,
+          "canWrite": true
+        },
+        "weekly-registration": {
+          "canView": true,
+          "canWrite": true
+        },
+        "daily-training": {
+          "canView": false,
+          "canWrite": false
+        },
+        "wellness-rpe": {
+          "canView": false,
+          "canWrite": false
+        },
+        "character-evaluation": {
+          "canView": false,
+          "canWrite": false
+        },
+        "mood-log": {
+          "canView": false,
+          "canWrite": false
+        },
+        "drill-library": {
+          "canView": false,
+          "canWrite": false
+        },
+        "match-reports": {
+          "canView": true,
+          "canWrite": false
+        },
+        "idp": {
+          "canView": true,
+          "canWrite": false
+        },
+        "player-analysis": {
+          "canView": true,
+          "canWrite": false
+        },
+        "player-progress": {
+          "canView": true,
+          "canWrite": false
+        },
+        "historical-logs": {
+          "canView": false,
+          "canWrite": false
+        },
+        "training-stats": {
+          "canView": false,
+          "canWrite": false
+        },
+        "players": {
+          "canView": true,
+          "canWrite": false
+        },
+        "staff": {
+          "canView": false,
+          "canWrite": false
+        },
+        "injury-tracker": {
+          "canView": true,
+          "canWrite": false
+        },
+        "consultations": {
+          "canView": false,
+          "canWrite": false
+        },
+        "commercial": {
+          "canView": false,
+          "canWrite": false
+        },
+        "monthly-fees": {
+          "canView": false,
+          "canWrite": false
+        },
+        "finances": {
+          "canView": false,
+          "canWrite": false
+        },
+        "sponsors": {
+          "canView": false,
+          "canWrite": false
+        },
+        "equipment": {
+          "canView": false,
+          "canWrite": false
+        },
+        "academy-files": {
+          "canView": false,
+          "canWrite": false
+        },
+        "user-management": {
+          "canView": false,
+          "canWrite": false
+        }
+      }
     }
   ],
   "rolePermissions": {

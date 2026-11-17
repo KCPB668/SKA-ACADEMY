@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-15T12:12:50.007Z",
+  "lastUpdated": "2026-11-17T09:21:15.762Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2994,6 +2994,23 @@
           "canWrite": false
         }
       }
+    },
+    {
+      "id": "user-1794907273698-zkau",
+      "username": "จูล่ง-ลภณ",
+      "password": "จูล่ง.ลภณ.ขอนแก่น",
+      "role": "player",
+      "displayName": "ลภณ (จูล่ง) U-10",
+      "linkedPlayerId": "p-1794120413885",
+      "linkedPlayerIds": [
+        "p-1794120413885"
+      ],
+      "phone": "",
+      "email": "",
+      "notes": "",
+      "isActive": true,
+      "createdAt": "2026-11-17T09:21:13.698Z",
+      "useCustomPermissions": false
     }
   ],
   "rolePermissions": {

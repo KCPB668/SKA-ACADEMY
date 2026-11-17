@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-17T09:28:50.954Z",
+  "lastUpdated": "2026-11-17T09:28:56.000Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -189,7 +189,7 @@
       "date": "2026-11-17",
       "time": "17.30 - 18:30",
       "ageGroup": "U-12",
-      "theme": "Com",
+      "theme": "Combination",
       "drills": [
         "Warm-up Agility Speed",
         "เดาะบอล",
@@ -761,7 +761,7 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-U-12-2026-11-17",
-      "title": "ฝึกซ้อม U-12: Com",
+      "title": "ฝึกซ้อม U-12: Combination",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
         "U-12"
@@ -774,7 +774,7 @@
       "endTime": "18:30",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Com\nผู้เข้าร่วม: 0/0 คน",
+      "notes": "หัวข้อ: Combination\nผู้เข้าร่วม: 0/0 คน",
       "linkedTrainingLogId": "tr-U-12-2026-11-17"
     },
     {

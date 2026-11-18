@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-18T19:08:02.108Z",
+  "lastUpdated": "2026-11-18T19:08:07.151Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4507,17 +4507,5 @@
       "updatedAt": "2026-11-18T18:55:33.763Z"
     }
   ],
-  "coachChecklistItems": [
-    {
-      "id": "chk-item-plan",
-      "categoryId": "chk-cat-plans",
-      "title": "เตรียมไฟล์แผนการซ้อมจากระบบ",
-      "description": "เลือกไฟล์แผนฝึกซ้อมหรือคู่มือจากคลังเอกสารอคาเดมี่เพื่อตรวจสอบก่อนลงสนาม",
-      "emoji": "📄",
-      "itemType": "training_plan_file",
-      "order": 4,
-      "createdAt": "2026-09-01T08:00:00.000Z",
-      "updatedAt": "2026-09-01T08:00:00.000Z"
-    }
-  ]
+  "coachChecklistItems": []
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-18T19:07:46.016Z",
+  "lastUpdated": "2026-11-18T19:07:52.134Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4508,17 +4508,6 @@
     }
   ],
   "coachChecklistItems": [
-    {
-      "id": "chk-item-bibs",
-      "categoryId": "chk-cat-equipment",
-      "title": "เตรียมเสื้อกั๊ก / เสื้อเอี๊ยมแบ่งทีม",
-      "description": "แยกสีเสื้อให้ครบจำนวนนักเตะที่ลงชื่อซ้อมวันนี้",
-      "emoji": "🦺",
-      "itemType": "equipment_bibs",
-      "order": 3,
-      "createdAt": "2026-09-01T08:00:00.000Z",
-      "updatedAt": "2026-09-01T08:00:00.000Z"
-    },
     {
       "id": "chk-item-plan",
       "categoryId": "chk-cat-plans",

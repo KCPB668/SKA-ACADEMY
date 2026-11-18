@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-18T19:18:02.909Z",
+  "lastUpdated": "2026-11-18T19:18:08.003Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -2493,6 +2493,18 @@
       "collectionRate": 0,
       "scholarshipWaiver": 0,
       "lastUpdated": "2026-11-18T19:18:01.359Z"
+    },
+    "2026-02": {
+      "isDeleted": true,
+      "isEdited": false,
+      "totalBilled": 0,
+      "totalCollected": 0,
+      "totalPending": 0,
+      "paidCount": 0,
+      "unpaidCount": 0,
+      "collectionRate": 0,
+      "scholarshipWaiver": 0,
+      "lastUpdated": "2026-11-18T19:18:06.720Z"
     }
   },
   "financialHistoricalOverrides": {

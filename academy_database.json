@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-17T09:40:02.257Z",
+  "lastUpdated": "2026-11-18T18:55:35.888Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4488,6 +4488,23 @@
       ],
       "lastUpdated": "2026-11-01T14:17:13.247Z",
       "archivedAt": "2026-11-01T16:19:30.180Z"
+    }
+  ],
+  "coachChecklists": [
+    {
+      "id": "chk-2026-11-19-user-1790079626121-njth",
+      "date": "2026-11-19",
+      "coachId": "user-1790079626121-njth",
+      "coachName": "โค้ช (ทดสอบ)",
+      "sessionFocus": "Combinations Play",
+      "conesChecked": false,
+      "footballsChecked": false,
+      "bibsChecked": true,
+      "trainingPlanChecked": false,
+      "linkedTrainingPlanFileId": "drv-doc-01",
+      "linkedTrainingPlanFileName": "ระเบียบวินัยและข้อบังคับนักฟุตบอลเยาวชน SKA United (ฉบับสมบูรณ์).pdf",
+      "notes": "",
+      "updatedAt": "2026-11-18T18:55:33.763Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-18T18:55:35.888Z",
+  "lastUpdated": "2026-11-18T19:07:26.620Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4505,6 +4505,41 @@
       "linkedTrainingPlanFileName": "ระเบียบวินัยและข้อบังคับนักฟุตบอลเยาวชน SKA United (ฉบับสมบูรณ์).pdf",
       "notes": "",
       "updatedAt": "2026-11-18T18:55:33.763Z"
+    }
+  ],
+  "coachChecklistItems": [
+    {
+      "id": "chk-item-balls",
+      "categoryId": "chk-cat-equipment",
+      "title": "เตรียมลูกฟุตบอลและตรวจลมยาง",
+      "description": "เช็กความพร้อมลูกบอลให้ตรงตามรุ่นอายุที่ฝึกซ้อม",
+      "emoji": "⚽",
+      "itemType": "equipment_balls",
+      "order": 2,
+      "createdAt": "2026-09-01T08:00:00.000Z",
+      "updatedAt": "2026-09-01T08:00:00.000Z"
+    },
+    {
+      "id": "chk-item-bibs",
+      "categoryId": "chk-cat-equipment",
+      "title": "เตรียมเสื้อกั๊ก / เสื้อเอี๊ยมแบ่งทีม",
+      "description": "แยกสีเสื้อให้ครบจำนวนนักเตะที่ลงชื่อซ้อมวันนี้",
+      "emoji": "🦺",
+      "itemType": "equipment_bibs",
+      "order": 3,
+      "createdAt": "2026-09-01T08:00:00.000Z",
+      "updatedAt": "2026-09-01T08:00:00.000Z"
+    },
+    {
+      "id": "chk-item-plan",
+      "categoryId": "chk-cat-plans",
+      "title": "เตรียมไฟล์แผนการซ้อมจากระบบ",
+      "description": "เลือกไฟล์แผนฝึกซ้อมหรือคู่มือจากคลังเอกสารอคาเดมี่เพื่อตรวจสอบก่อนลงสนาม",
+      "emoji": "📄",
+      "itemType": "training_plan_file",
+      "order": 4,
+      "createdAt": "2026-09-01T08:00:00.000Z",
+      "updatedAt": "2026-09-01T08:00:00.000Z"
     }
   ]
 }

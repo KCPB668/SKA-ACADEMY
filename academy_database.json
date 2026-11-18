@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-18T19:19:35.865Z",
+  "lastUpdated": "2026-11-18T19:19:39.774Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -422,15 +422,6 @@
     }
   ],
   "monthlyFees": [
-    {
-      "id": "fee-1792327729656",
-      "playerId": "p-1792327729656",
-      "monthYear": "2026-09",
-      "month": "2026-09",
-      "amount": 1500,
-      "status": "รอชำระ",
-      "paymentMethod": "-"
-    },
     {
       "id": "fee-1794120413886",
       "playerId": "p-1794120413885",

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T10:09:22.400Z",
+  "lastUpdated": "2026-11-19T10:09:35.571Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -191,7 +191,8 @@
       "ageGroup": "U-12",
       "theme": "First Touch",
       "drills": [
-        "Warm up Agility"
+        "Warm up Agility",
+        "เทคนิค First Touch เท้าไกล , ข้างเท้าด้านนอก , เทิร์น"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "เย็นสบาย",

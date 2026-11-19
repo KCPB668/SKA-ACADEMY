@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T10:13:49.985Z",
+  "lastUpdated": "2026-11-19T10:14:03.708Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -193,7 +193,8 @@
       "drills": [
         "Warmup",
         "Agility Shooting",
-        "เทคนิค First Touch เท้าไกล , ข้างเท้าด้านนอก , เทิร์น"
+        "เทคนิค First Touch เท้าไกล , ข้างเท้าด้านนอก , เทิร์น",
+        "เทคนิค First Touch มาร์คเกอร์หลากสี+กรวย เท้าไกล , ข้างเท้าด้านนอก , เทิร์น"
       ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "เย็นสบาย",
@@ -854,7 +855,7 @@
       "endTime": "19:00",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: First Touch\nผู้เข้าร่วม: 3/3 คน",
+      "notes": "หัวข้อ: First Touch\nผู้เข้าร่วม: 3/3 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-11-19"
     },
     {

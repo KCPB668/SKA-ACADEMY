@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T19:54:45.963Z",
+  "lastUpdated": "2026-11-19T19:54:51.277Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -208,7 +208,7 @@
         {
           "playerId": "p-1792327778237",
           "attendance": "มาซ้อม",
-          "effort": 8,
+          "effort": 10,
           "technical": 8,
           "tactical": 8,
           "discipline": 9,

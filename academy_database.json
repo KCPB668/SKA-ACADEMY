@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T10:08:40.226Z",
+  "lastUpdated": "2026-11-19T10:08:54.239Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -189,7 +189,7 @@
       "date": "2026-11-19",
       "time": "17.45 - 18.45 น.",
       "ageGroup": "U-12",
-      "theme": "Frist Touch",
+      "theme": "Fst Touch",
       "drills": [
         "Warm up Agility"
       ],
@@ -780,7 +780,7 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-U-12-2026-11-19",
-      "title": "ฝึกซ้อม U-12: Frist Touch",
+      "title": "ฝึกซ้อม U-12: Fst Touch",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
         "U-12"
@@ -793,7 +793,7 @@
       "endTime": "18.45 น.",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: Frist Touch\nผู้เข้าร่วม: 0/0 คน",
+      "notes": "หัวข้อ: Fst Touch\nผู้เข้าร่วม: 0/0 คน",
       "linkedTrainingLogId": "tr-U-12-2026-11-19"
     },
     {

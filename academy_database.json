@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T10:07:31.136Z",
+  "lastUpdated": "2026-11-19T10:07:44.511Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -189,7 +189,7 @@
       "date": "2026-11-19",
       "time": "17.45 - 18.45 น.",
       "ageGroup": "U-12",
-      "theme": "1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
+      "theme": "F",
       "drills": [
         "Warm up Agility"
       ],
@@ -780,7 +780,7 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-U-12-2026-11-19",
-      "title": "ฝึกซ้อม U-12: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
+      "title": "ฝึกซ้อม U-12: F",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
         "U-12"
@@ -793,7 +793,7 @@
       "endTime": "18.45 น.",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: 1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)\nผู้เข้าร่วม: 0/0 คน",
+      "notes": "หัวข้อ: F\nผู้เข้าร่วม: 0/0 คน",
       "linkedTrainingLogId": "tr-U-12-2026-11-19"
     },
     {

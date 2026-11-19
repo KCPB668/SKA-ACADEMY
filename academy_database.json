@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T10:15:24.453Z",
+  "lastUpdated": "2026-11-19T10:15:37.149Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -187,7 +187,7 @@
     {
       "id": "tr-ทุกรุ่นอายุ-2026-11-19",
       "date": "2026-11-19",
-      "time": "17.45 - 18.45 น",
+      "time": "17.45 - 18.45 น.",
       "ageGroup": "ทุกรุ่นอายุ",
       "theme": "First Touch",
       "drills": [
@@ -853,7 +853,7 @@
       ],
       "startDate": "2026-11-19",
       "startTime": "17.45",
-      "endTime": "18.45 น",
+      "endTime": "18.45 น.",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
       "notes": "หัวข้อ: First Touch\nผู้เข้าร่วม: 3/3 คน",

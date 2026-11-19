@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T12:15:30.575Z",
+  "lastUpdated": "2026-11-19T12:18:10.237Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4294,6 +4294,34 @@
   "tabSuspensionReasons": {},
   "tabStatusOverrides": {},
   "playerDailyMoodLogs": [
+    {
+      "id": "mood-1795090683458",
+      "playerId": "p-1792327778237",
+      "playerName": "ดรูฟ จูปิเตอร์",
+      "playerNickname": "ดรูฟ",
+      "ageGroup": "U-10",
+      "jerseyNumber": 10,
+      "date": "2026-11-19",
+      "time": "19:15",
+      "trainingTheme": "First Touch",
+      "score": 2,
+      "emoji": "😕",
+      "moodLabel": "ไม่ค่อยดี / เหนื่อยล้า",
+      "notes": "When i first touch the ball with my knee it hurts a hit",
+      "energyLevel": 3,
+      "stressLevel": 1,
+      "sorenessLevel": 2,
+      "sleepQuality": "ปกติ",
+      "tags": [
+        "🦵 ล้ากล้ามเนื้อขา",
+        "🚀 มั่นใจในการเล่น"
+      ],
+      "recordedBy": "coach_assisted",
+      "coachReview": {
+        "isReviewed": false,
+        "flaggedForAttention": true
+      }
+    },
     {
       "id": "mood-1793101408771",
       "playerId": "p-1792327729656",

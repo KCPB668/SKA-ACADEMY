@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T12:13:58.576Z",
+  "lastUpdated": "2026-11-19T12:15:30.575Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4537,7 +4537,20 @@
       "createdAt": "2026-11-19T12:13:52.392Z"
     }
   ],
-  "srpeEntries": [],
+  "srpeEntries": [
+    {
+      "id": "srpe-1795090523941",
+      "playerId": "p-1792327778237",
+      "date": "2026-11-19",
+      "trainingSessionTitle": "ฝึกซ้อมแท็กติก & สมอลไซด์เกมส์",
+      "sessionDurationMinutes": 75,
+      "rpeScore": 7,
+      "trainingLoad": 525,
+      "effortLevelLabel": "หนัก (Very Hard)",
+      "feedbackComments": "วันนี้วิ่งเช็กอินเช็กเอาต์เยอะและวิ่งกับบอลเยอะเลยรู้สึกเหนื่อยระดับเจ็ด",
+      "createdAt": "2026-11-19T12:15:23.941Z"
+    }
+  ],
   "weeklyScheduleHistory": [
     {
       "id": "week-2026-10-26",

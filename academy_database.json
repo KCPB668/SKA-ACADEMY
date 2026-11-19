@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T19:54:51.277Z",
+  "lastUpdated": "2026-11-19T19:54:55.934Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -211,7 +211,7 @@
           "effort": 10,
           "technical": 8,
           "tactical": 8,
-          "discipline": 9,
+          "discipline": 10,
           "coachNotes": "ตั้งใจฝึกซ้อมตามแผน"
         },
         {
@@ -856,7 +856,7 @@
       "endTime": "18.45 น.",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: First Touch\nผู้เข้าร่วม: 1/3 คน",
+      "notes": "หัวข้อ: First Touch\nผู้เข้าร่วม: 1/3 คน\nผู้ช่วยโค้ช: โค้ชกฤษณะ ธนะโสภณ",
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-11-19"
     },
     {

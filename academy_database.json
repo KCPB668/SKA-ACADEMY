@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-19T10:07:17.770Z",
+  "lastUpdated": "2026-11-19T10:07:31.136Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -190,7 +190,9 @@
       "time": "17.45 - 18.45 น.",
       "ageGroup": "U-12",
       "theme": "1v1 Attacking & Defending with Quick Finishing under pressure (การดวล 1v1 ทั้งรุกและรับ พร้อมการจบสกอร์เร็ว)",
-      "drills": [],
+      "drills": [
+        "Warm up Agility"
+      ],
       "pitch": "สนามหญ้าจริง 1",
       "weather": "เย็นสบาย",
       "intensity": "High",

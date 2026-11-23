@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-23T10:58:59.085Z",
+  "lastUpdated": "2026-11-23T11:00:29.159Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4647,6 +4647,25 @@
   "parentBehaviorCheckins": [],
   "characterMilestones": [],
   "wellnessEntries": [
+    {
+      "id": "well-1795431626217",
+      "playerId": "p-1794120413885",
+      "date": "2026-11-23",
+      "time": "18:00",
+      "sleepHours": 9,
+      "sleepQuality": 5,
+      "fatigueScore": 4,
+      "sorenessScore": 3,
+      "stressScore": 4,
+      "hydrationColorLevel": 2,
+      "sorenessLocations": [
+        "none"
+      ],
+      "readinessScore": 80,
+      "readinessStatus": "optimal",
+      "playerNotes": "ซ้นเท้า",
+      "createdAt": "2026-11-23T11:00:26.217Z"
+    },
     {
       "id": "well-1795431536320",
       "playerId": "p-1792327778237",

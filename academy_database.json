@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-23T09:34:04.497Z",
+  "lastUpdated": "2026-11-23T09:34:08.756Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -189,7 +189,7 @@
       "date": "2026-11-23",
       "time": "17.45 - 19.00 น.",
       "ageGroup": "ทุกรุ่นอายุ",
-      "theme": "First Touch",
+      "theme": "First Touch -",
       "drills": [
         "Academy Mass Dynamic Warm-up & Agility Ladder (20 นาที)",
         "Station Circuit: 1. SAQ Circuit / 2. Juggling & First Touch / 3. Passing Gate (45 นาที)",
@@ -882,7 +882,7 @@
   "calendarEvents": [
     {
       "id": "evt-tr-tr-ทุกรุ่นอายุ-2026-11-23",
-      "title": "ฝึกซ้อม ทุกรุ่นอายุ: First Touch",
+      "title": "ฝึกซ้อม ทุกรุ่นอายุ: First Touch -",
       "eventType": "เซสชันการฝึกซ้อม",
       "targetAgeGroups": [
         "U-8",
@@ -905,7 +905,7 @@
       "endTime": "19.00 น.",
       "locationPitch": "สนามหญ้าจริง 1",
       "coachInCharge": "โค้ชชัยวัฒน์ นาคพงษ์",
-      "notes": "หัวข้อ: First Touch\nผู้เข้าร่วม: 3/3 คน",
+      "notes": "หัวข้อ: First Touch -\nผู้เข้าร่วม: 3/3 คน",
       "linkedTrainingLogId": "tr-ทุกรุ่นอายุ-2026-11-23"
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-23T09:38:55.255Z",
+  "lastUpdated": "2026-11-23T10:56:07.441Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -3080,10 +3080,11 @@
         "ageGroup": "U-10",
         "daysAttending": [
           "monday",
-          "friday",
-          "thursday"
+          "tuesday",
+          "thursday",
+          "friday"
         ],
-        "registeredAt": "2026-11-22T14:36:33.737Z",
+        "registeredAt": "2026-11-23T10:56:06.829Z",
         "reasonOrNote": "สัปดาห์นี้ซื้อม 3 วัน",
         "transportType": "ผู้ปกครองมาส่ง"
       },
@@ -3120,7 +3121,7 @@
         "transportType": "รถรับส่งสโมสร"
       }
     ],
-    "lastUpdated": "2026-11-22T14:36:36.200Z"
+    "lastUpdated": "2026-11-23T10:56:07.441Z"
   },
   "userAccounts": [
     {

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-23T12:26:39.542Z",
+  "lastUpdated": "2026-11-23T12:26:52.879Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -4724,6 +4724,17 @@
     }
   ],
   "srpeEntries": [
+    {
+      "id": "srpe-1795436811791",
+      "playerId": "p-1792327729656",
+      "date": "2026-11-23",
+      "trainingSessionTitle": "First Touch",
+      "sessionDurationMinutes": 90,
+      "rpeScore": 2,
+      "trainingLoad": 180,
+      "effortLevelLabel": "เบามาก (Light)",
+      "createdAt": "2026-11-23T12:26:51.791Z"
+    },
     {
       "id": "srpe-1795436797415",
       "playerId": "p-1794120413885",

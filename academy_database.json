@@ -1,8 +1,26 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-26T08:12:30.027Z",
+  "lastUpdated": "2026-11-26T09:58:31.262Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
+    {
+      "name": "นิ๊ก",
+      "nickname": "นิ๊ก",
+      "ageGroup": "U-12",
+      "position": "GK (ผู้รักษาประตู)",
+      "jerseyNumber": 1,
+      "preferredFoot": "Right (ขวา)",
+      "birthDate": "2014-05-10",
+      "height": 145,
+      "weight": 38,
+      "school": "รร.เทศบาล 1",
+      "parentName": "",
+      "parentPhone": "",
+      "parentLineId": "",
+      "status": "Active",
+      "joinedDate": "2026-11-26",
+      "id": "p-1795687110515"
+    },
     {
       "name": "ดรูฟ จูปิเตอร์",
       "nickname": "ดรูฟ",
@@ -179,6 +197,46 @@
       ],
       "longTermAmbition": "มุ่งมั่นพัฒนาทักษะสู่ระดับอาชีพ",
       "lastAssessedDate": "2026-11-08",
+      "evaluatorCoach": "โค้ชชัยวัฒน์",
+      "coachSummaryNotes": "นักเตะใหม่ สมรรถภาพร่างกายและทัศนคติดีมาก"
+    },
+    "p-1795687110515": {
+      "playerId": "p-1795687110515",
+      "technical": {
+        "firstTouch": 7.5,
+        "passing": 7.5,
+        "dribbling": 7,
+        "finishing": 7,
+        "tackling1v1": 7
+      },
+      "tactical": {
+        "gameIQ": 7.5,
+        "positioning": 7.5,
+        "transitionSpeed": 7.5,
+        "decisionMaking": 7
+      },
+      "physical": {
+        "speed": 7.5,
+        "agility": 7.5,
+        "stamina": 7.5,
+        "strength": 7
+      },
+      "psychological": {
+        "workRate": 8,
+        "leadership": 7.5,
+        "coachability": 8.5,
+        "resilience": 8
+      },
+      "shortTermGoals": [
+        {
+          "id": "g-1795687110518",
+          "title": "ปรับตัวเข้ากับระบบการเล่นของรุ่นอายุ",
+          "status": "In Progress",
+          "targetDate": "2026-10-31"
+        }
+      ],
+      "longTermAmbition": "มุ่งมั่นพัฒนาทักษะสู่ระดับอาชีพ",
+      "lastAssessedDate": "2026-11-26",
       "evaluatorCoach": "โค้ชชัยวัฒน์",
       "coachSummaryNotes": "นักเตะใหม่ สมรรถภาพร่างกายและทัศนคติดีมาก"
     }
@@ -604,7 +662,17 @@
       ]
     }
   ],
-  "monthlyFees": [],
+  "monthlyFees": [
+    {
+      "id": "fee-1795687110518",
+      "playerId": "p-1795687110515",
+      "monthYear": "2026-09",
+      "month": "2026-09",
+      "amount": 1500,
+      "status": "รอชำระ",
+      "paymentMethod": "-"
+    }
+  ],
   "transactions": [
     {
       "id": "tx-01",

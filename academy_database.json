@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-27T12:35:16.135Z",
+  "lastUpdated": "2026-11-27T12:36:33.814Z",
   "clubName": "SKA PHANAT NIKHOM UNITED FC. (ACADEMY)",
   "players": [
     {
@@ -5147,6 +5147,18 @@
     }
   ],
   "srpeEntries": [
+    {
+      "id": "srpe-1795782989614",
+      "playerId": "p-1795687110515",
+      "date": "2026-11-27",
+      "trainingSessionTitle": "Passing",
+      "sessionDurationMinutes": 90,
+      "rpeScore": 6,
+      "trainingLoad": 540,
+      "effortLevelLabel": "ค่อนข้างหนัก (Hard / Challenging)",
+      "feedbackComments": "วิ่งหาช่องเยอะ",
+      "createdAt": "2026-11-27T12:36:29.614Z"
+    },
     {
       "id": "srpe-1795782910457",
       "playerId": "p-1795776281427",
